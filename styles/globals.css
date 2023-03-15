@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Roboto:wght@400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    
+}
+body{
+    background-color: #eeeeee;
+}
+P{
+    text-align: justify;
+}
+
+.MuiInputBase-input, .MuiInputBase-root  {
+    background-color: white;
+  }
+
+  .MuiInputBase-input:hover, .MuiInputBase-root:hover{
+    background-color: white;
+  }
+  
+  
+  
