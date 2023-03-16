@@ -57,7 +57,7 @@ export default function OurServices() {
           }}
         >
           {/* card 1 */}
-          <Grid xs={12} sm={5.5} md={3.8} item>
+          <Grid xs={12} sm={5.5} md={5.8} item>
             <Card elevation={3} sx={{ height: "100%", bgcolor: "transparent", color:'body.main' }}>
               <CardContent>
                 <CardMedia
@@ -83,7 +83,7 @@ export default function OurServices() {
           </Grid>
 
           {/* card 2 */}
-          <Grid xs={12} sm={5.5} md={3.8} item>
+          <Grid xs={12} sm={5.5} md={5.8} item>
             <Card elevation={3} sx={{ height: "100%", bgcolor: "transparent", color:'body.main' }}>
               <CardContent style={{ textAlign: "left" }}>
                 <CardMedia
@@ -109,32 +109,7 @@ export default function OurServices() {
             </Card>
           </Grid>
 
-          {/* card 3 */}
-          <Grid xs={12} sm={5.5} md={3.8} item>
-            <Card elevation={3} sx={{ height: "100%", bgcolor: "transparent", color:'body.main' }}>
-              <CardContent style={{ textAlign: "left" }}>
-                <CardMedia
-                  component="img"
-                  alt="green iguana"
-                  height="200"
-                  width="200"
-                  image="/assets/our-services3.jpg"
-                />
-                <Typography
-                  color="primary.main"
-                  component="div"
-                  variant="h5"
-                  gutterBottom
-                  mt={2}
-                >
-                  Cash For Bins Sydney
-                </Typography>
-                <Typography variant="body1" component="p" textAlign={"justify"}>
-                  {CashForBinsSydney}
-                </Typography>
-              </CardContent>
-            </Card>
-          </Grid>
+          
         </Grid>
       </Container>
     </Box>
