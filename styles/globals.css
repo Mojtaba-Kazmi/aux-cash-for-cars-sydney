@@ -13,13 +13,14 @@ P{
     text-align: justify;
 }
 
-.MuiInputBase-input, .MuiInputBase-root  {
+.MuiInputBase-input, .MuiFilledInput-input, .MuiInputBase-inputMultiline, .css-7209ej-MuiInputBase-input-MuiFilledInput-input  {
+    background-color: white;
+  }
+  .MuiInputBase-input:hover, .MuiFilledInput-input:hover, .MuiInputBase-inputMultiline:hover, .css-7209ej-MuiInputBase-input-MuiFilledInput-input:hover  {
     background-color: white;
   }
 
-  .MuiInputBase-input:hover, .MuiInputBase-root:hover{
-    background-color: white;
-  }
+
   
   
   
