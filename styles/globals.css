@@ -14,7 +14,7 @@ P{
 }
 
 .MuiInputBase-input, .MuiInputBase-root  {
-    background-color: white;
+    background-color: red;
   }
 
   .MuiInputBase-input:hover, .MuiInputBase-root:hover{
