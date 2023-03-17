@@ -4,7 +4,6 @@ import { mobile } from "./Responsive";
 import ContactForm from "./ContactForm";
 import ContactUsCard from "./ContactUsCard";
 
-import PhonNumber from "./PhonNumber";
 
 const Root = styled('div')`
   background-image: url("./assets/context-background.jpg");

@@ -86,25 +86,7 @@ export const Line = styled("div")`
   })}
 `;
 
-export const FaqStyle = styled("span")`
-  h5 {
-    color: #01b636;
-    padding-bottom: 12px;
-  }
-  p {
-    color: #888;
-    padding-bottom: 10px;
-  }
-  a {
-    color: #01b636;
-    text-decoration: none;
-  }
-`;
-
 export const BigCardStyle = styled("div")`width: 100%;
-h1, h2, h3, h4, h5, h6{
-  color: #01b636;    
-}
   h1{
     font-size: 24px;
     margin-bottom: 10px;
@@ -117,41 +99,23 @@ h1, h2, h3, h4, h5, h6{
     font-size: 18px;
     margin-bottom: 10px;
   }
-  ol, ul{
-    padding: 10px 20px 0 40px ;
-    color:  #888888;
-  }
-  li{
-    margin-bottom: 10px;
-  }
-  p{
-    color: #888888;
-    margin-bottom: 10px;
-  }
-  a{
-    text-decoration: none;
-    color: #01b636;
-  }
   b {
     font-weight: 600;
     color: #01b636;
   }
 }`;
 
-export const MiniCardStyle = styled("div")`width: 100%;
+export const MiniCardStyle = styled("div")`
+width: 100%;
 h1{
     font-size: 18px;
-    color: #01b636;
     letter-spacing: 0.5px;
 }
 p{
     color: #888888;
     margin-top: 18px;
 }
-a{
-    text-decoration: none;
-    color: #01b636;
-}
+
 }`;
 
 export const Description = styled('div')

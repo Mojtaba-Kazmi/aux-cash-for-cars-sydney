@@ -37,15 +37,7 @@ export default function OurServices() {
       }}
     >
       <Container>
-        <Typography
-          variant="h3"
-          component={"h2"}
-          color="primary.main"
-          fontWeight={"600"}
-          textAlign="center"
-        >
-          OUR SERVICES
-        </Typography>
+        <h2>OUR SERVICES</h2>
         <Grid
           container
           sx={{

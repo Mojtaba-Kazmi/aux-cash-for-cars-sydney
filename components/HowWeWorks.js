@@ -39,14 +39,7 @@ export default function HowItWorks() {
   return (
     <Container>
       <AllContainer fixed>
-        <Typography
-          variant="h3"
-          component={"h2"}
-          color="primary.main"
-          fontWeight={"600"}
-        >
-          HOW WE WORK?
-        </Typography>
+        <h2>HOW WE WORK?</h2>
         <Box sx={{ maxWidth: 400 }}>
           <Stepper activeStep={activeStep} orientation="vertical">
             {steps.map((step, index) => (

@@ -27,9 +27,7 @@ export default function AboutCompany() {
   }}
   >
     <Container>
-      <Typography variant="h3" component={"h2"} color="primary.main" fontWeight={"600"}>
-        About Us
-      </Typography>
+      <h2>About Us</h2>
       <Grid container>
         {/* right start */}
         <Grid textAlign="justify" item xs={12} sm={12} md={6}>
