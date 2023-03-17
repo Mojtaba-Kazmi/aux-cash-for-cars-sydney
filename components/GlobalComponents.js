@@ -36,7 +36,7 @@ const SocialShareBtn = () => {
       <Center>
         <Stack direction="row" spacing={3}>
           <FacebookShareButton
-            url={useRouter().pathname}
+            url={'https://auxcashforcarsydney.com/'+useRouter().pathname}
             hashtag={"#cashForCar"}
           >
             <Icon>
@@ -45,7 +45,7 @@ const SocialShareBtn = () => {
           </FacebookShareButton>
 
           <PinterestShareButton
-            url={useRouter().pathname}
+            url={'https://auxcashforcarsydney.com/'+useRouter().pathname}
             hashtag={"#cashForCar"}
           >
             <Icon>
@@ -54,7 +54,7 @@ const SocialShareBtn = () => {
           </PinterestShareButton>
 
           <TwitterShareButton
-            url={useRouter().pathname}
+            url={'https://auxcashforcarsydney.com/'+useRouter().pathname}
             hashtag={"#cashForCar"}
           >
             <Icon>
@@ -63,7 +63,7 @@ const SocialShareBtn = () => {
           </TwitterShareButton>
 
           <WhatsappShareButton
-            url={useRouter().pathname}
+            url={'https://auxcashforcarsydney.com/'+useRouter().pathname}
             hashtag={"#cashForCar"}
           >
             <Icon>
