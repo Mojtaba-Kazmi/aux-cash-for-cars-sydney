@@ -58,7 +58,7 @@ export default function OurServices() {
                   component="img"
                   alt="green iguana"
                   height={{md:'530px', sm:'300px'}}
-                  image="/assets/servises.svg"
+                  image="/assets/servises.png"
                 />
           </Grid>
         </Grid>
