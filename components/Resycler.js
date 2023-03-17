@@ -6,15 +6,12 @@ import { ResyclerContnet1, ResyclerContnet2 } from '@/pages/api/home-content';
 const Resycler = () => {
   return (
     <Box
-    sx={{
-            backgroundColor: "secondary.main",
-            color: "body.main",
-            width: "100%",
-            height: "auto",
-            mt: "50px",
-            py: "10px",
-            pb: '60px',    
-    }}
+      bgcolor={"secondary.main"}
+      sx={{
+        width: "100%",
+        height: "auto",
+        py: "50px",
+      }}
     >
     <Container>
       <Grid container spacing={{ xs: 1, sm: 2, md: 3 }}>
