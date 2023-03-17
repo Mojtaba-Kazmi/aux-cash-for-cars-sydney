@@ -81,7 +81,7 @@ const Footer = () => {
     <Container>
         <Stack pt={3} pb={3}>
           <Typography variant="body2" color="text.secondary">
-            Last updated on January 30th, 2023 at 09:56 pm
+            Last updated on Mar 17th, 2023 at 09:56 AM
           </Typography>
         </Stack>
       </Container>
