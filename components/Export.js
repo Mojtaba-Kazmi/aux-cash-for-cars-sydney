@@ -28,7 +28,7 @@ function Export() {
       <Container>
         <Grid container spacing={2} sx={{ justifyContent: "space-between", alignItems: "center" }}>
             {/* left */}
-            <Grid md={5.5} sm={5.5} xs={12} color="primery" px="10px" item>
+            <Grid md={5.5} sm={5.5} xs={12} color="primery" px="10px" order={{xs:"2", sm: "1", md: '1'}}  item>
             <CardMedia
               component="img"
               alt="green iguana"
@@ -37,7 +37,7 @@ function Export() {
             />
           </Grid>
           {/* right */}
-          <Grid md={6} sm={6} xs={12} px="10px" item>
+          <Grid md={6} sm={6} xs={12} px="10px" order={{xs:"1", sm: "2", md: '2'}} item>
             <Typography
               variant="h4"
               component="h2"
