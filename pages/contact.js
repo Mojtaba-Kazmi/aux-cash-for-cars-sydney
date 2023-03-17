@@ -9,7 +9,6 @@ import {
 } from "@mui/material";
 import { Section1Contact, Section2Contact } from "./api/contact-content";
 import PhonNumber from "@/components/PhonNumber";
-// import { contactPic } from '@/public/assets/contact.png';
 import Head from "next/head";
 
 const Contact = () => {

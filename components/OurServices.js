@@ -13,7 +13,6 @@ import {
   CashForCarsSydney,
 } from "@/pages/api/home-content";
 import { useRouter } from "next/router";
-import { mobile } from "./Responsive";
 
 const Item = styled(Paper)(({ theme }) => ({
   backgroundColor: theme.palette.mode === "dark" ? "#1A2027" : "#fff",

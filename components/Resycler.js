@@ -1,8 +1,6 @@
 import React from 'react'
 import { CardMedia, Typography, Stack, Grid, Container, Box } from "@mui/material";
 import { ResyclerContnet1, ResyclerContnet2 } from '@/pages/api/home-content';
-import styled from "styled-components";
-import { mobile } from "./Responsive";
 
 
 const Resycler = () => {

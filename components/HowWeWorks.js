@@ -10,7 +10,6 @@ import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 import { styled } from "@mui/system";
 import Link from "next/link";
-import { mobile } from "./Responsive";
 import { steps } from "@/pages/api/home-content";
 
 const AllContainer = styled(Container)`

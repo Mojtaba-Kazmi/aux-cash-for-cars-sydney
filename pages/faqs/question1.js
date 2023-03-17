@@ -2,7 +2,6 @@ import { Grid, Card, CardContent, Typography, Container } from "@mui/material";
 import Link from "next/link";
 import SocialShareBtn, { BigCardStyle } from "@/components/GlobalComponents";
 import { NextLinkBtn } from "@/components/GlobalComponents";
-import { FaqStyle } from "@/components/GlobalComponents";
 import { Line } from "@/components/GlobalComponents";
 import ContactUsCard from "@/components/ContactUsCard";
 import ContactForm from "@/components/ContactForm";
