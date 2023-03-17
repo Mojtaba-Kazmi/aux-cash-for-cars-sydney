@@ -36,10 +36,9 @@ export const AboutUsContent0 = (
 );
 export const AboutUsContent1 = (
   <>
-      We specialize inrecycling and reprocessing 
+      We specialize in recycling and reprocessing 
       of cars that generally include old,
-      scrap or unwanted cars, general scrap metal, white goods,
-      demolition waste, with use of the advanced equipment and new,
+      scrap and unwanted cars, with the use of the advanced equipment and new,
       inventive and innovative methods that benefits the environment
       and eventually provide opportunities and contributes to the
       Australian economy, and make a connection between Australian
@@ -54,7 +53,7 @@ export const AboutUsContent2 = (
       work out the best time and payment we can offer. Our goal at AUX
       Cash for Car Sydney is to offer our clients stress-free, good
       and friendly car removal service in Sydney and the surrounding.
-      AUX Cash for Car Sydney give
+      AUX Cash for Car Sydney gives
       you up to $9999 for your old, junk, damaged or unwanted car on
       the same receiving moment, anywhere in the Sydney.
   </>
@@ -129,19 +128,7 @@ export const OurMission = (
 
 export const CashForCarsSydney = (
   <>
-    {`We offer collection and transport of various recycling products including old and scrap vehicles, scrap material of civil, construction, and demolition. All types of vehicles are eligible for our cash for cars services. We provide free pickup services in all across of Sydney, Sydney West, East, Northern Beaches, Wollongong, Inner West, Great Western Sydney, North Shore, Macarthur, and the Hills. our services are fast, save, and 24 hours. Make yourself unconcerned with (AUX Cash for Car Sydney) and earn a good amount of money for your car.`}
-  </>
-)
-
-export const CashforScrapMetalSydney = (
-  <>
-    {`Millions of tons of scrap metal is sitting unused in garages and basements across the country, when it could be earning you some extra cash. As part of our various recycling products services, collecting and recycling of metal is also considered. We offer all kinds of metals, metals related to the old, scrap or unwanted appliances of home, construction, demolition, civil and other related metals such as refrigerators, washing mashies, TVs and other related items.`}
-  </>
-)
-
-export const CashForBinsSydney = (
-  <>
-    {`With (AUX Cash for Car Sydney) you can even change your waste to cash. We have provided free pickup and replacement of the bins within 48 hours. Considered payment will be pay once the bin received in the area where they get weighed, inspected and graded. We have a lot of bins in different size that meet the needs of our clients.`}
+    {`We offer collection and transport of various vehicles including old and scrap cars, buses, lorries, tracks, 4x4s, and ... All types of vehicles are eligible for our cash for cars services. We provide free pickup services in all across of Sydney, Sydney West, East, Northern Beaches, Wollongong, Inner West, Great Western Sydney, North Shore, Macarthur, and the Hills. our services are fast, save, and 24 hours. Make yourself unconcerned with (AUX Cash for Car Sydney) and earn a good amount of money for your car.`}
   </>
 )
 
@@ -167,19 +154,19 @@ export const ContentExport2 = (
 export const ResyclerContnet1 = (
   <>
     {`(AUX Cash for Car Sydney) is one of the biggest and most active car removals in Sydney, Queensland that gives you the good, save, and satisfying service and offers you the highest prices and cash for your unwanted cars that can go up to $9999.
-We collect and recycle all types of scrap metals and car including scrap cars, buses, tracks, 4x4s, So, if you have a car or any other kind of metal, (AUX Cash for Car Sydney) will come and collect your unwanted vehicle for free_ and will offer you cash for your unwanted vehicle`}
+We collect and recycle all types of vehicles including old and scrap cars, buses, lorries, tracks, 4x4s, and ..., if you have any types of above, (AUX Cash for Car Sydney) will come and collect your unwanted vehicle for free_ and will offer you cash for your unwanted vehicle`}
   </>
 )
 
 export const ResyclerContnet2 = (
   <>
-    {`We offer collection and transport of various recycling products including old and scrap vehicles, scrap material of civil, construction, and demolition. All types of vehicles are eligible for our cash for cars services. We provide free pickup services in all across of Sydney, Sydney West, East, Northern Beaches, Wollongong, Inner West, Great Western Sydney, North Shore, Macarthur, and the Hills. our services are fast, save, and 24 hours. Make yourself unconcerned with (AUX Cash for Car Sydney) and earn a good amount of money for your car.`}
+    {`We offer collection and transport of various recycling vehicles. All types of vehicles are eligible for our cash for cars services. We provide free pickup services in all across of Sydney, Sydney West, East, Northern Beaches, Wollongong, Inner West, Great Western Sydney, North Shore, Macarthur, and the Hills. our services are fast, save, and 24 hours. Make yourself unconcerned with (AUX Cash for Car Sydney) and earn a good amount of money for your car.`}
   </>
 )
 
 // Footer
 export const FooterSection1 = (
   <>
-    {`AUX Cash for Car buys all kinds of cars for cash and pay best price as compare to other wreckers and dealers. We also buy scrap metal all around Sydney.`}
+    {`AUX Cash for Car buys all kinds of cars for cash and pay best price as compare to other wreckers and dealers.`}
   </>
 );
