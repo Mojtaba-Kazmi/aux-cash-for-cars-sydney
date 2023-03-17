@@ -43,34 +43,24 @@ export default function OurServices() {
             p: "0",
             gap: "25px",
             justifyContent: "space-between",
+            alignItems: "center"
           }}
         >
-          {/* card 1 */}
-          <Grid xs={12} sm={12} md={12} item>
-            <Card elevation={3} sx={{ height: "100%", bgcolor: "transparent", color:'body.main' }}>
-              <CardContent>
-                <CardMedia
-                  component="img"
-                  alt="green iguana"
-                  height="400"
-                  image="/assets/our-services1.jpg"
-                />
-                <Typography
-                  color="primary.main"
-                  component="div"
-                  variant="h5"
-                  gutterBottom
-                  mt={2}
-                >
-                  Cash For Sydney
-                </Typography>
+
+          <Grid xs={12} sm={5.5} md={5.5} item>
                 <Typography variant="body1" component="p" textAlign={"justify"}>
                   {CashForCarsSydney}
                 </Typography>
-              </CardContent>
-            </Card>
           </Grid>
-
+         
+          <Grid xs={12} sm={5.5} md={5.5} item>
+          <CardMedia
+                  component="img"
+                  alt="green iguana"
+                  height={{md:'530px', sm:'300px'}}
+                  image="/assets/servises.svg"
+                />
+          </Grid>
         </Grid>
       </Container>
     </Box>
