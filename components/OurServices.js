@@ -11,8 +11,6 @@ import {
 import { styled } from "@mui/system";
 import {
   CashForCarsSydney,
-  CashforScrapMetalSydney,
-  CashForBinsSydney,
 } from "@/pages/api/home-content";
 import { useRouter } from "next/router";
 import { mobile } from "./Responsive";
