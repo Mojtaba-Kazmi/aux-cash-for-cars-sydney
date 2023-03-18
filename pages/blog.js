@@ -154,11 +154,11 @@ function blog() {
         <Box width={'100%'} overflow ={'Hidden'}>
             <Typography variant='h4' component={"h1"} sx ={{mt: "10px", color: "primary.main"}} >Blogs</Typography>
             {/* blog right */}
-                <Grid container sx={{gap: "40px", mt: "10px"}}>
+                <Grid container sx={{rowGap: "40px", mt: "10px", justifyContent: 'space-between'}}>
 
                     {/* post1 in page */}
                     
-                    <Grid md={3.7} sm={12} xs={12} item display={ps1 === 0 ? "none": 'flex'}>
+                    <Grid md={3.7} sm={5.5} xs={12} item display={ps1 === 0 ? "none": 'flex'}>
                         <Postanimation>
                             <Card height ={"100%"}>
                                 <CardMedia
@@ -188,7 +188,7 @@ function blog() {
                    
 
                     {/* post2 in page */}
-                    <Grid md={3.7} sm={12} xs={12} item display={ps2 === 0 ? "none": 'flex'}>
+                    <Grid md={3.7} sm={5.5} xs={12} item display={ps2 === 0 ? "none": 'flex'}>
                         <Postanimation>
                             <Card>
                                 <CardMedia
@@ -217,7 +217,7 @@ function blog() {
                     </Grid>
 
                     {/* post3 in page */}
-                    <Grid md={3.7} sm={12} xs={12} item display={ps3 === 0 ? "none": 'flex'}>
+                    <Grid md={3.7} sm={5.5} xs={12} item display={ps3 === 0 ? "none": 'flex'}>
                         <Postanimation>
                             <Card>
                                 <CardMedia
@@ -245,7 +245,7 @@ function blog() {
                     </Grid>
 
                     {/* post4 in page */}
-                    <Grid md={3.7} sm={12} xs={12} item display={ps4 === 0 ? "none": 'flex'}>
+                    <Grid md={3.7} sm={5.5} xs={12} item display={ps4 === 0 ? "none": 'flex'}>
                         <Postanimation>
                             <Card>
                                 <CardMedia
@@ -273,7 +273,7 @@ function blog() {
                     </Grid>
 
                     {/* post5 in page */}
-                    <Grid md={3.7} sm={12} xs={12} item display={ps5 === 0 ? "none": 'flex'}>
+                    <Grid md={3.7} sm={5.5} xs={12} item display={ps5 === 0 ? "none": 'flex'}>
                         <Postanimation>
                             <Card>
                                 <CardMedia
@@ -301,7 +301,7 @@ function blog() {
                     </Grid>
 
                     {/* post6 in page */}
-                    <Grid md={3.7} sm={12} xs={12} item display={ps6 === 0 ? "none": 'flex'}>
+                    <Grid md={3.7} sm={5.5} xs={12} item display={ps6 === 0 ? "none": 'flex'}>
                         <Postanimation>
                             <Card>
                                 <CardMedia

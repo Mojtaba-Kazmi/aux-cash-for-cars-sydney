@@ -18,6 +18,7 @@ import { styled } from '@mui/system';
 import { FooterSection1 } from "@/pages/api/home-content";
 import { mobile } from "./Responsive";
 import SocialShareBtn from "./GlobalComponents";
+import Link from "next/link";
 
 const Icon = styled('svg')`
   color: #01b636;
@@ -26,50 +27,30 @@ const Icon = styled('svg')`
   height: 60px;
 `;
 
-const Center = styled('div')`
-${mobile({
-  paddingLeft: "60px",
-})}
-`;
-
 const navItems = [
+  {
+    label: "HOME",
+    url: "/",
+  },
   {
     label: "About Us",
     url: "/about",
-    index: 1,
   },
   {
-    label: "Our Services",
+    label: "Services",
     url: "/services",
-    index: 2,
   },
   {
     label: "Our Blog",
     url: "/blog",
-    index: 3,
   },
   {
     label: "FAQs",
-    url: "/faq",
-    index: 4,
-  },
-];
-
-const bussiness = [
-  {
-    label: "Cash For Cars Sydney",
-    url: "/services",
-    index: 0,
+    url: "/faqs",
   },
   {
-    label: "Cash for Scrap Metal",
-    url: "/servicess",
-    index: 1,
-  },
-  {
-    label: "Cash For Bins Sydney",
-    url: "/services",
-    index: 2,
+    label: "CONTACT",
+    url: "/contact",
   },
 ];
 
@@ -102,66 +83,85 @@ const Footer = () => {
         <Container>
           <Grid
             container
-            rowSpacing={{ xs: 1, sm: 2, md: 2 }}
-            columnSpacing={{ xs: 1, sm: 1, md: 9 }}
+            sx={{justifyContent:'space-between',rowGap: '50px', py: "10px"}}
           >
           {/* div what we buy starts */}
-            <Grid item xs={12} sm={6} md={3}>
-              <Typography variant="h6" color="primary.main" gutterBottom>
+            <Grid item xs={12} sm={5.8} md={3.8}>
+            <Typography variant="h5" color="primary" textAlign={{md:"left", sm: "left",xs:"center"}}>
                 <b>What we buy?</b>
               </Typography>
-              <Center>
-                <Typography width="200px" variant="body2">
+                <Typography width="100%" variant="body2" textAlign={'justify'}>
                   {FooterSection1}
                 </Typography>
-              </Center>
             </Grid>
           {/* div what we buy ends */}
 
           {/* div share us on starts */}
-              <Grid item xs={12} sm={6} md={3}>
-              <Typography variant="h5" color="primary">
+              <Grid item xs={12} sm={5.8} md={3.8}
+                borderTop={{md:0,sm:0,xs:1}}
+                borderBottom={{md:0,sm:0,xs:1}}
+                borderColor={'body.main'}
+                py={{md:'0', sm:'0', xs:'10px'}}
+              >
+              <Typography 
+              variant="h5" 
+              color="primary" 
+              textAlign={{md:"left", sm: "left",xs:"center"}} 
+              sx={{mx:'auto'}}
+              width={{md:'232px',sm:'232px',xs:'300px'}}
+              >
                 <b>Share on</b>
               </Typography>
-            <SocialShareBtn />
+              <Box 
+              sx={{mx:'auto'}}
+              width={{md:'232px',sm:'232px',xs:'300px'}}
+              >
+                <SocialShareBtn />
+              </Box>
               </Grid>
           {/* div share us on ends */}
 
-          {/* div bussiness starts */}
-            <Grid item xs={12} sm={6} md={3}>
-              <Center>
-                <Stack direction="column" spacing={1} width="250px">
-                  <Typography variant="h5" color="primary" textAlign="center">
-                    <b>Explore now</b>
-                  </Typography>
-                  {navItems.map((item) => (
-                    <Button
-                      variant="outlined"
-                      color="body"
-                      key={item.index}
-                      to={item.url}
+          {/* div Explore now starts */}
+            <Grid item xs={12} sm={12} md={3.8}>
+              <Grid container
+              borderTop={{md:0,sm:1,xs:0}}
+              borderColor={'body.main'}
+              py={{md:'0', sm:'10', xs:'0'}}
+              >
+
+                  <Grid item md={12} sm={12} xs={12}>
+                    <Typography variant="h5" color="primary" textAlign={{md:"left", sm: "left",xs:"center"}}>
+                        <b>Explore now</b>
+                    </Typography>
+                  </Grid>
+
+                  <Grid item md={12} sm={12} xs={12}>
+                    <Grid container
+                    sx={{justifyContent: "space-between", rowGap: '10px'}}
                     >
-                      {item.label}
-                    </Button>
-                  ))}
-                </Stack>
-              </Center>
+                        {navItems.map((item) => (
+                        <Grid item md={3.8} sm={3.8} xs={3.8}>
+                          <Button
+                            variant="outlined"
+                            color="body"
+                            sx={{width: '100%'}} 
+                          >
+                            <Link
+                            href={item.url}
+                            >
+                              {item.label}
+                            </Link>
+                          </Button>
+                        </Grid>
+                        ))}
+                      
+                    </Grid>
+                  </Grid>
+                    
+                </Grid>
+                
             </Grid>
 
-          {/* div services starts */}
-            <Grid item xs={12} sm={6} md={3}>
-              <Stack direction="column" spacing={1}>
-                <Typography variant="h5" color="primary" textAlign="center">
-                  <b>Other Bussiness</b>
-                </Typography>
-                {bussiness.map((item) => (
-                  <Button color="body" key={item.index} to={item.url}>
-                    {item.label}
-                  </Button>
-                ))}
-              </Stack>
-            </Grid>
-          {/* div services ends */}
           </Grid>
         </Container>
       </Box>
@@ -169,16 +169,22 @@ const Footer = () => {
 
     {/* section 3 footer starts */}
       <Container>
-        <Box textAlign="center" height={{xs:'56vh', sm:'17vh', md:'27vh'}}>
-          <Grid container columnSpacing={{ xs: 1, sm: 2, md: 35 }}>
+      <Grid
+            container
+            sx={{justifyContent:'space-between',rowGap: '50px', py: "10px"}}
+          >
 
           {/* div follow us on starts */}
-            <Grid mt={6} item xs={12} sm={4} md={4}>
-              <Typography variant="h5" color="primary">
+            <Grid item xs={12} sm={3.8} md={3.8}>
+            <Typography variant="h5" color="primary" textAlign={{md:"left", sm: "left",xs:"center"}}>
                 <b>Follow us on</b>
               </Typography>
-              <Center>
-                <Stack direction="row" spacing={3} sm={{ pl: "7" }}>
+              <Box 
+              mx={{md:'0', sm:"0",xs:'auto'}}
+              width={{md:'232px',sm:'232px',xs:'300px'}}
+              sx={{display: 'flex', justifyContent: "space-between"}}
+              px={{md:'0',sm:'0',xs:'30px'}}
+              >
                   <Icon>
                     <FacebookRoundedIcon />
                   </Icon>
@@ -191,39 +197,77 @@ const Footer = () => {
                   <Icon>
                     <YouTubeIcon />
                   </Icon>
-                </Stack>
-              </Center>
+                </Box>
+              
             </Grid>
           {/* div follow us on ends */}
 
           {/* div location starts */}
-            <Grid mt={6} item xs={12} sm={4} md={4}>
-              <Typography variant="h5" color="primary">
+            <Grid item xs={12} sm={3.8} md={3.8}
+            borderTop={{md:0,sm:0,xs:1}}
+            borderBottom={{md:0,sm:0,xs:1}}
+            borderColor={'body.main'}
+            py={{md:'0', sm:'0', xs:'10px'}}
+            >
+              <Typography 
+              variant="h5" 
+              color="primary" 
+              textAlign={{md:"left", sm: "left",xs:"center"}} 
+              sx={{mx:'auto'}}
+              width={{md:'232px',sm:'150px',xs:'300px'}}
+              >
                 <b>Our Location</b>
               </Typography>
+              <Typography 
+              variant="h5" 
+              color="primary" 
+              textAlign={{md:"left", sm: "left",xs:"center"}} 
+              sx={{mx:'auto'}}
+              width={{md:'232px',sm:'150px',xs:'300px'}}
+              >
               <Chip
                 icon={<LocationOnIcon />}
                 label="Sydney Australia"
                 variant="outlined"
                 color="primary"
               />
+              </Typography>
             </Grid>
           {/* div location ends */}
 
           {/* logo starts */}
-            <Grid item xs={12} sm={4} md={4} sx={{display:'flex', alignItems: "center", justifyContent: "center"}}>
-              <Box>
-                  <CardMedia
-                    component="img"
-                    image="/assets/aux-cash-for-cars-sydney.svg"
-                    width={'100px'}
-                    height={'175px'}
-                  />
-                </Box>
+            <Grid item xs={12} sm={3.8} md={3.8} >
+              <Grid container 
+              sx={{alignItems: "center", 
+              justifyContent: "space-between"
+            }}
+           
+              >
+                <Grid item md={4} sm={4}sx={4}>
+                    <Box height={'100px'} width={'100px'}>
+                      <CardMedia
+                        component="img"
+                        image="/assets/aux-cash-for-cars-sydney.svg"
+                        height={'100'}
+                        
+                      />
+                  </Box>
+                </Grid>
+                <Grid item md={7.9} sm={6.5}sx={7.8}>
+                    <Typography 
+                    variant="p" 
+                    color={"primary.main"}
+                   width={'100%'}
+                   display={'block'}
+                   sx={{borderRight: 2,borderLeft: 2,borderColor: "primary.main", px:"2px", textAlign:"center" }}
+                    >
+                    AUX Cash For Car Sydney
+                    </Typography>
+                </Grid>
+              </Grid>
             </Grid>
           {/* logo ends */}
           </Grid>
-        </Box>
       </Container>
     {/* section 3 footer ends */}
 

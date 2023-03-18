@@ -32,7 +32,7 @@ function value() {
       <Container>
         <Grid container spacing={2} sx={{ justifyContent: "space-between" }}>
           {/* left */}
-          <Grid md={6} sm={6} xs={12} item>
+          <Grid md={6} sm={6} xs={12} order={{xs:"2", sm: "1", md: '1'}} item>
             <Card elevation={0} sx={{px: "5px", backgroundColor:'transparent'}}>
               <CardMedia
                 component="img"
@@ -101,7 +101,7 @@ function value() {
           </Grid>
 
           {/* Right */}
-          <Grid md={5.5} sm={5.5} xs={12} color="primery" px='10px' item>
+          <Grid md={5.5} sm={5.5} xs={12} color="primery" px='10px' order={{xs:"1", sm: "2", md: '2'}} item>
             <Typography variant="h5" component="h2" color={"primary"} fontWeight = {"600"}>
               OUR VALUES
             </Typography>
