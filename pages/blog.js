@@ -154,7 +154,7 @@ function blog() {
         <Box width={'100%'} overflow ={'Hidden'}>
             <Typography variant='h4' component={"h1"} sx ={{mt: "10px", color: "primary.main"}} >Blogs</Typography>
             {/* blog right */}
-                <Grid container sx={{gap: "40px", mt: "10px"}}>
+                <Grid container sx={{rowGap: "40px", mt: "10px", justifyContent: 'space-between'}}>
 
                     {/* post1 in page */}
                     
