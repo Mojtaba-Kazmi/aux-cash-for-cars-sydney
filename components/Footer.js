@@ -46,7 +46,7 @@ const navItems = [
   },
   {
     label: "FAQs",
-    url: "/faq",
+    url: "/faqs",
   },
   {
     label: "CONTACT",
@@ -97,7 +97,12 @@ const Footer = () => {
           {/* div what we buy ends */}
 
           {/* div share us on starts */}
-              <Grid item xs={12} sm={3.8} md={3.8}>
+              <Grid item xs={12} sm={3.8} md={3.8}
+                borderTop={{md:0,sm:0,xs:1}}
+                borderBottom={{md:0,sm:0,xs:1}}
+                borderColor={'body.main'}
+                py={{md:'0', sm:'0', xs:'10px'}}
+              >
               <Typography 
               variant="h5" 
               color="primary" 
@@ -119,18 +124,19 @@ const Footer = () => {
           {/* div Explore now starts */}
             <Grid item xs={12} sm={3.8} md={3.8}>
               <Grid container>
+
                   <Grid item md={12} sm={12} xs={12}>
                     <Typography variant="h5" color="primary" textAlign={{md:"left", sm: "left",xs:"center"}}>
                         <b>Explore now</b>
                     </Typography>
                   </Grid>
+
                   <Grid item md={12} sm={12} xs={12}>
                     <Grid container
                     sx={{justifyContent: "space-between", rowGap: '10px'}}
                     >
-                      
                         {navItems.map((item) => (
-                          <Grid item md={3.8} sm={5.8} xs={3.8}>
+                        <Grid item md={3.8} sm={5.8} xs={3.8}>
                           <Button
                             variant="outlined"
                             color="body"
@@ -142,7 +148,7 @@ const Footer = () => {
                               {item.label}
                             </Link>
                           </Button>
-                          </Grid>
+                        </Grid>
                         ))}
                       
                     </Grid>
@@ -193,7 +199,12 @@ const Footer = () => {
           {/* div follow us on ends */}
 
           {/* div location starts */}
-            <Grid item xs={12} sm={3.8} md={3.8}>
+            <Grid item xs={12} sm={3.8} md={3.8}
+            borderTop={{md:0,sm:0,xs:1}}
+            borderBottom={{md:0,sm:0,xs:1}}
+            borderColor={'body.main'}
+            py={{md:'0', sm:'0', xs:'10px'}}
+            >
               <Typography 
               variant="h5" 
               color="primary" 
@@ -226,7 +237,7 @@ const Footer = () => {
               sx={{alignItems: "center", 
               justifyContent: "space-between"
             }}
-            px={{md:'0', sm:'0', xs: "30px"}}
+            px={{md:'0', sm:'0', xs: "20px"}}
               >
                 <Grid item md={4} sm={4}sx={4}>
                     <Box height={'100px'} width={'100px'}>
@@ -238,7 +249,7 @@ const Footer = () => {
                       />
                   </Box>
                 </Grid>
-                <Grid item md={7.9} sm={6.5}sx={7.9}>
+                <Grid item md={7.9} sm={6.5}sx={7.8}>
                     <Typography 
                     variant="p" 
                     color={"primary.main"}
