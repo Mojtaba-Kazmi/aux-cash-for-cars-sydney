@@ -237,7 +237,7 @@ const Footer = () => {
               sx={{alignItems: "center", 
               justifyContent: "space-between"
             }}
-            px={{md:'0', sm:'0', xs: "20px"}}
+           
               >
                 <Grid item md={4} sm={4}sx={4}>
                     <Box height={'100px'} width={'100px'}>
