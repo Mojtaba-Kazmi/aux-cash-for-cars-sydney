@@ -86,7 +86,7 @@ const Footer = () => {
             sx={{justifyContent:'space-between',rowGap: '50px', py: "10px"}}
           >
           {/* div what we buy starts */}
-            <Grid item xs={12} sm={3.8} md={3.8}>
+            <Grid item xs={12} sm={5.8} md={3.8}>
             <Typography variant="h5" color="primary" textAlign={{md:"left", sm: "left",xs:"center"}}>
                 <b>What we buy?</b>
               </Typography>
@@ -97,7 +97,7 @@ const Footer = () => {
           {/* div what we buy ends */}
 
           {/* div share us on starts */}
-              <Grid item xs={12} sm={3.8} md={3.8}
+              <Grid item xs={12} sm={5.8} md={3.8}
                 borderTop={{md:0,sm:0,xs:1}}
                 borderBottom={{md:0,sm:0,xs:1}}
                 borderColor={'body.main'}
@@ -122,8 +122,12 @@ const Footer = () => {
           {/* div share us on ends */}
 
           {/* div Explore now starts */}
-            <Grid item xs={12} sm={3.8} md={3.8}>
-              <Grid container>
+            <Grid item xs={12} sm={12} md={3.8}>
+              <Grid container
+              borderTop={{md:0,sm:1,xs:0}}
+              borderColor={'body.main'}
+              py={{md:'0', sm:'10', xs:'0'}}
+              >
 
                   <Grid item md={12} sm={12} xs={12}>
                     <Typography variant="h5" color="primary" textAlign={{md:"left", sm: "left",xs:"center"}}>
@@ -136,7 +140,7 @@ const Footer = () => {
                     sx={{justifyContent: "space-between", rowGap: '10px'}}
                     >
                         {navItems.map((item) => (
-                        <Grid item md={3.8} sm={5.8} xs={3.8}>
+                        <Grid item md={3.8} sm={3.8} xs={3.8}>
                           <Button
                             variant="outlined"
                             color="body"
@@ -210,7 +214,7 @@ const Footer = () => {
               color="primary" 
               textAlign={{md:"left", sm: "left",xs:"center"}} 
               sx={{mx:'auto'}}
-              width={{md:'232px',sm:'232px',xs:'300px'}}
+              width={{md:'232px',sm:'150px',xs:'300px'}}
               >
                 <b>Our Location</b>
               </Typography>
@@ -219,7 +223,7 @@ const Footer = () => {
               color="primary" 
               textAlign={{md:"left", sm: "left",xs:"center"}} 
               sx={{mx:'auto'}}
-              width={{md:'232px',sm:'232px',xs:'300px'}}
+              width={{md:'232px',sm:'150px',xs:'300px'}}
               >
               <Chip
                 icon={<LocationOnIcon />}
