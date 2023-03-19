@@ -1,4 +1,4 @@
-import { createTheme, ThemeProvider, Box } from '@mui/material'
+import { Box } from '@mui/material'
 import Head from 'next/head'
 import ImageSlider from '@/components/ImageSlider'
 import images from './api/images'
@@ -17,13 +17,14 @@ export default function Home() {
       <Head>
         <title>Aux Cash For Cars Sydney & Car Removals</title>
         <meta name="description" content="Sell your car now for cash or a bank cheque. Aux Cash For Car & Aux Car Removals Pays The Highest Cash For Cars In Sydney, we Pay the top amount  for your old, unwanted, scrap, or unroadworthy cars" />
-        <meta name="keywords" content="cash for cars sydney, Car Removal Sydney,sell my old car,"></meta>
-        <link rel="icon" href="/favicon.ico"/>
-        <link rel='canonical' href={'/'} />
-        
-        <meta name="robotes" content="index, follow"/>
-        <meta name="og:type" content="article"/>
-        <meta name="og:description" content="description"/>
+        <meta name="keywords" content="cash for cars sydney, Car Removal Sydney, sell my old car"></meta>
+        <link rel="icon" href="/favicon.ico" />
+        <link rel="canonical" href="https://auxcashforcarsydney.com/" />
+        <meta name="robots" content="index, follow" />
+        <meta property="og:url" content="https://auxcashforcarsydney.com/" />
+        <meta property="og:title" content="Aux Cash For Cars Sydney & Car Removals" />
+        <meta property="og:description" content="Sell your car now for cash or a bank cheque. Aux Cash For Car & Aux Car Removals Pays The Highest Cash For Cars In Sydney, we Pay the top amount  for your old, unwanted, scrap, or unroadworthy cars" />
+        <meta property="og:image" content="https://auxcashforcarsydney.com/assets/postImage/damaged-car.jpg" />
       </Head>
       
       <main >
