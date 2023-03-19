@@ -186,6 +186,10 @@ function blog({ title, description, image, url, keyword, width, height }) {
         <meta property="og:image" content={image} />
         <meta property="og:image:width" content={width} />
         <meta property="og:image:height" content={height} />
+        <meta name="twitter:card" content='summary' />
+        <meta name="twitter:title" content={title} />
+        <meta name="twitter:description" content={description} />
+        <meta name="twitter:image" content={image} />
       </Head>
       <Container>
         <Box width={"100%"} overflow={"Hidden"}>
