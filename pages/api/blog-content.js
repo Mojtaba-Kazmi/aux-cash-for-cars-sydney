@@ -326,7 +326,7 @@ export const post = [
           then either recycling them or selling them for parts. This is a great
           option if you want to get rid of your car quickly and without hassle.
           Read on to learn more about{" "}
-          <Link href={"/howItWorks"}>how junk car removal works</Link> and{" "}
+          <Link href={"/"}>how junk car removal works</Link> and{" "}
           <Link href={"/blog/post4"}>
             how to find the best companies near you
           </Link>
