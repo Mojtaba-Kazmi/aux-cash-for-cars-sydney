@@ -25,6 +25,7 @@ export default function App({ Component, pageProps }) {
         <meta property="og:image" content={pageProps.image} />
         <meta property="og:image:width" content={pageProps.width} />
         <meta property="og:image:height" content={pageProps.height} />
+        <meta property='fb:app_id' content="1171785366859399"/>
       </Head>
       <ThemeProvider theme={theme}>
         <Layout>
