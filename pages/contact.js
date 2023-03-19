@@ -11,38 +11,40 @@ import { Section1Contact, Section2Contact } from "./api/contact-content";
 import PhonNumber from "@/components/PhonNumber";
 import Head from "next/head";
 
-const Contact = () => {
+export async function getServerSideProps() {
+  return {
+    props: {
+      title:
+        "Contact Us - Aux Cash For Cars Sydney",
+      description:
+        "Fill out the form  and one of our Car Removal specialists will give you a call. Alternatively you may call us free on 0469798540",
+      image: "https://auxcashforcarsydney.com/assets/contact.png",
+      url: "https://auxcashforcarsydney.com/contact",
+      keyword:
+        "cash for cars sydney, Car Removal Sydney,sell my old car, contact",
+      width: 1200,
+      height: 630,
+    },
+  };
+}
+
+const Contact = ({ title, description, image, url, keyword, width, height }) => {
   return (
     <>
       <Head>
-        <title>Contact Us - Aux Cash For Cars</title>
-        <meta
-          name="description"
-          content={`Fill out the form  and one of our Car Removal specialists will give you a call. Alternatively you may call us free on ${(
-            <a href="tel:0469798540" title="Click here to make a call">
-              0469798540
-            </a>
-          )}`}
-        />
-        <meta
-          name="keywords"
-          content="cash for cars sydney, Car Removal Sydney,sell my old car, contact"
-        ></meta>
-
+        <title>{title}</title>
+        <meta name="description" content={description} />
+        <meta name="keywords" content={keyword} />
         <link rel="icon" href="/favicon.ico" />
-        <link rel="canonical" href={"/about"} />
-
+        <link rel="canonical" href={url} />
         <meta name="robots" content="index, follow" />
-        {/* <meta property='og:image' content={contactPic} /> */}
-        <meta property="og:title" content="Contact Us - Aux Cash For Cars" />
-        <meta
-          property="og:description"
-          content={`Fill out the form  and one of our Car Removal specialists will give you a call. Alternatively you may call us free on ${(
-            <a href="tel:0469798540" title="Click here to make a call">
-              0469798540
-            </a>
-          )}`}
-        />
+        <meta property="og:url" content={url} />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
+        <meta property="og:image" content={image} />
+        <meta property="og:image:width" content={width} />
+        <meta property="og:image:height" content={height} />
       </Head>
       <Box
         sx={{
