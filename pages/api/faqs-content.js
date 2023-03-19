@@ -120,7 +120,7 @@ export const FAQs = [
         <p>
           <Link href={"/"}>Our company</Link> will take care of all the
           paperwork if you decide to sell your car without a title. We will also
-          have to walk through the <Link href={"/HowWeWorks"}>process</Link> of
+          have to walk through the process of
           transferring ownership properly. You will therefore receive a lower
           final offer than if someone else tried to sell the vehicle with a
           title.

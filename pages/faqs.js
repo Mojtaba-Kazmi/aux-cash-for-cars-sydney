@@ -74,7 +74,7 @@ const Faqs = ({ title, description, url, keyword }) => {
                       <Link href={"/faqs/question1"}>{FAQs[0].head}</Link>
                         <Description>{FAQs[0].p}</Description>
                         <Typography variant="body" component={"p"}>
-                          <Link href={"/faqs/question5"}>Read More</Link>
+                          <Link href={"/faqs/question1"}>Read More</Link>
                         </Typography>
                       </MiniCardStyle>
                     </CardContent>
@@ -90,7 +90,7 @@ const Faqs = ({ title, description, url, keyword }) => {
                       <Link href={"/faqs/question2"}>{FAQs[1].head}</Link>
                         <Description>{FAQs[1].p}</Description>
                         <Typography variant="body1" component={"p"}>
-                          <Link href={"/faqs/question5"}>Read More</Link>
+                          <Link href={"/faqs/question2"}>Read More</Link>
                         </Typography>
                       </MiniCardStyle>
                     </CardContent>
@@ -106,7 +106,7 @@ const Faqs = ({ title, description, url, keyword }) => {
                       <Link href={"/faqs/question3"}>{FAQs[2].head}</Link>
                         <Description>{FAQs[2].p}</Description>
                         <Typography variant="body1" component={"p"}>
-                          <Link href={"/faqs/question5"}>Read More</Link>
+                          <Link href={"/faqs/question3"}>Read More</Link>
                         </Typography>
                       </MiniCardStyle>
                     </CardContent>
@@ -122,7 +122,7 @@ const Faqs = ({ title, description, url, keyword }) => {
                       <Link href={"/faqs/question4"}>{FAQs[3].head}</Link>
                         <Description>{FAQs[3].p}</Description>
                         <Typography variant="body1" component={"p"}>
-                          <Link href={"/faqs/question5"}>Read More</Link>
+                          <Link href={"/faqs/question4"}>Read More</Link>
                         </Typography>
                       </MiniCardStyle>
                     </CardContent>
