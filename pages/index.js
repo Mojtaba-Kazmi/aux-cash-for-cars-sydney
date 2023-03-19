@@ -24,7 +24,7 @@ export default function Home() {
         <meta property="og:url" content="https://auxcashforcarsydney.com/" />
         <meta property="og:title" content="Aux Cash For Cars Sydney & Car Removals" />
         <meta property="og:description" content="Sell your car now for cash or a bank cheque. Aux Cash For Car & Aux Car Removals Pays The Highest Cash For Cars In Sydney, we Pay the top amount  for your old, unwanted, scrap, or unroadworthy cars" />
-        <meta property="og:image" content="https://auxcashforcarsydney.com/assets/postImage/damaged-car.jpg" />
+        <meta property="og:image" content="https://auxcashforcarsydney.com/assets/nissan.jpg" />
       </Head>
       
       <main >

@@ -18,36 +18,36 @@ import {
 import Head from "next/head";
 import ContactUsCard from "@/components/ContactUsCard";
 
-const Faqs = () => {
-  // Shorten a string to less than maxLen characters
-  function shorten(str, maxLen) {
-    if (str === "") return ""; // check if str is an empty
-    let separator = " ";
-    let len = str.length;
-    if (len > maxLen) {
-      let pos = str.lastIndexOf(separator, maxLen);
-      return str.substr(0, pos);
-    } else {
-      return str;
-    }
-  }
+export async function getServerSideProps() {
+  return {
+    props: {
+      title: "FAQs - Aux Cash For Cars Sydney",
+      description:
+        "Sell your car now for cash or a bank check. Aux Cash For Car & Aux Car Removals Pays The Highest Cash For Cars In Sydney, we Pay the top amount  for your old, unwanted, scrap, or unroadworthy cars",
+      url: "https://auxcashforcarsydney.com/faqs",
+      keyword:
+        "cash for cars sydney, Car Removal Sydney,sell my old car, why a cash for car, brands, fast pick-up, price of damaged cars, car title",
+      width: 1200,
+      height: 630,
+    },
+  };
+}
+
+const Faqs = ({ title, description, url, keyword }) => {
 
   return (
     <>
       <Head>
-        <title>FAQs - Aux Cash For Cars</title>
-        <meta
-          name="description"
-          content="Sell your car now for cash or a bank cheque. Aux Cash For Car & Aux Car Removals Pays The Highest Cash For Cars In Sydney, we Pay the top amount  for your old, unwanted, scrap, or unroadworthy cars"
-        />
-        <meta
-          name="keywords"
-          content="cash for cars sydney, Car Removal Sydney,sell my old car, why a cash for car, brands, fast pick-up, price of damaged cars, car title"
-        ></meta>
+        <title>{title}</title>
+        <meta name="description" content={description} />
+        <meta name="keywords" content={keyword} />
         <link rel="icon" href="/favicon.ico" />
-        <link rel="canonical" href={"/faq"} />
-
+        <link rel="canonical" href={url} />
         <meta name="robots" content="index, follow" />
+        <meta property="og:url" content={url} />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
       </Head>
 
       <Container>
