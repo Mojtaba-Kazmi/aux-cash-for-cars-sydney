@@ -9,28 +9,33 @@ import Head from "next/head";
 import { BigCardStyle } from "@/components/GlobalComponents";
 import ContactUsCard from "@/components/ContactUsCard";
 
-const question4 = () => {
+export async function getServerSideProps() {
+  return {
+    props: {
+      title: "FAQs - How much I should expect for my car?",
+      description:
+        "Our team utilizes the most advanced technologies to calculate a fair offer representing how much your vehicle is. Therefore, we cannot say exactly how much you'll get there unless we hear more details about your vehicle's type and condition.",
+      url: "https://auxcashforcarsydney.com/faqs/question4",
+      keyword:
+        "cash for cars sydney, Car Removal Sydney, sell my old car, price, fair offer",
+    },
+  };
+}
+
+const question4 = ({ title, description, url, keyword }) => {
   return (
     <>
       <Head>
-        <title>How much I should expect for my car?</title>
-        <meta
-          name="description"
-          content="Our team utilizes the most advanced technologies to calculate a fair offer 
-                representing how much your vehicle is. Therefore, we cannot say exactly how
-                 much you'll get there unless we hear more details about your vehicle's 
-                 type and condition."
-        />
-        <meta
-          name="keywords"
-          content="cash for cars sydney, Car Removal Sydney,sell my old car, price, fair offer"
-        ></meta>
+        <title>{title}</title>
+        <meta name="description" content={description} />
+        <meta name="keywords" content={keyword} />
         <link rel="icon" href="/favicon.ico" />
-        <link rel="canonical" href={"/faq/question4"} />
-
+        <link rel="canonical" href={url} />
         <meta name="robots" content="index, follow" />
-        <meta name="og:type" content="article" />
-        <meta name="og:description" content="description" />
+        <meta property="og:url" content={url} />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
       </Head>
       <Container>
         <Grid container spacing={2} mt={6} mb={8}>

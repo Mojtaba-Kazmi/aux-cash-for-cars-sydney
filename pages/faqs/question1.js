@@ -8,22 +8,33 @@ import ContactForm from "@/components/ContactForm";
 import { FAQs } from "../api/faqs-content";
 import Head from "next/head";
 
-const question1 = () => {
-  const description =
-    "Trusted Seller, Providing cash payments, No worries about your vehicle’s condition, sell your car to a trusted car buyer today! ";
+export async function getServerSideProps() {
+  return {
+    props: {
+      title: "FAQs - Why should I choose AUX Cash for Car?",
+      description:
+        "Trusted Seller, Providing cash payments, No worries about your vehicle’s condition, sell your car to a trusted car buyer today!",
+      url: "https://auxcashforcarsydney.com/faqs/question1",
+      keyword:
+        "cash for cars sydney, Car Removal Sydney,sell my old car, cash payment, vehicle’s condition, sell today",
+    },
+  };
+}
+
+const question1 = ({ title, description, image, url, keyword }) => {
   return (
     <>
       <Head>
-        <title>Why should I choose AUX Cash for Car?</title>
+        <title>{title}</title>
         <meta name="description" content={description} />
-        <meta
-          name="keywords"
-          content="cash for cars sydney, Car Removal Sydney,sell my old car, cash payment, vehicle’s condition, sell today"
-        />
+        <meta name="keywords" content={keyword} />
         <link rel="icon" href="/favicon.ico" />
-        <link rel="canonical" href={"/faq/question1"} />
-
+        <link rel="canonical" href={url} />
         <meta name="robots" content="index, follow" />
+        <meta property="og:url" content={url} />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
       </Head>
       <Container>
         <Grid container spacing={2} mt={6} mb={8}>

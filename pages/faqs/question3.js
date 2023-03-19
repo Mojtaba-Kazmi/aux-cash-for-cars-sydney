@@ -9,25 +9,33 @@ import { FAQs } from "../api/faqs-content";
 import Head from "next/head";
 import { BigCardStyle } from "@/components/GlobalComponents";
 
-const question3 = () => {
+export async function getServerSideProps() {
+  return {
+    props: {
+      title: "FAQs - How fast do AUX Cash for Car pick-up my car?",
+      description:
+        "We are one of the fastest car removal companies in Sydney. Typically, it'll take us between one and three days to pick up your car.",
+      url: "https://auxcashforcarsydney.com/faqs/question3",
+      keyword:
+        "cash for cars sydney, Car Removal Sydney, sell my old car, fast, pick-up car",
+    },
+  };
+}
+
+const question3 = ({ title, description, url, keyword }) => {
   return (
     <>
       <Head>
-        <title>How fast do AUX Cash for Car pick-up my car?</title>
-        <meta
-          name="description"
-          content="We are one of the fastest car removal companies in Sydney. Typically, it'll take us between one and three days to pick up your car."
-        />
-        <meta
-          name="keywords"
-          content="cash for cars sydney, Car Removal Sydney,sell my old car, fast, pick-up"
-        ></meta>
+        <title>{title}</title>
+        <meta name="description" content={description} />
+        <meta name="keywords" content={keyword} />
         <link rel="icon" href="/favicon.ico" />
-        <link rel="canonical" href={"/faq/question3"} />
-
+        <link rel="canonical" href={url} />
         <meta name="robots" content="index, follow" />
-        <meta name="og:type" content="article" />
-        <meta name="og:description" content="description" />
+        <meta property="og:url" content={url} />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
       </Head>
       <Container>
         <Grid container spacing={2} mt={6} mb={8}>

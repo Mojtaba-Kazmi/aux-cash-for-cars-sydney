@@ -9,25 +9,33 @@ import { FAQs } from "../api/faqs-content";
 import Head from "next/head";
 import { BigCardStyle } from "@/components/GlobalComponents";
 
-const question2 = () => {
+export async function getServerSideProps() {
+  return {
+    props: {
+      title: "FAQs - What kind of cars does AUX Cash for Car buy?",
+      description:
+        "AUX Cash for Car will purchase damaged vehicles of any type, including vehicles with physical, electrical or mechanical damage as well as vehicles with high mileage.",
+      url: "https://auxcashforcarsydney.com/faqs/question2",
+      keyword:
+        "cash for cars sydney, Car Removal Sydney, sell my old car, damaged vehicles",
+    },
+  };
+}
+
+const question2 = ({ title, description, image, url, keyword }) => {
   return (
     <>
       <Head>
-        <title>What kind of cars does AUX Cash for Car buy?</title>
-        <meta
-          name="description"
-          content="AUX Cash for Car will purchase damaged vehicles of any type, including vehicles with physical, electrical or mechanical damage as well as vehicles with high mileage."
-        />
-        <meta
-          name="keywords"
-          content="cash for cars sydney, Car Removal Sydney,sell my old car, damaged vehicles"
-        />
+        <title>{title}</title>
+        <meta name="description" content={description} />
+        <meta name="keywords" content={keyword} />
         <link rel="icon" href="/favicon.ico" />
-        <link rel="canonical" href={"/faq/question2"} />
-
+        <link rel="canonical" href={url} />
         <meta name="robots" content="index, follow" />
-        <meta name="og:type" content="article" />
-        <meta name="og:description" content="description" />
+        <meta property="og:url" content={url} />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
       </Head>
       <Container>
         <Grid container spacing={2} mt={6} mb={8}>

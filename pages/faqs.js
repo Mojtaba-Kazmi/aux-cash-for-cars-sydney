@@ -27,8 +27,6 @@ export async function getServerSideProps() {
       url: "https://auxcashforcarsydney.com/faqs",
       keyword:
         "cash for cars sydney, Car Removal Sydney,sell my old car, why a cash for car, brands, fast pick-up, price of damaged cars, car title",
-      width: 1200,
-      height: 630,
     },
   };
 }
