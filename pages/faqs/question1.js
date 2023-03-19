@@ -21,7 +21,7 @@ export async function getServerSideProps() {
   };
 }
 
-const question1 = ({ title, description, image, url, keyword }) => {
+const question1 = ({ title, description, url, keyword }) => {
   return (
     <>
       <Head>
@@ -38,7 +38,6 @@ const question1 = ({ title, description, image, url, keyword }) => {
         <meta name="twitter:card" content='summary' />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
-        <meta name="twitter:image" content={image} />
       </Head>
       <Container>
         <Grid container spacing={2} mt={6} mb={8}>
