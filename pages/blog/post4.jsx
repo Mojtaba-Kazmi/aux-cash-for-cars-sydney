@@ -25,7 +25,7 @@ export async function getServerSideProps() {
       title:
         "Where to Sell My Car for Cash Near Me: Tips for Finding a Reliable Buyer",
       description:
-        "First, find a buyer who is actually interested in your car. Next, get your car in tip-top shape before you sell it. Usually, there's always a chance that a buyer will try to lowball you on the price",
+        "First, find a buyer who is actually interested in your car. Next, get your car in tip-top shape before you sell it. There's a chance that a buyer will lowball you on the price",
       image: "https://auxcashforcarsydney.com/assets/postImage/junkers.jpg",
       url: "https://auxcashforcarsydney.com/blog/post4",
       keyword:

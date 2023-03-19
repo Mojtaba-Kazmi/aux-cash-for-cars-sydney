@@ -72,12 +72,12 @@ const Contact = ({ title, description, image, url, keyword, width, height }) => 
           >
             <Grid item xs={12} sm={6} md={6}>
               <Typography
-                variant="h"
-                component="h2"
+                variant="h4"
+                component="h1"
                 color="primary.main"
                 px="10px"
               >
-                Contact Us
+                CONTCAT US
               </Typography>
               <CardContent>
                 <Typography
