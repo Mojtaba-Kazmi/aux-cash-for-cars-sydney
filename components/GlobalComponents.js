@@ -110,6 +110,7 @@ width: 100%;
 h1{
     font-size: 18px;
     letter-spacing: 0.5px;
+    text-align: left;
 }
 p{
     color: #888888;

@@ -14,7 +14,6 @@ import {
   CardContent,
   Button,
   Box,
-  Hidden,
 } from "@mui/material";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
 import ArrowBackIosIcon from "@mui/icons-material/ArrowBackIos";
