@@ -7,7 +7,7 @@ import PhonNumber from './PhonNumber';
 function ContactUsCard() {
   return (
     <Grid
-    sx={{rowGap: "10px", textAlign:'center'}}
+    sx={{textAlign:'center'}}
     container
     bgcolor='white.main'
     p={3}
@@ -21,7 +21,7 @@ function ContactUsCard() {
             Contact Us
         </Typography>
     </Grid>
-    <Grid item md={12} xs={12} sm={12}>
+    <Grid item md={12} xs={12} sm={12} mb={'10px'}>
         <Box
         width={'250px'}
         height={'50px'}
