@@ -11,9 +11,6 @@ import {
   Box,
   Divider,
   Button,
-  List,
-  ListItem,
-  ListItemText,
   Drawer,
   styled,
 } from "@mui/material";
@@ -61,17 +58,12 @@ const HeaderAppBar = styled(AppBar)(({ theme }) => ({
   position: 'sticky',
 }));
 
-const NavListItemText = styled(ListItemText)(({ theme }) => ({
-  marginLeft: theme.spacing(2),
-}));
-
 const Header = (props) => {
   const { window } = props;
   const [mobileOpen, setMobileOpen] = React.useState(false);
 
   const handleDrawerToggle = () => {
     setMobileOpen((prevState) => !prevState);
-    console.log('navbar')
   };
 
   const drawer = (
@@ -82,19 +74,17 @@ const Header = (props) => {
         Menu
       </Typography>
       <Divider />
-      <List>
         {navItems.map((item) => (
-         
+         <>
             <Link href={item.url}
             key={item.index}
-              style = {{color: "#888888", display: 'block', width: '100%'}}
+              style={{color: "#888", display: 'block', padding:'25px'}}
               >
-              <NavListItemText primary={item.label} />
-              <Divider width={'100%'} />
+              {item.label}
             </Link>
-        
+              <Divider />
+              </>
         ))}
-      </List>
     </Box>
   );
 
