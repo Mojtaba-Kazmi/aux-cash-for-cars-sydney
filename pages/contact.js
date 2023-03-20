@@ -67,6 +67,7 @@ const Contact = ({ title, description, image, url, keyword, width, height }) => 
             justifyContent={"space-between"}
             py={'10px'}
           >
+            {/* section 1 left */}
             <Grid item xs={12} sm={6} md={6}>
               <Typography
                 variant="h4"
@@ -87,6 +88,7 @@ const Contact = ({ title, description, image, url, keyword, width, height }) => 
               </CardContent>
             </Grid>
 
+            {/* section 1 right */}
             <Grid item xs={12} sm={5} md={5} alignItems={'center'}>
               <Box
               height={{ xs: '350px', sm: '300px', md: '400px' }}
@@ -107,60 +109,73 @@ const Contact = ({ title, description, image, url, keyword, width, height }) => 
         </Container>
       </Box>
 
-      <Container color="body.main">
+        {/* section 2*/}
+      <Container>
         <Grid
           container
           sx={{
-            pt: "50px",
-            pb: "50px",
+            py: "50px",
             color: "body.main",
+            justifyContent: "space-between"
           }}
         >
-          <Grid item xs={12} sm={6} md={4}>
-            <Typography variant="h5" color="#01b636">
+          {/* section 2 left */}
+          <Grid item xs={12} sm={5.5} md={5.5}
+          
+          >
+            <h3>
               Contact Us
-            </Typography>
-            <CardContent>
+            </h3>
               <Typography
-                variant="body2"
                 component="p"
-                style={{
-                  width: { xs: "200px", sm: "300px", md: "600px" },
+                sx={{
+                  width: "100%",
                   textAlign: "justify",
-                  marginBottom: "30px",
+                  mb: "50px",
+                  mt: "20px",
                   color: "body.main",
+                  
                 }}
               >
                 {Section2Contact}
               </Typography>
-            </CardContent>
-            <Typography variant="h5" color="#01b636">
+            
+            <h3>
               Open Hours
-            </Typography>
-            <Grid container>
-              <Grid xs={6} sm={6} md={6} item>
-                Mon – Fri
+            </h3>
+            <Grid container mt={'20px'}>
+              <Grid container borderBottom={2} pb={'5px'}>
+                <Grid xs={6} sm={6} md={6} item >
+                  Monday – Friday
+                </Grid>
+                <Grid xs={6} sm={6} item md={6} textAlign={"right"}>
+                  6:30am – 11:30am
+                </Grid>
               </Grid>
-              <Grid xs={6} sm={6} item md={6}>
-                6:30am – 11:30am
-              </Grid>
-              <Grid xs={6} sm={6} item md={6}>
-                Sun
-              </Grid>
+              <Grid container my={"40px"} borderBottom={2} pb={'5px'}>
+                <Grid xs={6} sm={6} item md={6}>
+                  Saturday
+                </Grid>
 
-              <Grid xs={6} sm={6} item md={6}>
-                6:30am – 4:30pm
+                <Grid xs={6} sm={6} item md={6} textAlign={"right"}>
+                  6:30am – 4:30pm
+                </Grid>
               </Grid>
-              <Grid xs={6} sm={6} item md={6}>
-                Sat
-              </Grid>
-              <Grid xs={6} sm={6} item md={6}>
-                Closed
+              <Grid container borderBottom={2} pb={'5px'}>
+                <Grid xs={6} sm={6} item md={6}>
+                  Sunday
+                </Grid>
+                <Grid xs={6} sm={6} item md={6} textAlign={"right"}>
+                  Closed
+                </Grid>
               </Grid>
             </Grid>
           </Grid>
-
-          <Grid item xs={12} sm={6} md={8}>
+          
+          {/* section 2 right */}
+          <Grid item xs={12} sm={6} md={6}
+          mt={{md:'0', sm:'0', xs: '50px'}}
+          >
             <ContactForm />
           </Grid>
         </Grid>
