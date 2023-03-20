@@ -202,7 +202,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
           {/* blog right */}
           <Grid
             container
-            sx={{ rowGap: "35px", mt: "10px", justifyContent: "space-between" }}
+            sx={{mt: "10px", justifyContent: "space-between" }}
           >
             {/* post1 in page */}
 
@@ -212,7 +212,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
               xs={12}
               item
               display={ps1 === 0 ? "none" : "flex"}
-              mb={'5px'}
+              mb={'40px'}
             >
               <Postanimation>
                 <Card height={"100%"}>
@@ -243,7 +243,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
               xs={12}
               item
               display={ps2 === 0 ? "none" : "flex"}
-              mb={'5px'}
+              mb={'40px'}
             >
               <Postanimation>
                 <Card>
@@ -274,7 +274,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
               xs={12}
               item
               display={ps3 === 0 ? "none" : "flex"}
-              mb={'5px'}
+              mb={'40px'}
             >
               <Postanimation>
                 <Card>
@@ -304,7 +304,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
               xs={12}
               item
               display={ps4 === 0 ? "none" : "flex"}
-              mb={'5px'}
+              mb={'40px'}
             >
               <Postanimation>
                 <Card>
@@ -334,7 +334,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
               xs={12}
               item
               display={ps5 === 0 ? "none" : "flex"}
-              mb={'5px'}
+              mb={'40px'}
             >
               <Postanimation>
                 <Card>
@@ -364,7 +364,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
               xs={12}
               item
               display={ps6 === 0 ? "none" : "flex"}
-              mb={'5px'}
+              mb={'40px'}
             >
               <Postanimation>
                 <Card>
