@@ -84,14 +84,15 @@ const Header = (props) => {
       <Divider />
       <List>
         {navItems.map((item) => (
-          <ListItem key={item.index}>
+         
             <Link href={item.url}
+            key={item.index}
               style = {{color: "#888888", display: 'block', width: '100%'}}
               >
               <NavListItemText primary={item.label} />
               <Divider width={'100%'} />
             </Link>
-          </ListItem>
+        
         ))}
       </List>
     </Box>
@@ -132,17 +133,18 @@ const Header = (props) => {
 
             <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" }, justifyContent:'flex-end', height: '100%' }}>
               {navItems.map((item) => (
+                
                 <Link href={item.url} 
+                key={item.index}
                 style ={{width: '120px', height: "50px", display: 'inline-block'}}
                 >
                 <Button
-                  variant=""
-                  key={item.index}
                   sx={{display: "block",width: "100%", height: '100%',}}
                 >
                       {item.label}
                 </Button>
                 </Link>
+                
               ))}
             </Box>
           </Toolbar>
