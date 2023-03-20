@@ -212,6 +212,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
               xs={12}
               item
               display={ps1 === 0 ? "none" : "flex"}
+              mb={{md:'0',sm:'3px', xs:'0'}}
             >
               <Postanimation>
                 <Card height={"100%"}>
