@@ -208,7 +208,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
 
             <Grid
               md={3.7}
-              sm={5.5}
+              sm={5.7}
               xs={12}
               item
               display={ps1 === 0 ? "none" : "flex"}
@@ -239,7 +239,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
             {/* post2 in page */}
             <Grid
               md={3.7}
-              sm={5.5}
+              sm={5.7}
               xs={12}
               item
               display={ps2 === 0 ? "none" : "flex"}
@@ -270,7 +270,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
             {/* post3 in page */}
             <Grid
               md={3.7}
-              sm={5.5}
+              sm={5.7}
               xs={12}
               item
               display={ps3 === 0 ? "none" : "flex"}
@@ -300,7 +300,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
             {/* post4 in page */}
             <Grid
               md={3.7}
-              sm={5.5}
+              sm={5.7}
               xs={12}
               item
               display={ps4 === 0 ? "none" : "flex"}
@@ -330,7 +330,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
             {/* post5 in page */}
             <Grid
               md={3.7}
-              sm={5.5}
+              sm={5.7}
               xs={12}
               item
               display={ps5 === 0 ? "none" : "flex"}
@@ -360,7 +360,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
             {/* post6 in page */}
             <Grid
               md={3.7}
-              sm={5.5}
+              sm={5.7}
               xs={12}
               item
               display={ps6 === 0 ? "none" : "flex"}
