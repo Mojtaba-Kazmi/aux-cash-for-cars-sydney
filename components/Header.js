@@ -57,7 +57,7 @@ const navItems = [
 ];
 
 const HeaderAppBar = styled(AppBar)(({ theme }) => ({
-  backgroundColor: theme.palette.white.main, // using primary color for background
+  backgroundColor: theme.palette.bg.main, // using primary color for background
   position: 'sticky',
 }));
 
@@ -86,7 +86,7 @@ const Header = (props) => {
         {navItems.map((item) => (
           <ListItem key={item.index}>
             <Link href={item.url}
-              style = {{ textDecoration: "none", color: "#888888", display: 'block', width: '100%'}}
+              style = {{color: "#888888", display: 'block', width: '100%'}}
               >
               <NavListItemText primary={item.label} />
               <Divider width={'100%'} />
@@ -130,18 +130,19 @@ const Header = (props) => {
               sx={{ display: { xs: "flex", md: "none" }, mr: 1}}
             />
 
-            <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" }, justifyContent:'flex-end' }}>
+            <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" }, justifyContent:'flex-end', height: '100%' }}>
               {navItems.map((item) => (
-                <Button
-                  key={item.index}
-                  sx={{ my: 2, color: "#212121", display: "block" }}
+                <Link href={item.url} 
+                style ={{width: '120px', height: "50px", display: 'inline-block'}}
                 >
-                  <Link href={item.url} style ={{textDecoration: "none", display: "flex", alignItems: "center", justifyContent: "center", color: "#888888"  }}>
-                    <p  style={{ display: "flex"}}>
+                <Button
+                  variant=""
+                  key={item.index}
+                  sx={{display: "block",width: "100%", height: '100%',}}
+                >
                       {item.label}
-                    </p>
-                  </Link>
                 </Button>
+                </Link>
               ))}
             </Box>
           </Toolbar>
