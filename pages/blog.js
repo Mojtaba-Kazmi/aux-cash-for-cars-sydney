@@ -54,7 +54,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
     width: 100%;
     overflow: hidden;
     @media screen and (max-width: 1024px) {
-      height: auto;
+      height: 42px;
     }
     @media screen and (max-width: 600px) {
       height: auto;
