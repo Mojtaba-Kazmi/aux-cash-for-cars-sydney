@@ -20,7 +20,8 @@ import {
 import MenuIcon from "@mui/icons-material/Menu";
 import Link from "next/link";
 
-const drawerWidth = 250;
+const drawerWidthMobile = 220;
+const drawerWidthIpad = 400;
 
 const navItems = [
   {
@@ -85,9 +86,10 @@ const Header = (props) => {
         {navItems.map((item) => (
           <ListItem key={item.index}>
             <Link href={item.url}
-              style = {{textAlign: "center", textDecoration: "none", color: "#888888"}}
+              style = {{ textDecoration: "none", color: "#888888", display: 'block', width: '100%'}}
               >
               <NavListItemText primary={item.label} />
+              <Divider width={'100%'} />
             </Link>
           </ListItem>
         ))}
@@ -158,7 +160,7 @@ const Header = (props) => {
             display: { xs: "block", },
             "& .MuiDrawer-paper": {
               boxSizing: "border-box",
-              width: drawerWidth,
+              width: {sm: drawerWidthIpad, xs: drawerWidthMobile},
             },
           }}
         >
