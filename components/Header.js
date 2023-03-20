@@ -55,7 +55,7 @@ const navItems = [
 
 const HeaderAppBar = styled(AppBar)(({ theme }) => ({
   backgroundColor: theme.palette.bg.main, // using primary color for background
-  position: 'sticky',
+  position: "sticky",
 }));
 
 const Header = (props) => {
@@ -67,24 +67,23 @@ const Header = (props) => {
   };
 
   const drawer = (
-    <Box onClick={handleDrawerToggle}
-     sx={{ textAlign: "center" }}
-     >
+    <Box onClick={handleDrawerToggle} textAlign="center">
       <Typography variant="h6" sx={{ my: 2 }}>
         Menu
       </Typography>
       <Divider />
-        {navItems.map((item) => (
-         <>
-            <Link href={item.url}
+      {navItems.map((item) => (
+        <>
+          <Link
             key={item.index}
-              style={{color: "#888", display: 'block', padding:'25px'}}
-              >
-              {item.label}
-            </Link>
-              <Divider />
-              </>
-        ))}
+            href={item.url}
+            style={{ color: "#888", display: "block", padding: "25px" }}
+          >
+            {item.label}
+          </Link>
+          <Divider />
+        </>
+      ))}
     </Box>
   );
 
@@ -92,14 +91,16 @@ const Header = (props) => {
     window !== undefined ? () => window().document.body : undefined;
 
   return (
-    
     <>
       <HeaderAppBar>
         <Container fixed>
           <Toolbar disableGutters>
             <Box
-             sx={{ flexGrow: 1, display: { xs: "flex", sm: 'flex', md: "none" } }}
-             >
+              sx={{
+                flexGrow: 1,
+                display: { xs: "flex", sm: "flex", md: "none" },
+              }}
+            >
               <IconButton
                 color="inherit"
                 aria-label="open drawer"
@@ -118,23 +119,33 @@ const Header = (props) => {
               alt="logo"
               width={80}
               height={80}
-              sx={{ display: { xs: "flex", md: "none" }, mr: 1}}
+              sx={{ display: { xs: "flex", md: "none" }, mr: 1 }}
             />
 
-            <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" }, justifyContent:'flex-end', height: '100%' }}>
+            <Box
+              sx={{
+                flexGrow: 1,
+                display: { xs: "none", md: "flex" },
+                justifyContent: "flex-end",
+                height: "100%",
+              }}
+            >
               {navItems.map((item) => (
-                
-                <Link href={item.url} 
-                key={item.index}
-                style ={{width: '120px', height: "50px", display: 'inline-block'}}
+                <Link
+                  key={item.index}
+                  href={item.url}
+                  style={{
+                    width: "120px",
+                    height: "50px",
+                    display: "inline-block",
+                  }}
                 >
-                <Button
-                  sx={{display: "block",width: "100%", height: '100%',}}
-                >
-                      {item.label}
-                </Button>
+                  <Button
+                    sx={{ display: "block", width: "100%", height: "100%" }}
+                  >
+                    {item.label}
+                  </Button>
                 </Link>
-                
               ))}
             </Box>
           </Toolbar>
@@ -150,10 +161,10 @@ const Header = (props) => {
             keepMounted: true, // Better open performance on mobile.
           }}
           sx={{
-            display: { xs: "block", },
+            display: { xs: "block" },
             "& .MuiDrawer-paper": {
               boxSizing: "border-box",
-              width: {sm: drawerWidthIpad, xs: drawerWidthMobile},
+              width: { sm: drawerWidthIpad, xs: drawerWidthMobile },
             },
           }}
         >
