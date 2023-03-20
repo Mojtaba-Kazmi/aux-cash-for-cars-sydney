@@ -30,32 +30,32 @@ const navItems = [
   {
     label: "HOME",
     url: "/",
-    key: 1
+    index: 1
   },
   {
     label: "About Us",
     url: "/about",
-    key: 2
+    index: 2
   },
   {
     label: "Services",
     url: "/services",
-    key: 3
+    index: 3
   },
   {
     label: "Our Blog",
     url: "/blog",
-    key: 4
+    index: 4
   },
   {
     label: "FAQs",
     url: "/faqs",
-    key: 5
+    index: 5
   },
   {
     label: "CONTACT",
     url: "/contact",
-    key: 6
+    index: 6
   },
 ];
 
@@ -148,7 +148,7 @@ const Footer = () => {
                     sx={{justifyContent: "space-between", rowGap: '10px'}}
                     >
                         {navItems.map((item) => (
-                        <Grid item md={3.8} sm={3.8} xs={3.8}>
+                        <Grid key={item.index} item md={3.8} sm={3.8} xs={3.8}>
                           <Button
                             variant="outlined"
                             color="body"
@@ -156,7 +156,6 @@ const Footer = () => {
                           >
                             <Link
                             href={item.url}
-                            key = {item.key}
                             >
                               {item.label}
                             </Link>
