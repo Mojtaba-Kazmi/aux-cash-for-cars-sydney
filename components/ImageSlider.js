@@ -99,11 +99,11 @@ const InfoContainer = styled('div')`
   padding-bottom: 40px;
   padding-right: 250px;
   ${iPad({
-    width: '900px',
+    width: '100%',
     paddingLeft: '40px',
   })}
   ${mobile({
-    width: '440px',
+    width: '100%',
   })}
 `;
 
