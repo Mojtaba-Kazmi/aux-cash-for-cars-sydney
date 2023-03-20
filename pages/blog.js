@@ -437,14 +437,14 @@ function blog({ title, description, image, url, keyword, width, height }) {
           {/* blog left */}
           <Grid
             sx={{
-              my: "50px",
+              mt: "10px",
+              mb: "50px",
               justifyContent: "space-between",
               alignItems: "center",
             }}
-            rowGap={"50px"}
             container
           >
-            <Grid item md={5.8} sm={12} xs={12}>
+            <Grid item md={5.8} sm={12} xs={12} mb={'40px'}>
               <ContactUsCard />
             </Grid>
             <Grid item md={5.8} sm={12} xs={12}>
