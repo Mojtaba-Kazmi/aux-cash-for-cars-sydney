@@ -83,10 +83,12 @@ const Footer = () => {
         <Container>
           <Grid
             container
-            sx={{justifyContent:'space-between',rowGap: '50px', py: "10px"}}
+            sx={{justifyContent:'space-between', py: "10px"}}
           >
           {/* div what we buy starts */}
-            <Grid item xs={12} sm={5.8} md={3.8}>
+            <Grid item xs={12} sm={5.8} md={3.8} 
+            mb={{md:'0', sm:'50px', xs:'50px'}}
+            >
             <Typography variant="h5" color="primary" textAlign={{md:"left", sm: "left",xs:"center"}}>
                 <b>What we buy?</b>
               </Typography>
@@ -102,6 +104,7 @@ const Footer = () => {
                 borderBottom={{md:0,sm:0,xs:1}}
                 borderColor={'body.main'}
                 py={{md:'0', sm:'0', xs:'10px'}}
+                mb={{md:'0', sm:'50px', xs:'50px'}}
               >
               <Typography 
               variant="h5" 
@@ -171,11 +174,13 @@ const Footer = () => {
       <Container>
       <Grid
             container
-            sx={{justifyContent:'space-between',rowGap: '50px', py: "10px"}}
+            sx={{justifyContent:'space-between', py: "10px"}}
           >
 
           {/* div follow us on starts */}
-            <Grid item xs={12} sm={3.8} md={3.8}>
+            <Grid item xs={12} sm={3.8} md={3.8}
+             mb={{md:'0', sm:'50px', xs:'50px'}}
+            >
             <Typography variant="h5" color="primary" textAlign={{md:"left", sm: "left",xs:"center"}}>
                 <b>Follow us on</b>
               </Typography>
@@ -208,6 +213,7 @@ const Footer = () => {
             borderBottom={{md:0,sm:0,xs:1}}
             borderColor={'body.main'}
             py={{md:'0', sm:'0', xs:'10px'}}
+            mb={{md:'0', sm:'50px', xs:'50px'}}
             >
               <Typography 
               variant="h5" 
