@@ -69,7 +69,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
       height: 80px;
     }
     @media screen and (max-width: 600px) {
-      height: 100px;
+      height: 95px;
     }
   `;
   // post printer
