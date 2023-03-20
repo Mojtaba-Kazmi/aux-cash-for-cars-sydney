@@ -57,25 +57,21 @@ const Contact = ({ title, description, image, url, keyword, width, height }) => 
           width: "100%",
           height: "auto",
           textAlign: { xs: "center", sm: "justify", md: "justify" },
-          paddingBottom: "20px",
+          py: "50px",
         }}
       >
         <Container>
           <Grid
             container
-            spacing={{ xs: 2, sm: 3, md: 6 }}
-            style={{
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "center",
-            }}
+            alignItems={'center'}
+            justifyContent={"space-between"}
+            py={'10px'}
           >
             <Grid item xs={12} sm={6} md={6}>
               <Typography
                 variant="h4"
                 component="h1"
                 color="primary.main"
-                px="10px"
               >
                 CONTCAT US
               </Typography>
@@ -83,24 +79,29 @@ const Contact = ({ title, description, image, url, keyword, width, height }) => 
                 <Typography
                   variant="body2"
                   component="p"
-                  style={{
-                    width: { xs: "200px", sm: "300px", md: "600px" },
-                    textAlign: "justify",
-                    marginBottom: "30px",
-                  }}
+                  mb={'30px'}
                 >
                   {Section1Contact}
                 </Typography>
                 <PhonNumber />
               </CardContent>
             </Grid>
-            <Grid item xs={11} sm={5} md={5}>
+
+            <Grid item xs={12} sm={5} md={5} alignItems={'center'}>
+              <Box
+              height={{ xs: '350px', sm: '300px', md: '400px' }}
+              width={{ xs: '350px', sm: '300px', md: '400px' }}
+              sx={{display: 'flex'}}
+              mx={'auto'}
+              >
               <CardMedia
                 component="img"
                 alt=" "
-                height={{ xs: 180, sm: 300, md: 400 }}
+                
+                height={{ xs: '180px', sm: '300px', md: '400px' }}
                 image="/assets/contact.png"
               />
+              </Box>
             </Grid>
           </Grid>
         </Container>
@@ -109,14 +110,13 @@ const Contact = ({ title, description, image, url, keyword, width, height }) => 
       <Container color="body.main">
         <Grid
           container
-          spacing={{ xs: 2, sm: 3, md: 38 }}
           sx={{
             pt: "50px",
             pb: "50px",
             color: "body.main",
           }}
         >
-          <Grid item xs={12} sm={6} md={6}>
+          <Grid item xs={12} sm={6} md={4}>
             <Typography variant="h5" color="#01b636">
               Contact Us
             </Typography>
@@ -160,7 +160,7 @@ const Contact = ({ title, description, image, url, keyword, width, height }) => 
             </Grid>
           </Grid>
 
-          <Grid item xs={11} sm={5} md={6}>
+          <Grid item xs={12} sm={6} md={8}>
             <ContactForm />
           </Grid>
         </Grid>
