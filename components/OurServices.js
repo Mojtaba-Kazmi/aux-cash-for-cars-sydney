@@ -20,7 +20,7 @@ export default function OurServices() {
       }}
     >
       <Container>
-        <Typography component={router.pathname == "/" ? "h4" : "h1"} variant="h4">
+        <Typography component={router.pathname == "/" ? "h4" : "h1"} mt={4} mb={{ md:'-100px', xs:'30px' }} variant="h4">
           OUR SERVICES
         </Typography>
         <Grid
