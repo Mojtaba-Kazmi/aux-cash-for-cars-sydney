@@ -66,7 +66,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
     overflow: hidden;
     margin-top: 5px;
     @media screen and (max-width: 1024px) {
-      height: 80px;
+      height: 75px;
     }
     @media screen and (max-width: 600px) {
       height: 95px;
