@@ -25,8 +25,7 @@ function value() {
         color: "body.main",
         width: "100%",
         height: "auto",
-        mt: "50px",
-        py: "50px",
+        my: "70px",
       }}
     >
       <Container>
@@ -102,7 +101,7 @@ function value() {
 
           {/* Right */}
           <Grid md={5.5} sm={5.5} xs={12} color="primery" px='10px' order={{xs:"1", sm: "2", md: '2'}} item>
-            <Typography variant="h5" component="h2" color={"primary"} fontWeight = {"600"}>
+            <Typography variant="h4" component="h2" color={"primary"} >
               OUR VALUES
             </Typography>
 
