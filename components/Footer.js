@@ -16,7 +16,6 @@ import YouTubeIcon from '@mui/icons-material/YouTube';
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import { styled } from '@mui/system';
 import { FooterSection1 } from "@/pages/api/home-content";
-import { mobile } from "./Responsive";
 import SocialShareBtn from "./GlobalComponents";
 import Link from "next/link";
 
@@ -31,26 +30,32 @@ const navItems = [
   {
     label: "HOME",
     url: "/",
+    key: 1
   },
   {
     label: "About Us",
     url: "/about",
+    key: 2
   },
   {
     label: "Services",
     url: "/services",
+    key: 3
   },
   {
     label: "Our Blog",
     url: "/blog",
+    key: 4
   },
   {
     label: "FAQs",
     url: "/faqs",
+    key: 5
   },
   {
     label: "CONTACT",
     url: "/contact",
+    key: 6
   },
 ];
 
@@ -151,6 +156,7 @@ const Footer = () => {
                           >
                             <Link
                             href={item.url}
+                            key = {item.key}
                             >
                               {item.label}
                             </Link>
