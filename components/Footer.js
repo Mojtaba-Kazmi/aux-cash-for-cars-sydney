@@ -6,8 +6,7 @@ import {
   Button,
   Chip,
   CardMedia,
-  Box,
-  Card,
+  Box
 } from "@mui/material";
 import FacebookRoundedIcon from "@mui/icons-material/FacebookRounded";
 import InstagramIcon from "@mui/icons-material/Instagram";
