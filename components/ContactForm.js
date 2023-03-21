@@ -22,16 +22,16 @@ const ContactForm = () => {
         <TextField
           fullWidth
           id="outlined-basic"
-          label="Company Name"
-          name="Company Name"
+          label="First Name"
+          name="First Name"
           type="text"
           variant="filled"
         />
         <TextField
           fullWidth
           id="outlined-basic"
-          label="Contact Name"
-          name="Contact Name"
+          label="Last Name"
+          name="Last Name"
           type='text'
           required
           variant="filled"
@@ -49,6 +49,7 @@ const ContactForm = () => {
         id="outlined-basic" 
         label="Email" 
         type='email'
+        name='Email'
         required 
         variant="filled"
      />
