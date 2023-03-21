@@ -73,7 +73,7 @@ const Header = (props) => {
       </Typography>
       <Divider />
       {navItems.map((item) => (
-        <>
+        
           <Link
             key={item.index}
             href={item.url}
@@ -81,9 +81,8 @@ const Header = (props) => {
           >
             {item.label}
           </Link>
-          <Divider />
-        </>
       ))}
+      <Divider />
     </Box>
   );
 
