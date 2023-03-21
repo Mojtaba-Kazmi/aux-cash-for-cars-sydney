@@ -26,6 +26,12 @@ const Icon = styled('svg')`
   height: 60px;
 `;
 
+const Gridb = styled('div')`
+display: grid;
+grid-template-columns: repeat(3,1fr);
+gap: 10px;
+`;
+
 const navItems = [
   {
     label: "HOME",
@@ -144,26 +150,23 @@ const Footer = () => {
                   </Grid>
 
                   <Grid item md={12} sm={12} xs={12}>
-                    <Grid container
-                    sx={{justifyContent: "space-between", rowGap: '10px'}}
-                    >
-                        {navItems.map((item) => (
-                        <Grid key={item.index} item md={3.8} sm={3.8} xs={3.8}>
-                          <Button
-                            variant="outlined"
-                            color="body"
-                            sx={{width: '100%'}} 
-                          >
+                        <Gridb>
+                          {navItems.map((item) => (
                             <Link
-                            href={item.url}
+                              href={item.url}
+                              key={item.index}
+                              >
+                            <Button
+                              variant="outlined"
+                              color="body"
+                              sx={{width: '100%'}} 
                             >
-                              {item.label}
+                                {item.label}
+                            </Button>
                             </Link>
-                          </Button>
-                        </Grid>
-                        ))}
-                      
-                    </Grid>
+                          ))}
+                      </Gridb>
+
                   </Grid>
                     
                 </Grid>
