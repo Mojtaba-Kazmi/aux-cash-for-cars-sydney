@@ -27,6 +27,7 @@ export default function Home() {
         <meta property="og:image" content="https://auxcashforcarsydney.com/assets/nissan.jpg" />
         <meta property="og:image:width" content="630" />
         <meta property="og:image:height" content="1200" />
+        <meta name="google-site-verification" content="IWtv_Ch3kYck0rXCtEfUZoYAvv12ZKnpbYllZ84w3iU" />
       </Head>
       
       <main >
