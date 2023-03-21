@@ -16,6 +16,7 @@ import {
 } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 import Link from "next/link";
+import { BorderBottom } from "@mui/icons-material";
 
 const drawerWidthMobile = 220;
 const drawerWidthIpad = 400;
@@ -71,18 +72,19 @@ const Header = (props) => {
       <Typography variant="h6" sx={{ my: 2 }}>
         Menu
       </Typography>
-      <Divider />
+      <Divider/>
       {navItems.map((item) => (
         
           <Link
             key={item.index}
             href={item.url}
-            style={{ color: "#888", display: "block", padding: "25px" }}
+            style={{ color: "#888", display: "block", padding: "25px", borderBottom: "1px solid #e1e0e0"}}
           >
             {item.label}
           </Link>
+
       ))}
-      <Divider />
+      
     </Box>
   );
 
