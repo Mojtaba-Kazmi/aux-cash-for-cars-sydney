@@ -256,7 +256,7 @@ const Footer = () => {
             }}
            
               >
-                <Grid item md={4} sm={4}sx={4}>
+                <Grid item md={4} sm={4} xs={4}>
                     <Box height={'100px'} width={'100px'}>
                       <CardMedia
                         component="img"
@@ -266,7 +266,7 @@ const Footer = () => {
                       />
                   </Box>
                 </Grid>
-                <Grid item md={7.9} sm={6.5}sx={7.8}>
+                <Grid item md={7.9} sm={6.5} xs={7.8}>
                     <Typography 
                     variant="p" 
                     color={"primary.main"}
