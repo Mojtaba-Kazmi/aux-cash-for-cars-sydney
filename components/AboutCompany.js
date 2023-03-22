@@ -25,6 +25,7 @@ export default function AboutCompany() {
         py: "50px",
       }}
     >
+
       <Container>
       <Typography component={router.pathname == "/" ? "h4" : "h1"} variant="h4">
           ABOUT US
