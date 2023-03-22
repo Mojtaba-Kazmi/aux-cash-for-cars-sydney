@@ -26,6 +26,7 @@ export default function App({ Component, pageProps }) {
         <meta property="og:image:width" content={pageProps.width} />
         <meta property="og:image:height" content={pageProps.height} />
         <meta property='fb:app_id' content="1171785366859399"/>
+        <meta name="google-site-verification" content="IWtv_Ch3kYck0rXCtEfUZoYAvv12ZKnpbYllZ84w3iU" />
       </Head>
       <ThemeProvider theme={theme}>
         <Layout>

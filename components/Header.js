@@ -16,7 +16,6 @@ import {
 } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 import Link from "next/link";
-import { BorderBottom } from "@mui/icons-material";
 
 const drawerWidthMobile = 220;
 const drawerWidthIpad = 400;
