@@ -1,6 +1,6 @@
 import { Box } from '@mui/material'
 import Head from 'next/head'
-import ImageSlider from '@/components/ImageSlider'
+import ImageSlider from '@/components/ImageSlider2'
 import images from './api/images'
 import HowWeWorks from '@/components/HowWeWorks'
 import AboutCompany from '@/components/AboutCompany'
