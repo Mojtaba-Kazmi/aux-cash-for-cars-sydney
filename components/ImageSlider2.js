@@ -144,8 +144,8 @@ function ImageSlider2() {
                     <CardMedia
                       sx={{ height: "100%" }}
                       image={slidepage[slideNum].image}
-                      title={slidepage[slideNum].title}
-                      alt={slidepage[slideNum].title}
+                      title={slidepage[slideNum].alt}
+                      alt={slidepage[slideNum].alt}
                     />
                 </Grid>
                 

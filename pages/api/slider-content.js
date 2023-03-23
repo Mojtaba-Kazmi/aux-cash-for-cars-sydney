@@ -1,6 +1,7 @@
 export const slidepage = [
     {
         image: "/assets/mercedes.jpg",
+        alt: "CASH FOR CARS SYDNEY",
         title: <h1>CASH FOR CARS SYDNEY</h1>,
         description: 
         <p>
@@ -10,6 +11,7 @@ export const slidepage = [
     },
     {
         image: "/assets/nissan.jpg",
+        alt: "TOP DOLLAR FOR CARS",
         title: <h2>TOP DOLLAR FOR CARS</h2>,
         description: 
         <p>
@@ -19,6 +21,7 @@ export const slidepage = [
     },
     {
         image: "/assets/sydney-wreckers-images.jpg",
+        alt: "SCRAP CAR REMOVAL",
         title: <h2>SCRAP CAR REMOVAL</h2>,
         description: 
         <p>
