@@ -114,12 +114,12 @@ function ImageSlider2() {
       <Container sx={{position: "relative"}}>
         {/* Arow buttons start */}
           <Arowbtn>
-                  <Box left={'0px'} onClick={hendelLeftbtn} >
+                  <Box left={{md: '0', sm: '30px', xs: '20px'}} onClick={hendelLeftbtn} >
                       <ArrowBackIosNewIcon/>
                   </Box>
             </Arowbtn>
             <Arowbtn>
-                  <Box right={'0px'} onClick={hendelRightbtn}>
+                  <Box right={{md: '0', sm: '30px', xs: '20px'}} onClick={hendelRightbtn}>
                       <ArrowForwardIosIcon/>
                   </Box>
           </Arowbtn>
@@ -137,8 +137,8 @@ function ImageSlider2() {
               
              {/* slide image start */}
              
-                <Grid item md={5.3} sm={12} xs={12}
-                height={{md:'100%', sm:'70%', xs:'50%'}}
+                <Grid item md={5.8} sm={12} xs={12}
+                height={{md:'100%', sm:'70%', xs:'45%'}}
               
                 >
                     <CardMedia
@@ -153,7 +153,7 @@ function ImageSlider2() {
 
               {/* slide text start */}
                 <Grid item md={5.8} sm={12} xs={12}
-                height={{md:'100%', sm:'30%', xs:'50%'}}
+                height={{md:'100%', sm:'30%', xs:'55%'}}
                 sx={{
                 display: 'flex',
                 flexDirection: 'column',
