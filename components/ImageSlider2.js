@@ -36,7 +36,7 @@ const SlideContentStyle = styled('div')`
   }
   }
 `
-const Arowbtn = styled('dev')`
+const Arowbtn = styled('div')`
   div{
     width: 30px;
     height: 30px;
@@ -58,7 +58,7 @@ const Arowbtn = styled('dev')`
   }
 `
 
-const Animation1 = styled ('dev')
+const Animation1 = styled ('div')
 `
 transition: all 4s;
 animation: textmoving1 4s;
