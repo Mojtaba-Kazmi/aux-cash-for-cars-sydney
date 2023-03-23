@@ -103,6 +103,20 @@ export const BigCardStyle = styled("div")`width: 100%;
     font-weight: 600;
     color: #01b636;
   }
+  @media screen and (max-width: 600px) {
+    h1{
+      font-size: 18px;
+      text-align: left;
+    }
+    h2{
+      font-size: 16px;
+      text-align: left;
+    }
+    h3, h4, h5, h6{
+      font-size: 14px;
+      text-align: left;
+    }
+  }
 }`;
 
 export const MiniCardStyle = styled("div")`
