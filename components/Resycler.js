@@ -34,7 +34,7 @@ const Resycler = () => {
             component="img"
             alt="green iguana"
             width="100"
-            image="/assets/professional.png"
+            image="/assets/professional2.png"
           />
         </Grid>
       </Grid>
