@@ -92,7 +92,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
                         <NextLinkBtn>Back</NextLinkBtn>
                       </Link>
                     </Grid>
-                    <Grid item md={3.8} sm={3.8} xs={9}>
+                    <Grid item md={3.8} sm={3.8} xs={10}>
                       <SocialShareBtn />
                     </Grid>
                   </Grid>
