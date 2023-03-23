@@ -90,17 +90,14 @@ export const BigCardStyle = styled("div")`width: 100%;
   h1{
     font-size: 24px;
     margin-bottom: 10px;
-    text-align: left;
   }
   h2{
     font-size: 20px;
     margin-bottom: 10px;
-    text-align: left;
   }
   h3{
     font-size: 18px;
     margin-bottom: 10px;
-    text-align: left;
   }
   b {
     font-weight: 600;
@@ -109,17 +106,14 @@ export const BigCardStyle = styled("div")`width: 100%;
   @media screen and (max-width: 600px) {
     h1{
       font-size: 18px;
-      margin-bottom: 10px;
       text-align: left;
     }
     h2{
       font-size: 16px;
-      margin-bottom: 10px;
       text-align: left;
     }
-    h3{
+    h3, h4, h5, h6{
       font-size: 14px;
-      margin-bottom: 10px;
       text-align: left;
     }
   }
