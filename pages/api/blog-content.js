@@ -30,7 +30,7 @@ export const post = [
           FREE!
         </p>
         <p>
-          <Link href={"/"}>AUX Cash for Car Sydney</Link> is a quality top junk
+          <Link href={"/"}>Aux Cash for Car Sydney</Link> is a quality top junk
           car buyer. We can buy your car wherever you are in the Sydney. Our
           employees will come to you, whether you are at home or at the office.
           The process is transparent and convenient. If you find yourself
@@ -359,7 +359,7 @@ export const post = [
         <p>For one, it's much easier. You don't have to worry</p>
         <p>
           If you're looking for a junk car removal company near you,{" "}
-          <Link href={"/"}>AUX Cash for Car Sydney</Link> is a quality top junk
+          <Link href={"/"}>Aux Cash for Car Sydney</Link> is a quality top junk
           car buyer. We can buy your car wherever you are in Sydney.
         </p>
       </>
@@ -384,10 +384,10 @@ export const post = [
           . There are many companies that will pay cash for junk cars, but it's
           important to find one that is licensed and insured. As one of the
           leading junk car buyers near you,{" "}
-          <Link href={"/"}>AUX Cash for Car</Link> is one of the top companies
+          <Link href={"/"}>Aux Cash for Car</Link> is one of the top companies
           in the industry. So, if you're looking for someone to buy your old
           junk car, you know who to call:{" "}
-          <Link href={"/contact"}>AUX Cash for Car</Link>. We'll even make you
+          <Link href={"/contact"}>Aux Cash for Car</Link>. We'll even make you
           an offer you won't refuse! Regardless of where you are in Sydney, we
           are able to buy your car.
         </p>
@@ -493,7 +493,7 @@ export const post = [
           environmentally friendly manner. The process is quick and easy, and
           you'll even receive cash for your car. So, if you're looking to get
           rid of an old car, be sure to use a professional junk car removal
-          service near you like <Link href={"/"}>AUX Cash for Car Sydney</Link>.
+          service near you like <Link href={"/"}>Aux Cash for Car Sydney</Link>.
         </p>
       </>
     ),

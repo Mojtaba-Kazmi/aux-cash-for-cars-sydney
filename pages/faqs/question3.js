@@ -12,7 +12,7 @@ import { BigCardStyle } from "@/components/GlobalComponents";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "FAQs - How fast do AUX Cash for Car pick-up my car?",
+      title: "FAQs - How fast do Aux Cash for Car pick-up my car?",
       description:
         "We are one of the fastest car removal companies in Sydney. Typically, it'll take us between one and three days to pick up your car.",
       url: "https://auxcashforcarsydney.com/faqs/question3",

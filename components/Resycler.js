@@ -20,7 +20,7 @@ const Resycler = () => {
 
         <Stack spacing={2} style={{ width:{ xs: '200px', sm:'250px', md: '300px' } }}>
         <h2 style={{textAlign: 'justify'}}>
-          (AUX Cash for Car Sydney) is your Professional and Friendly Scrap Metal Recyclers
+          (Aux Cash for Car Sydney) is your Professional and Friendly Scrap Metal Recyclers
         </h2>
           <Typography ml={5} gutterBottom variant="body1" color="primary.main"><b>SYDNEY PREMIER AUTO WRECKER</b></Typography>
           <Typography  variant="body1" textAlign={'justify'}>{ResyclerContnet1}</Typography>

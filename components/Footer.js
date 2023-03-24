@@ -274,7 +274,7 @@ const Footer = () => {
                    display={'block'}
                    sx={{borderRight: 2,borderLeft: 2,borderColor: "primary.main", px:"2px", textAlign:"center" }}
                     >
-                    AUX Cash For Car Sydney
+                    Aux Cash For Car Sydney
                     </Typography>
                 </Grid>
               </Grid>
@@ -291,7 +291,7 @@ const Footer = () => {
         bgcolor="secondary.main"
         color="text.secondary"
       >
-        Copyright 2023 © AUX Cash for Car
+        Copyright 2023 © Aux Cash for Car
       </Typography>
     {/* section 4 footer ends */}
     </>

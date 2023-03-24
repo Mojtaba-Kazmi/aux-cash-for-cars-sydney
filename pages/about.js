@@ -6,7 +6,7 @@ export async function getServerSideProps() {
     props: {
       title: "About - Aux Cash For Cars",
       description:
-        "(AUX CAR FOR CASH Sydney) Has Been Pioneering The Metal Resource Recycling Industry In Sydney Region, Australia Since 2010 That Mostly Has Been Active In Car Removal Industry.",
+        "(Aux CAR FOR CASH Sydney) Has Been Pioneering The Metal Resource Recycling Industry In Sydney Region, Australia Since 2010 That Mostly Has Been Active In Car Removal Industry.",
       image: "https://auxcashforcarsydney.com/assets/about-us.png",
       url: `https://auxcashforcarsydney.com/about`,
       keyword:
