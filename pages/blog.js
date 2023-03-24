@@ -225,7 +225,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
 
                   <CardContent>
                     <MiniCardStyle>
-                      <TitleContainer>{post[ps1].title}</TitleContainer>
+                    <Link href={"/blog/post" + ps1}><TitleContainer>{post[ps1].title}</TitleContainer></Link>
                       <Postdescription>{post[ps1].description}</Postdescription>
                       <Typography variant="body1" component={"p"}>
                         <Link href={"/blog/post" + ps1}>Read More</Link>
@@ -255,7 +255,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
                   />
                   <CardContent>
                     <MiniCardStyle>
-                      <TitleContainer>{post[ps2].title}</TitleContainer>
+                    <Link href={"/blog/post" + ps2}><TitleContainer>{post[ps2].title}</TitleContainer></Link>
 
                       <Postdescription>{post[ps2].description}</Postdescription>
                       <Typography variant="body1" component={"p"}>
@@ -286,7 +286,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
                   />
                   <CardContent>
                     <MiniCardStyle>
-                      <TitleContainer>{post[ps3].title}</TitleContainer>
+                    <Link href={"/blog/post" + ps3}><TitleContainer>{post[ps3].title}</TitleContainer></Link>
                       <Postdescription>{post[ps3].description}</Postdescription>
                       <Typography variant="body1" component={"p"}>
                         <Link href={"/blog/post" + ps3}>Read More</Link>
@@ -316,7 +316,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
                   />
                   <CardContent>
                     <MiniCardStyle>
-                      <TitleContainer>{post[ps4].title}</TitleContainer>
+                    <Link href={"/blog/post" + ps4}><TitleContainer>{post[ps4].title}</TitleContainer></Link>
                       <Postdescription>{post[ps4].description}</Postdescription>
                       <Typography variant="body1" component={"p"}>
                         <Link href={"/blog/post" + ps4}>Read More</Link>
@@ -346,7 +346,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
                   />
                   <CardContent>
                     <MiniCardStyle>
-                      <TitleContainer>{post[ps5].title}</TitleContainer>
+                    <Link href={"/blog/post" + ps5}><TitleContainer>{post[ps5].title}</TitleContainer></Link>
                       <Postdescription>{post[ps5].description}</Postdescription>
                       <Typography variant="body1" component={"p"}>
                         <Link href={"/blog/post" + ps5}>Read More</Link>
@@ -376,7 +376,7 @@ function blog({ title, description, image, url, keyword, width, height }) {
                   />
                   <CardContent>
                     <MiniCardStyle>
-                      <TitleContainer>{post[ps6].title}</TitleContainer>
+                    <Link href={"/blog/post" + ps6}><TitleContainer>{post[ps6].title}</TitleContainer></Link>
                       <Postdescription>{post[ps6].description}</Postdescription>
                       <Typography variant="body1" component={"p"}>
                         <Link href={"/blog/post" + ps6}>Read More</Link>
