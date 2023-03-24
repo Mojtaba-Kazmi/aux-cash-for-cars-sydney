@@ -11,6 +11,7 @@ import {
 import FacebookRoundedIcon from "@mui/icons-material/FacebookRounded";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import PinterestIcon from "@mui/icons-material/Pinterest";
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import YouTubeIcon from '@mui/icons-material/YouTube';
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import { styled } from '@mui/system';
@@ -197,9 +198,12 @@ const Footer = () => {
               sx={{display: 'flex', justifyContent: "space-between"}}
               px={{md:'0',sm:'0',xs:'30px'}}
               >
-                  <Icon>
+                <Link href={'https://www.facebook.com/auxcashforcarsydney'} target='_blank'>
+                <Icon>
                     <FacebookRoundedIcon />
                   </Icon>
+                </Link>
+                  
                   <Icon>
                     <InstagramIcon />
                   </Icon>
@@ -208,6 +212,9 @@ const Footer = () => {
                   </Icon>
                   <Icon>
                     <YouTubeIcon />
+                  </Icon>
+                  <Icon>
+                    <LinkedInIcon />
                   </Icon>
                 </Box>
               
