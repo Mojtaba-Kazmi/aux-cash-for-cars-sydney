@@ -73,17 +73,14 @@ const Header = (props) => {
       </Typography>
       <Divider/>
       {navItems.map((item) => (
-        
-          <Link
-            key={item.index}
-            href={item.url}
-            style={{ color: "#888", display: "block", padding: "25px", borderBottom: "1px solid #e1e0e0"}}
-          >
-            {item.label}
-          </Link>
-
+        <Link
+          key={item.index}
+          href={item.url}
+          style={{ color: "#888", display: "block", padding: "25px", borderBottom: "1px solid #e1e0e0"}}
+        >
+          {item.label}
+        </Link>
       ))}
-      
     </Box>
   );
 
@@ -141,7 +138,7 @@ const Header = (props) => {
                   }}
                 >
                   <Button
-                    sx={{ display: "block", width: "100%", height: "100%" }}
+                    sx={{ display: "block", width: "100%", height: "100%", color: 'body.main'}}
                   >
                     {item.label}
                   </Button>
