@@ -1,7 +1,7 @@
 export const slidepage = [
     {
         image: "/assets/mercedes.jpg",
-        alt: "CASH FOR CARS SYDNEY",
+        alt: "Hundreds of ol and damaged cars in a junk car buyer",
         title: <h1>CASH FOR CARS SYDNEY</h1>,
         description: 
         <p>
@@ -11,7 +11,7 @@ export const slidepage = [
     },
     {
         image: "/assets/nissan.jpg",
-        alt: "TOP DOLLAR FOR CARS",
+        alt: "Junk car buyer removing damaged and old cars",
         title: <h2>TOP DOLLAR FOR CARS</h2>,
         description: 
         <p>
@@ -21,7 +21,7 @@ export const slidepage = [
     },
     {
         image: "/assets/sydney-wreckers-images.jpg",
-        alt: "SCRAP CAR REMOVAL",
+        alt: "Scrap cars in a scrap car buyer",
         title: <h2>SCRAP CAR REMOVAL</h2>,
         description: 
         <p>
