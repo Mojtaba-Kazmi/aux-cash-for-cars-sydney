@@ -50,6 +50,7 @@ const Arowbtn = styled('div')`
     display: flex;
     justify-content: center;
     align-items: center;
+    animation: all 4s ease-in infinite;
   }
   @media screen and (max-width: 600px) {
     div{
@@ -62,18 +63,18 @@ const Animation1 = styled ('div')
 `
 transition: all 4s;
 animation: textmoving1 4s;
-animation-iteration-count:1;
-animation-fill-mode:none;
+animation-iteration-count: infinite;
+animation-fill-mode: ease;
 
 @keyframes textmoving1 {
 
   0%{
-    position: absolute;
-    left: 0px;
+    position: relative;
+    right: -10px;
   }
   100%{
-    position: absolute;
-    left: 100px;
+    position: relative;
+    right: 30px;
    }   
   }
 `
@@ -126,7 +127,7 @@ function ImageSlider2() {
         {/* Arow buttons end */}
 
         {/* slide  start */}
-        
+        <Animation1>
         <Box
         height={{md: '80vh', sm:'90vh', xs:'90vh'}}
         sx={{width: '100%'}}
@@ -174,6 +175,7 @@ function ImageSlider2() {
 
            </Grid>
         </Box>
+        </Animation1>
         {/* slide  start */}
       </Container>
     </Box>
