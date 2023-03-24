@@ -1,5 +1,5 @@
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Container, Box, Grid, CardMedia } from "@mui/material"
 import PhonNumber from "./PhonNumber"
 import { styled } from "@mui/system";
@@ -24,9 +24,9 @@ const SlideContentStyle = styled('div')`
   }
   @media screen and (max-width: 600px) {
     
-    gap: 50px;
+    gap: 40px;
   h1, h2{
-    font-size: 30px;
+    font-size: 28px;
     color: #ffffff;
     
   }
@@ -125,9 +125,23 @@ function ImageSlider2() {
     }
   }
 
+
+
+//   function autoSlider (){
+//     if(slideNum<slidepage.length-1){
+//       setSlideNum(slideNum+1);
+//       setAnimation(!animation);
+//     }else{
+//       setSlideNum(0);
+//       setAnimation(!animation);
+//     }
+//   }
+  
+  
 //   setTimeout(() => {
-//     hendelRightbtn();
-// }, 6000);
+//     autoSlider();
+// }, 12000);
+
 
   return (
     <Box
@@ -192,7 +206,7 @@ function ImageSlider2() {
                     {slidepage[slideNum].description}
                     
                   </SlideContentStyle>
-                  <Box mt={{md:'50px', sm: "5px", xs: "50px"}}>
+                  <Box mt={{md:'50px', sm: "5px", xs: "40px"}}>
                     <PhonNumber/>
                   </Box>
                 </Grid>
@@ -241,7 +255,7 @@ function ImageSlider2() {
                     {slidepage[slideNum].description}
                     
                   </SlideContentStyle>
-                  <Box mt={{md:'50px', sm: "5px", xs: "50px"}}>
+                  <Box mt={{md:'50px', sm: "5px", xs: "40px"}}>
                     <PhonNumber/>
                   </Box>
                 </Grid>
