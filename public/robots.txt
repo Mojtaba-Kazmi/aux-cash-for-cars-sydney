@@ -1,3 +1,3 @@
 # Allow all user agents.
 User-agent: *
-Allow: https://auxcashforcarsydney.com/
+Allow: https://auxcashforcarsydney.com
