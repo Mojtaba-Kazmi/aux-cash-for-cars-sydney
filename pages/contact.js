@@ -17,7 +17,7 @@ export async function getServerSideProps() {
       title:
         "Contact Us - Aux Cash For Cars Sydney",
       description:
-        "Fill out the form  and one of our Car Removal specialists will give you a call. Alternatively you may call us free on 0469798540",
+        "Please complete the form and one of our car removal specialists will contact you. Alternately, you can call us at 0469798540.",
       image: "https://auxcashforcarsydney.com/assets/contact.png",
       url: "https://auxcashforcarsydney.com/contact",
       keyword:
