@@ -23,7 +23,7 @@ export async function getServerSideProps() {
     props: {
       title: "FAQs - Aux Cash For Cars Sydney",
       description:
-        "Sell your car now for cash or a bank check. Aux Cash For Car & Aux Car Removals Pays The Highest Cash For Cars In Sydney, we Pay the top amount  for your old, unwanted, scrap, or unroadworthy cars",
+        "Sell your car now for cash or a bank check. Aux Cash For Car pays the highest cash for cars in Sydney, we pay the top amount  for your old, unwanted, scrap, or unworthy cars",
       url: "https://auxcashforcarsydney.com/faqs",
       keyword:
         "cash for cars sydney, Car Removal Sydney,sell my old car, why a cash for car, brands, fast pick-up, price of damaged cars, car title",
