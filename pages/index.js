@@ -1,7 +1,6 @@
 import { Box } from '@mui/material'
 import Head from 'next/head'
-import ImageSlider from '@/components/ImageSlider2'
-import images from './api/images'
+import ImageSlider from '@/components/ImageSlider'
 import HowWeWorks from '@/components/HowWeWorks'
 import AboutCompany from '@/components/AboutCompany'
 import CompanyValues from '@/components/CompanyValues'
@@ -32,7 +31,7 @@ export default function Home() {
       
       <main >
         <Box width={'100%'} overflow ={'Hidden'}>
-          <ImageSlider images={images}/>
+          <ImageSlider/>
           <HowWeWorks />
           <AboutCompany />
           <CompanyValues />

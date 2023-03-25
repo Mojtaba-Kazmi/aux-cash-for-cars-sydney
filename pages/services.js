@@ -1,5 +1,8 @@
 import OurServices from "@/components/OurServices";
 import Head from "next/head";
+import ContactForm from "@/components/ContactForm";
+import ContactUsCard from "@/components/ContactUsCard";
+import { Grid, Container } from "@mui/material";
 
 export async function getServerSideProps() {
   return {
@@ -19,7 +22,7 @@ export async function getServerSideProps() {
 
 const Services = ({ title, description, image, url, keyword, width, height }) => {
   return (
-    <>
+    <Container>
       <Head>
         <title>{title}</title>
         <meta name="description" content={description} />
@@ -40,7 +43,23 @@ const Services = ({ title, description, image, url, keyword, width, height }) =>
         <meta name="twitter:image" content={image} />
       </Head>
       <OurServices />
-    </>
+      <Grid
+            sx={{
+              mt: "10px",
+              mb: "50px",
+              justifyContent: "space-between",
+              alignItems: "center",
+            }}
+            container
+          >
+            <Grid item md={5.8} sm={12} xs={12} mb={'40px'}>
+              <ContactUsCard />
+            </Grid>
+            <Grid item md={5.8} sm={12} xs={12}>
+              <ContactForm />
+            </Grid>
+          </Grid>
+    </Container>
   );
 };
 

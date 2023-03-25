@@ -1,203 +1,273 @@
-import React, { useState } from "react";
-import Image from "next/image";
-import { ArrowLeftOutlined } from "@mui/icons-material";
-import { ArrowRightOutlined } from "@mui/icons-material";
-import Container from "@mui/material/Container";
-import { mobile, iPad } from "./Responsive";
-import { Box } from '@mui/material'
-import { styled } from '@mui/system';
-import PhonNumber from "./PhonNumber";
 
-const AllContainer = styled(Container)`
-  width: 100%;
-  height: auto;
-  display: flex;
-  background-color: #03b437;
-  position: relative;
-  overflow: hidden;
-  color: #fff;
-  ${mobile({
-    height: "auto",
-  })}
-`;
+import { useState, useEffect } from "react";
+import { Container, Box, Grid, CardMedia } from "@mui/material"
+import PhonNumber from "./PhonNumber"
+import { styled } from "@mui/system";
+import {slidepage} from '../pages/api/slider-content'
 
-const Arrow = styled('div')`
-  width: 30px;
-  height: 30px;
-  background: linear-gradient(0deg, #00c03a 0%, #4fe885 49%, #01b636 100%);
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: absolute;
-  color: white;
-  top: 0;
-  bottom: 0;
-  left: ${(props) => props.direction === "left" && "10px"};
-  right: ${(props) => props.direction === "right" && "10px"};
-  margin: auto;
-  cursor: pointer;
-  butt0n:hover{
-    background: linear-gradient(0deg,  #c4c0c0 0%, #ffffff 49%, #c4c0c0 100%);
-    color: #01b636;
-    border: #01b636 solid 2px;
-    transition: all 400ms;
+import ArrowBackIosNewIcon from '@mui/icons-material/ArrowBackIosNew';
+import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
+
+const SlideContentStyle = styled('div')`
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+  h1, h2{
+    font-size: 48px;
+    color: #ffffff;
+    
   }
-  z-index: 2;
-`;
-
-const Wrapper = styled('div')`
-  height: 100%;
-  display: flex;
-  transition: all 1.5s ease;
-  transform: translate(${(props) => props.slideIndex * -100}vw);
-`;
-
-const Slide = styled('div')`
-  width: 100vw;
-  height: auto;
-  display: flex;
-  justify-Content: center;
-  align-items: center;
-  background-color: ${(props) => props.bg};
-  ${iPad({
-    flexDirection: 'column',
-  })}
-`;
-
-const ImgContainer = styled('div')`
-  height: auto;
-  margin-left: -25px;
-  flex: 1;
-  ${iPad({
-    width: '90%',
-    marginLeft: '-90px'
-  })}
-  ${mobile({
-    width: '90%',
-    marginLeft: '-60px'
-  })}
-`;
-
-const ImageSize = styled(Image)`
-  height: 80%;
-  width: 90%;
-  margin-bottom: -4px;
-  ${iPad({
-    width: '100%',
-    height: 'auto'
-  })}
-  ${mobile({
-    height: "auto",
-  })}
-`;
-
-const InfoContainer = styled('div')`
-  flex: 1;
-  width: 500px;
-  height: auto;
-  padding-bottom: 40px;
-  padding-right: 250px;
-  ${iPad({
-    width: '100%',
-    paddingLeft: '40px',
-  })}
-  ${mobile({
-    width: '100%',
-  })}
-`;
-
-const Title = styled('div')`
-  font-size: 42px;
-  width: 490px;
-  ${iPad({
-    marginTop: "50px",
-    width: '600px',
-    fontSize: "25px",
-  })}
-  ${mobile({
-    width: '290px',
-    marginTop: "50px",
-    marginBottom: "-40px",
-    fontSize: "25px",
-  })}
-`;
-
-const Description = styled('div')`
-  margin: 50px 0px;
-  font-size: 20px;
-  font-weight: 500;
-  text-align: justify;
-  width: 470px;
-  letter-spacing: 3px;
-  ${iPad({
-    width: '600px',
-  })}
-  ${mobile({
-    fontSize: "15px",
-    fontWeight: "500",
-    letterSpacing: "0px",
-    height: '50px',
-    width: '300px',
-    padding: '0 20px',
-  })}
-`;
-
-const ImageSlider = ({ images }) => {
-  const [slideIndex, setSlideIndex] = useState(0);
-
-  const handleClick = (direction) => {
-    if (direction === "left") {
-      setSlideIndex(slideIndex > 0 ? slideIndex - 1 : 2); //the maximum value of the slideIndex should be 2, not 3.
-    } else {
-      setSlideIndex(slideIndex < 2 ? slideIndex + 1 : 0); //the minimum value of the slideIndex should be 0, not -1.
+  P{
+    color: #ffffff;
+    font-size: 25px;
+  }
+  @media screen and (max-width: 600px) {
+    
+    gap: 40px;
+  h1, h2{
+    font-size: 28px;
+    color: #ffffff;
+    
+  }
+  P{
+    color: #ffffff;
+    font-size: 20px;
+  }
+  }
+`
+const Arowbtn = styled('div')`
+  div{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    border-radius: 50%;
+    font-size: 30px;
+    top: 50vh;
+    z-index: 100;
+    background: linear-gradient(0deg, #00c03a 0%, #4fe885 49%, #01b636 100%);
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: all 4s ease-in infinite;
+  }
+  @media screen and (max-width: 600px) {
+    div{
+      top: 40vh;
     }
-  };
+  }
+`
+
+const Animation1 = styled ('div')
+`
+animation: movetoleft 4s ;
+animation-iteration-count: 1;
+animation-fill-mode: ease;
+
+@keyframes movetoleft {
+
+  0%{
+    position: relative;
+    right: -50%;
+  }
+  100%{
+    position: relative;
+    right: 0%;
+   }   
+  }
+`
+const Animation2 = styled ('div')
+`
+animation: movetoleft 4s ;
+animation-iteration-count: 1;
+animation-fill-mode: ease;
+
+@keyframes movetoleft {
+
+  0%{
+    position: relative;
+    right: -50%;
+  }
+  100%{
+    position: relative;
+    right: 0%;
+   }   
+  }
+`
+
+
+
+function ImageSlider2() {
+  
+let [slideNum,setSlideNum] = useState(0);
+let [animation, setAnimation] = useState(true);
+
+
+
+  function hendelRightbtn (){
+    if(slideNum<slidepage.length-1){
+      setSlideNum(slideNum+1);
+      setAnimation(!animation);
+    }else{
+      setSlideNum(0);
+      setAnimation(!animation);
+    }
+  }
+
+  function hendelLeftbtn (){
+    if(slideNum == 0){
+      setSlideNum(slidepage.length-1);
+      setAnimation(!animation);
+    }else{
+      setSlideNum(slideNum-1);
+      setAnimation(!animation);
+    }
+  }
+
+
+
+//   function autoSlider (){
+//     if(slideNum<slidepage.length-1){
+//       setSlideNum(slideNum+1);
+//       setAnimation(!animation);
+//     }else{
+//       setSlideNum(0);
+//       setAnimation(!animation);
+//     }
+//   }
+  
+  
+//   setTimeout(() => {
+//     autoSlider();
+// }, 12000);
+
 
   return (
-    <>
     <Box
     sx={{
             backgroundColor: "#03b437",
             color: "body.main",
             width: "100%",    
-    }}
-    >
-      <Container>
-      <AllContainer maxWidth="ls">
-        <Arrow direction="left" onClick={() => handleClick("left")}>
-          <ArrowLeftOutlined />
-        </Arrow>
-        <Wrapper slideIndex={slideIndex}>
-          {images.map((item) => (
-            <Slide bg={item.bg} key={item.id}>
-              <ImgContainer>
-                <ImageSize
-                  src={item.url}
-                  alt={item.title}
-                  width={500}
-                  height={500}
-                />
-              </ImgContainer>
-              <InfoContainer>
-                <Title>{item.title}</Title>
-                <Description>{item.desc}</Description>
-                  <Box sx={{width: "100%" }}>
-                    <PhonNumber />
+    }}>
+      <Container sx={{position: "relative"}}>
+        {/* Arow buttons start */}
+          <Arowbtn>
+                  <Box left={{md: '0', sm: '30px', xs: '20px'}} onClick={hendelLeftbtn} >
+                      <ArrowBackIosNewIcon/>
                   </Box>
-                  
-              </InfoContainer>
-            </Slide>
-          ))}
-        </Wrapper>
-        <Arrow direction="right" onClick={() => handleClick("right")}>
-          <ArrowRightOutlined />
-        </Arrow>
-      </AllContainer>
-      </Container>
-      </Box>
-    </>
-  );
-};
+            </Arowbtn>
+            <Arowbtn>
+                  <Box right={{md: '0', sm: '30px', xs: '20px'}} onClick={hendelRightbtn}>
+                      <ArrowForwardIosIcon/>
+                  </Box>
+          </Arowbtn>
+        {/* Arow buttons end */}
 
-export default ImageSlider;
+        {/* slide  start */}
+        {animation ? 
+        <Animation1>
+            <Box
+    height={{md: '80vh', sm:'90vh', xs:'90vh'}}
+    sx={{width: '100%'}}
+    >
+     
+       <Grid container height={"100%"} justifyContent={'space-between'}>
+
+          
+         {/* slide image start */}
+         
+            <Grid item md={5.8} sm={12} xs={12}
+            height={{md:'100%', sm:'70%', xs:'45%'}}
+          
+            >
+                <CardMedia
+                  sx={{ height: "100%" }}
+                  image={slidepage[slideNum].image}
+                  title={slidepage[slideNum].alt}
+                  alt={slidepage[slideNum].alt}
+                />
+            </Grid>
+            
+          {/* slide image end */}
+
+          {/* slide text start */}
+            <Grid item md={5.8} sm={12} xs={12}
+            height={{md:'100%', sm:'30%', xs:'55%'}}
+            sx={{
+            display: 'flex',
+            flexDirection: 'column',
+            justifyContent: 'center', 
+            alignItems:'center'
+          
+            }}>
+              <SlideContentStyle>
+                {slidepage[slideNum].title}
+                {slidepage[slideNum].description}
+                
+              </SlideContentStyle>
+              <Box mt={{md:'50px', sm: "5px", xs: "40px"}}>
+                <PhonNumber/>
+              </Box>
+            </Grid>
+          {/* slide text end */}
+
+       </Grid>
+    </Box>
+        </Animation1> : <Animation2>
+        <Box
+    height={{md: '80vh', sm:'90vh', xs:'90vh'}}
+    sx={{width: '100%'}}
+    >
+     
+       <Grid container height={"100%"} justifyContent={'space-between'}>
+
+          
+         {/* slide image start */}
+         
+            <Grid item md={5.8} sm={12} xs={12}
+            height={{md:'100%', sm:'70%', xs:'45%'}}
+          
+            >
+                <CardMedia
+                  sx={{ height: "100%" }}
+                  image={slidepage[slideNum].image}
+                  title={slidepage[slideNum].alt}
+                  alt={slidepage[slideNum].alt}
+                />
+            </Grid>
+            
+          {/* slide image end */}
+
+          {/* slide text start */}
+            <Grid item md={5.8} sm={12} xs={12}
+            height={{md:'100%', sm:'30%', xs:'55%'}}
+            sx={{
+            display: 'flex',
+            flexDirection: 'column',
+            justifyContent: 'center', 
+            alignItems:'center'
+          
+            }}>
+              <SlideContentStyle>
+                {slidepage[slideNum].title}
+                {slidepage[slideNum].description}
+                
+              </SlideContentStyle>
+              <Box mt={{md:'50px', sm: "5px", xs: "40px"}}>
+                <PhonNumber/>
+              </Box>
+            </Grid>
+          {/* slide text end */}
+
+       </Grid>
+    </Box>
+        </Animation2>  }
+        
+      </Container>
+    </Box>
+  )
+}
+
+export default ImageSlider2
+
