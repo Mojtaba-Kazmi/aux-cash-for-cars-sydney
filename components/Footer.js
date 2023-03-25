@@ -204,18 +204,29 @@ const Footer = () => {
                   </Icon>
                 </Link>
                   
+                <Link href={'https://www.instagram.com/auxcashfor/'} target='_blank'>
                   <Icon>
                     <InstagramIcon />
                   </Icon>
+                  </Link>
+
+                  <Link href={'https://www.pinterest.com/auxcashforcar'} target='_blank'>
                   <Icon>
                     <PinterestIcon />
                   </Icon>
+                  </Link>
+
+                  <Link href={'https://www.youtube.com/@auxcashforcarsydney'} target='_blank'>
                   <Icon>
                     <YouTubeIcon />
                   </Icon>
+                  </Link>
+
+                  <Link href={'https://www.linkedin.com/company/aux-cash-for-car-sydney'} target='_blank'>
                   <Icon>
                     <LinkedInIcon />
                   </Icon>
+                  </Link>
                 </Box>
               
             </Grid>
