@@ -5,8 +5,8 @@ export const slidepage = [
         title: <h1>CASH FOR CARS SYDNEY</h1>,
         description: 
         <p>
-            Get top dollar for your car and free removal. We buy all types of vehicles,     
-            including damaged and non-running cars. Contact us for a free quote today!
+            Get the most cash for your vehicle and free removal. We purchase all kinds of vehicles, 
+            which includes damaged and non-running vehicles. Contact us right away for a free estimate!
         </p>
     },
     {
@@ -15,8 +15,8 @@ export const slidepage = [
         title: <h2>TOP DOLLAR FOR CARS</h2>,
         description: 
         <p>
-            Sell your car for the highest price with our top dollar offer today. Get the 
-            most cash for your car - contact us for a free quote now.
+            Receive the best price for your vehicle and free removal. We buy all kinds of vehicles, 
+            including damaged and non-running vehicles. Please reach out to us immediately for a free quote!
         </p>
     },
     {
@@ -25,8 +25,8 @@ export const slidepage = [
         title: <h2>SCRAP CAR REMOVAL</h2>,
         description: 
         <p>
-            Need to get rid of a scrap car? We offer fast and hassle-free removal. Don't 
-            let a scrap car take up space - we'll remove it for you at no cost.
+            Do you need to get rid of an old car? We provide quick and easy disposal. 
+            Don't let a scrap car take up room; we'll remove it for free.
         </p>
     },
 ]
