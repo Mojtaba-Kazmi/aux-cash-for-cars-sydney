@@ -1,5 +1,5 @@
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Container, Box, Grid, CardMedia } from "@mui/material"
 import PhonNumber from "./PhonNumber"
 import { styled } from "@mui/system";
@@ -24,9 +24,9 @@ const SlideContentStyle = styled('div')`
   }
   @media screen and (max-width: 600px) {
     
-    gap: 50px;
+    gap: 40px;
   h1, h2{
-    font-size: 30px;
+    font-size: 28px;
     color: #ffffff;
     
   }
@@ -61,49 +61,87 @@ const Arowbtn = styled('div')`
 
 const Animation1 = styled ('div')
 `
-transition: all 4s;
-animation: textmoving1 4s;
-animation-iteration-count: infinite;
+animation: movetoleft 4s ;
+animation-iteration-count: 1;
 animation-fill-mode: ease;
 
-@keyframes textmoving1 {
+@keyframes movetoleft {
 
   0%{
     position: relative;
-    right: -10px;
+    right: -50%;
   }
   100%{
     position: relative;
-    right: 30px;
+    right: 0%;
+   }   
+  }
+`
+const Animation2 = styled ('div')
+`
+animation: movetoleft 4s ;
+animation-iteration-count: 1;
+animation-fill-mode: ease;
+
+@keyframes movetoleft {
+
+  0%{
+    position: relative;
+    right: -50%;
+  }
+  100%{
+    position: relative;
+    right: 0%;
    }   
   }
 `
 
 
 
+
 function ImageSlider2() {
 
   let [slideNum,setSlideNum] = useState(0);
+  let [animation, setAnimation] = useState(true);
+
 
   function hendelRightbtn (){
     if(slideNum<slidepage.length-1){
       setSlideNum(slideNum+1);
+      setAnimation(!animation);
     }else{
       setSlideNum(0);
+      setAnimation(!animation);
     }
   }
 
   function hendelLeftbtn (){
     if(slideNum == 0){
       setSlideNum(slidepage.length-1);
+      setAnimation(!animation);
     }else{
       setSlideNum(slideNum-1);
+      setAnimation(!animation);
     }
   }
 
+
+
+//   function autoSlider (){
+//     if(slideNum<slidepage.length-1){
+//       setSlideNum(slideNum+1);
+//       setAnimation(!animation);
+//     }else{
+//       setSlideNum(0);
+//       setAnimation(!animation);
+//     }
+//   }
+  
+  
 //   setTimeout(() => {
-//     hendelRightbtn();
-// }, 6000);
+//     autoSlider();
+// }, 12000);
+
 
   return (
     <Box
@@ -127,7 +165,57 @@ function ImageSlider2() {
         {/* Arow buttons end */}
 
         {/* slide  start */}
+        {animation ? 
         <Animation1>
+            <Box
+        height={{md: '80vh', sm:'90vh', xs:'90vh'}}
+        sx={{width: '100%'}}
+        >
+         
+           <Grid container height={"100%"} justifyContent={'space-between'}>
+
+              
+             {/* slide image start */}
+             
+                <Grid item md={5.8} sm={12} xs={12}
+                height={{md:'100%', sm:'70%', xs:'45%'}}
+              
+                >
+                    <CardMedia
+                      sx={{ height: "100%" }}
+                      image={slidepage[slideNum].image}
+                      title={slidepage[slideNum].alt}
+                      alt={slidepage[slideNum].alt}
+                    />
+                </Grid>
+                
+              {/* slide image end */}
+
+              {/* slide text start */}
+                <Grid item md={5.8} sm={12} xs={12}
+                height={{md:'100%', sm:'30%', xs:'55%'}}
+                sx={{
+                display: 'flex',
+                flexDirection: 'column',
+                justifyContent: 'center', 
+                alignItems:'center'
+              
+                }}>
+                  <SlideContentStyle>
+                    {slidepage[slideNum].title}
+                    {slidepage[slideNum].description}
+                    
+                  </SlideContentStyle>
+                  <Box mt={{md:'50px', sm: "5px", xs: "40px"}}>
+                    <PhonNumber/>
+                  </Box>
+                </Grid>
+              {/* slide text end */}
+
+           </Grid>
+        </Box>
+        {/* slide  start */}
+        </Animation1> : <Animation2>
         <Box
         height={{md: '80vh', sm:'90vh', xs:'90vh'}}
         sx={{width: '100%'}}
@@ -167,7 +255,7 @@ function ImageSlider2() {
                     {slidepage[slideNum].description}
                     
                   </SlideContentStyle>
-                  <Box mt={{md:'50px', sm: "5px", xs: "50px"}}>
+                  <Box mt={{md:'50px', sm: "5px", xs: "40px"}}>
                     <PhonNumber/>
                   </Box>
                 </Grid>
@@ -175,8 +263,9 @@ function ImageSlider2() {
 
            </Grid>
         </Box>
-        </Animation1>
         {/* slide  start */}
+        </Animation2>  }
+        
       </Container>
     </Box>
   )
