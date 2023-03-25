@@ -2,36 +2,33 @@
 export const steps = [
   {
     label: "GET PRICE",
-    description: `When you get in touch with us
-           and shares details about your car, like its brand, model, year, 
-           how much it has been driven, and how well it's maintained. 
-           After that, we assess the car's condition and calculate its worth. 
-           Based on factors such as the car's popularity in the market, 
-           its current condition, and whether any repairs are required, 
-           we offer the car owner a price that we believe is fair..`,
+    description: `As soon as you contact us and provide details about your car, 
+                  such as the model, year, how much you've driven it, and how well it's
+                  been maintained, we'll assess its condition and calculate its value.
+                  Our price is determined using factors such as the car's popularity in 
+                  the market, its current condition, and whether any repairs are required.`,
   },
   {
     label: "SIGN DIGITAL PAPERWORK",
-    description: `By signing the title, the seller releases ownership of the car.
-         Upon signing the title, the buyer takes it to the DMV, 
-         which issues a valid registration and title. 
-         It may be necessary to complete additional paperwork, 
-         such as a bill of sale or a transfer of ownership form, in some states..`,
+    description: `The seller releases ownership of the car by signing the title. Once 
+                  the buyer has signed the title, he or she takes it to the DMV, which 
+                  issues a valid registration and title. In some cases, additional paperwork, 
+                  such as a bill of sale or a transfer of ownership form, will be necessary.
+    `,
   },
   {
     label: "GET PAID & WE PICK UP",
-    description: `Cash Payment: Our company will pay you in cash for your vehicle. 
-      This is the most straightforward payment method 
-      and allows you to get your money immediately.`,
+    description: `Our company will provide you with cash in exchange for your vehicle. This 
+    is the simplest method of payment and ensures that you receive your money as soon as possible.`,
   },
 ];
 
 /**About Us */
 export const AboutUsContent0 = (
   <>
-      Aux Cash for Car Sydney has been pioneering the metal resource
-      recycling industry in Sydney region, Australia since 2010 that
-      mostly has been active in car removal industry.
+      Aux Cash For Car Sydney has been involved in the metal recycling 
+      industry in the Sydney region of Australia since 2010, which has 
+      mainly been active in the car removal sector.
   </>
 );
 export const AboutUsContent1 = (
@@ -48,79 +45,77 @@ export const AboutUsContent1 = (
 );
 export const AboutUsContent2 = (
   <>
-      At Aux Cash for Car Sydney we try to start by
-      understanding our client&apos;s needs. Once we informed then we
-      work out the best time and payment we can offer. Our goal at Aux
-      Cash for Car Sydney is to offer our clients stress-free, good
-      and friendly car removal service in Sydney and the surrounding.
-      Aux Cash for Car Sydney gives
-      you up to $9999 for your old, junk, damaged or unwanted car on
-      the same receiving moment, anywhere in the Sydney.
+    In order to provide our clients with high quality service, we begin 
+    by understanding their requirements. Upon receiving your information, 
+    we will decide what is the best time and payment to offer. Our goal is 
+    to make sure that our clients receive an excellent and stress-free car 
+    removal service throughout Sydney and the surrounding areas.
+    Whether you have a junk, damaged, old, or unwanted car in Sydney, Aux 
+    Cash For Car Sydney, you can drop it off and have it picked up the same day.
   </>
 );
 export const AboutUsContent3 = (
   <>
-      If you are
-      planning to sell your unwanted car for some cash in Sydney, you
-      have come in the right place, because <b>Aux Cash for Car Sydney
-      offers you up to $9999 for your old car</b>.
+      You've come to the right place if you're looking to sell your used 
+      car for some cash in Sydney, since Aux Cash for Car Sydney pays 
+      up to $9999.
   </>
 );
 export const AboutUsContent4 = (
   <>
-      We are one of the
-      biggest, busiest and the most active car removal firms in Sydney
-      that always pay you the highest amount of cash for your old car
-      regardless of the age, condition, make and model of the car, and
-      always does it at the same receiving moment of the car.
+      Among the most active car removal firms in Sydney, we will always pay 
+      you the highest amount of cash regardless of the age, condition, make 
+      and model of your old vehicle, and we always do it in the same time. 
+      Plus, we offer convenient and safe collection services for your vehicle, 
+      so you don't have to worry about the hassle of transporting it yourself.
   </>
 );
 
 /** Our Values */
 export const content = (
   <>
-    {`We consider and stand for the five main values that we have chosen for our services that will guide the way we work on the projects: -`}
+    We consider and stand for five main values for our services that guide our work:
   </>
 )
 
 export const SatisfactionAndComplianceContent = (
   <>
-    {`We try our best to get the Satisfaction of our customers, clients and our employees, so we consider it as one of our values that we follow.`}
+    {' '}Customer, client and employee satisfaction is one of our values that we follow, so we strongly strive to achieve it.
   </>
 );
 
 export const OurCompatriot = (
   <>
-    {`We value our employees, customers, clients, and suppliers. We are consigned to support and contribute to the community.`}
+    {' '}We value our employees, customers, clients, and suppliers. We are committed to supporting and contributing to the community.
   </>
 );
 
 export const Perfection = (
   <>
-    {`We strive for industry leadership, best practices and operational perfection.`}
+    {' '}We aim for market leadership, best practices, and operational excellence.
   </>
 );
 
 export const Innovation = (
   <>
-    {`We are continuously working and investing in technologies in order to bring development and benefit our stakeholders and society.`}
+    {' '}We are constantly developing and investing in technologies in order to help our stakeholders and society.
   </>
 );
 export const Sustainability = (
   <>
-    {`We are consigned to provide and prepare the most sustainable recycling solutions to achieve the best possible outcome for the future.`}
+    {' '}We are tasked with providing and planning the most sustainable recycling solutions in order to achieve the best possible future result.
   </>
 );
 
 export const OurVision = (
   <>
-    {`To minimize the waste and making the good ways for recycling and reusing of them and supporting the community economy through that.`}
+    {' '}To reduce waste by finding good methods to recycle and reuse it, as well as to support the community economy.
   </>
 );
 
 export const OurMission = (
   <>
-    {`To provide the recycling services in an environmentally friendly way.`}
+    {' '}To provide recycling services in an ecologically responsible manner.
   </>
 );
 
@@ -128,45 +123,45 @@ export const OurMission = (
 
 export const CashForCarsSydney = (
   <>
-    {`We offer collection and transport of various vehicles including old and scrap cars, buses, lorries, tracks, 4x4s, and ... All types of vehicles are eligible for our cash for cars services. We provide free pickup services in all across of Sydney, Sydney West, East, Northern Beaches, Wollongong, Inner West, Great Western Sydney, North Shore, Macarthur, and the Hills. our services are fast, save, and 24 hours. Make yourself unconcerned with (Aux Cash for Car Sydney) and earn a good amount of money for your car.`}
+    {`We collect and move an extensive variety of vehicles, including old as well as scrap cars, buses, lorries, tracks, 4x4s, and... All vehicle types are eligible for our cash for cars services. We provide no-charge transportation in Sydney West, East, Northern Beaches, Wollongong, Inner West, Great Western Sydney, North Shore, Macarthur, and the Hills. Our services are quick, inexpensive, and easily available 24 hours a day, seven days a week. Allow yourself to be unconcerned about (Aux Cash for Car Sydney) and get an acceptable cost for the vehicle you own.`}
   </>
 )
 
 /* Exports */
 export const ContentExport0 = (
   <>
-    {`We export high-quality metals both ferrous and non-ferrous to the UAE. We have tried to prepare a range of container loaders and material handlers that meet the demands and needs of our buyers.`}
+    {`We ship high-quality metals that are both ferrous and nonferrous to the UAE. We attempted to prepare a selection of container loaders and material handlers that would meet the demands and requirements of our customers.`}
   </>
 )
 
 export const ContentExport1 = (
   <>
-    {`We have a good partnership and cooperation with each other in order to save environment and improve and support the econometry of both countries.`}
+    {`We've established excellent communication and cooperation with the goal to safeguard the natural world while enhancing as well as promote the economies of the two countries.`}
   </>
 )
 
 export const ContentExport2 = (
   <>
-    {`Due to the large amount of demand for the steel inside our own country, we also supply a considerable quality of Fragmented steel to the local or internal markets. We provide and prepare substantial amount of Frag steel across Australian Steel Mills.`}
+    {`We also supply a significant quantity of the fragmented steel to the local or internal markets due to the high demand for steel within our own country. We supply and produce a significant quantity of Frag steel to Australian steel mills.`}
   </>
 )
 
 export const ResyclerContnet1 = (
   <>
-    {`(Aux Cash for Car Sydney) is one of the biggest and most active car removals in Sydney, Queensland that gives you the good, save, and satisfying service and offers you the highest prices and cash for your unwanted cars that can go up to $9999.
-We collect and recycle all types of vehicles including old and scrap cars, buses, lorries, tracks, 4x4s, and ..., if you have any types of above, (Aux Cash for Car Sydney) will come and collect your unwanted vehicle for free_ and will offer you cash for your unwanted vehicle`}
+    {`(Aux Cash for Car Sydney) is one of the largest and most active car removals in Sydney, Queensland, providing you with a good, save, and enjoyable experience as well as the highest possible rates and cash for your unwanted cars, which can reach $9999.
+We collect and recycle all kinds of vehicles, including old along with scrap cars, buses, lorries, tracks, 4x4s, and so on. If you have any of the above, (Aux Cash for Car Sydney) will drop by and take your unwanted vehicle for free and provide you cash for it.`}
   </>
 )
 
 export const ResyclerContnet2 = (
   <>
-    {`We offer collection and transport of various recycling vehicles. All types of vehicles are eligible for our cash for cars services. We provide free pickup services in all across of Sydney, Sydney West, East, Northern Beaches, Wollongong, Inner West, Great Western Sydney, North Shore, Macarthur, and the Hills. our services are fast, save, and 24 hours. Make yourself unconcerned with (Aux Cash for Car Sydney) and earn a good amount of money for your car.`}
+    {`We provide recycling car collection and transportation. Our cash for cars offerings are available for all vehicle kinds. We offer supportive pickups throughout Sydney, including Sydney West, East, Northern Beaches, Wollongong, Inner West, Great Western Sydney, North Shore, Macarthur, and the Hills. Our services are quick, reasonably priced, and available around the clock. Allow yourself to be unconcerned about (Aux Cash for Car Sydney) and make a good sum of money for your car.`}
   </>
 )
 
 // Footer
 export const FooterSection1 = (
   <>
-    {`Aux Cash for Car buys all kinds of cars for cash and pay best price as compare to other wreckers and dealers.`}
+    {`Aux Cash for Car acquires all types of vehicles for cash and pays the highest price in comparison to other car wreckers and dealers.`}
   </>
 );
