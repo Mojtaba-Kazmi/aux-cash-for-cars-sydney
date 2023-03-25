@@ -6,7 +6,6 @@ import Head from "next/head";
 import Script from "next/script";
 import { useEffect } from "react";
 import { useRouter } from "next/router";
-import gtag from "@/lib/gtag";
 
 export default function App({ Component, pageProps }) {
   const router = useRouter();
