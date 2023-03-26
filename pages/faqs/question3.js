@@ -14,7 +14,7 @@ export async function getServerSideProps() {
     props: {
       title: "FAQs - How fast do Aux Cash for Car pick-up my car?",
       description:
-        "We are one of the fastest car removal companies in Sydney. Typically, it'll take us between one and three days to pick up your car.",
+        "We are one of Sydney's fastest vehicle removal companies. It usually takes us one to three days to collect up your car.",
       url: "https://auxcashforcarsydney.com/faqs/question3",
       keyword:
         "cash for cars sydney, Car Removal Sydney, sell my old car, fast, pick-up car",

@@ -14,7 +14,7 @@ export async function getServerSideProps() {
     props: {
       title: "FAQs - What kind of cars does Aux Cash for Car buy?",
       description:
-        "Aux Cash for Car will purchase damaged vehicles of any type, including vehicles with physical, electrical or mechanical damage as well as vehicles with high mileage.",
+        "Aux Cash for Car will buy any type of damaged car, including those with physical, electrical, or mechanical damage, as well as those with a high mileage.",
       url: "https://auxcashforcarsydney.com/faqs/question2",
       keyword:
         "cash for cars sydney, Car Removal Sydney, sell my old car, damaged vehicles",

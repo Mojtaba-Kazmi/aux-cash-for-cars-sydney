@@ -14,7 +14,7 @@ export async function getServerSideProps() {
     props: {
       title: "FAQs - How much I should expect for my car?",
       description:
-        "Our team utilizes the most advanced technologies to calculate a fair offer representing how much your vehicle is. Therefore, we cannot say exactly how much you'll get there unless we hear more details about your vehicle's type and condition.",
+        "Our team uses modern technology to calculate a fair offer based on the value of your vehicle. As a result, we can't tell how much you'll get until we know more about the type and condition of your vehicle.",
       url: "https://auxcashforcarsydney.com/faqs/question4",
       keyword:
         "cash for cars sydney, Car Removal Sydney, sell my old car, price, fair offer",

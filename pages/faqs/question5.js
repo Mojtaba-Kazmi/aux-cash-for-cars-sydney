@@ -19,7 +19,7 @@ export async function getServerSideProps() {
     props: {
       title: "FAQs - Will you buy my car if it doesn’t have title?",
       description:
-        "Of course, we do! We will also have to walk through the process of transferring ownership properly",
+        "We certainly do! We will also need to go through the procedure of properly transferring ownership.",
       url: "https://auxcashforcarsydney.com/faqs/question5",
       keyword:
         "cash for cars sydney, Car Removal Sydney, sell my old car, ownership, car title, paperwork",
