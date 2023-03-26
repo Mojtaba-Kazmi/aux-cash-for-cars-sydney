@@ -1,11 +1,11 @@
 export const Section1Contact = (
     <>
-      {`Your professional and friendly scrap metal recycler. We specialize in the safe and efficient recycling of all scrap metals while offering a customer-centric service for all of our valued clients. We strive to provide the highest quality of service and satisfaction to our customers. `}
+      {`We specialize in the safe and efficient recycling of all scrap metals while providing a customer-centric service to all of our valued clients. We try to provide the highest possible level of service and happiness to our customers.`}
     </>
   )
 
   export const Section2Contact = (
     <>
-      {`We offer free car removal all over the greater Sydney area. Turn your car removal needs into cash for your car all over Sydney. We’ll organize car removal for you today – and pay cash!`}
+      {`We provide free car removal throughout the greater Sydney region. Across Sydney, you can turn your car removal requirements into cash for your car. We'll arrange for car removal immediately and pay cash!`}
     </>
    )
