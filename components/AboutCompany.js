@@ -90,7 +90,7 @@ export default function AboutCompany() {
             <Stack sx={{ mt: { sm: "2", md: "120px" } }}>
               <CardMedia
                 component="img"
-                alt="green iguana"
+                alt="cash for cars sydney"
                 height={{ xs: "200px", sm: "" }}
                 image="/assets/about-us.png"
               />

@@ -98,7 +98,7 @@ const Contact = ({ title, description, image, url, keyword, width, height }) => 
               >
               <CardMedia
                 component="img"
-                alt=" "
+                alt="cash for cars sydney"
                 
                 height={{ xs: '180px', sm: '300px', md: '400px' }}
                 image="/assets/contact.png"

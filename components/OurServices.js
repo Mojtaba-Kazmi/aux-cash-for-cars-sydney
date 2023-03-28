@@ -43,7 +43,7 @@ export default function OurServices() {
           <Grid xs={12} sm={5.5} md={5.5} item>
             <CardMedia
               component="img"
-              alt="green iguana"
+              alt="cash for cars near me"
               height={{ md: "530px", sm: "300px" }}
               image="/assets/servises.png"
             />

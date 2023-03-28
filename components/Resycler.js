@@ -32,7 +32,7 @@ const Resycler = () => {
         <Grid item xs={12} sm={5} md={5} >
           <CardMedia
             component="img"
-            alt="green iguana"
+            alt="cash for cars nsw"
             width="100"
             image="/assets/professional.png"
           />

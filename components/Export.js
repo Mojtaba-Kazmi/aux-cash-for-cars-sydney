@@ -31,7 +31,7 @@ function Export() {
             <Grid md={5.5} sm={5.5} xs={12} color="primery" px="10px" order={{xs:"2", sm: "1", md: '1'}}  item>
             <CardMedia
               component="img"
-              alt="green iguana"
+              alt="cash for scrap cars sydney"
               width="100"
               image="/assets/E-pic.png"
             />
