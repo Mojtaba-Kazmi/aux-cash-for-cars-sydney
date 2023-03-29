@@ -540,5 +540,57 @@ export const post = [
     ),
   },
 
+  // post13
+  {
+    image: "/assets/postImage/13.jpg",
+    alt: 'Best cash for car Sydney',
+    title: <h1>Best cash for car Sydney</h1>,
+    description: (
+      <>
+        <p> 
+          Are you looking for quick car service cash in Sydney?
+        </p>
+        <p> 
+          Looking for a high cash payment for your car in Sydney?
+        </p>
+        <p>
+          Have you had a bad experience with <strong>cash for car</strong> services?
+        </p>
+        <p>
+          So, we are here to answer all of your questions and introduce you to the best 
+          choice and best cash for car company.
+        </p>
+        <p>
+          There are many companies that offer <strong>cash for cars in Sydney</strong>. It 
+          is our pleasure, however, to introduce one of the most active ones here, which 
+          offers the most convenient cash for car service.
+        </p>
+        <p>
+          With <Link href={'/'}>Aux Cash For Car Sydney</Link>, you can easily sell your 
+          car for a good price.
+          It is the most advanced equipment and most up-to-date technology that is used by  
+          this company to sell cars for cash. You may be able to receive up to $10000 for 
+          your vehicle from this cash for cars company.
+        </p>
+        <p>
+          The services we provide are free, and fast, and offer you cash for your vehicle.  
+        </p>
+        <p>
+          Keeping in touch with this cash for car company is as easy as following its 
+          social media pages. The following social media sites are available to you: our <Link href={'https://www.facebook.com/auxcashforcarsydney'} target={'_blank'} >Facebook</Link> page , <Link  href={'https://www.instagram.com/auxcashfor/'} target={'_blank'} >Instagram</Link> account,  <Link href={'https://www.youtube.com/@auxcashforcarsydney'} target='_blank'>YouTube</Link> channel <Link href={'https://www.linkedin.com/company/aux-cash-for-car-sydney'} target='_blank'>LinkedIn</Link> page, and <Link href={'https://www.pinterest.com/auxcashforcar'} target='_blank'>Pinterest</Link> page.
+        </p>
+        <p>
+          You may also contact us via our website, <Link href= {'/'}>auxcarforcashsydbey.com</Link>, by phone at <Link href={"tel:0470346413"}>0470346413</Link>, or via their social media pages that were mentioned. Therefore, you 
+          have the option of receiving information through any platform of your choosing.
+        </p>
+        <p>
+          When you call or contact us, we try our best to do our cash for car service as  
+          soon and as convenient as possible.
+        </p>
+          
+      </>
+    ),
+  },
+
 
 ];
