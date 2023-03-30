@@ -15,7 +15,7 @@ export default function Home() {
     <>
       <Head>
         <title>Aux Cash For Cars Sydney</title>
-        <meta name="description" content="Sell your car now for cash or a bank check. Aux cash for car pays the highest amount for your old, unwanted, scrap, or unworthy cars." />
+        <meta name="description" content="Sell your car now for cash or a bank check in Sydney. Aux cash for cars pays the highest amount for your old, unwanted, scrap, or unworthy cars." />
         <meta name="keywords" content="cash for cars sydney, Car Removal Sydney, sell my old car"></meta>
         <link rel="icon" href="/favicon.ico" />
         <link rel="canonical" href="https://auxcashforcarsydney.com" />
