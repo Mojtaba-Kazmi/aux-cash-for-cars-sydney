@@ -166,7 +166,7 @@ const Contact = ({ title, description, image, url, keyword, width, height }) => 
                   Sunday
                 </Grid>
                 <Grid xs={6} sm={6} item md={6} textAlign={"right"}>
-                  Closed
+                  Close
                 </Grid>
               </Grid>
             </Grid>
