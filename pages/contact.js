@@ -149,7 +149,7 @@ const Contact = ({ title, description, image, url, keyword, width, height }) => 
                   Monday – Friday
                 </Grid>
                 <Grid xs={6} sm={6} item md={6} textAlign={"right"}>
-                  6:30am – 11:30am
+                  7:00 AM – 5:00 PM
                 </Grid>
               </Grid>
               <Grid container my={"40px"} borderBottom={2} pb={'5px'}>
@@ -158,7 +158,7 @@ const Contact = ({ title, description, image, url, keyword, width, height }) => 
                 </Grid>
 
                 <Grid xs={6} sm={6} item md={6} textAlign={"right"}>
-                  6:30am – 4:30pm
+                  7:00 AM – 3:00 PM
                 </Grid>
               </Grid>
               <Grid container borderBottom={2} pb={'5px'}>
