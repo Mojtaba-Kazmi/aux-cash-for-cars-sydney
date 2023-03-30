@@ -20,9 +20,9 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Who Buys the broken-down-cars in Sydney?",
+      title: "Best cash for car Sydney",
       description:
-        "You can sell your broken down car to us for good cash. In addition, since it is a car that does not work, you will have to pay to toll on it. The good news is that we will pick up your car for free. It’s FREE!",
+        "we are here to introduce the best cash for cars in Sydney which has the best services and the highest payment for its customer.",
       image: "https://auxcashforcarsydney.com/assets/postImage/13.jpg",
       url: `https://auxcashforcarsydney.com/blog/post13`,
       keyword:
