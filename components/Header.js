@@ -113,7 +113,7 @@ const Header = (props) => {
 
             <Image
               src={logo}
-              alt="Aux cash for car sydney"
+              alt="Aux cash for cars sydney"
               width={80}
               height={80}
               sx={{ display: { xs: "flex", md: "none" }, mr: 1 }}

@@ -7,7 +7,7 @@ import ContactUsCard from "@/components/ContactUsCard";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "About - Aux Cash For Cars",
+      title: "About - Aux Cash For Cars Sydney",
       description:
         "Aux Cash For Car Sydney is an industry leader in metal resource recycling in Sydney region, Australia since 2010.",
       image: "https://auxcashforcarsydney.com/assets/about-us.png",

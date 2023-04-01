@@ -2,11 +2,11 @@ import Link from "next/link";
 
 export const FAQs = [
   {
-    head: <h1>Why should I choose Aux Cash for Car?</h1>,
+    head: <h1>Why should I choose Aux Cash for Cars?</h1>,
     p: (
       <>
         <p>
-          The following are some reasons why you should choose Aux Cash for Car.
+          The following are some reasons why you should choose Aux Cash for Cars.
           If you want to sell your old car but do not know where to sell it, you
           have came to right place but why us? read on to know why.
         </p>
@@ -24,7 +24,7 @@ export const FAQs = [
         <p>
           <b>Providing cash payments:</b> One of the most valuable
           things you will get when selling your car to
-          <Link href={"/"}>Aux Cash for Car </Link>
+          <Link href={"/"}>Aux Cash for Cars </Link>
           is receiving cash payments. Our team understands all the hassle you
           could run through when selling your vehicle to strangers who ask you
           to pay through third-party accounts that might belong to them.
@@ -36,14 +36,14 @@ export const FAQs = [
           <b>No worries about your vehicle’s condition: </b>
           Have you tried selling a damaged car on classified websites? No one
           will be interested in buying it! However, by choosing{" "}
-          <Link href={"/"}>Aux Cash for Car</Link>, there is no problem as we
+          <Link href={"/"}>Aux Cash for Cars</Link>, there is no problem as we
           accept your vehicle no matter what type or condition. We see value in
           every car.
         </p>
         <p>
           <b>Don’t delay; sell your car to a trusted car buyer today!: </b>
           Are you ready to get rid of your car today? Why don’t you reach out to
-          <Link href={"/"}>Aux Cash for Car</Link> and check out your instant
+          <Link href={"/"}>Aux Cash for Cars</Link> and check out your instant
           offer? It is free and fast! Give it a try! We compare your car to the
           most recent transactions in your area. We decide on how much you'll
           get depending on the vehicle's type, condition, and whether you have a
@@ -53,13 +53,13 @@ export const FAQs = [
     ),
   },
   {
-    head: <h1>What kind of cars does Aux Cash for Car buy?</h1>,
+    head: <h1>What kind of cars does Aux Cash for Cars buy?</h1>,
     p: (
       <p>
         Aux Cash for Car will purchase damaged vehicles of any type, including
         vehicles with physical, electrical or mechanical damage as well as
         vehicles with high mileage. We're even experienced with buying luxury,
-        exotic and classic cars. Aux Cash for Car is able to offer competitive
+        exotic and classic cars. Aux Cash for Cars is able to offer competitive
         prices for damaged vehicles because we have the expertise to know how to
         repair and restore them. We also have the resources to get parts for any
         type of vehicle, regardless of make or model.
@@ -67,7 +67,7 @@ export const FAQs = [
     ),
   },
   {
-    head: <h1>How fast do Aux Cash for Car pick-up my car?</h1>,
+    head: <h1>How fast do Aux Cash for Cars pick-up my car?</h1>,
     p: (
       <>
         <p>

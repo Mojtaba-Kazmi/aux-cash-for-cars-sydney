@@ -11,7 +11,7 @@ import Head from "next/head";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "FAQs - Why should I choose Aux Cash for Car?",
+      title: "FAQs - Why should I choose Aux Cash for Cars?",
       description:
         "Trusted Seller, Providing cash payments, No worries about your vehicle’s condition, sell your car to a trusted car buyer today!",
       url: "https://auxcashforcarsydney.com/faqs/question1",

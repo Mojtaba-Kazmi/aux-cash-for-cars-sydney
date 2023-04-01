@@ -30,7 +30,7 @@ export const post = [
           FREE!
         </p>
         <p>
-          <Link href={"/"}>Aux Cash for Car Sydney</Link> is a quality top junk
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is a quality top junk
           car buyer. We can buy your car wherever you are in the Sydney. Our
           employees will come to you, whether you are at home or at the office.
           The process is transparent and convenient. If you find yourself
@@ -359,7 +359,7 @@ export const post = [
         <p>For one, it's much easier. You don't have to worry</p>
         <p>
           If you're looking for a junk car removal company near you,{" "}
-          <Link href={"/"}>Aux Cash for Car Sydney</Link> is a quality top junk
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is a quality top junk
           car buyer. We can buy your car wherever you are in Sydney.
         </p>
       </>
@@ -384,7 +384,7 @@ export const post = [
           . There are many companies that will pay cash for junk cars, but it's
           important to find one that is licensed and insured. As one of the
           leading junk car buyers near you,{" "}
-          <Link href={"/"}>Aux Cash for Car</Link> is one of the top companies
+          <Link href={"/"}>Aux Cash for Cars</Link> is one of the top companies
           in the industry. So, if you're looking for someone to buy your old
           junk car, you know who to call:{" "}
           <Link href={"/contact"}>Aux Cash for Car</Link>. We'll even make you
@@ -458,7 +458,7 @@ export const post = [
   // post11
   {
     image: "/assets/postImage/removing-broken-down-cars.jpg",
-    alt: 'aux cash for car removing damaged and scrap cars',
+    alt: 'aux cash for cars removing damaged and scrap cars',
     title: (
       <h1>
         The Benefits of Using a Professional Junk Car Removal Service Near You
@@ -493,7 +493,7 @@ export const post = [
           environmentally friendly manner. The process is quick and easy, and
           you'll even receive cash for your car. So, if you're looking to get
           rid of an old car, be sure to use a professional junk car removal
-          service near you like <Link href={"/"}>Aux Cash for Car Sydney</Link>.
+          service near you like <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
         </p>
       </>
     ),
@@ -543,8 +543,8 @@ export const post = [
   // post13
   {
     image: "/assets/postImage/13.jpg",
-    alt: 'Best cash for car Sydney',
-    title: <h1>Best cash for car Sydney</h1>,
+    alt: 'Best cash for cars Sydney',
+    title: <h1>Best cash for cars Sydney</h1>,
     description: (
       <>
         <p> 
@@ -554,19 +554,19 @@ export const post = [
           Looking for a high cash payment for your car in Sydney?
         </p>
         <p>
-          Have you had a bad experience with <strong>cash for car</strong> services?
+          Have you had a bad experience with <strong>cash for cars</strong> services?
         </p>
         <p>
           So, we are here to answer all of your questions and introduce you to the best 
-          choice and best cash for car company.
+          choice and best cash for cars company.
         </p>
         <p>
           There are many companies that offer <strong>cash for cars in Sydney</strong>. It 
           is our pleasure, however, to introduce one of the most active ones here, which 
-          offers the most convenient cash for car service.
+          offers the most convenient cash for cars service.
         </p>
         <p>
-          With <Link href={'/'}>Aux Cash For Car Sydney</Link>, you can easily sell your 
+          With <Link href={'/'}>Aux Cash For Cars Sydney</Link>, you can easily sell your 
           car for a good price.
           It is the most advanced equipment and most up-to-date technology that is used by  
           this company to sell cars for cash. You may be able to receive up to $10000 for 
@@ -576,7 +576,7 @@ export const post = [
           The services we provide are free, and fast, and offer you cash for your vehicle.  
         </p>
         <p>
-          Keeping in touch with this cash for car company is as easy as following its 
+          Keeping in touch with this cash for cars company is as easy as following its 
           social media pages. The following social media sites are available to you: our <Link href={'https://www.facebook.com/auxcashforcarsydney'} target={'_blank'} >Facebook</Link> page , <Link  href={'https://www.instagram.com/auxcashfor/'} target={'_blank'} >Instagram</Link> account,  <Link href={'https://www.youtube.com/@auxcashforcarsydney'} target='_blank'>YouTube</Link> channel <Link href={'https://www.linkedin.com/company/aux-cash-for-car-sydney'} target='_blank'>LinkedIn</Link> page, and <Link href={'https://www.pinterest.com/auxcashforcar'} target='_blank'>Pinterest</Link> page.
         </p>
         <p>
@@ -584,7 +584,7 @@ export const post = [
           have the option of receiving information through any platform of your choosing.
         </p>
         <p>
-          When you call or contact us, we try our best to do our cash for car service as  
+          When you call or contact us, we try our best to do our cash for cars service as  
           soon and as convenient as possible.
         </p>
           

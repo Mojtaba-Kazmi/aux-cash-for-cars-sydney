@@ -292,7 +292,7 @@ const Footer = () => {
                    display={'block'}
                    sx={{borderRight: 2,borderLeft: 2,borderColor: "primary.main", px:"2px", textAlign:"center" }}
                     >
-                    Aux Cash For Car Sydney
+                    Aux Cash For Cars Sydney
                     </Typography>
                 </Grid>
               </Grid>

@@ -68,7 +68,7 @@ function PhonNumber() {
     >
       <Link
         href="tel:0470346413"
-        title="Aux cash for car number"
+        title="Aux cash for cars number"
         sx={{
           width: "100%",
           height: "50px",

@@ -20,7 +20,7 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Best cash for car Sydney",
+      title: "Best cash for cars Sydney",
       description:
         "we are here to introduce the best cash for cars in Sydney which has the best services and the highest payment for its customer.",
       image: "https://auxcashforcarsydney.com/assets/postImage/13.jpg",
