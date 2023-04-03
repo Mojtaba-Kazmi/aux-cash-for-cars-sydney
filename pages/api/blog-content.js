@@ -15,7 +15,7 @@ export const post = [
   // post1
   {
     image: "/assets/postImage/damaged-car.jpg",
-    alt: "removing a damaged car",
+    alt: "Who Buys the broken-down-cars in Sydney?",
     title: <h1>Who Buys the broken-down-cars in Sydney?</h1>,
     description: (
       <>
@@ -88,7 +88,7 @@ export const post = [
   // post3
   {
     image: "/assets/postImage/selling-run-down-cars.jpg",
-    alt: "hundreds of old and damaged cars ready for selling",
+    alt: "Value of a Used Car: A Guide to Finding Out How Much It Is",
     title: <h1>Value of a Used Car: A Guide to Finding Out How Much It Is</h1>,
     description: (
       <>
@@ -136,7 +136,7 @@ export const post = [
   // post4
   {
     image: "/assets/postImage/junkers.jpg",
-    alt: "many junks cars in a junk car buyer",
+    alt: "Where to Sell My Car for Cash Near Me",
     title: (
       <h1>
         Where to Sell My Car for Cash Near Me: Tips for Finding a Reliable Buyer
@@ -193,7 +193,7 @@ export const post = [
   // post5
   {
     image: "/assets/postImage/life-span-of-car.jpg ",
-    alt: 'removing a scrap car',
+    alt: "What's the Average Lifespan of a Car?",
     title: <h1>What's the Average Lifespan of a Car?</h1>,
     description: (
       <>
@@ -231,7 +231,7 @@ export const post = [
   // post6
   {
     image: "/assets/postImage/junk-cars.jpg",
-    alt: 'old and damged cars in a junk car buyer',
+    alt: "Can I sell a flood-damaged car legally?",
     title: <h1>Can I sell a flood-damaged car legally?</h1>,
     description: (
       <>
@@ -272,7 +272,7 @@ export const post = [
   // post7
   {
     image: "/assets/postImage/scrap-car.jpg",
-    alt: 'a scrap car for sale',
+    alt: "Selling Your Car to a Relative",
     title: <h1>Selling Your Car to a Relative</h1>,
     description: (
       <>
@@ -311,7 +311,7 @@ export const post = [
   // post8
   {
     image: "/assets/postImage/removing-cars.jpg",
-    alt: 'removing damaged cars by a car',
+    alt: 'Junk Car Removal Near Me',
     title: <h1>Junk Car Removal Near Me: Get Top Dollar for Your Old Car</h1>,
     description: (
       <>
@@ -458,7 +458,7 @@ export const post = [
   // post11
   {
     image: "/assets/postImage/removing-broken-down-cars.jpg",
-    alt: 'aux cash for cars removing damaged and scrap cars',
+    alt: 'Professional Junk Car Removal Sydney',
     title: (
       <h1>
         The Benefits of Using a Professional Junk Car Removal Service Near You
@@ -502,7 +502,7 @@ export const post = [
   // post12
   {
     image: "/assets/postImage/recoverd-cars.jpg",
-    alt: 'new recoverd cars',
+    alt: 'Selling an old car in Sydney',
     title: <h1>Selling a car? How to Receive Payment Safely?</h1>,
     description: (
       <>
