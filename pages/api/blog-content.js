@@ -20,17 +20,17 @@ export const post = [
     description: (
       <>
         <p>
-          Want to get rid of your current old vehicle? Wondering who buys used
-          cars in any condition, or how you can exchange your vehicle for cash?
+          Want to get rid of your current <strong>old vehicle</strong>? Wondering <strong>who buys used
+          cars</strong> in any condition, or how you can exchange your vehicle for cash?
         </p>
         <p>
-          You can sell your broken down car to us for good cash. In addition,
+          You can <strong>sell your broken down</strong> car to us for good cash. In addition,
           since it is a car that does not work, you will have to pay to toll on
           it. The good news is that we will pick up your car for free. It’s
           FREE!
         </p>
         <p>
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is a quality top junk
+          <Link href={"/"}><strong>Aux Cash for Cars Sydney</strong></Link> is a quality top junk
           car buyer. We can buy your car wherever you are in the Sydney. Our
           employees will come to you, whether you are at home or at the office.
           The process is transparent and convenient. If you find yourself
@@ -146,7 +146,7 @@ export const post = [
       <>
         <p>
           It's finally time. You've been thinking about it for weeks, maybe even
-          months. You're ready to get rid of your old car and move on to
+          months. You're ready to get rid of your <strong>old car</strong> and move on to
           something new. But, you're probably wondering, how can I sell my car
           for cash near me?
         </p>

@@ -146,9 +146,10 @@ export const ContentExport2 = (
   </>
 )
 
+// Recyclers
 export const ResyclerContnet1 = (
   <>
-    (<strong>Aux Cash for Cars Sydney</strong>) is one of the largest and most active car removals in Sydney, Queensland, providing you with a good, save, and enjoyable experience as well as the highest possible rates and cash for your unwanted cars, which can reach $9999.
+    (<strong>Aux Cash for Cars Sydney</strong>) is one of the largest and most active car removals in Sydney providing you with a good, save, and enjoyable experience as well as the highest possible rates and cash for your unwanted cars, which can reach $9999.
 We collect and recycle all kinds of vehicles, including old along with scrap cars, buses, lorries, tracks, 4x4s, and so on. If you have any of the above, (<strong>Aux Cash for Cars Sydney</strong>) will drop by and take your unwanted vehicle for free and provide you cash for it.
   </>
 )
