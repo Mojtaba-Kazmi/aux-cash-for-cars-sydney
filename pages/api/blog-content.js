@@ -45,7 +45,7 @@ export const post = [
   // post2
   {
     image: "/assets/postImage/end-of-life-car.jpg",
-    alt: "an old car",
+    alt: "cash for cars",
     title: <h1>Cars to Get Rid of: Signs you need a replacement one</h1>,
     description: (
       <>
