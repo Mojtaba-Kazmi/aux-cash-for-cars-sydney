@@ -475,8 +475,8 @@ export const post = [
           removal service near you.
         </p>
         <p>
-          There are many benefits to using a professional junk car removal
-          service, including:
+          There are many benefits to using a professional <strong>junk car removal
+          service</strong>, including:
         </p>
         <ul>
           <li>You won't have to worry about disposing of the car yourself.</li>
@@ -488,7 +488,7 @@ export const post = [
           </li>
         </ul>
         <p>
-          When you use a professional junk car removal service, you can rest
+          When you use a <strong>professional junk car removal service</strong>, you can rest
           assured that your car will be disposed of in a safe and
           environmentally friendly manner. The process is quick and easy, and
           you'll even receive cash for your car. So, if you're looking to get

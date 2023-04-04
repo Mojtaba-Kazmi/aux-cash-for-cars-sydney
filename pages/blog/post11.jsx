@@ -25,7 +25,7 @@ export async function getServerSideProps() {
       title:
         "The Benefits of Using a Professional Junk Car Removal Service Near You",
       description:
-        "If you're looking to get rid of an old car, it's important to find a professional junk car removal service near you. There are many benefits to using a professional junk car removal service, including:",
+        "If you have a Junk car and you want to sell it you came to the right place, we are here to say its process and buy your junk car, and we will pay the best price for it.",
       image: "https://auxcashforcarsydney.com/assets/postImage/removing-broken-down-cars.jpg",
       url: "https://auxcashforcarsydney.com/blog/post11",
       keyword:
