@@ -25,7 +25,7 @@ export async function getServerSideProps() {
       title:
         "Selling Junk Cars: Laws to Know",
       description:
-        "it's essential to be aware of the laws and regulations that govern the process. This will help ensure that everything goes smoothly and you get the most for your car.",
+        "If you have a Junk car and you want to sell it you came to the right place, we are here to say its Laws and buy your junk car, and we will pay the best price for it.",
       image: "https://auxcashforcarsydney.com/assets/postImage/car-removing.jpg",
       url: "https://auxcashforcarsydney.com/blog/post9",
       keyword:

@@ -375,19 +375,19 @@ export const post = [
       <>
         <p>
           When you've finally come to the decision that it's time to sell your
-          junk car, it's essential to be aware of the laws and regulations that
+          <strong>junk car</strong>, it's essential to be aware of the laws and regulations that
           govern the process. This will help ensure that everything goes
           smoothly and you get the most for your car. The first step is to{" "}
           <Link href={"/blog/post4"}>
             find a reputable junk car removal company
           </Link>
-          . There are many companies that will pay cash for junk cars, but it's
+          . There are many companies that will pay <strong>cash for junk cars</strong>, but it's
           important to find one that is licensed and insured. As one of the
           leading junk car buyers near you,{" "}
-          <Link href={"/"}>Aux Cash for Cars</Link> is one of the top companies
+          <Link href={"/"}><strong>Aux Cash for Cars Sydney</strong></Link> is one of the top companies
           in the industry. So, if you're looking for someone to buy your old
           junk car, you know who to call:{" "}
-          <Link href={"/contact"}>Aux Cash for Car</Link>. We'll even make you
+          <Link href={"/contact"}>Aux Cash for Car Sydney</Link>. We'll even make you
           an offer you won't refuse! Regardless of where you are in Sydney, we
           are able to buy your car.
         </p>
