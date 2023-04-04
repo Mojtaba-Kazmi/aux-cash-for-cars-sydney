@@ -93,7 +93,7 @@ export const post = [
     description: (
       <>
         <p>
-          Asking how much a used car is worth is a tricky question. There are a
+          Asking <strong>how much a used car is worth</strong> is a tricky question. There are a
           number of factors that can influence the value of a used car, from its
           make and model to its age and mileage. In addition, the value of a
           used car can vary depending on whether you're selling it to a dealer,
@@ -126,8 +126,8 @@ export const post = [
           private parties will offer the highest prices.
         </p>
         <p>
-          With all of these factors in mind, let's take a look at how to
-          determine the value of your used car.
+          With all of these factors in mind, let's take a look at <strong>how to
+          determine the value of your used car</strong>.
         </p>
       </>
     ),
