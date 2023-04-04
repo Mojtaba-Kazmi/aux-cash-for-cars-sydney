@@ -236,7 +236,7 @@ export const post = [
     description: (
       <>
         <p>
-          Selling a flood damaged car is a tricky business. There are many
+          <strong>Selling a flood damaged car</strong> is a tricky business. There are many
           factors to consider before making the sale, such as the legalities
           involved and the condition of the car. However, as long as you are
           honest about the condition of the car and disclose any damage, you
@@ -277,7 +277,7 @@ export const post = [
     description: (
       <>
         <p>
-          If you are looking for a way to get rid of your old car, then you
+          If you are looking for a way to get rid of your <strong>old car</strong>, then you
           might want to consider selling it to your relatives. Just make sure
           you don't end up getting stuck with it again when they try to return
           it!
@@ -319,20 +319,20 @@ export const post = [
           If you have an old car that you're trying to get rid of, you may be
           wondering about the best way to go about it. You could try to sell it,
           but depending on the condition of the car, that may not be easy.
-          Instead, you might want to consider junk car removal services.
+          Instead, you might want to consider <strong>junk car removal</strong> services.
         </p>
         <p>
           Junk car removal companies specialize in buying old, useless cars and
           then either recycling them or selling them for parts. This is a great
           option if you want to get rid of your car quickly and without hassle.
           Read on to learn more about{" "}
-          <Link href={"/"}>how junk car removal works</Link> and{" "}
+          <Link href={"/"}><strong>how junk car removal works</strong></Link> and{" "}
           <Link href={"/blog/post4"}>
             how to find the best companies near you
           </Link>
           .
         </p>
-        <h2>What Is Junk Car Removal? 8</h2>
+        <h2>What Is Junk Car Removal?</h2>
         <p>
           Junk car removal is the process of selling an old car to a company
           that specializes in buying and recycling them. These companies will
@@ -350,7 +350,7 @@ export const post = [
           The whole process can usually be done within a few days, and it's a
           great way to get rid of an old car that you no longer want or need.
         </p>
-        <h2>Why Use Junk Car Removal Services?</h2>
+        <h2><strong>Why Use Junk Car Removal Services?</strong></h2>
         <p>
           There are a few reasons you might want to use junk car removal{" "}
           <Link href={"/services"}>services</Link> rather than trying to sell
