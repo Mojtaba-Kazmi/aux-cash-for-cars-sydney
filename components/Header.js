@@ -16,6 +16,8 @@ import {
 } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 import Link from "next/link";
+import { useRouter } from "next/router";
+
 
 const drawerWidthMobile = 220;
 const drawerWidthIpad = 400;
@@ -76,7 +78,8 @@ const Header = (props) => {
         <Link
           key={item.index}
           href={item.url}
-          style={{ color: "#888", display: "block", padding: "25px", borderBottom: "1px solid #e1e0e0"}}
+          style={useRouter().pathname == item.url ? {color: '#01b636',display: "block", padding: "25px", borderBottom: "1px solid #e1e0e0"} : {color: '#888888', display: "block", padding: "25px", borderBottom: "1px solid #e1e0e0"}}
+          // style={{}}
         >
           {item.label}
         </Link>
@@ -138,7 +141,8 @@ const Header = (props) => {
                   }}
                 >
                   <Button
-                    sx={{ display: "block", width: "100%", height: "100%", color: 'body.main'}}
+                    style={useRouter().pathname == item.url ? {color: '#01b636'} : {color: '#888888'}}
+                    sx={{ display: "block", width: "100%", height: "100%"}}
                   >
                     {item.label}
                   </Button>

@@ -195,9 +195,15 @@ function blog({ title, description, image, url, keyword, width, height }) {
           <Typography
             variant="h4"
             component={"h1"}
-            sx={{ mt: "10px", color: "primary.main" }}
+            sx={{ mt: "10px", color: "primary.main", display:'inline-block' }}
           >
             Blogs
+          </Typography>
+          <Typography
+          component={"p"}
+          sx={{display:'inline-block', ml:'2px'}}
+          >
+            IF YOUR TOPIC IS NOT ON THIS PAGE, PLEASE GO TO THE NEXT PAGES
           </Typography>
           {/* blog right */}
           <Grid
