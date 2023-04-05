@@ -1,81 +1,88 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Roboto:wght@400&display=swap');
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Roboto', sans-serif;
-    
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Roboto:wght@400&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
 }
-body{
-    background-color: #eeeeee;
+body {
+  background-color: #eeeeee;
 }
-P{
-    text-align: justify;
-    color: #888888;
-    margin-bottom: 10px;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    line-height: 1.2;
-    color: #01b636; 
-}
-h1{
-    font-size: 2.4rem;
-}
-h2{
-    font-size: 2rem;
-}
-h3{
-    font-size: 1.6rem;
-}
-h4{
-    font-size: 1.3rem;
+P {
+  text-align: justify;
+  color: #888888;
+  margin-bottom: 10px;
 }
 
-ol, ul{
-    padding: 10px 20px 0 40px ;
-    color:  #888888;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.2;
+  color: #01b636;
+}
+h1 {
+  font-size: 2.4rem;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.6rem;
+}
+h4 {
+  font-size: 1.3rem;
+}
+
+ol,
+ul {
+  padding: 10px 20px 10px 40px;
+  color: #888888;
+}
+li {
+  margin-bottom: 10px;
+  text-align: justify;
+}
+a {
+  text-decoration: none;
+  color: #01b636;
+}
+
+@media screen and (max-width: 1024px) {
+  h1 {
+    font-size: 2.2rem;
   }
-  li{
-    margin-bottom: 10px;
+  h2 {
+    font-size: 1.7rem;
   }
-  a{
-    text-decoration: none;
-    color: #01b636;
+  h3 {
+    font-size: 1.4rem;
   }
-
-
-  @media screen and (max-width: 1024px) {
-    h1{
-        font-size: 2.2rem;
-    }
-    h2{
-        font-size: 1.7rem;
-    }
-    h3{
-        font-size: 1.4rem;
-    }
-    h4{
-        font-size: 1.2rem;
-    }
-
+  h4 {
+    font-size: 1.2rem;
+  }
 }
-  
+
 @media screen and (max-width: 600px) {
-    h1, h2, h3, h4, h5 {
-        text-align: center; 
-    }
-    h1{
-      font-size: 2rem;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    text-align: center;
   }
-  h2{
-      font-size: 1.5rem;
+  h1 {
+    font-size: 2rem;
   }
-  h3{
-      font-size: 1rem;
+  h2 {
+    font-size: 1.5rem;
   }
-  h4{
-      font-size: 0.5rem;
+  h3 {
+    font-size: 1rem;
   }
-
+  h4 {
+    font-size: 0.5rem;
+  }
 }

@@ -2,7 +2,7 @@ import { Grid, Typography, Stack } from "@mui/material";
 import FacebookRoundedIcon from "@mui/icons-material/FacebookRounded";
 import PinterestIcon from "@mui/icons-material/Pinterest";
 import TwitterIcon from "@mui/icons-material/Twitter";
-import WhatsAppIcon from '@mui/icons-material/WhatsApp';
+import WhatsAppIcon from "@mui/icons-material/WhatsApp";
 import { styled } from "@mui/system";
 import { mobile, iPad } from "./Responsive";
 import { useRouter } from "next/router";
@@ -36,7 +36,7 @@ const SocialShareBtn = () => {
       <Center>
         <Stack direction="row" spacing={3}>
           <FacebookShareButton
-            url={'https://auxcashforcarsydney.com'+useRouter().pathname}
+            url={"https://auxcashforcarsydney.com" + useRouter().pathname}
             hashtag={"#cashForCar"}
           >
             <Icon>
@@ -45,7 +45,7 @@ const SocialShareBtn = () => {
           </FacebookShareButton>
 
           <PinterestShareButton
-            url={'https://auxcashforcarsydney.com'+useRouter().pathname}
+            url={"https://auxcashforcarsydney.com" + useRouter().pathname}
             hashtag={"#cashForCar"}
           >
             <Icon>
@@ -54,7 +54,7 @@ const SocialShareBtn = () => {
           </PinterestShareButton>
 
           <TwitterShareButton
-            url={'https://auxcashforcarsydney.com'+useRouter().pathname}
+            url={"https://auxcashforcarsydney.com" + useRouter().pathname}
             hashtag={"#cashForCar"}
           >
             <Icon>
@@ -63,7 +63,7 @@ const SocialShareBtn = () => {
           </TwitterShareButton>
 
           <WhatsappShareButton
-            url={'https://auxcashforcarsydney.com'+useRouter().pathname}
+            url={"https://auxcashforcarsydney.com" + useRouter().pathname}
             hashtag={"#cashForCar"}
           >
             <Icon>
@@ -103,6 +103,7 @@ export const BigCardStyle = styled("div")`width: 100%;
     font-weight: 600;
     color: #01b636;
   }
+
   @media screen and (max-width: 600px) {
     h1{
       font-size: 18px;
@@ -133,18 +134,17 @@ p{
 
 }`;
 
-export const Description = styled('div')
-        `
-        height: 60px;  
-        overflow: hidden;
-        @media screen  and (max-width: 1024px) {
-          line-height: 20px;
-            height: 60px; 
-        }
-        @media screen  and (max-width: 600px) {
-            height: 80px; 
-        }
-        `;
+export const Description = styled("div")`
+  height: 60px;
+  overflow: hidden;
+  @media screen and (max-width: 1024px) {
+    line-height: 20px;
+    height: 60px;
+  }
+  @media screen and (max-width: 600px) {
+    height: 80px;
+  }
+`;
 
 export const NextLinkBtn = styled("div")`
 width: 70px;

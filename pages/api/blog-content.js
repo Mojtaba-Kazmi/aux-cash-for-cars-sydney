@@ -20,21 +20,24 @@ export const post = [
     description: (
       <>
         <p>
-          Want to get rid of your current <strong>old vehicle</strong>? Wondering <strong>who buys used
-          cars</strong> in any condition, or how you can exchange your vehicle for cash?
+          Want to get rid of your current <strong>old vehicle</strong>?
+          Wondering <strong>who buys used cars</strong> in any condition, or how
+          you can exchange your vehicle for cash?
         </p>
         <p>
-          You can <strong>sell your broken down</strong> car to us for good cash. In addition,
-          since it is a car that does not work, you will have to pay to toll on
-          it. The good news is that we will pick up your car for free. It’s
-          FREE!
+          You can <strong>sell your broken down</strong> car to us for good
+          cash. In addition, since it is a car that does not work, you will have
+          to pay to toll on it. The good news is that we will pick up your car
+          for free. It’s FREE!
         </p>
         <p>
-          <Link href={"/"}><strong>Aux Cash for Cars Sydney</strong></Link> is a quality top junk
-          car buyer. We can buy your car wherever you are in the Sydney. Our
-          employees will come to you, whether you are at home or at the office.
-          The process is transparent and convenient. If you find yourself
-          asking, “Who buys the broken-down-cars?” Visit our{" "}
+          <Link href={"/"}>
+            <strong>Aux Cash for Cars Sydney</strong>
+          </Link>{" "}
+          is a quality top junk car buyer. We can buy your car wherever you are
+          in the Sydney. Our employees will come to you, whether you are at home
+          or at the office. The process is transparent and convenient. If you
+          find yourself asking, “Who buys the broken-down-cars?” Visit our{" "}
           <Link href={"/"}>website</Link> and you will find out. We don’t offer
           lowball prices. That’s because we want to be fair to our customers.
         </p>
@@ -93,11 +96,12 @@ export const post = [
     description: (
       <>
         <p>
-          Asking <strong>how much a used car is worth</strong> is a tricky question. There are a
-          number of factors that can influence the value of a used car, from its
-          make and model to its age and mileage. In addition, the value of a
-          used car can vary depending on whether you're selling it to a dealer,
-          a private party, or trade it in as part of a new car purchase.
+          Asking <strong>how much a used car is worth</strong> is a tricky
+          question. There are a number of factors that can influence the value
+          of a used car, from its make and model to its age and mileage. In
+          addition, the value of a used car can vary depending on whether you're
+          selling it to a dealer, a private party, or trade it in as part of a
+          new car purchase.
         </p>
         <p>
           That's why it's important to do your research before you start
@@ -126,8 +130,8 @@ export const post = [
           private parties will offer the highest prices.
         </p>
         <p>
-          With all of these factors in mind, let's take a look at <strong>how to
-          determine the value of your used car</strong>.
+          With all of these factors in mind, let's take a look at{" "}
+          <strong>how to determine the value of your used car</strong>.
         </p>
       </>
     ),
@@ -146,9 +150,9 @@ export const post = [
       <>
         <p>
           It's finally time. You've been thinking about it for weeks, maybe even
-          months. You're ready to get rid of your <strong>old car</strong> and move on to
-          something new. But, you're probably wondering, how can I sell my car
-          for cash near me?
+          months. You're ready to get rid of your <strong>old car</strong> and
+          move on to something new. But, you're probably wondering, how can I
+          sell my car for cash near me?
         </p>
         <p>
           Never fear! We're here to help. Read on for our top tips on how to
@@ -236,11 +240,11 @@ export const post = [
     description: (
       <>
         <p>
-          <strong>Selling a flood damaged car</strong> is a tricky business. There are many
-          factors to consider before making the sale, such as the legalities
-          involved and the condition of the car. However, as long as you are
-          honest about the condition of the car and disclose any damage, you
-          should be able to sell your car without any problems.
+          <strong>Selling a flood damaged car</strong> is a tricky business.
+          There are many factors to consider before making the sale, such as the
+          legalities involved and the condition of the car. However, as long as
+          you are honest about the condition of the car and disclose any damage,
+          you should be able to sell your car without any problems.
         </p>
         <p>
           In the past, selling a car that had been damaged in a flood was
@@ -277,10 +281,10 @@ export const post = [
     description: (
       <>
         <p>
-          If you are looking for a way to get rid of your <strong>old car</strong>, then you
-          might want to consider selling it to your relatives. Just make sure
-          you don't end up getting stuck with it again when they try to return
-          it!
+          If you are looking for a way to get rid of your{" "}
+          <strong>old car</strong>, then you might want to consider selling it
+          to your relatives. Just make sure you don't end up getting stuck with
+          it again when they try to return it!
         </p>
         <p>
           The following steps are a guide you can follow if you want to sell
@@ -294,11 +298,8 @@ export const post = [
             including the title and registration.
           </li>
           <li>
-            Determine a{" "}
-            <Link href={"/blog/post3"}>
-              fair price
-            </Link>{" "}
-            for the car.
+            Determine a <Link href={"/blog/post3"}>fair price</Link> for the
+            car.
           </li>
           <li>Write up a bill of sale and have both parties sign it.</li>
           <li>Transfer the title and registration to the new owner.</li>
@@ -311,7 +312,7 @@ export const post = [
   // post8
   {
     image: "/assets/postImage/removing-cars.jpg",
-    alt: 'Junk Car Removal Near Me',
+    alt: "Junk Car Removal Near Me",
     title: <h1>Junk Car Removal Near Me: Get Top Dollar for Your Old Car</h1>,
     description: (
       <>
@@ -319,14 +320,18 @@ export const post = [
           If you have an old car that you're trying to get rid of, you may be
           wondering about the best way to go about it. You could try to sell it,
           but depending on the condition of the car, that may not be easy.
-          Instead, you might want to consider <strong>junk car removal</strong> services.
+          Instead, you might want to consider <strong>junk car removal</strong>{" "}
+          services.
         </p>
         <p>
           Junk car removal companies specialize in buying old, useless cars and
           then either recycling them or selling them for parts. This is a great
           option if you want to get rid of your car quickly and without hassle.
           Read on to learn more about{" "}
-          <Link href={"/"}><strong>how junk car removal works</strong></Link> and{" "}
+          <Link href={"/"}>
+            <strong>how junk car removal works</strong>
+          </Link>{" "}
+          and{" "}
           <Link href={"/blog/post4"}>
             how to find the best companies near you
           </Link>
@@ -350,7 +355,9 @@ export const post = [
           The whole process can usually be done within a few days, and it's a
           great way to get rid of an old car that you no longer want or need.
         </p>
-        <h2><strong>Why Use Junk Car Removal Services?</strong></h2>
+        <h2>
+          <strong>Why Use Junk Car Removal Services?</strong>
+        </h2>
         <p>
           There are a few reasons you might want to use junk car removal{" "}
           <Link href={"/services"}>services</Link> rather than trying to sell
@@ -369,27 +376,31 @@ export const post = [
   // post9
   {
     image: "/assets/postImage/car-removing.jpg",
-    alt: 'removing junk cars',
+    alt: "removing junk cars",
     title: <h1>Selling Junk Cars: Laws to Know</h1>,
     description: (
       <>
         <p>
           When you've finally come to the decision that it's time to sell your
-          <strong>junk car</strong>, it's essential to be aware of the laws and regulations that
-          govern the process. This will help ensure that everything goes
-          smoothly and you get the most for your car. The first step is to{" "}
+          <strong>junk car</strong>, it's essential to be aware of the laws and
+          regulations that govern the process. This will help ensure that
+          everything goes smoothly and you get the most for your car. The first
+          step is to{" "}
           <Link href={"/blog/post4"}>
             find a reputable junk car removal company
           </Link>
-          . There are many companies that will pay <strong>cash for junk cars</strong>, but it's
-          important to find one that is licensed and insured. As one of the
-          leading junk car buyers near you,{" "}
-          <Link href={"/"}><strong>Aux Cash for Cars Sydney</strong></Link> is one of the top companies
-          in the industry. So, if you're looking for someone to buy your old
-          junk car, you know who to call:{" "}
-          <Link href={"/contact"}>Aux Cash for Car Sydney</Link>. We'll even make you
-          an offer you won't refuse! Regardless of where you are in Sydney, we
-          are able to buy your car.
+          . There are many companies that will pay{" "}
+          <strong>cash for junk cars</strong>, but it's important to find one
+          that is licensed and insured. As one of the leading junk car buyers
+          near you,{" "}
+          <Link href={"/"}>
+            <strong>Aux Cash for Cars Sydney</strong>
+          </Link>{" "}
+          is one of the top companies in the industry. So, if you're looking for
+          someone to buy your old junk car, you know who to call:{" "}
+          <Link href={"/contact"}>Aux Cash for Car Sydney</Link>. We'll even
+          make you an offer you won't refuse! Regardless of where you are in
+          Sydney, we are able to buy your car.
         </p>
         <p>
           Once you've found a company that you're comfortable with, you'll need
@@ -412,7 +423,7 @@ export const post = [
   // post10
   {
     image: "/assets/postImage/borken-down-cars.jpg",
-    alt: 'borken down cars for sale',
+    alt: "borken down cars for sale",
     title: <h1>The Effect of the Car's Condition on the Price</h1>,
     description: (
       <>
@@ -458,7 +469,7 @@ export const post = [
   // post11
   {
     image: "/assets/postImage/removing-broken-down-cars.jpg",
-    alt: 'Professional Junk Car Removal Sydney',
+    alt: "Professional Junk Car Removal Sydney",
     title: (
       <h1>
         The Benefits of Using a Professional Junk Car Removal Service Near You
@@ -475,8 +486,8 @@ export const post = [
           removal service near you.
         </p>
         <p>
-          There are many benefits to using a professional <strong>junk car removal
-          service</strong>, including:
+          There are many benefits to using a professional{" "}
+          <strong>junk car removal service</strong>, including:
         </p>
         <ul>
           <li>You won't have to worry about disposing of the car yourself.</li>
@@ -488,12 +499,13 @@ export const post = [
           </li>
         </ul>
         <p>
-          When you use a <strong>professional junk car removal service</strong>, you can rest
-          assured that your car will be disposed of in a safe and
+          When you use a <strong>professional junk car removal service</strong>,
+          you can rest assured that your car will be disposed of in a safe and
           environmentally friendly manner. The process is quick and easy, and
           you'll even receive cash for your car. So, if you're looking to get
           rid of an old car, be sure to use a professional junk car removal
-          service near you like <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+          service near you like <Link href={"/"}>Aux Cash for Cars Sydney</Link>
+          .
         </p>
       </>
     ),
@@ -502,40 +514,43 @@ export const post = [
   // post12
   {
     image: "/assets/postImage/recoverd-cars.jpg",
-    alt: 'Selling an old car in Sydney',
+    alt: "Selling an old car in Sydney",
     title: <h1>Selling a car? How to Receive Payment Safely?</h1>,
     description: (
       <>
-        <p> 
-            Selling your car can be a quick and easy way to get some extra money. However, 
-            if you're not careful, you could end up getting scammed. In this article, we'll 
-            go over how to receive payment safely when selling your car, so you can avoid 
-            any potential issues.
-          </p>
-          <p>
-            One of the most important things to do when selling your car is to meet the   
-            buyer in person. This way, you can make sure that the buyer is legitimate, and 
-            you can also get a sense of what they're like. If you're meeting the buyer for 
-            the first time, be sure to meet in a public place, such as a coffee shop or a 
-            park. This will help to make sure your safety.
-          </p>
-          <p>
-            Regarding receiving payment, you'll want to be careful. One of the most common  
-            scams is for the buyer to send you a check for more than the agreed upon 
-            amount, and then ask you to send them the difference. If you do this, you'll 
-            likely never see the money, as the check will bounce.
-          </p>
-          <p>
-            Instead, you should only accept payment in the form of cash, a cashier's check, 
-            or a money order. If the buyer wants to pay by check, be sure to wait until the 
-            check has cleared before releasing the car. With cash, you can simply count the 
-            money to make sure it's all there. With a cashier's check or money order, 
-            you'll need to wait for it to clear, which can take a few days.
-          </p>
-          <p>
-            Once you have the payment, you'll want to sign over the title to the buyer. Be  
-            sure to get their name, address, and phone number.
-          </p>
+        <p>
+          Selling your car can be a quick and easy way to get some extra money.
+          However, if you're not careful, you could end up getting scammed. In
+          this article, we'll go over how to receive payment safely when selling
+          your car, so you can avoid any potential issues.
+        </p>
+        <p>
+          One of the most important things to do when selling your car is to
+          meet the buyer in person. This way, you can make sure that the buyer
+          is legitimate, and you can also get a sense of what they're like. If
+          you're meeting the buyer for the first time, be sure to meet in a
+          public place, such as a coffee shop or a park. This will help to make
+          sure your safety.
+        </p>
+        <p>
+          Regarding receiving payment, you'll want to be careful. One of the
+          most common scams is for the buyer to send you a check for more than
+          the agreed upon amount, and then ask you to send them the difference.
+          If you do this, you'll likely never see the money, as the check will
+          bounce.
+        </p>
+        <p>
+          Instead, you should only accept payment in the form of cash, a
+          cashier's check, or a money order. If the buyer wants to pay by check,
+          be sure to wait until the check has cleared before releasing the car.
+          With cash, you can simply count the money to make sure it's all there.
+          With a cashier's check or money order, you'll need to wait for it to
+          clear, which can take a few days.
+        </p>
+        <p>
+          Once you have the payment, you'll want to sign over the title to the
+          buyer. Be sure to get their name, address, and phone number.
+        </p>
       </>
     ),
   },
@@ -543,54 +558,165 @@ export const post = [
   // post13
   {
     image: "/assets/postImage/13.jpg",
-    alt: 'Best cash for cars Sydney',
+    alt: "Best cash for cars Sydney",
     title: <h1>Best cash for cars Sydney</h1>,
     description: (
       <>
-        <p> 
-          Are you looking for quick car service cash in Sydney?
-        </p>
-        <p> 
-          Looking for a high cash payment for your car in Sydney?
+        <p>Are you looking for quick car service cash in Sydney?</p>
+        <p>Looking for a high cash payment for your car in Sydney?</p>
+        <p>
+          Have you had a bad experience with <strong>cash for cars</strong>{" "}
+          services?
         </p>
         <p>
-          Have you had a bad experience with <strong>cash for cars</strong> services?
+          So, we are here to answer all of your questions and introduce you to
+          the best choice and best cash for cars company.
         </p>
         <p>
-          So, we are here to answer all of your questions and introduce you to the best 
-          choice and best cash for cars company.
+          There are many companies that offer{" "}
+          <strong>cash for cars in Sydney</strong>. It is our pleasure, however,
+          to introduce one of the most active ones here, which offers the most
+          convenient cash for cars service.
         </p>
         <p>
-          There are many companies that offer <strong>cash for cars in Sydney</strong>. It 
-          is our pleasure, however, to introduce one of the most active ones here, which 
-          offers the most convenient cash for cars service.
+          With <Link href={"/"}>Aux Cash For Cars Sydney</Link>, you can easily
+          sell your car for a good price. It is the most advanced equipment and
+          most up-to-date technology that is used by this company to sell cars
+          for cash. You may be able to receive up to $10000 for your vehicle
+          from this cash for cars company.
         </p>
         <p>
-          With <Link href={'/'}>Aux Cash For Cars Sydney</Link>, you can easily sell your 
-          car for a good price.
-          It is the most advanced equipment and most up-to-date technology that is used by  
-          this company to sell cars for cash. You may be able to receive up to $10000 for 
-          your vehicle from this cash for cars company.
+          The services we provide are free, and fast, and offer you cash for
+          your vehicle.
         </p>
         <p>
-          The services we provide are free, and fast, and offer you cash for your vehicle.  
+          Keeping in touch with this cash for cars company is as easy as
+          following its social media pages. The following social media sites are
+          available to you: our{" "}
+          <Link
+            href={"https://www.facebook.com/auxcashforcarsydney"}
+            target={"_blank"}
+          >
+            Facebook
+          </Link>{" "}
+          page ,{" "}
+          <Link
+            href={"https://www.instagram.com/auxcashfor/"}
+            target={"_blank"}
+          >
+            Instagram
+          </Link>{" "}
+          account,{" "}
+          <Link
+            href={"https://www.youtube.com/@auxcashforcarsydney"}
+            target="_blank"
+          >
+            YouTube
+          </Link>{" "}
+          channel{" "}
+          <Link
+            href={"https://www.linkedin.com/company/aux-cash-for-car-sydney"}
+            target="_blank"
+          >
+            LinkedIn
+          </Link>{" "}
+          page, and{" "}
+          <Link
+            href={"https://www.pinterest.com/auxcashforcar"}
+            target="_blank"
+          >
+            Pinterest
+          </Link>{" "}
+          page.
         </p>
         <p>
-          Keeping in touch with this cash for cars company is as easy as following its 
-          social media pages. The following social media sites are available to you: our <Link href={'https://www.facebook.com/auxcashforcarsydney'} target={'_blank'} >Facebook</Link> page , <Link  href={'https://www.instagram.com/auxcashfor/'} target={'_blank'} >Instagram</Link> account,  <Link href={'https://www.youtube.com/@auxcashforcarsydney'} target='_blank'>YouTube</Link> channel <Link href={'https://www.linkedin.com/company/aux-cash-for-car-sydney'} target='_blank'>LinkedIn</Link> page, and <Link href={'https://www.pinterest.com/auxcashforcar'} target='_blank'>Pinterest</Link> page.
+          You may also contact us via our website,{" "}
+          <Link href={"/"}>auxcarforcashsydbey.com</Link>, by phone at{" "}
+          <Link href={"tel:0470346413"}>0470346413</Link>, or via their social
+          media pages that were mentioned. Therefore, you have the option of
+          receiving information through any platform of your choosing.
         </p>
         <p>
-          You may also contact us via our website, <Link href= {'/'}>auxcarforcashsydbey.com</Link>, by phone at <Link href={"tel:0470346413"}>0470346413</Link>, or via their social media pages that were mentioned. Therefore, you 
-          have the option of receiving information through any platform of your choosing.
+          When you call or contact us, we try our best to do our cash for cars
+          service as soon and as convenient as possible.
         </p>
-        <p>
-          When you call or contact us, we try our best to do our cash for cars service as  
-          soon and as convenient as possible.
-        </p>
-          
       </>
     ),
   },
 
-
+  // post14
+  {
+    image: "/assets/postImage/14.jpg",
+    alt: "Cash for Cars Near Me",
+    title: <h1>Cash for Cars Near Me</h1>,
+    description: (
+      <>
+        <p>
+          Do you have an old or unwanted car taking up space in your garage or
+          driveway? If so, you may want to consider selling it for cash. Many
+          car removal companies offer cash for cars services, which allow you to
+          get rid of your old vehicle while also making some money. But with so
+          many companies out there, how do you find the best cash for cars near
+          you? In this article, we'll explore some tips for finding the best{" "}
+          <strong>car removal service</strong> in your area.
+        </p>
+        <ol>
+          <li>
+            <b>Ask for Recommendations:</b> If you have friends, family members,
+            or colleagues who have sold their <strong>cars for cash</strong>,
+            ask them for recommendations. They may be able to recommend a
+            reliable and trustworthy car removal company that they have used in
+            the past.
+          </li>
+          <li>
+            <b>Check Online Reviews:</b> Online reviews can be a great source of
+            information when it comes to choosing a car removal service. Check
+            out review websites like Yelp, Google My Business, and{" "}
+            <Link
+              href={"https://www.facebook.com/auxcashforcarsydney"}
+              target={"_blank"}
+            >
+              Facebook
+            </Link>{" "}
+            to see what other people have to say about the company you're
+            considering.
+          </li>
+          <li>
+            <b>Look for Experience:</b> When choosing a{" "}
+            <strong>car removal service</strong>, look for a company with years
+            of experience in the industry. Experienced companies are more likely
+            to have the knowledge, skills, and equipment necessary to handle
+            your car removal needs.
+          </li>
+          <li>
+            <b>Compare Quotes:</b> Before choosing a{" "}
+            <strong>car removal service</strong>, get quotes from several
+            companies in your area. This will help you compare prices and choose
+            the company that offers the best value for your vehicle.
+          </li>
+          <li>
+            <b>Check for Licensing and Insurance:</b> Make sure the car removal
+            company you choose is licensed and insured. This will protect you in
+            case of any damage or accidents that occur during the car removal
+            process.
+          </li>
+        </ol>
+        <p>
+          In conclusion, selling your old car for cash can be a great way to get
+          rid of a vehicle you no longer need while also making some extra
+          money. By following these tips, you can find the best cash for cars
+          near you and ensure a hassle-free car removal experience.
+        </p>
+        <p>
+          if you are in Sydney Australia, we offer you to sell your car to our
+          company. Aux Cash for Car Sydney pays the best price for your old,
+          unwanted, or damaged vehicles.
+        </p>
+        <p>
+          Simply you can <Link href={"/contact"}>call</Link> us or fill out the
+          form which is at the bottom or right side of this page.
+        </p>
+      </>
+    ),
+  },
 ];
