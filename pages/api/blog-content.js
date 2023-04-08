@@ -56,19 +56,18 @@ export const post = [
           Getting rid of old cars clutters up your garage or yard. Also,
           lead-acid batteries and lubricating oils in old cars pose a health
           risk. Used vehicles may also have damaged parts that are dangerous for
-          people. As a car ages, its repair bills tend to increase. read on to
+          people. As a car age, its repair bills tend to increase. read on to
           learn 3 signs it’s time to replace it if you do not know whether or
           not to get rid of your car.
         </p>
         <p>
-          <b>Noises, Shaking, and Other Serious Symptoms</b>
-          Vibration and noises are one of the most common and most bothersome
-          problems when owning a car for a long time. Most often, these shaking
-          and noise problems are caused by problems with the engine, axle, power
-          steering, and motor mounts. A simple fix, such as rotating or
-          balancing tires, could suffice. Unfortunately, it could also indicate
-          some more serious problems, such as a steering or suspension
-          malfunction.
+          <b>Noises, Shaking, and Other Serious Symptoms</b> Vibration and
+          noises are one of the most common and most bothersome problems when
+          owning a car for a long time. Most often, these shaking and noise
+          problems are caused by problems with the engine, axle, power steering,
+          and motor mounts. A simple fix, such as rotating or balancing tires,
+          could suffice. Unfortunately, it could also indicate some more serious
+          problems, such as a steering or suspension malfunction.
         </p>
         <p>
           <b>Expensive Repairs</b>
@@ -715,6 +714,59 @@ export const post = [
         <p>
           Simply you can <Link href={"/contact"}>call</Link> us or fill out the
           form which is at the bottom or right side of this page.
+        </p>
+      </>
+    ),
+  },
+
+  // post15
+  {
+    image: "/assets/postImage/15.jpg",
+    alt: "car removal sydney",
+    title: <h1>car removal sydney</h1>,
+    description: (
+      <>
+        <p>
+          If you have an old, unwanted, or damaged car being in your garage or
+          on your property in Sydney, you might be wondering how to get rid of
+          it. Fortunately,{" "}
+          <Link href={"/"}>Aux Car Removal services in Sydney</Link> offers a
+          hassle-free and eco-friendly way to dispose of your old vehicle while
+          putting some cash in your pocket.
+        </p>
+        <p>
+          <Link href={"/"}>Aux Car Removal company in Sydney</Link> specializes
+          in removing unwanted cars, trucks, vans, and other vehicles from your
+          property, regardless of their condition. Whether your car is no longer
+          running, has been in an accident, or is simply old and worn out, Aux
+          Car Removal services can help you get rid of it quickly and easily.
+        </p>
+        <p>
+          One of the benefits of using{" "}
+          <Link href={"/"}>Aux Car Removal service in Sydney</Link> is that they
+          offer free towing or pickup services for your vehicle, saving you the
+          time and hassle of transporting it to a disposal site yourself. In
+          addition, <Link href={"/"}>Aux Car Removal company</Link> offers you
+          cash for your old or unwanted car, giving you a quick and easy way to
+          earn some extra money.
+        </p>
+        <p>
+          But perhaps the biggest benefit of using{" "}
+          <Link href={"/"}>Aux Car Removal Service in Sydney</Link> is the
+          eco-friendly way in which they dispose of your vehicle.{" "}
+          <Link href={"/"}>Aux Car Removal company in Sydney</Link> has
+          partnerships with recycling facilities and salvage yards, where they
+          can ensure that your old car is properly recycled or salvaged. This
+          helps to minimize the environmental impact of disposing of your
+          vehicle and reduces the amount of waste that ends up in landfills.
+        </p>
+        <p>
+          If you're ready to get rid of your old car in Sydney, and get a good
+          amount of cash, contact{" "}
+          <Link href={"/contact"}>Aux Car Removal service</Link> today. we are
+          able to provide you with a free quote for your vehicle and take care
+          of all the details of removing it. With our service, you can dispose
+          of your old car in an easy, hassle-free, and eco-friendly way
         </p>
       </>
     ),
