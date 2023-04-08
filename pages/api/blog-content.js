@@ -722,8 +722,8 @@ export const post = [
   // post15
   {
     image: "/assets/postImage/15.jpg",
-    alt: "car removal sydney",
-    title: <h1>car removal sydney</h1>,
+    alt: "Car Removal Sydney",
+    title: <h1>Car Removal Sydney</h1>,
     description: (
       <>
         <p>
