@@ -15,8 +15,8 @@ export const post = [
   // post1
   {
     image: "/assets/postImage/damaged-car.jpg",
-    alt: "Who Buys the broken-down-cars in Sydney?",
-    title: <h1>Who Buys the broken-down-cars in Sydney?</h1>,
+    alt: "Who Buys the broken down cars in Sydney?",
+    title: <h1>Who Buys the broken down cars in Sydney?</h1>,
     description: (
       <>
         <p>
