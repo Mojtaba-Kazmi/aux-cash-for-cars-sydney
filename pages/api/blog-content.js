@@ -78,10 +78,9 @@ export const post = [
           the near future.
         </p>
         <p>
-          <b>Excessive Rust</b>
-          In spite of the fact that rust may seem like no big deal, it can cause
-          serious issues if left unattended, including fuel leaks, brake
-          failures, or even rusted appearance.
+          <b>Excessive Rust</b> In spite of the fact that rust may seem like no
+          big deal, it can cause serious issues if left unattended, including
+          fuel leaks, brake failures, or even rusted appearance.
         </p>
       </>
     ),
@@ -140,13 +139,10 @@ export const post = [
   {
     image: "/assets/postImage/junkers.jpg",
     alt: "Where to Sell My Car for Cash Near Me",
-    title: (
-      <h1>
-        Where to Sell My Car for Cash Near Me: Tips for Finding a Reliable Buyer
-      </h1>
-    ),
+    title: <h1>Where to Sell My Car for Cash Near Me</h1>,
     description: (
       <>
+        <h2>Tips for Finding a Reliable Buyer</h2>
         <p>
           It's finally time. You've been thinking about it for weeks, maybe even
           months. You're ready to get rid of your <strong>old car</strong> and
