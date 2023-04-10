@@ -767,4 +767,55 @@ export const post = [
       </>
     ),
   },
+
+  // post16
+  {
+    image: "/assets/postImage/16.jpg",
+    alt: "Cash for cars Sydney",
+    title: <h1>Cash for cars Sydney</h1>,
+    description: (
+      <>
+        <p>
+          Are you looking for a quick and convenient way to sell your car for
+          cash in Sydney? Aux Cash for Car is a popular option for those who
+          want to avoid the hassle of private sales and get instant cash. In
+          this guide, we will explore how Aux Cash for Car works in Sydney and
+          provide you with some tips on how to get the best deal.
+        </p>
+        <h2>How do aux cash for car work?</h2>
+        <ol>
+          <li>
+            <h3>Get price</h3>
+            <p>
+              As soon as you <Link href={"/contact"}>contact us</Link> and
+              provide details about your car, such as the model, year, how much
+              you've driven it, and how well it's been maintained, we'll assess
+              its condition and calculate its value. Our price is determined
+              using factors such as the car's popularity in the market, its
+              current condition, and whether any repairs are required.
+            </p>
+          </li>
+          <li>
+            <h3>Sign digital paperwork</h3>
+            <p>
+              The seller releases ownership of the car by signing the title.
+              Once the buyer has signed the title, he or she takes it to the
+              DMV, which issues a valid registration and title. In some cases,
+              additional paperwork, such as a bill of sale or a transfer of
+              ownership form, will be necessary.
+            </p>
+          </li>
+
+          <li>
+            <h3>Get paid & We pick up</h3>
+            <p>
+              Our company will provide you with cash in exchange for your
+              vehicle. This is the simplest method of payment and ensures that
+              you receive your money as soon as possible.
+            </p>
+          </li>
+        </ol>
+      </>
+    ),
+  },
 ];
