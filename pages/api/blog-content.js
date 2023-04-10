@@ -229,7 +229,7 @@ export const post = [
   // post6
   {
     image: "/assets/postImage/junk-cars.jpg",
-    alt: "Can I sell a flood-damaged car legally?",
+    alt: "Can I sell a flood-damaged car legally? - Sydney",
     title: <h1>Can I sell a flood-damaged car legally? - Sydney</h1>,
     description: (
       <>
@@ -307,9 +307,10 @@ export const post = [
   {
     image: "/assets/postImage/removing-cars.jpg",
     alt: "Junk Car Removal Near Me",
-    title: <h1>Junk Car Removal Near Me: Get Top Dollar for Your Old Car</h1>,
+    title: <h1>Junk Car Removal Near Me</h1>,
     description: (
       <>
+        <h2>Get Top Dollar for Your Old Car</h2>
         <p>
           If you have an old car that you're trying to get rid of, you may be
           wondering about the best way to go about it. You could try to sell it,
