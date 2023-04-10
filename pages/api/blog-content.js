@@ -230,7 +230,7 @@ export const post = [
   {
     image: "/assets/postImage/junk-cars.jpg",
     alt: "Can I sell a flood-damaged car legally?",
-    title: <h1>Can I sell a flood-damaged car legally?</h1>,
+    title: <h1>Can I sell a flood-damaged car legally? - Sydney</h1>,
     description: (
       <>
         <p>
