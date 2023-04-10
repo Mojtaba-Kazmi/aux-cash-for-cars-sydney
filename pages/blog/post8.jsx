@@ -23,7 +23,7 @@ export async function getServerSideProps() {
   return {
     props: {
       title:
-        "Junk Car Removal Near Me: Get Top Dollar for Your Old Car",
+        "Junk Car Removal Near Me",
       description:
         "Junk car removal companies specialize in buying old, useless cars and then either recycling them or selling them for parts. This is a great option if you want to get rid of your car quickly and without hassle. Read on to learn more about how junk car removal works",
       image: "https://auxcashforcarsydney.com/assets/postImage/removing-cars.jpg",

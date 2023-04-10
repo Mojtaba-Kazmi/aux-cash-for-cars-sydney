@@ -20,7 +20,7 @@ export async function getServerSideProps() {
   return {
     props: {
       title:
-        "Can I sell a flood-damaged car legally?",
+        "Can I sell a flood-damaged car legally? - Sydney",
       description:
         "Selling a flood damaged car can be a bit of a hassle, but as long as you are honest about the condition of the car, you should be able to sell it without any problems.",
       image: "https://auxcashforcarsydney.com/assets/postImage/junk-cars.jpg",

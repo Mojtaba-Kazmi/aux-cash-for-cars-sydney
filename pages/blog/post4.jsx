@@ -22,8 +22,7 @@ import Head from "next/head";
 export async function getServerSideProps() {
   return {
     props: {
-      title:
-        "Where to Sell My Car for Cash Near Me: Tips for Finding a Reliable Buyer",
+      title: "Where to Sell My Car for Cash Near Me",
       description:
         "First, find a buyer who is actually interested in your car. Next, get your car in tip-top shape before you sell it. There's a chance that a buyer will lowball you on the price",
       image: "https://auxcashforcarsydney.com/assets/postImage/junkers.jpg",
@@ -53,7 +52,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
         <meta property="og:image" content={image} />
         <meta property="og:image:width" content={width} />
         <meta property="og:image:height" content={height} />
-        <meta name="twitter:card" content='summary' />
+        <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={image} />
