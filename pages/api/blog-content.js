@@ -70,12 +70,11 @@ export const post = [
           problems, such as a steering or suspension malfunction.
         </p>
         <p>
-          <b>Expensive Repairs</b>
-          If the cost of repairs exceeds the value of your car, it's a good
-          indication that you should sell it. You can get your car running
-          again, but you won't get your money back if you sell it. If your
-          vehicle is older or in poor condition, you can expect more repairs in
-          the near future.
+          <b>Expensive Repairs</b> If the cost of repairs exceeds the value of
+          your car, it's a good indication that you should sell it. You can get
+          your car running again, but you won't get your money back if you sell
+          it. If your vehicle is older or in poor condition, you can expect more
+          repairs in the near future.
         </p>
         <p>
           <b>Excessive Rust</b> In spite of the fact that rust may seem like no
