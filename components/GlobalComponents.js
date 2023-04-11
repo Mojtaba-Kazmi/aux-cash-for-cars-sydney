@@ -127,6 +127,11 @@ h1{
     letter-spacing: 0.5px;
     text-align: justify;
 }
+h2{
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    text-align: justify;
+}
 p{
     color: #888888;
     margin-top: 18px;
