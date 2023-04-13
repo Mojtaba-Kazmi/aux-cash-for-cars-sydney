@@ -308,6 +308,7 @@ const Footer = () => {
                     component="img"
                     image="/assets/aux-cash-for-cars-sydney.svg"
                     height={"100"}
+                    alt="Car removal Sydney"
                   />
                 </Box>
               </Grid>
