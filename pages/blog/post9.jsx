@@ -22,11 +22,11 @@ import Head from "next/head";
 export async function getServerSideProps() {
   return {
     props: {
-      title:
-        "Selling Junk Cars: Laws to Know",
+      title: "Selling Junk Cars: Laws to Know",
       description:
-        "If you have a Junk car and you want to sell it you came to the right place, we are here to say its Laws and buy your junk car, and we will pay the best price for it.",
-      image: "https://auxcashforcarsydney.com/assets/postImage/car-removing.jpg",
+        "we are here to say Selling Junk Cars Laws and buy your junk car, and we will pay the best price for it.",
+      image:
+        "https://auxcashforcarsydney.com/assets/postImage/car-removing.jpg",
       url: "https://auxcashforcarsydney.com/blog/post9",
       keyword:
         "cash for cars sydney, Car Removal near me,sell my old car, useless cars, junk car removal",
