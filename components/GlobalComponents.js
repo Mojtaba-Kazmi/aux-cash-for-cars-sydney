@@ -139,6 +139,17 @@ p{
 
 }`;
 
+export const TagsStyle = styled("div")`
+  width: 100%;
+  height: 120px;
+  overflow: hidden;
+  h2 {
+    font-size: 10px;
+    color: #888888;
+    display: inline-block;
+  }
+`;
+
 export const Description = styled("div")`
   height: 60px;
   overflow: hidden;

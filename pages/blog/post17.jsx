@@ -22,13 +22,13 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Cash for cars Sydney",
+      title: "Junk car removal",
       description:
-        "Sell your car now for cash or a bank check in Sydney. Aux cash for cars pays the highest amount for your old, unwanted, scrap, or unworthy cars.",
-      image: "https://auxcashforcarsydney.com/assets/postImage/16.jpg",
-      url: `https://auxcashforcarsydney.com/blog/post16`,
+        "this topic is A guide for: what is Junk car removal? and at the end, we will introduce The best Junk car removal for you.",
+      image: "https://auxcashforcarsydney.com/assets/postImage/17.jpg",
+      url: `https://auxcashforcarsydney.com/blog/post17`,
       keyword:
-        "cash for cars sydney, Car Removal Sydney,sell my old car, pick up car for free",
+        "cash for cars sydney, Car Removal Sydney,sell my old car, pick up car for free, juk car removal",
       width: 1200,
       height: 630,
     },
@@ -72,13 +72,13 @@ function post0({ title, description, image, url, keyword, width, height }) {
                 <Card>
                   <CardMedia
                     sx={{ height: "300px" }}
-                    image={post[16].image}
-                    title={post[16].alt}
-                    alt={post[16].alt}
+                    image={post[17].image}
+                    title={post[17].alt}
+                    alt={post[17].alt}
                   />
                   <CardContent>
-                    {post[16].title}
-                    {post[16].description}
+                    {post[17].title}
+                    {post[17].description}
                   </CardContent>
 
                   <Grid
@@ -115,7 +115,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
                   <Card>
                     <CardContent>
                       <Typography component={"p"}> Tags </Typography>
-                      <TagsStyle>{post[16].tags}</TagsStyle>
+                      <TagsStyle>{post[17].tags}</TagsStyle>
                     </CardContent>
                   </Card>
                 </Grid>

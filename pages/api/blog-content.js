@@ -843,5 +843,257 @@ export const post = [
         </ol>
       </>
     ),
+    tags: (
+      <>
+        <h2>Cash for cars Kogarah NSW 2217</h2>,{" "}
+        <h2>Cash for cars Sutherland</h2>, <h2>Cash for cars Blue Mountains</h2>
+        , <h2>Cash for cars Hills District</h2>,{" "}
+        <h2>Cash for cars Northern Beaches</h2>,{" "}
+        <h2>Cash for cars Eastern Suburbs NSW</h2>,{" "}
+        <h2>Cash for cars Canterbury And Bankstown</h2>,{" "}
+        <h2>Cash for cars Great Western Sydney</h2>,{" "}
+        <h2>Cash for cars Helensburgh NSW 2508</h2>,{" "}
+      </>
+    ),
   },
+
+  // post17
+  {
+    image: "/assets/postImage/17.jpg",
+    alt: "Junk car removal",
+    title: <h1>Junk car removal</h1>,
+    description: (
+      <>
+        <p>
+          Junk car removal is the process of getting rid of old, damaged, or no
+          longer needed vehicles from a property. Many people may not realize
+          the negative impact that old cars can have on the environment, making
+          junk car removal an essential service that benefits both the
+          environment and society as a whole.
+        </p>
+        <p>
+          Firstly, old cars that are left to rust and decay on a property can
+          pose a serious threat to the environment. When left outside, these
+          vehicles can leak harmful chemicals and fluids such as oil, gasoline,
+          and antifreeze, which can contaminate the soil and groundwater. This
+          contamination can be hazardous to both humans and animals that may
+          come into contact with the affected areas.
+        </p>
+        <p>
+          Secondly, <Link href={"/"}>junk car removal</Link> can help reduce the
+          amount of waste in landfills. Cars are made up of a variety of
+          materials, including metals, plastics, and glass, which can take
+          hundreds of years to decompose. By removing old cars and properly
+          recycling their parts, we can reduce the amount of waste that ends up
+          in landfills, thus reducing our carbon footprint and helping to
+          preserve our planet for future generations.
+        </p>
+        <p>
+          In addition to environmental benefits,{" "}
+          <Link href={"/"}>junk car removal</Link> can also provide economic
+          benefits. Many <Link href={"/"}>junk car removal</Link>companies will
+          pay <strong>cash for old vehicles</strong>, providing an incentive for
+          people to get rid of their old cars and potentially earning some extra
+          money in the process.
+        </p>
+        <p>
+          Overall, <Link href={"/"}>junk car removal</Link> is an important
+          service that provides numerous benefits to the environment, society,
+          and the economy. It helps reduce the negative impact that old cars can
+          have on the environment, reduces waste in landfills, and provides a
+          potential source of income for those looking to get rid of their old
+          vehicles.
+        </p>
+        <p>
+          There are a lot of junk car removal in Sydney which one of their best
+          is <Link href={"/"}>Aux Cash for car Sydney</Link>.{" "}
+          <Link href={"/"}>Aux Cash For Car</Link> give its service to all area
+          of Sydney. Wherever you are in Sydney, you can get in touch with them
+          through their <Link href={"/"}>website</Link>,{" "}
+          <Link href={"/contact"}>phone number</Link>, Facebook and LinkedIn
+          page.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Junk car removal Sydney</h2>,{" "}
+        <h2>Junk car removal Kogarah NSW 2217</h2>,{" "}
+        <h2>Junk car removal Sutherland</h2>,{" "}
+        <h2>Junk car removal Blue Mountains</h2>,{" "}
+        <h2>Junk car removal Hills District</h2>,{" "}
+        <h2>Junk car removal Northern Beaches</h2>,{" "}
+        <h2>Junk car removal Eastern Suburbs NSW</h2>,{" "}
+        <h2>Junk car removal Canterbury And Bankstown</h2>,{" "}
+        <h2>Junk car removal Great Western Sydney</h2>,{" "}
+        <h2>Junk car removal Helensburgh NSW 2508</h2>,{" "}
+      </>
+    ),
+  },
+
+  // // post18
+  // {
+  //   image: "/assets/postImage/16.jpg",
+  //   alt: "sell car for cash",
+  //   title: <h1>sell car for cash</h1>,
+  //   description: (
+  //     <>
+  //       <p>
+  //         Selling your car for cash can be a quick and convenient way to get rid
+  //         of an unwanted vehicle while also putting some money in your pocket.
+  //         However, there are several factors to consider before deciding to sell
+  //         your car for cash, including the potential benefits and drawbacks of
+  //         this approach, as well as how to find a reputable buyer and get the
+  //         best possible price for your vehicle.
+  //       </p>
+  //       <p>
+  //         In this article, we will explore some of the main benefits and
+  //         considerations of selling your car for cash, as well as some tips for
+  //         finding a reliable buyer and maximizing the value of your sale.
+  //       </p>
+  //       <h2>Benefits of Selling Your Car for Cash</h2>
+  //       <p>
+  //         One of the main benefits of selling your car for cash is that it can
+  //         be a fast and straightforward process. Rather than having to deal with
+  //         the time-consuming and often frustrating process of listing your car
+  //         for sale, negotiating with potential buyers, and completing paperwork,
+  //         selling your car for cash can be as simple as finding a reputable
+  //         buyer, agreeing on a price, and exchanging cash for the vehicle.
+  //       </p>
+  //       <p>
+  //         Another advantage of selling your car for cash is that you may be able
+  //         to get a better price for your vehicle than you would through a
+  //         traditional sale. This is because cash buyers often value convenience
+  //         and quick transactions, and may be willing to pay a premium price to
+  //         avoid the hassle of negotiating with other buyers or dealing with
+  //         financing and paperwork.
+  //       </p>
+  //       <h2>Considerations When Selling Your Car for Cash</h2>
+  //       <p>
+  //         While selling your car for cash can be a convenient and potentially
+  //         lucrative option, there are some important considerations to keep in
+  //         mind. For example, it's essential to find a reputable buyer who will
+  //         offer a fair price for your vehicle and handle the transaction
+  //         professionally and transparently.
+  //       </p>
+  //       <p>
+  //         One way to find a reliable cash buyer is to look for companies that
+  //         specialize in buying cars for cash. These companies may have
+  //         established reputations and processes for evaluating and purchasing
+  //         vehicles, and can often provide a straightforward and hassle-free
+  //         transaction.
+  //       </p>
+  //       <p>
+  //         Another consideration when selling your car for cash is that you may
+  //         need to be prepared to accept a lower price than you would through a
+  //         traditional sale. This is because cash buyers may be looking for a
+  //         bargain or may have limited budgets for purchasing vehicles outright.
+  //       </p>
+  //       <h2>Tips for Maximizing the Value of Your Sale</h2>
+  //       <p>
+  //         If you decide to sell your car for cash, there are several steps you
+  //         can take to maximize the value of your sale. One of the most important
+  //         is to have your car evaluated by a professional mechanic before
+  //         listing it for sale. This can help identify any potential issues or
+  //         repairs that may need to be addressed, and can give you a better idea
+  //         of what your car is worth.
+  //       </p>
+  //       <p>
+  //         Another tip for maximizing the value of your sale is to clean and
+  //         detail your car thoroughly before showing it to potential buyers. This
+  //         can help make your car look more attractive and well-maintained, and
+  //         can give buyers more confidence in the condition of the vehicle.
+  //       </p>
+  //       <p>
+  //         Finally, it's essential to be prepared to negotiate with potential
+  //         buyers and be willing to walk away from any offers that are too low or
+  //         not in your best interest. By being patient and persistent in your
+  //         search for a reliable and fair cash buyer, you can ensure that you get
+  //         the best possible price for your car and a hassle-free transaction.
+  //       </p>
+  //       <p>
+  //         We also offer you to have a look and check the Aux cash for car
+  //         Sydney, this company is one the best cash for car company that gives
+  //         the best, reliable and fair price for your car with the best, quick
+  //         and convenient service.
+  //       </p>
+  //     </>
+  //   ),
+  // },
+
+  // // post19
+  // {
+  //   image: "/assets/postImage/16.jpg",
+  //   alt: "car scrap pick up",
+  //   title: <h1>car scrap pick up</h1>,
+  //   description: (
+  //     <>
+  //       <p>
+  //         <Link href={"/"}>Car scrap pick up</Link> is a service provided by
+  //         many companies that specialize in the removal and recycling of old or
+  //         damaged vehicles. It involves the transportation of a scrap car from
+  //         its current location to a designated recycling center where it will be
+  //         dismantled and the parts recycled. This service provides several
+  //         benefits and is an excellent option for those looking to dispose of
+  //         their old or damaged cars in an environmentally friendly way. However,
+  //         there are also some important things to consider when opting for car
+  //         <Link href={"/"}>scrap pick up</Link>.
+  //       </p>
+  //       <p>
+  //         One of the primary benefits of car{" "}
+  //         <Link href={"/"}>scrap pick up</Link> is that it is an eco-friendly
+  //         way to dispose of a vehicle. When a car is taken to a recycling
+  //         center, it is dismantled, and its parts are reused or recycled. This
+  //         reduces the need for new parts to be manufactured, which, in turn,
+  //         reduces the carbon footprint associated with producing new car parts.
+  //         Additionally, recycling the <Link href={"/"}>metal components</Link>{" "}
+  //         of a vehicle reduces the amount of waste that goes to landfills, which
+  //         helps to reduce the negative impact on the environment.
+  //       </p>
+  //       <p>
+  //         Another benefit of <Link href={"/"}>car scrap pick up</Link> is that
+  //         it is a convenient way to get rid of an old or damaged car. The
+  //         process is straightforward, and the service provider will typically
+  //         handle all of the paperwork and logistics associated with the removal
+  //         of the vehicle. This means that the car owner does not have to worry
+  //         about transporting the car to a recycling center or finding a buyer
+  //         for the car.
+  //       </p>
+  //       <p>
+  //         However, before opting for <Link href={"/"}>car scrap pick up</Link>,
+  //         there are some important things to consider. The first is the cost
+  //         associated with the service. While some companies may offer the
+  //         service for free, others may charge a fee for the removal of the car.
+  //         It is essential to research the different service providers and their
+  //         pricing to ensure that you are getting a fair deal.
+  //       </p>
+  //       <p>
+  //         Another important consideration is the condition of the vehicle. In
+  //         some cases, the car may not be in a condition that is suitable for
+  //         scrap pick up. For example, if the car is missing essential parts or
+  //         is severely damaged, it may not be accepted by the recycling center.
+  //         It is important to communicate the condition of the car to the service
+  //         provider before scheduling the pick-up to avoid any potential issues.
+  //       </p>
+  //       <p>
+  //         In conclusion, car scrap pick up is an excellent option for those
+  //         looking to dispose of their old or damaged vehicles in an eco-friendly
+  //         way. It provides several benefits, including reducing the carbon
+  //         footprint associated with manufacturing new parts and reducing the
+  //         amount of waste that goes to landfills. However, it is essential to
+  //         consider the cost and condition of the vehicle before opting for this
+  //         service. By doing so, car owners can ensure that they are getting a
+  //         fair deal and that the vehicle can be successfully recycled.
+  //       </p>
+  //     </>
+  //   ),
+  // },
+
+  // // post20
+  // {
+  //   image: "/assets/postImage/16.jpg",
+  //   alt: "car scrap pick up",
+  //   title: <h1>car scrap pick up</h1>,
+  //   description: <></>,
+  // },
 ];
