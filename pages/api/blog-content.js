@@ -1037,73 +1037,112 @@ export const post = [
     ),
   },
 
-  // // post19
-  // {
-  //   image: "/assets/postImage/16.jpg",
-  //   alt: "car scrap pick up",
-  //   title: <h1>car scrap pick up</h1>,
-  //   description: (
-  //     <>
-  //       <p>
-  //         <Link href={"/"}>Car scrap pick up</Link> is a service provided by
-  //         many companies that specialize in the removal and recycling of old or
-  //         damaged vehicles. It involves the transportation of a scrap car from
-  //         its current location to a designated recycling center where it will be
-  //         dismantled and the parts recycled. This service provides several
-  //         benefits and is an excellent option for those looking to dispose of
-  //         their old or damaged cars in an environmentally friendly way. However,
-  //         there are also some important things to consider when opting for car
-  //         <Link href={"/"}>scrap pick up</Link>.
-  //       </p>
-  //       <p>
-  //         One of the primary benefits of car{" "}
-  //         <Link href={"/"}>scrap pick up</Link> is that it is an eco-friendly
-  //         way to dispose of a vehicle. When a car is taken to a recycling
-  //         center, it is dismantled, and its parts are reused or recycled. This
-  //         reduces the need for new parts to be manufactured, which, in turn,
-  //         reduces the carbon footprint associated with producing new car parts.
-  //         Additionally, recycling the <Link href={"/"}>metal components</Link>{" "}
-  //         of a vehicle reduces the amount of waste that goes to landfills, which
-  //         helps to reduce the negative impact on the environment.
-  //       </p>
-  //       <p>
-  //         Another benefit of <Link href={"/"}>car scrap pick up</Link> is that
-  //         it is a convenient way to get rid of an old or damaged car. The
-  //         process is straightforward, and the service provider will typically
-  //         handle all of the paperwork and logistics associated with the removal
-  //         of the vehicle. This means that the car owner does not have to worry
-  //         about transporting the car to a recycling center or finding a buyer
-  //         for the car.
-  //       </p>
-  //       <p>
-  //         However, before opting for <Link href={"/"}>car scrap pick up</Link>,
-  //         there are some important things to consider. The first is the cost
-  //         associated with the service. While some companies may offer the
-  //         service for free, others may charge a fee for the removal of the car.
-  //         It is essential to research the different service providers and their
-  //         pricing to ensure that you are getting a fair deal.
-  //       </p>
-  //       <p>
-  //         Another important consideration is the condition of the vehicle. In
-  //         some cases, the car may not be in a condition that is suitable for
-  //         scrap pick up. For example, if the car is missing essential parts or
-  //         is severely damaged, it may not be accepted by the recycling center.
-  //         It is important to communicate the condition of the car to the service
-  //         provider before scheduling the pick-up to avoid any potential issues.
-  //       </p>
-  //       <p>
-  //         In conclusion, car scrap pick up is an excellent option for those
-  //         looking to dispose of their old or damaged vehicles in an eco-friendly
-  //         way. It provides several benefits, including reducing the carbon
-  //         footprint associated with manufacturing new parts and reducing the
-  //         amount of waste that goes to landfills. However, it is essential to
-  //         consider the cost and condition of the vehicle before opting for this
-  //         service. By doing so, car owners can ensure that they are getting a
-  //         fair deal and that the vehicle can be successfully recycled.
-  //       </p>
-  //     </>
-  //   ),
-  // },
+  // post19
+  {
+    image: "/assets/postImage/19.jpg",
+    alt: "car scrap pick up",
+    title: <h1>car scrap pick up</h1>,
+    description: (
+      <>
+        <p>
+          <Link href={"/"}>Car scrap pick up</Link> is a service provided by
+          many companies that specialize in the removal and recycling of old or
+          damaged vehicles. It involves the transportation of a scrap car from
+          its current location to a designated recycling center where it will be
+          dismantled and the parts recycled. This service provides several
+          benefits and is an excellent option for those looking to dispose of
+          their old or damaged cars in an environmentally friendly way. However,
+          there are also some important things to consider when opting for car
+          <Link href={"/"}>scrap pick up</Link>.
+        </p>
+        <p>
+          One of the primary benefits of car{" "}
+          <Link href={"/"}>scrap pick up</Link> is that it is an eco-friendly
+          way to dispose of a vehicle. When a car is taken to a recycling
+          center, it is dismantled, and its parts are reused or recycled. This
+          reduces the need for new parts to be manufactured, which, in turn,
+          reduces the carbon footprint associated with producing new car parts.
+          Additionally, recycling the <Link href={"/"}>metal components</Link>{" "}
+          of a vehicle reduces the amount of waste that goes to landfills, which
+          helps to reduce the negative impact on the environment.
+        </p>
+        <p>
+          Another benefit of <Link href={"/"}>car scrap pick up</Link> is that
+          it is a convenient way to get rid of an old or damaged car. The
+          process is straightforward, and the service provider will typically
+          handle all of the paperwork and logistics associated with the removal
+          of the vehicle. This means that the car owner does not have to worry
+          about transporting the car to a recycling center or finding a buyer
+          for the car.
+        </p>
+        <p>
+          However, before opting for <Link href={"/"}>car scrap pick up</Link>,
+          there are some important things to consider. The first is the cost
+          associated with the service. While some companies may offer the
+          service for free, others may charge a fee for the removal of the car.
+          It is essential to research the different service providers and their
+          pricing to ensure that you are getting a fair deal.
+        </p>
+        <p>
+          Another important consideration is the condition of the vehicle. In
+          some cases, the car may not be in a condition that is suitable for
+          scrap pick up. For example, if the car is missing essential parts or
+          is severely damaged, it may not be accepted by the recycling center.
+          It is important to communicate the condition of the car to the service
+          provider before scheduling the pick-up to avoid any potential issues.
+        </p>
+        <p>
+          In conclusion, car scrap pick up is an excellent option for those
+          looking to dispose of their old or damaged vehicles in an eco-friendly
+          way. It provides several benefits, including reducing the carbon
+          footprint associated with manufacturing new parts and reducing the
+          amount of waste that goes to landfills. However, it is essential to
+          consider the cost and condition of the vehicle before opting for this
+          service. By doing so, car owners can ensure that they are getting a
+          fair deal and that the vehicle can be successfully recycled.
+        </p>
+        <p>
+          It has been always been a questionable thought in our mind that how
+          can I find the good service car scrap pick up, don’t worry because we
+          are going to introduce you one of the{" "}
+          <Link href={"/"}>best car removals in Sydney</Link> which always have
+          given the best service to their clients.{" "}
+          <Link href={"/"}>Aux Cash For Cars Sydney</Link> give its service to
+          all area of Sydney. Wherever you are in Sydney, you can get in touch
+          with them through their <Link href={"/"}>website</Link>,{" "}
+          <Link href={"/contact"}>phone number</Link>,{" "}
+          <Link
+            href={"https://www.facebook.com/auxcashforcarsydney"}
+            target="_blank"
+          >
+            Facebook
+          </Link>{" "}
+          and{" "}
+          <Link
+            href={"https://www.linkedin.com/company/aux-cash-for-car-sydney"}
+            target="_blank"
+          >
+            LinkedIn
+          </Link>{" "}
+          page.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>car scrap pick up Sydney</h2>,{" "}
+        <h2>car scrap pick up Kogarah NSW 2217</h2>,{" "}
+        <h2>car scrap pick up Sutherland</h2>,{" "}
+        <h2>car scrap pick up Blue Mountains</h2>,{" "}
+        <h2>car scrap pick up Hills District</h2>,{" "}
+        <h2>car scrap pick up Northern Beaches</h2>,{" "}
+        <h2>car scrap pick up Eastern Suburbs NSW</h2>,{" "}
+        <h2>car scrap pick up Canterbury And Bankstown</h2>,{" "}
+        <h2>car scrap pick up Great Western Sydney</h2>,{" "}
+        <h2>car scrap pick up Helensburgh NSW 2508</h2>,{" "}
+      </>
+    ),
+  },
 
   // // post20
   // {
