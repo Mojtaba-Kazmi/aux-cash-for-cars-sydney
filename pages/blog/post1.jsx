@@ -20,7 +20,7 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Who Buys the broken-down-cars in Sydney?",
+      title: "Who Buys the broken down cars in Sydney?",
       description:
         "You can sell your broken down car to us for good cash. In addition, since it is a car that does not work, you will have to pay to toll on it. The good news is that we will pick up your car for free. It’s FREE!",
       image: "https://auxcashforcarsydney.com/assets/postImage/damaged-car.jpg",
@@ -49,8 +49,8 @@ function post0({ title, description, image, url, keyword, width, height }) {
         <meta property="og:image" content={image} />
         <meta property="og:image:width" content={width} />
         <meta property="og:image:height" content={height} />
-        
-        <meta name="twitter:card" content='summary' />
+
+        <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={image} />
