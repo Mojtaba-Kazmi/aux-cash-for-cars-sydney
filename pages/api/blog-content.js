@@ -905,12 +905,25 @@ export const post = [
           vehicles.
         </p>
         <p>
-          There are a lot of junk car removal in Sydney which one of their best
-          is <Link href={"/"}>Aux Cash for car Sydney</Link>.{" "}
-          <Link href={"/"}>Aux Cash For Car</Link> give its service to all area
-          of Sydney. Wherever you are in Sydney, you can get in touch with them
-          through their <Link href={"/"}>website</Link>,{" "}
-          <Link href={"/contact"}>phone number</Link>, Facebook and LinkedIn
+          There is a lot of junk car removal in Sydney and one of the best is
+          Aux Cash for Cars Sydney.{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> gives its service to
+          all areas of Sydney. Wherever you are in Sydney, you can get in touch
+          with them through their <Link href={"/"}>website</Link>,
+          <Link href={"/contact"}>phone number</Link>,{" "}
+          <Link
+            href={"https://www.facebook.com/auxcashforcarsydney"}
+            target="_blank"
+          >
+            Facebook
+          </Link>
+          , and{" "}
+          <Link
+            href={"https://www.linkedin.com/company/aux-cash-for-car-sydney"}
+            target="_blank"
+          >
+            LinkedIn
+          </Link>{" "}
           page.
         </p>
       </>
@@ -1015,9 +1028,10 @@ export const post = [
         </p>
         <p>
           We also offer you to have a look and check the{" "}
-          <Link href={"/"}>Aux cash for car Sydney</Link>, this company is one
-          the best cash for car company that gives the best, reliable and fair
-          price for your car with the best, quick and convenient service.
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, this company is one
+          of the <strong>best cash for cars</strong> company that gives the
+          best, most reliable, and fair price for your car with the best, quick,
+          and most convenient service.
         </p>
       </>
     ),
@@ -1040,7 +1054,7 @@ export const post = [
   // post19
   {
     image: "/assets/postImage/19.jpg",
-    alt: "car scrap pick up",
+    alt: "scrap cars for cash",
     title: <h1>car scrap pick up</h1>,
     description: (
       <>
@@ -1102,22 +1116,21 @@ export const post = [
           fair deal and that the vehicle can be successfully recycled.
         </p>
         <p>
-          It has been always been a questionable thought in our mind that how
-          can I find the good service car scrap pick up, don’t worry because we
-          are going to introduce you one of the{" "}
-          <Link href={"/"}>best car removals in Sydney</Link> which always have
-          given the best service to their clients.{" "}
-          <Link href={"/"}>Aux Cash For Cars Sydney</Link> give its service to
-          all area of Sydney. Wherever you are in Sydney, you can get in touch
-          with them through their <Link href={"/"}>website</Link>,{" "}
+          It has been always been a questionable thought in our mind how can I
+          find a good service <Link href={"/"}>car scrap pick up</Link>, don’t
+          worry because we are going to introduce you to one of the best car
+          removals in Sydney which always has given the best service to their
+          clients. <Link href={"/"}>Aux Cash For Cars Sydney</Link> gives its
+          service to all areas of Sydney. Wherever you are in Sydney, you can
+          get in touch with them through their <Link href={"/"}>website</Link>,
           <Link href={"/contact"}>phone number</Link>,{" "}
           <Link
             href={"https://www.facebook.com/auxcashforcarsydney"}
             target="_blank"
           >
             Facebook
-          </Link>{" "}
-          and{" "}
+          </Link>
+          , and{" "}
           <Link
             href={"https://www.linkedin.com/company/aux-cash-for-car-sydney"}
             target="_blank"
@@ -1146,9 +1159,36 @@ export const post = [
 
   // // post20
   // {
-  //   image: "/assets/postImage/16.jpg",
-  //   alt: "car scrap pick up",
-  //   title: <h1>car scrap pick up</h1>,
-  //   description: <></>,
+  //   image: "/assets/postImage/19.jpg",
+  //   alt: "scrap cars for cash",
+  //   title: <h1>scrap cars for cash</h1>,
+  //   description: (
+  //     <>
+  //       <p>
+  //         When it comes to disposing of an old or damaged car, many people are
+  //         now turning to scrap car buyers who offer cash for vehicles that are
+  //         no longer roadworthy. While this can be a convenient way to get rid of
+  //         your unwanted car and make some money in the process, there are both
+  //         advantages and disadvantages to selling your scrap car for cash.
+  //       </p>
+  //       <p>
+
+  //       </p>
+  //     </>
+  //   ),
+  //   tags: (
+  //     <>
+  //       <h2>scrap cars for cash Sydney</h2>,{" "}
+  //       <h2>scrap cars for cash Kogarah NSW 2217</h2>,{" "}
+  //       <h2>scrap cars for cash Sutherland</h2>,{" "}
+  //       <h2>scrap cars for cash Blue Mountains</h2>,{" "}
+  //       <h2>scrap cars for cash Hills District</h2>,{" "}
+  //       <h2>scrap cars for cash Northern Beaches</h2>,{" "}
+  //       <h2>scrap cars for cash Eastern Suburbs NSW</h2>,{" "}
+  //       <h2>scrap cars for cash Canterbury And Bankstown</h2>,{" "}
+  //       <h2>scrap cars for cash Great Western Sydney</h2>,{" "}
+  //       <h2>scrap cars for cash Helensburgh NSW 2508</h2>,{" "}
+  //     </>
+  //   ),
   // },
 ];
