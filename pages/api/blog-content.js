@@ -811,7 +811,7 @@ export const post = [
         <h2>How do aux cash for car work?</h2>
         <ol>
           <li>
-            <h3>Get price</h3>
+            <strong>Get price</strong>
             <p>
               As soon as you <Link href={"/contact"}>contact us</Link> and
               provide details about your car, such as the model, year, how much
@@ -822,7 +822,7 @@ export const post = [
             </p>
           </li>
           <li>
-            <h3>Sign digital paperwork</h3>
+            <strong>Sign digital paperwork</strong>
             <p>
               The seller releases ownership of the car by signing the title.
               Once the buyer has signed the title, he or she takes it to the
@@ -833,7 +833,7 @@ export const post = [
           </li>
 
           <li>
-            <h3>Get paid & We pick up</h3>
+            <strong>Get paid & We pick up</strong>
             <p>
               Our company will provide you with cash in exchange for your
               vehicle. This is the simplest method of payment and ensures that
@@ -1157,38 +1157,124 @@ export const post = [
     ),
   },
 
-  // // post20
-  // {
-  //   image: "/assets/postImage/19.jpg",
-  //   alt: "scrap cars for cash",
-  //   title: <h1>scrap cars for cash</h1>,
-  //   description: (
-  //     <>
-  //       <p>
-  //         When it comes to disposing of an old or damaged car, many people are
-  //         now turning to scrap car buyers who offer cash for vehicles that are
-  //         no longer roadworthy. While this can be a convenient way to get rid of
-  //         your unwanted car and make some money in the process, there are both
-  //         advantages and disadvantages to selling your scrap car for cash.
-  //       </p>
-  //       <p>
+  // post20
+  {
+    image: "/assets/postImage/20.jpg",
+    alt: "Scrap Cars for Cash",
+    title: <h1>Scrap Cars for Cash</h1>,
+    description: (
+      <>
+        <p>
+          When it comes to disposing of an old or damaged car, many people are
+          now turning to <Link href={"/"}>scrap car buyers</Link> who offer cash
+          for vehicles that are no longer roadworthy. While this can be a
+          convenient way to get rid of your unwanted car and make some money in
+          the process, there are both advantages and disadvantages to{" "}
+          <Link href={"/"}>selling your scrap car for cash</Link>.
+        </p>
+        <h2>Pros:</h2>
 
-  //       </p>
-  //     </>
-  //   ),
-  //   tags: (
-  //     <>
-  //       <h2>scrap cars for cash Sydney</h2>,{" "}
-  //       <h2>scrap cars for cash Kogarah NSW 2217</h2>,{" "}
-  //       <h2>scrap cars for cash Sutherland</h2>,{" "}
-  //       <h2>scrap cars for cash Blue Mountains</h2>,{" "}
-  //       <h2>scrap cars for cash Hills District</h2>,{" "}
-  //       <h2>scrap cars for cash Northern Beaches</h2>,{" "}
-  //       <h2>scrap cars for cash Eastern Suburbs NSW</h2>,{" "}
-  //       <h2>scrap cars for cash Canterbury And Bankstown</h2>,{" "}
-  //       <h2>scrap cars for cash Great Western Sydney</h2>,{" "}
-  //       <h2>scrap cars for cash Helensburgh NSW 2508</h2>,{" "}
-  //     </>
-  //   ),
-  // },
+        <p>
+          <strong>Quick and convenient:</strong> Selling your scrap car for cash
+          is often a quick and convenient process, with many buyers offering
+          same-day pickups and payments.
+        </p>
+        <p>
+          Environmentally friendly: By selling your car to a scrap yard, you're
+          helping to reduce waste and promote recycling. The metal and other
+          materials from your car can be melted down and repurposed for other
+          uses.
+        </p>
+
+        <p>
+          <strong>Cash in hand:</strong> Scrap car buyers typically pay in cash,
+          providing you with immediate access to money that you can use for
+          other purposes.
+        </p>
+
+        <p>
+          <strong>No need to repair or advertise:</strong> With a scrap car,
+          there's no need to spend money on repairs or advertise the vehicle to
+          potential buyers.
+        </p>
+        <h2>Cons:</h2>
+
+        <p>
+          <strong>Low value:</strong> While selling your scrap car for cash can
+          be a quick way to make some money, you're unlikely to receive a
+          significant amount. Scrap yards typically pay based on the weight of
+          the vehicle and the current price of scrap metal.
+        </p>
+
+        <p>
+          <strong>Limited options:</strong> If you have a car that's still in
+          good condition, you may be able to sell it for a higher price to a
+          private buyer or dealer. Selling your car for scrap means that you're
+          limited to one option.
+        </p>
+
+        <p>
+          <strong>Potential scams:</strong> Unfortunately, there are some
+          unscrupulous scrap car buyers who may try to take advantage of you by
+          offering a low price or charging hidden fees. It's important to do
+          your research and choose a reputable buyer.
+        </p>
+
+        <p>
+          <strong>Towing fees:</strong> If your car isn't in driving condition,
+          you may need to pay for towing to get it to the scrap yard. This can
+          eat into any money you make from selling the car.
+        </p>
+        <h2>Conclusion:</h2>
+        <p>
+          Selling your scraped car for cash can be a convenient way to get rid
+          of an unwanted vehicle and make some money in the process. However,
+          it's important to weigh the pros and cons before making a decision. If
+          you have a car that's still in good condition, you may be able to sell
+          it for a higher price to a private buyer or dealer. On the other hand,
+          if your car is no longer roadworthy and you need to get rid of it
+          quickly, selling it to a scrap yard can be a viable option.
+        </p>
+        <p>
+          So, selling your scrap cars for cash has a lot of benefits as we
+          mentioned above, if you are one of those people who is looking for a
+          good and best cash for scraped cars you have come to the right place
+          because we are going to introduce you one of the best car removals in
+          Sydney which always have given the best service to their clients.{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> gives its service to
+          all areas of Sydney. Wherever you are in Sydney, you can get in touch
+          with them through their <Link href={"/"}>website</Link>,
+          <Link href={"/contact"}>phone number</Link>,{" "}
+          <Link
+            href={"https://www.facebook.com/auxcashforcarsydney"}
+            target="_blank"
+          >
+            Facebook
+          </Link>
+          , and{" "}
+          <Link
+            href={"https://www.linkedin.com/company/aux-cash-for-car-sydney"}
+            target="_blank"
+          >
+            LinkedIn
+          </Link>{" "}
+          page.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>scrap cars for cash Sydney</h2>,{" "}
+        <h2>scrap cars for cash Kogarah NSW 2217</h2>,{" "}
+        <h2>scrap cars for cash Sutherland</h2>,{" "}
+        <h2>scrap cars for cash Blue Mountains</h2>,{" "}
+        <h2>scrap cars for cash Hills District</h2>,{" "}
+        <h2>scrap cars for cash Northern Beaches</h2>,{" "}
+        <h2>scrap cars for cash Eastern Suburbs NSW</h2>,{" "}
+        <h2>scrap cars for cash Canterbury And Bankstown</h2>,{" "}
+        <h2>scrap cars for cash Great Western Sydney</h2>,{" "}
+        <h2>scrap cars for cash Helensburgh NSW 2508</h2>,{" "}
+      </>
+    ),
+  },
 ];
