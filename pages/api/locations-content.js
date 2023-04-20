@@ -168,26 +168,58 @@ export const location = [
             repair or salvageable. They may recycle or salvage usable parts from
             the cars, reducing the impact of car disposal on the environment.
           </li>
-          <p>
-            In conclusion, cash for cars Eastern NSW offers a quick and
-            hassle-free way to sell your car. With instant cash payments, a
-            simple process, and acceptance of all types of cars, cash for cars
-            services have become a popular choice for car owners looking to sell
-            their cars in Eastern NSW. Consider opting for a cash for cars
-            service for a convenient and efficient car selling experience.
-          </p>
-          <p>
-            So, if you want to sell your old, unwanted, or damaged car in
-            Eastern New South Wales (NSW), we introduce you the one the best
-            cash for cars in Sydney CBD, Aux Cash For Cars Sydney is one of the
-            best cash for cars in this area which can provide you with the best
-            service. For more information about this company and its service,
-            you can contact them through different ways such as the number,
-            website, Facebook page, LinkedIn page, or Instagram account.
-          </p>
         </ol>
+        <p>
+          In conclusion, cash for cars Eastern NSW offers a quick and
+          hassle-free way to sell your car. With instant cash payments, a simple
+          process, and acceptance of all types of cars, cash for cars services
+          have become a popular choice for car owners looking to sell their cars
+          in Eastern NSW. Consider opting for a cash for cars service for a
+          convenient and efficient car selling experience.
+        </p>
+        <p>
+          So, if you want to sell your old, unwanted, or damaged car in Eastern
+          New South Wales (NSW), we introduce you the one the best cash for cars
+          in Sydney CBD, Aux Cash For Cars Sydney is one of the best cash for
+          cars in this area which can provide you with the best service. For
+          more information about this company and its service, you can contact
+          them through different ways such as the number, website, Facebook
+          page, LinkedIn page, or Instagram account.
+        </p>
       </>
     ),
+    tags: (
+      <>
+        <h2>Cash for cars Waterloo Sydney</h2>,{" "}
+        <h2>Cash for cars Rosebery Sydney</h2>,{" "}
+        <h2>Cash for cars Botany Sydney</h2>,{" "}
+        <h2>Cash for cars Mascot Sydney</h2>,{" "}
+        <h2>Cash for cars Paddington Sydney</h2>,{" "}
+        <h2>Cash for cars Bondi Junction Sydney</h2>,{" "}
+        <h2>Cash for cars Bellevue Hill Sydney</h2>,{" "}
+        <h2>Cash for cars Waverley Sydney</h2>,{" "}
+        <h2>Cash for cars Woollahra Sydney</h2>,{" "}
+        <h2>Cash for cars Bondi Sydney</h2>,{" "}
+        <h2>Cash for cars Edgecliff Sydney</h2>,{" "}
+        <h2>Cash for cars Double Bay Sydney</h2>,{" "}
+        <h2>Cash for cars Rose Bay Sydney</h2>,{" "}
+        <h2>Cash for cars Vaucluse Sydney</h2>,{" "}
+        <h2>Cash for cars Randwick Sydney</h2>,{" "}
+        <h2>Cash for cars Kingsford Sydney</h2>,{" "}
+        <h2>Cash for cars Kensington Sydney</h2>,{" "}
+        <h2>Cash for cars Coogee Sydney</h2>,{" "}
+        <h2>Cash for cars Pagewood Sydney</h2>,{" "}
+        <h2>Cash for cars Matraville Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
+  // location 2
+  {
+    image: "/assets/locationsImages/2.jpg",
+    alt: "Cash for Cars Eastern NSW",
+    title: <h1>Cash for Cars Sydney CBD</h1>,
+    description: <></>,
     tags: (
       <>
         <h2>Cash for cars Waterloo Sydney</h2>,{" "}
