@@ -101,9 +101,9 @@ export const location = [
         , <h2>Cash for cars Chippendale Sydney</h2>,{" "}
         <h2>Cash for cars Pyrmont Sydney</h2>,{" "}
         <h2>Cash for cars Surry Hills Sydney</h2>,{" "}
-        <h2>Cash for cars Kings Cross</h2>,{" "}
+        <h2>Cash for cars Kings Cross Sydney</h2>,{" "}
         <h2>Cash for cars Alexandria Sydney</h2>,{" "}
-        <h2>Cash for cars RedfernSydney</h2>,{" "}
+        <h2>Cash for cars Redfern Sydney</h2>,{" "}
       </>
     ),
   },
@@ -190,13 +190,26 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Sydney City</h2>, <h2>Cash for cars Ultimo Sydney</h2>
-        , <h2>Cash for cars Chippendale Sydney</h2>,{" "}
-        <h2>Cash for cars Pyrmont Sydney</h2>,{" "}
-        <h2>Cash for cars Surry Hills Sydney</h2>,{" "}
-        <h2>Cash for cars Kings Cross</h2>,{" "}
-        <h2>Cash for cars Alexandria Sydney</h2>,{" "}
-        <h2>Cash for cars RedfernSydney</h2>,{" "}
+        <h2>Cash for cars Waterloo Sydney</h2>,{" "}
+        <h2>Cash for cars Rosebery Sydney</h2>,{" "}
+        <h2>Cash for cars Botany Sydney</h2>,{" "}
+        <h2>Cash for cars Mascot Sydney</h2>,{" "}
+        <h2>Cash for cars Paddington Sydney</h2>,{" "}
+        <h2>Cash for cars Bondi Junction Sydney</h2>,{" "}
+        <h2>Cash for cars Bellevue Hill Sydney</h2>,{" "}
+        <h2>Cash for cars Waverley Sydney</h2>,{" "}
+        <h2>Cash for cars Woollahra Sydney</h2>,{" "}
+        <h2>Cash for cars Bondi Sydney</h2>,{" "}
+        <h2>Cash for cars Edgecliff Sydney</h2>,{" "}
+        <h2>Cash for cars Double Bay Sydney</h2>,{" "}
+        <h2>Cash for cars Rose Bay Sydney</h2>,{" "}
+        <h2>Cash for cars Vaucluse Sydney</h2>,{" "}
+        <h2>Cash for cars Randwick Sydney</h2>,{" "}
+        <h2>Cash for cars Kingsford Sydney</h2>,{" "}
+        <h2>Cash for cars Kensington Sydney</h2>,{" "}
+        <h2>Cash for cars Coogee Sydney</h2>,{" "}
+        <h2>Cash for cars Pagewood Sydney</h2>,{" "}
+        <h2>Cash for cars Matraville Sydney</h2>,{" "}
       </>
     ),
   },
