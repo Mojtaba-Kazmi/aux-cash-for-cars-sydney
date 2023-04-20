@@ -214,35 +214,123 @@ export const location = [
     ),
   },
 
-  // location 2
-  {
-    image: "/assets/locationsImages/2.jpg",
-    alt: "Cash for Cars Eastern NSW",
-    title: <h1>Cash for Cars Sydney CBD</h1>,
-    description: <></>,
-    tags: (
-      <>
-        <h2>Cash for cars Waterloo Sydney</h2>,{" "}
-        <h2>Cash for cars Rosebery Sydney</h2>,{" "}
-        <h2>Cash for cars Botany Sydney</h2>,{" "}
-        <h2>Cash for cars Mascot Sydney</h2>,{" "}
-        <h2>Cash for cars Paddington Sydney</h2>,{" "}
-        <h2>Cash for cars Bondi Junction Sydney</h2>,{" "}
-        <h2>Cash for cars Bellevue Hill Sydney</h2>,{" "}
-        <h2>Cash for cars Waverley Sydney</h2>,{" "}
-        <h2>Cash for cars Woollahra Sydney</h2>,{" "}
-        <h2>Cash for cars Bondi Sydney</h2>,{" "}
-        <h2>Cash for cars Edgecliff Sydney</h2>,{" "}
-        <h2>Cash for cars Double Bay Sydney</h2>,{" "}
-        <h2>Cash for cars Rose Bay Sydney</h2>,{" "}
-        <h2>Cash for cars Vaucluse Sydney</h2>,{" "}
-        <h2>Cash for cars Randwick Sydney</h2>,{" "}
-        <h2>Cash for cars Kingsford Sydney</h2>,{" "}
-        <h2>Cash for cars Kensington Sydney</h2>,{" "}
-        <h2>Cash for cars Coogee Sydney</h2>,{" "}
-        <h2>Cash for cars Pagewood Sydney</h2>,{" "}
-        <h2>Cash for cars Matraville Sydney</h2>,{" "}
-      </>
-    ),
-  },
+  // // location 3
+  // {
+  //   image: "/assets/locationsImages/3.jpg",
+  //   alt: "Cash for Cars Inner West NSW",
+  //   title: <h1>Cash for Cars Inner West NSW</h1>,
+  //   description: (
+  //     <>
+  //       <p>
+  //         If you have an old, damaged, or unwanted vehicle taking up valuable
+  //         space in your garage or driveway in Inner West NSW, you may be
+  //         surprised to know that you can turn it into instant cash. Cash for
+  //         cars services in Inner West NSW offer a convenient and hassle-free way
+  //         to sell your car and get paid on the spot.
+  //       </p>
+  //       <p>
+  //         Cash for cars Inner West NSW services are becoming increasingly
+  //         popular among car owners who want to get rid of their old or unwanted
+  //         vehicles quickly and effortlessly. These services accept all types of
+  //         vehicles, regardless of their make, model, or condition. Whether you
+  //         have a junk car, a damaged vehicle, a used car, or a car that is no
+  //         longer running, you can still sell it for cash.
+  //       </p>
+  //       <p>
+  //         The process of selling your car for cash in Inner West NSW is simple
+  //         and straightforward. Here's how it typically works:
+  //       </p>
+  //       <ol>
+  //         <li>
+  //           Contact the Cash for Cars Service: You can call or contact a
+  //           reputable cash for cars service in Inner West NSW either by phone,
+  //           email, or through their website. Provide them with basic information
+  //           about your vehicle, such as its make, model, year, and condition.
+  //         </li>
+  //         <li>
+  //           Get a Free Quote: The cash for cars service will assess the value of
+  //           your vehicle based on the information you provide and give you a
+  //           free, no-obligation quote. The quote will usually be based on the
+  //           current market value of your vehicle, its condition, and other
+  //           factors.
+  //         </li>
+  //         <li>
+  //           Accept the Offer: If you are satisfied with the quote, you can
+  //           accept the offer and schedule a convenient time for the cash for
+  //           cars service to pick up your vehicle.
+  //         </li>
+  //         <li>
+  //           4. Get Paid on the Spot: When the cash for cars service arrives to
+  //           pick up your vehicle, they will inspect it to ensure that it matches
+  //           the information provided. Once everything is verified, they will pay
+  //           you the agreed-upon amount in cash on the spot.
+  //         </li>
+  //         <li>
+  //           5. Vehicle Removal: The cash for cars service will then tow away
+  //           your vehicle from your location at no additional cost. You don't
+  //           have to worry about arranging for transportation or towing; it's all
+  //           taken care of by the cash for cars service.
+  //         </li>
+  //       </ol>
+  //       <p>
+  //         Selling your car for cash in Inner West NSW offers several benefits.
+  //         Firstly, it allows you to get rid of your unwanted vehicle quickly and
+  //         efficiently, without the need for advertising, negotiations, or
+  //         time-consuming paperwork. It also saves you the hassle of finding a
+  //         buyer, especially for older or damaged vehicles that may not be in
+  //         high demand. Additionally, you can get paid in cash on the spot,
+  //         providing you with instant cash that you can use for other purposes.
+  //       </p>
+  //       <p>
+  //         Cash for cars services in Inner West NSW also contribute to
+  //         environmental sustainability by responsibly disposing of old or
+  //         damaged vehicles. Many of these services have eco-friendly practices
+  //         in place, such as recycling and salvaging usable parts from the
+  //         vehicles, which helps reduce the impact on the environment.
+  //       </p>
+  //       <p>
+  //         In conclusion, cash for cars services in Inner West NSW offer a
+  //         convenient and hassle-free way to sell your unwanted vehicles for
+  //         instant cash. With a simple and straightforward process, you can get
+  //         rid of your old or damaged car and get paid on the spot, while also
+  //         contributing to environmental sustainability. If you have an unwanted
+  //         vehicle sitting idle in your garage or driveway, consider contacting a
+  //         reputable cash for cars service in Inner West NSW to turn it into
+  //         quick cash.
+  //       </p>
+  //       <p>
+  //         If you want a simple and straightforward process for selling your car,
+  //         here is one of the best options that you can choose, Aux Cash for Cars
+  //         Sydney is one of the best cash for cars companies with a simple and
+  //         straightforward process that has its activities in Inner West NSW
+  //         area. You can contact them through different ways such as the number,
+  //         website, Facebook page, LinkedIn page, or Instagram account.
+  //       </p>
+  //     </>
+  //   ),
+  //   tags: (
+  //     <>
+  //       <h2>Cash for cars Waterloo Sydney</h2>,{" "}
+  //       <h2>Cash for cars Rosebery Sydney</h2>,{" "}
+  //       <h2>Cash for cars Botany Sydney</h2>,{" "}
+  //       <h2>Cash for cars Mascot Sydney</h2>,{" "}
+  //       <h2>Cash for cars Paddington Sydney</h2>,{" "}
+  //       <h2>Cash for cars Bondi Junction Sydney</h2>,{" "}
+  //       <h2>Cash for cars Bellevue Hill Sydney</h2>,{" "}
+  //       <h2>Cash for cars Waverley Sydney</h2>,{" "}
+  //       <h2>Cash for cars Woollahra Sydney</h2>,{" "}
+  //       <h2>Cash for cars Bondi Sydney</h2>,{" "}
+  //       <h2>Cash for cars Edgecliff Sydney</h2>,{" "}
+  //       <h2>Cash for cars Double Bay Sydney</h2>,{" "}
+  //       <h2>Cash for cars Rose Bay Sydney</h2>,{" "}
+  //       <h2>Cash for cars Vaucluse Sydney</h2>,{" "}
+  //       <h2>Cash for cars Randwick Sydney</h2>,{" "}
+  //       <h2>Cash for cars Kingsford Sydney</h2>,{" "}
+  //       <h2>Cash for cars Kensington Sydney</h2>,{" "}
+  //       <h2>Cash for cars Coogee Sydney</h2>,{" "}
+  //       <h2>Cash for cars Pagewood Sydney</h2>,{" "}
+  //       <h2>Cash for cars Matraville Sydney</h2>,{" "}
+  //     </>
+  //   ),
+  // },
 ];
