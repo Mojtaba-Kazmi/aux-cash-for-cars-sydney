@@ -26,7 +26,7 @@ export async function getServerSideProps() {
       description:
         "This topic is A guide for Cash for Cars Sydney CBD and at the end, we will introduce The best Cash for Cars company in Sydney CBD  for you.",
       image: "https://auxcashforcarsydney.com/assets/locationsImages/1.jpg",
-      url: `https://auxcashforcarsydney.com/blog/location1`,
+      url: `https://auxcashforcarsydney.com/locations/location1`,
       keyword:
         "cash for cars sydney, Car Removal Sydney,sell my old car, pick up car for free, juk car removal",
       width: 1200,
