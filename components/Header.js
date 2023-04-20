@@ -18,7 +18,6 @@ import MenuIcon from "@mui/icons-material/Menu";
 import Link from "next/link";
 import { useRouter } from "next/router";
 
-
 const drawerWidthMobile = 220;
 const drawerWidthIpad = 400;
 
@@ -44,14 +43,19 @@ const navItems = [
     index: 3,
   },
   {
+    label: "LOCATIONS",
+    url: "/locations",
+    index: 4,
+  },
+  {
     label: "FAQs",
     url: "/faqs",
-    index: 4,
+    index: 5,
   },
   {
     label: "CONTACT US",
     url: "/contact",
-    index: 5,
+    index: 6,
   },
 ];
 
@@ -73,12 +77,26 @@ const Header = (props) => {
       <Typography variant="h6" sx={{ my: 2 }}>
         Menu
       </Typography>
-      <Divider/>
+      <Divider />
       {navItems.map((item) => (
         <Link
           key={item.index}
           href={item.url}
-          style={useRouter().pathname == item.url ? {color: '#01b636',display: "block", padding: "25px", borderBottom: "1px solid #e1e0e0"} : {color: '#888888', display: "block", padding: "25px", borderBottom: "1px solid #e1e0e0"}}
+          style={
+            useRouter().pathname == item.url
+              ? {
+                  color: "#01b636",
+                  display: "block",
+                  padding: "25px",
+                  borderBottom: "1px solid #e1e0e0",
+                }
+              : {
+                  color: "#888888",
+                  display: "block",
+                  padding: "25px",
+                  borderBottom: "1px solid #e1e0e0",
+                }
+          }
           // style={{}}
         >
           {item.label}
@@ -141,8 +159,12 @@ const Header = (props) => {
                   }}
                 >
                   <Button
-                    style={useRouter().pathname == item.url ? {color: '#01b636'} : {color: '#888888'}}
-                    sx={{ display: "block", width: "100%", height: "100%"}}
+                    style={
+                      useRouter().pathname == item.url
+                        ? { color: "#01b636" }
+                        : { color: "#888888" }
+                    }
+                    sx={{ display: "block", width: "100%", height: "100%" }}
                   >
                     {item.label}
                   </Button>
