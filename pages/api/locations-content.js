@@ -112,7 +112,7 @@ export const location = [
   {
     image: "/assets/locationsImages/2.jpg",
     alt: "Cash for Cars Eastern NSW",
-    title: <h1>Cash for Cars Sydney CBD</h1>,
+    title: <h1>Cash for Cars Eastern NSW</h1>,
     description: (
       <>
         <p>
