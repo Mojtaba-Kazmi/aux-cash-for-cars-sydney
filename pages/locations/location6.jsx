@@ -25,8 +25,8 @@ export async function getServerSideProps() {
       title: "Cash For Cars Northern Beaches NSW",
       description:
         "This topic is A guide for Cash For Cars Northern Beaches NSW and at the end, we will introduce The best Cash for Cars company in Northern Beaches NSW  for you.",
-      image: "https://auxcashforcarsydney.com/assets/locationsImages/4.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location4`,
+      image: "https://auxcashforcarsydney.com/assets/locationsImages/6.jpg",
+      url: `https://auxcashforcarsydney.com/locations/location6`,
       keyword:
         "cash for cars sydney, Car Removal Sydney,sell my old car, pick up car for free, juk car removal",
       width: 1200,

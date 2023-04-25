@@ -25,8 +25,8 @@ export async function getServerSideProps() {
       title: "Cash For Cars Upper North Shore NSW",
       description:
         "This topic is A guide for Cash For Cars Upper North Shore NSW and at the end, we will introduce The best Cash for Cars company in Upper North Shore NSW  for you.",
-      image: "https://auxcashforcarsydney.com/assets/locationsImages/4.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location4`,
+      image: "https://auxcashforcarsydney.com/assets/locationsImages/5.jpg",
+      url: `https://auxcashforcarsydney.com/locations/location5`,
       keyword:
         "cash for cars sydney, Car Removal Sydney,sell my old car, pick up car for free, juk car removal",
       width: 1200,
