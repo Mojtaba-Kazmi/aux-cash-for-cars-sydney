@@ -931,75 +931,99 @@ export const location = [
     ),
   },
 
-  // // location 9
-  // {
-  //   image: "/assets/locationsImages/3.jpg",
-  //   alt: "Cash For Cars Hills District NSW",
-  //   title: <h1>Cash For Cars Hills District NSW</h1>,
-  //   description: (
-  //     <>
-  //       <p>
-  //         Are you tired of seeing that old, unwanted car taking up valuable
-  //         space in your garage or driveway? If so, then consider taking
-  //         advantage of the{" "}
-  //         <Link href={"/blog/post16"}>cash for cars service</Link> in Hills
-  //         District, NSW. This service not only helps you get rid of your old car
-  //         quickly but also provides you with cash in exchange.
-  //       </p>
-  //       <p>
-  //         There are several benefits to using a{" "}
-  //         <Link href={"/blog/post16"}>cash for cars service</Link> in Hills
-  //         District, NSW. Firstly, you can get rid of your car quickly and easily
-  //         without the hassle of trying to sell it privately. Secondly, you can
-  //         get cash in hand for your car, which you can use to pay bills, buy
-  //         groceries, or put towards a new vehicle. Additionally, this service is
-  //         eco-friendly as the cars are usually recycled and reused, reducing
-  //         waste and environmental impact.
-  //       </p>
-  //       <p>
-  //         The process of using a{" "}
-  //         <Link href={"/blog/post16"}>cash for cars service</Link> in Hills
-  //         District, NSW is simple and straightforward. You can start by
-  //         contacting a reputable{" "}
-  //         <Link href={"/blog/post16"}>cash for cars</Link> company in the area
-  //         and providing them with the details of your car, such as its make,
-  //         model, year, and condition. Based on this information, they will
-  //         provide you with a quote for your car's value. If you accept the
-  //         offer, they will arrange a time to come and collect your car.
-  //       </p>
-  //       <p>
-  //         When the company arrives, they will inspect your car to ensure that
-  //         its condition matches the information you provided. Once they have
-  //         verified its condition, they will pay you the agreed-upon amount in
-  //         cash and take your car away. This process usually takes less than an
-  //         hour, making it a quick and convenient way to get rid of your old car.
-  //       </p>
-  //       <p>
-  //         In conclusion, <Link href={"/blog/post16"}>cash for cars</Link> in
-  //         Hills District, NSW, is an excellent service for anyone looking to get
-  //         rid of an unwanted car quickly and easily. It offers several benefits,
-  //         including getting cash in hand and reducing environmental impact. If
-  //         you have an old car that you no longer need, consider contacting a
-  //         cash for cars company today to get a quote and see how much you could
-  //         get for it.
-  //       </p>
-  //     </>
-  //   ),
-  //   tags: (
-  //     <>
-  //       <h2>Cash for cars Parramatta Sydney</h2>,{" "}
-  //       <h2>Cash for cars North Rocks Sydney</h2>,{" "}
-  //       <h2>Cash for cars Northmead Sydney</h2>,{" "}
-  //       <h2>Cash for cars Baulkham Hills Sydney</h2>,{" "}
-  //       <h2>Cash for cars Castle Hill Sydney</h2>,{" "}
-  //       <h2>Cash for cars Kellyville Sydney</h2>,{" "}
-  //       <h2>Cash for cars Kenthurst Sydney</h2>,{" "}
-  //       <h2>Cash for cars Glenorie Sydney</h2>,{" "}
-  //       <h2>Cash for cars Dural Sydney</h2>,{" "}
-  //       <h2>Cash for cars Galston Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
-  //     </>
-  //   ),
-  // },
+  // location 9
+  {
+    image: "/assets/locationsImages/9.jpg",
+    alt: "Cash For Cars Hills District NSW",
+    title: <h1>Cash For Cars Hills District NSW</h1>,
+    description: (
+      <>
+        <p>
+          Are you tired of seeing that old, unwanted car taking up valuable
+          space in your garage or driveway? If so, then consider taking
+          advantage of the{" "}
+          <Link href={"/blog/post16"}>cash for cars service</Link> in Hills
+          District, NSW. This service not only helps you get rid of your old car
+          quickly but also provides you with cash in exchange.
+        </p>
+        <p>
+          There are several benefits to using a{" "}
+          <Link href={"/blog/post16"}>cash for cars service</Link> in Hills
+          District, NSW. Firstly, you can get rid of your car quickly and easily
+          without the hassle of trying to sell it privately. Secondly, you can
+          get cash in hand for your car, which you can use to pay bills, buy
+          groceries, or put towards a new vehicle. Additionally, this service is
+          eco-friendly as the cars are usually recycled and reused, reducing
+          waste and environmental impact.
+        </p>
+        <p>
+          The process of using a{" "}
+          <Link href={"/blog/post16"}>cash for cars service</Link> in Hills
+          District, NSW is simple and straightforward. You can start by
+          contacting a reputable{" "}
+          <Link href={"/blog/post16"}>cash for cars</Link> company in the area
+          and providing them with the details of your car, such as its make,
+          model, year, and condition. Based on this information, they will
+          provide you with a quote for your car's value. If you accept the
+          offer, they will arrange a time to come and collect your car.
+        </p>
+        <p>
+          When the company arrives, they will inspect your car to ensure that
+          its condition matches the information you provided. Once they have
+          verified its condition, they will pay you the agreed-upon amount in
+          cash and take your car away. This process usually takes less than an
+          hour, making it a quick and convenient way to get rid of your old car.
+        </p>
+        <p>
+          In conclusion, <Link href={"/blog/post16"}>cash for cars</Link> in
+          Hills District, NSW, is an excellent service for anyone looking to get
+          rid of an unwanted car quickly and easily. It offers several benefits,
+          including getting cash in hand and reducing environmental impact. If
+          you have an old car that you no longer need, consider contacting a
+          cash for cars company today to get a quote and see how much you could
+          get for it.
+        </p>
+        <p>
+          With consideration of the above benefits, you have come to the right
+          place to sell your car if you want, because we are going to introduce
+          you to one the best car removal which is active in Sydney Australia,{" "}
+          <Link href={"/"}>Aux Cash For Cars Sydney</Link> is the best cash for
+          cars that is very active in Hills District NSW. you can{" "}
+          <Link href={"/contact"}>contact</Link> them through different ways
+          such as the <Link href={"/contact"}>number</Link>,{" "}
+          <Link href={"/"}>website</Link>,{" "}
+          <Link
+            href={"https://www.facebook.com/auxcashforcarsydney"}
+            target="_blank"
+          >
+            Facebook page
+          </Link>
+          ,{" "}
+          <Link
+            href={"https://www.linkedin.com/company/aux-cash-for-car-sydney"}
+            target="_blank"
+          >
+            LinkedIn page
+          </Link>
+          .
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Parramatta Sydney</h2>,{" "}
+        <h2>Cash for cars North Rocks Sydney</h2>,{" "}
+        <h2>Cash for cars Northmead Sydney</h2>,{" "}
+        <h2>Cash for cars Baulkham Hills Sydney</h2>,{" "}
+        <h2>Cash for cars Castle Hill Sydney</h2>,{" "}
+        <h2>Cash for cars Kellyville Sydney</h2>,{" "}
+        <h2>Cash for cars Kenthurst Sydney</h2>,{" "}
+        <h2>Cash for cars Glenorie Sydney</h2>,{" "}
+        <h2>Cash for cars Dural Sydney</h2>,{" "}
+        <h2>Cash for cars Galston Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+      </>
+    ),
+  },
 
   // // location 10
   // {
