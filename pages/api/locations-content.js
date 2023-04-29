@@ -1025,108 +1025,131 @@ export const location = [
     ),
   },
 
-  // // location 10
-  // {
-  //   image: "/assets/locationsImages/3.jpg",
-  //   alt: "Cash For Cars South Western NSW",
-  //   title: <h1>Cash For Cars South Western NSW</h1>,
-  //   description: (
-  //     <>
-  //       <p>
-  //         Are you tired of looking at that old junk car sitting in your
-  //         driveway, taking up space and collecting dust? Instead of letting it
-  //         continue to rust away, why not turn it into quick cash? With{" "}
-  //         <Link href={"/blog/post16"}>Cash for Cars</Link> South Western NSW,
-  //         you can sell your unwanted car and receive top dollar for it.
-  //       </p>
-  //       <p>
-  //         Are you tired of looking at that old junk car sitting in your
-  //         driveway, taking up space and collecting dust? Instead of letting it
-  //         continue to rust away, why not turn it into quick cash? With{" "}
-  //         <Link href={"/blog/post16"}>Cash for Cars</Link> South Western NSW,
-  //         you can sell your unwanted car and receive top dollar for it.
-  //       </p>
-  //       <p>
-  //         <Link href={"/blog/post16"}>Cash for Cars</Link> South Western NSW is
-  //         a reputable car removal service that operates throughout the South
-  //         Western region of New South Wales, Australia. They specialize in
-  //         buying unwanted cars, trucks, vans, and SUVs, regardless of their
-  //         condition, age, or model.
-  //       </p>
-  //       <p>
-  //         The process of selling your car to{" "}
-  //         <Link href={"/blog/post16"}>Cash for Cars</Link> South Western NSW is
-  //         simple and hassle-free. You can contact them via phone, email, or
-  //         through their website to request a quote. They will ask you a few
-  //         questions about your vehicle, such as its make, model, year, and
-  //         condition, and provide you with a free, no-obligation quote.
-  //       </p>
-  //       <p>
-  //         If you accept their offer, they will schedule a convenient pickup time
-  //         for your vehicle. They will come to your location, inspect your car,
-  //         and give you cash on the spot. You don't have to worry about towing or
-  //         transportation fees, as Cash for Cars South Western NSW provides free
-  //         removal services.
-  //       </p>
-  //       <p>
-  //         One of the best things about selling your car to{" "}
-  //         <Link href={"/blog/post16"}>Cash for Cars</Link> South Western NSW is
-  //         that they are committed to providing you with the best possible value
-  //         for your vehicle. They use fair market pricing, taking into account
-  //         the current condition of your car and its scrap metal value, to
-  //         determine a fair offer. This ensures that you get the maximum value
-  //         for your car and walk away with the most cash in your pocket.
-  //       </p>
-  //       <p>
-  //         In conclusion, if you have an unwanted car that is taking up space on
-  //         your property, why not turn it into quick cash with{" "}
-  //         <Link href={"/blog/post16"}>
-  //           Cash for Cars South Western NSW? Their hassle-free, reliable, and
-  //           trustworthy service
-  //         </Link>{" "}
-  //         makes it easy to sell your car and receive top dollar for it.{" "}
-  //         <Link href={"/blog/post16"}>Contact</Link>
-  //         them today to request a quote and get started on the process of
-  //         selling your car.
-  //       </p>
-  //     </>
-  //   ),
-  //   tags: (
-  //     <>
-  //       <h2>Cash for cars Merrylands Sydney</h2>,{" "}
-  //       <h2>Cash for cars Yennora Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
-  //       <h2>Cash for cars Chester Hill Sydney</h2>,{" "}
-  //       <h2>Cash for cars Villawood Sydney</h2>,{" "}
-  //       <h2>Cash for cars Smithfield/W.Park Sydney</h2>,{" "}
-  //       <h2>Cash for cars Fairfield Sydney</h2>,{" "}
-  //       <h2>Cash for cars Lansvale Sydney</h2>,{" "}
-  //       <h2>Cash for cars Liverpool Sydney</h2>,
-  //       <h2>Cash for cars Hoxton Park Sydney</h2>,{" "}
-  //       <h2>Cash for cars St Johns Park Sydney</h2>,{" "}
-  //       <h2>Cash for cars Chullora Sydney</h2>,
-  //       <h2>Cash for cars Belfield Sydney</h2>,{" "}
-  //       <h2>Cash for cars Belmore Sydney</h2>,{" "}
-  //       <h2>Cash for cars Canterbury Sydney</h2>,{" "}
-  //       <h2>Cash for cars Campsie Sydney</h2>,
-  //       <h2>Cash for cars Lakemba Sydney</h2>,{" "}
-  //       <h2>Cash for cars Punchbowl Sydney</h2>,{" "}
-  //       <h2>Cash for cars Georges Hall Sydney</h2>,{" "}
-  //       <h2>Cash for cars Yagoona Sydney</h2>,{" "}
-  //       <h2>Cash for cars Bankstown Sydney</h2>,{" "}
-  //       <h2>Cash for cars Dulwich Hill Sydney</h2>,{" "}
-  //       <h2>Cash for cars Marrickville Sydney</h2>,{" "}
-  //       <h2>Cash for cars Arncliffe Sydney</h2>,{" "}
-  //       <h2>Cash for cars Earlwood Sydney</h2>,{" "}
-  //       <h2>Cash for cars Bexley Sydney</h2>,{" "}
-  //       <h2>Cash for cars Kingsgrove Sydney</h2>,
-  //       <h2>Cash for cars Beverly Hills Sydney</h2>,{" "}
-  //       <h2>Cash for cars Peakhurst Sydney</h2>,{" "}
-  //       <h2>Cash for cars Revesby Padstow Sydney</h2>,
-  //       <h2>Cash for cars East Hills Sydney</h2>,{" "}
-  //       <h2>Cash for cars Milperra Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
-  //     </>
-  //   ),
-  // },
+  // location 10
+  {
+    image: "/assets/locationsImages/10.jpg",
+    alt: "Cash For Cars South Western NSW",
+    title: <h1>Cash For Cars South Western NSW</h1>,
+    description: (
+      <>
+        <p>
+          Are you tired of looking at that old junk car sitting in your
+          driveway, taking up space and collecting dust? Instead of letting it
+          continue to rust away, why not turn it into quick cash? With{" "}
+          <Link href={"/blog/post16"}>Cash for Cars</Link> South Western NSW,
+          you can sell your unwanted car and receive top dollar for it.
+        </p>
+        <p>
+          Are you tired of looking at that old junk car sitting in your
+          driveway, taking up space and collecting dust? Instead of letting it
+          continue to rust away, why not turn it into quick cash? With{" "}
+          <Link href={"/blog/post16"}>Cash for Cars</Link> South Western NSW,
+          you can sell your unwanted car and receive top dollar for it.
+        </p>
+        <p>
+          <Link href={"/blog/post16"}>Cash for Cars</Link> South Western NSW is
+          a reputable car removal service that operates throughout the South
+          Western region of New South Wales, Australia. They specialize in
+          buying unwanted cars, trucks, vans, and SUVs, regardless of their
+          condition, age, or model.
+        </p>
+        <p>
+          The process of selling your car to{" "}
+          <Link href={"/blog/post16"}>Cash for Cars</Link> South Western NSW is
+          simple and hassle-free. You can contact them via phone, email, or
+          through their website to request a quote. They will ask you a few
+          questions about your vehicle, such as its make, model, year, and
+          condition, and provide you with a free, no-obligation quote.
+        </p>
+        <p>
+          If you accept their offer, they will schedule a convenient pickup time
+          for your vehicle. They will come to your location, inspect your car,
+          and give you cash on the spot. You don't have to worry about towing or
+          transportation fees, as Cash for Cars South Western NSW provides free
+          removal services.
+        </p>
+        <p>
+          One of the best things about selling your car to{" "}
+          <Link href={"/blog/post16"}>Cash for Cars</Link> South Western NSW is
+          that they are committed to providing you with the best possible value
+          for your vehicle. They use fair market pricing, taking into account
+          the current condition of your car and its scrap metal value, to
+          determine a fair offer. This ensures that you get the maximum value
+          for your car and walk away with the most cash in your pocket.
+        </p>
+        <p>
+          In conclusion, if you have an unwanted car that is taking up space on
+          your property, why not turn it into quick cash with{" "}
+          <Link href={"/blog/post16"}>
+            Cash for Cars South Western NSW? Their hassle-free, reliable, and
+            trustworthy service
+          </Link>{" "}
+          makes it easy to sell your car and receive top dollar for it.{" "}
+          <Link href={"/blog/post16"}>Contact</Link>
+          them today to request a quote and get started on the process of
+          selling your car.
+        </p>
+        <p>
+          If you are searching for good cash for cars, we are going to introduce
+          you to one of the best ones which is very active in South Western NSW.{" "}
+          <Link href={"/"}>Aux Cash For Cars Sydney</Link> is the best cash for
+          cars company that is very active in South Western NSW, you can{" "}
+          <Link href={"/contact"}>contact</Link> them through different ways
+          such as the <Link href={"/contact"}>number</Link>,{" "}
+          <Link href={"/"}>website</Link>,{" "}
+          <Link
+            href={"https://www.facebook.com/auxcashforcarsydney"}
+            target="_blank"
+          >
+            Facebook page
+          </Link>
+          ,{" "}
+          <Link
+            href={"https://www.linkedin.com/company/aux-cash-for-car-sydney"}
+            target="_blank"
+          >
+            LinkedIn page
+          </Link>
+          .
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Merrylands Sydney</h2>,{" "}
+        <h2>Cash for cars Yennora Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Chester Hill Sydney</h2>,{" "}
+        <h2>Cash for cars Villawood Sydney</h2>,{" "}
+        <h2>Cash for cars Smithfield/W.Park Sydney</h2>,{" "}
+        <h2>Cash for cars Fairfield Sydney</h2>,{" "}
+        <h2>Cash for cars Lansvale Sydney</h2>,{" "}
+        <h2>Cash for cars Liverpool Sydney</h2>,
+        <h2>Cash for cars Hoxton Park Sydney</h2>,{" "}
+        <h2>Cash for cars St Johns Park Sydney</h2>,{" "}
+        <h2>Cash for cars Chullora Sydney</h2>,
+        <h2>Cash for cars Belfield Sydney</h2>,{" "}
+        <h2>Cash for cars Belmore Sydney</h2>,{" "}
+        <h2>Cash for cars Canterbury Sydney</h2>,{" "}
+        <h2>Cash for cars Campsie Sydney</h2>,
+        <h2>Cash for cars Lakemba Sydney</h2>,{" "}
+        <h2>Cash for cars Punchbowl Sydney</h2>,{" "}
+        <h2>Cash for cars Georges Hall Sydney</h2>,{" "}
+        <h2>Cash for cars Yagoona Sydney</h2>,{" "}
+        <h2>Cash for cars Bankstown Sydney</h2>,{" "}
+        <h2>Cash for cars Dulwich Hill Sydney</h2>,{" "}
+        <h2>Cash for cars Marrickville Sydney</h2>,{" "}
+        <h2>Cash for cars Arncliffe Sydney</h2>,{" "}
+        <h2>Cash for cars Earlwood Sydney</h2>,{" "}
+        <h2>Cash for cars Bexley Sydney</h2>,{" "}
+        <h2>Cash for cars Kingsgrove Sydney</h2>,
+        <h2>Cash for cars Beverly Hills Sydney</h2>,{" "}
+        <h2>Cash for cars Peakhurst Sydney</h2>,{" "}
+        <h2>Cash for cars Revesby Padstow Sydney</h2>,
+        <h2>Cash for cars East Hills Sydney</h2>,{" "}
+        <h2>Cash for cars Milperra Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+      </>
+    ),
+  },
 
   // // location simple
   // {
