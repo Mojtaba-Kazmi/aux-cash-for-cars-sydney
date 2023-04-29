@@ -22,11 +22,11 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Cash For Cars South Western NSW",
+      title: "Cash For Cars St George NSW",
       description:
-        "This topic is A guide for Cash For Cars South Western NSW and at the end, we will introduce The best Cash for Cars company in South Western NSW for you.",
-      image: "https://auxcashforcarsydney.com/assets/locationsImages/10.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location10`,
+        "This topic is A guide for Cash For Cars St George NSW and at the end, we will introduce The best Cash for Cars company in St George NSW for you.",
+      image: "https://auxcashforcarsydney.com/assets/locationsImages/11.jpg",
+      url: `https://auxcashforcarsydney.com/locations/location11`,
       keyword:
         "cash for cars sydney, Car Removal Sydney,sell my old car, pick up car for free, juk car removal",
       width: 1200,
@@ -72,13 +72,13 @@ function post0({ title, description, image, url, keyword, width, height }) {
                 <Card>
                   <CardMedia
                     sx={{ height: "300px" }}
-                    image={location[10].image}
-                    title={location[10].alt}
-                    alt={location[10].alt}
+                    image={location[11].image}
+                    title={location[11].alt}
+                    alt={location[11].alt}
                   />
                   <CardContent>
-                    {location[10].title}
-                    {location[10].description}
+                    {location[11].title}
+                    {location[11].description}
                   </CardContent>
 
                   <Grid
@@ -115,7 +115,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
                   <Card>
                     <CardContent>
                       <Typography component={"p"}> Tags </Typography>
-                      <TagsStyle>{location[10].tags}</TagsStyle>
+                      <TagsStyle>{location[11].tags}</TagsStyle>
                     </CardContent>
                   </Card>
                 </Grid>
