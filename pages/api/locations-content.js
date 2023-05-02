@@ -1580,6 +1580,282 @@ export const location = [
     ),
   },
 
+  // location 15
+  {
+    image: "/assets/locationsImages/3.jpg",
+    alt: "Aux Cash for Cars Sydney service all the Sydney wide suburbs",
+    title: (
+      <h1>Aux Cash for Cars Sydney service all the Sydney wide suburbs</h1>
+    ),
+    description: (
+      <>
+        <p>
+          Aux Cash for Cars Sydney is a leading car removal and cash for cars
+          company in Sydney. They offer top cash for any make and model of
+          vehicle, regardless of its condition. They specialize in buying all
+          types of cars, including old, damaged, unwanted, and even junk cars.
+          Their team of experts provides an efficient and hassle-free service,
+          ensuring that the selling process is quick and easy.
+        </p>
+        <p>
+          One of the key benefits of using Aux Cash for Cars Sydney is their
+          extensive coverage of all Sydney suburbs. No matter where you are
+          located in Sydney, their team will come to you and pick up your car,
+          providing you with an instant cash payment on the spot. You don't have
+          to worry about transportation or towing costs, as they will take care
+          of everything for you.
+        </p>
+        <p>
+          Another advantage of using Aux Cash for Cars Sydney is their
+          commitment to providing the highest level of customer service. Their
+          team of professionals is dedicated to ensuring that you have a
+          positive experience throughout the entire process. From the initial
+          consultation to the final sale, they will guide you every step of the
+          way, answering any questions you may have and addressing any concerns
+          you may encounter.
+        </p>
+        <p>
+          In addition to their exceptional customer service, Aux Cash for Cars
+          Sydney is also known for their commitment to the environment. They
+          have an eco-friendly approach to car removal, ensuring that all cars
+          are recycled and disposed of in an environmentally responsible manner.
+        </p>
+        <p>
+          In conclusion, if you're looking for a quick, hassle-free, and
+          convenient way to sell your car in any Sydney suburb, look no further
+          than Aux Cash for Cars Sydney. Their expert team will provide you with
+          top cash and take care of everything, leaving you with a stress-free
+          and satisfying selling experience.
+        </p>
+        <p>
+          you can <Link href={"/contact"}>contact</Link> them through different
+          ways such as the <Link href={"/contact"}>number</Link>,{" "}
+          <Link href={"/"}>website</Link>,{" "}
+          <Link
+            href={"https://www.facebook.com/auxcashforcarsydney"}
+            target="_blank"
+          >
+            Facebook page
+          </Link>
+          ,{" "}
+          <Link
+            href={"https://www.linkedin.com/company/aux-cash-for-car-sydney"}
+            target="_blank"
+          >
+            LinkedIn page
+          </Link>
+          .
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Sydney</h2>, <h2>Cash for cars Mulgoa Sydney</h2>,{" "}
+        <h2>Cash for cars Kingswood Sydney</h2>,{" "}
+        <h2>Cash for cars Castlereagh Sydney</h2>,{" "}
+        <h2>Cash for cars Penrith Sydney</h2>,{" "}
+        <h2>Cash for cars Silverdale Sydney</h2>,{" "}
+        <h2>Cash for cars Richmond Sydney</h2>,{" "}
+        <h2>Cash for cars North Richmond Sydney</h2>,{" "}
+        <h2>Cash for cars Windsor Sydney</h2>,{" "}
+        <h2>Cash for cars Kurrajong Sydney</h2>,{" "}
+        <h2>Cash for cars Erskine Park Sydney</h2>,{" "}
+        <h2>Cash for cars St Marys Sydney</h2>,{" "}
+        <h2>Cash for cars Glendenning Sydney</h2>,{" "}
+        <h2>Cash for cars Quakers Hill Sydney</h2>,{" "}
+        <h2>Cash for cars Riverstone Sydney</h2>,{" "}
+        <h2>Cash for cars Rooty Hill Sydney</h2>,{" "}
+        <h2>Cash for cars Parklea Sydney</h2>,{" "}
+        <h2>Cash for cars Minchinbury Sydney</h2>, <h2>Cash for cars Sydney</h2>
+        ,{""}
+        <h2>Cash for cars Campbelltown Sydney</h2>,{" "}
+        <h2>Cash for cars Ingleburn Sydney</h2>,{" "}
+        <h2>Cash for cars Minto Sydney</h2>,{" "}
+        <h2>Cash for cars Narellan Sydney</h2>,{" "}
+        <h2>Cash for cars Camden Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Sydney</h2>,{""}
+        <h2>Cash for cars Miranda Sydney</h2>,{" "}
+        <h2>Cash for cars Caringbah Sydney</h2>,{" "}
+        <h2>Cash for cars Cronulla Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Kurnell Sydney</h2>,{" "}
+        <h2>Cash for cars Sutherland Sydney</h2>,{" "}
+        <h2>Cash for cars Heathcote Sydney</h2>,{" "}
+        <h2>Cash for cars Menai Sydney</h2>, <h2>Cash for cars Sydney</h2>,{""}
+        <h2>Cash for cars Kogarah Sydney</h2>,{" "}
+        <h2>Cash for cars Carlton Sydney</h2>,{" "}
+        <h2>Cash for cars Sans Souci Sydney</h2>,{" "}
+        <h2>Cash for cars Rockdale Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Hurstville Sydney</h2>,{" "}
+        <h2>Cash for cars Blakehurst Sydney</h2>,{" "}
+        <h2>Cash for cars Penshurst Sydney</h2>,{" "}
+        <h2>Cash for cars Mortdale Sydney</h2>,{" "}
+        <h2>Cash for cars Sylvania Sydney</h2>,{" "}
+        <h2>Cash for car Oyster Bay Sydney</h2>,{" "}
+        <h2>Cash for cars Jannali Sydney</h2>,{" "}
+        <h2>Cash for cars Gymea Sydney</h2>,{""}
+        <h2>Cash for cars Merrylands Sydney</h2>,{" "}
+        <h2>Cash for cars Yennora Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Chester Hill Sydney</h2>,{" "}
+        <h2>Cash for cars Villawood Sydney</h2>,{" "}
+        <h2>Cash for cars Smithfield/W.Park Sydney</h2>,{" "}
+        <h2>Cash for cars Fairfield Sydney</h2>,{" "}
+        <h2>Cash for cars Lansvale Sydney</h2>,{" "}
+        <h2>Cash for cars Liverpool Sydney</h2>,
+        <h2>Cash for cars Hoxton Park Sydney</h2>,{" "}
+        <h2>Cash for cars St Johns Park Sydney</h2>,{" "}
+        <h2>Cash for cars Chullora Sydney</h2>,
+        <h2>Cash for cars Belfield Sydney</h2>,{" "}
+        <h2>Cash for cars Belmore Sydney</h2>,{" "}
+        <h2>Cash for cars Canterbury Sydney</h2>,{" "}
+        <h2>Cash for cars Campsie Sydney</h2>,
+        <h2>Cash for cars Lakemba Sydney</h2>,{" "}
+        <h2>Cash for cars Punchbowl Sydney</h2>,{" "}
+        <h2>Cash for cars Georges Hall Sydney</h2>,{" "}
+        <h2>Cash for cars Yagoona Sydney</h2>,{" "}
+        <h2>Cash for cars Bankstown Sydney</h2>,{" "}
+        <h2>Cash for cars Dulwich Hill Sydney</h2>,{" "}
+        <h2>Cash for cars Marrickville Sydney</h2>,{" "}
+        <h2>Cash for cars Arncliffe Sydney</h2>,{" "}
+        <h2>Cash for cars Earlwood Sydney</h2>,{" "}
+        <h2>Cash for cars Bexley Sydney</h2>,{" "}
+        <h2>Cash for cars Kingsgrove Sydney</h2>,
+        <h2>Cash for cars Beverly Hills Sydney</h2>,{" "}
+        <h2>Cash for cars Peakhurst Sydney</h2>,{" "}
+        <h2>Cash for cars Revesby Padstow Sydney</h2>,
+        <h2>Cash for cars East Hills Sydney</h2>,{" "}
+        <h2>Cash for cars Milperra Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Parramatta Sydney</h2>,{" "}
+        <h2>Cash for cars North Rocks Sydney</h2>,{" "}
+        <h2>Cash for cars Northmead Sydney</h2>,{" "}
+        <h2>Cash for cars Baulkham Hills Sydney</h2>,{" "}
+        <h2>Cash for cars Castle Hill Sydney</h2>,{" "}
+        <h2>Cash for cars Kellyville Sydney</h2>,{" "}
+        <h2>Cash for cars Kenthurst Sydney</h2>,{" "}
+        <h2>Cash for cars Glenorie Sydney</h2>,{" "}
+        <h2>Cash for cars Dural Sydney</h2>,{" "}
+        <h2>Cash for cars Galston Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Homebush Bay Sydney</h2>,{" "}
+        <h2>Cash for cars Silverwater Sydney</h2>,{" "}
+        <h2>Cash for cars Sydney Markets Sydney</h2>,{" "}
+        <h2>Cash for cars Sydney Summer Hill Sydney</h2>,{" "}
+        <h2>Cash for cars Sydney Ashfield Sydney</h2>,{" "}
+        <h2>Cash for cars Sydney Croydon Sydney</h2>,{" "}
+        <h2>Cash for cars Sydney Croydon Park Sydney</h2>,{" "}
+        <h2>Cash for cars Sydney Burwood Sydney</h2>,{" "}
+        <h2>Cash for cars Sydney Strathfield Sydney</h2>,{" "}
+        <h2>Cash for cars Sydney Enfield Sydney</h2>,{" "}
+        <h2>Cash for cars Sydney Concord Sydney</h2>,{" "}
+        <h2>Cash for cars Sydney Rhodes Sydney</h2>,{" "}
+        <h2>Cash for cars Homebush Sydney</h2>,{" "}
+        <h2>Cash for cars Lidcombe Sydney</h2>,{" "}
+        <h2>Cash for cars Granville Sydney</h2>,{" "}
+        <h2>Cash for cars Regents Park Sydney</h2>,{" "}
+        <h2>Cash for cars Auburn Sydney</h2>,{" "}
+        <h2>Cash for cars Wentworthville Sydney</h2>,{" "}
+        <h2>Cash for Toongabbie cars Sydney</h2>,{" "}
+        <h2>Cash for cars Seven Hills Sydney</h2>,{" "}
+        <h2>Cash for cars Blacktown Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Hunters Hill Sydney</h2>,{" "}
+        <h2>Cash for cars Gladesville Sydney</h2>,{" "}
+        <h2>Cash for cars Ryde Sydney</h2>,{" "}
+        <h2>Cash for cars North Ryde Sydney</h2>,{" "}
+        <h2>Cash for cars Meadowbank Sydney</h2>,{" "}
+        <h2>Cash for cars Ermington Sydney</h2>,{" "}
+        <h2>Cash for cars Rydalmere Sydney</h2>,{" "}
+        <h2>Cash for cars Telopea Carlingford Sydney</h2>,{" "}
+        <h2>Cash for cars Beecroft Sydney</h2>,{" "}
+        <h2>Cash for cars Pennant Hills Sydney</h2>,{" "}
+        <h2>Cash for cars Epping Sydney</h2>,{" "}
+        <h2>Cash for cars Eastwood Sydney</h2>,{" "}
+        <h2>Cash for cars W. Pennant Hills Sydney</h2>,{" "}
+        <h2>Cash for cars Cherrybrook Sydney</h2>, <h2>Cash for cars Sydney</h2>
+        , <h2>Cash for cars Seaforth Sydney</h2>,{" "}
+        <h2>Cash for cars Balgowlah Sydney</h2>,{" "}
+        <h2>Cash for cars Manly Sydney</h2>,{" "}
+        <h2>Cash for cars Harbord Sydney</h2>,{" "}
+        <h2>Cash for cars Collaroy Sydney</h2>,{" "}
+        <h2>Cash for cars Dee Why Sydney</h2>,{" "}
+        <h2>Cash for cars Brookvale Sydney</h2>,{" "}
+        <h2>Cash for cars Narrabeen Sydney</h2>,{" "}
+        <h2>Cash for cars Warriewood Sydney</h2>,{" "}
+        <h2>Cash for cars Mona Vale Sydney</h2>,{" "}
+        <h2>Cash for cars Bayview Sydney</h2>,{" "}
+        <h2>Cash for cars Newport Sydney</h2>,{" "}
+        <h2>Cash for cars Avalon Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Lindfield Sydney</h2>,
+        <h2>Cash for cars Killara Sydney</h2>,
+        <h2>Cash for cars Gordon Sydney</h2>,{" "}
+        <h2>Cash for cars Pymble Sydney</h2>,{" "}
+        <h2>Cash for cars Turramurra Sydney</h2>,
+        <h2>Cash for cars St Ives Sydney</h2>,
+        <h2>Cash for cars Wahroona Sydney</h2>,
+        <h2>Cash for cars Hornsby Sydney</h2>,{" "}
+        <h2>Cash for cars Mount Colah Sydney</h2>,
+        <h2>Cash for cars Mount Kuring-gai Sydney</h2>,{" "}
+        <h2>Cash for cars Berowra Waters Sydney</h2>,{" "}
+        <h2>Cash for cars Terrey Hills Sydney</h2>,{" "}
+        <h2>Cash for cars Belrose Sydney</h2>,{" "}
+        <h2>Cash for cars Frenchs Forest Sydney</h2>,{" "}
+        <h2>Cash for cars Forestville Sydney</h2>,{" "}
+        <h2>Cash for cars North Sydney Sydney</h2>,{" "}
+        <h2>Cash for cars Milsons Point Sydney</h2>,{" "}
+        <h2>Cash for cars Cammeray Sydney</h2>,{" "}
+        <h2>Cash for cars Northbridge Sydney</h2>,{" "}
+        <h2>Cash for cars Artarmon Sydney</h2>,{" "}
+        <h2>Cash for cars Crows Nest Sydney</h2>,{" "}
+        <h2>Cash for cars Lane Cove Sydney</h2>,{" "}
+        <h2>Cash for cars Chatswood Sydney</h2>,{" "}
+        <h2>Cash for cars Willoughby Sydney</h2>,{" "}
+        <h2>Cash for cars Roseville Sydney</h2>,{" "}
+        <h2>Cash for cars Mosman Sydney</h2>,{" "}
+        <h2>Cash for cars Neutral Bay Sydney</h2>,{" "}
+        <h2>Cash for cars Cremorne Sydney</h2>,{" "}
+        <h2>Cash for cars North Sydney</h2>,{" "}
+        <h2>Cash for cars Milsons Point Sydney</h2>,{" "}
+        <h2>Cash for cars Cammeray Sydney</h2>,{" "}
+        <h2>Cash for cars Northbridge Sydney</h2>,{" "}
+        <h2>Cash for cars Artarmon Sydney</h2>,{" "}
+        <h2>Cash for cars Crows Nest Sydney</h2>,{" "}
+        <h2>Cash for cars Lane Cove Sydney</h2>,{" "}
+        <h2>Cash for cars Chatswood Sydney</h2>,{" "}
+        <h2>Cash for cars Willoughby Sydney</h2>,{" "}
+        <h2>Cash for cars Mosman Sydney</h2>,{" "}
+        <h2>Cash for cars Neutral Bay Sydney</h2>,{" "}
+        <h2>Cash for cars Cremorne Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Waterloo Sydney</h2>,{" "}
+        <h2>Cash for cars Rosebery Sydney</h2>,{" "}
+        <h2>Cash for cars Botany Sydney</h2>,{" "}
+        <h2>Cash for cars Mascot Sydney</h2>,{" "}
+        <h2>Cash for cars Paddington Sydney</h2>,{" "}
+        <h2>Cash for cars Bondi Junction Sydney</h2>,{" "}
+        <h2>Cash for cars Bellevue Hill Sydney</h2>,{" "}
+        <h2>Cash for cars Waverley Sydney</h2>,{" "}
+        <h2>Cash for cars Woollahra Sydney</h2>,{" "}
+        <h2>Cash for cars Bondi Sydney</h2>,{" "}
+        <h2>Cash for cars Edgecliff Sydney</h2>,{" "}
+        <h2>Cash for cars Double Bay Sydney</h2>,{" "}
+        <h2>Cash for cars Rose Bay Sydney</h2>,{" "}
+        <h2>Cash for cars Vaucluse Sydney</h2>,{" "}
+        <h2>Cash for cars Randwick Sydney</h2>,{" "}
+        <h2>Cash for cars Kingsford Sydney</h2>,{" "}
+        <h2>Cash for cars Kensington Sydney</h2>,{" "}
+        <h2>Cash for cars Coogee Sydney</h2>,{" "}
+        <h2>Cash for cars Pagewood Sydney</h2>,{" "}
+        <h2>Cash for cars Matraville Sydney</h2>,{" "}
+        <h2>Cash for cars Sydney City</h2>, <h2>Cash for cars Ultimo Sydney</h2>
+        , <h2>Cash for cars Chippendale Sydney</h2>,{" "}
+        <h2>Cash for cars Pyrmont Sydney</h2>,{" "}
+        <h2>Cash for cars Surry Hills Sydney</h2>,{" "}
+        <h2>Cash for cars Kings Cross Sydney</h2>,{" "}
+        <h2>Cash for cars Alexandria Sydney</h2>,{" "}
+        <h2>Cash for cars Redfern Sydney</h2>,{" "}
+        <h2>Cash for cars Mittagong Sydney</h2>,{" "}
+        <h2>Cash for cars Helensburgh Sydney</h2>,{" "}
+        <h2>Cash for cars Blue Mountains Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/3.jpg",
