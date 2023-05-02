@@ -1582,7 +1582,7 @@ export const location = [
 
   // location 15
   {
-    image: "/assets/locationsImages/3.jpg",
+    image: "/assets/locationsImages/15.jpg",
     alt: "Aux Cash for Cars Sydney service all the Sydney wide suburbs",
     title: (
       <h1>Aux Cash for Cars Sydney service all the Sydney wide suburbs</h1>
