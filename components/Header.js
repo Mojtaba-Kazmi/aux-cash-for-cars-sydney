@@ -28,34 +28,39 @@ const navItems = [
     index: 0,
   },
   {
+    label: "CAR REMOVAL",
+    url: "/car-removal",
+    index: 1,
+  },
+  {
     label: "ABOUT US",
     url: "/about",
-    index: 1,
+    index: 2,
   },
   {
     label: "SERVICES",
     url: "/services",
-    index: 2,
+    index: 3,
   },
   {
     label: "BLOG",
     url: "/blog",
-    index: 3,
+    index: 4,
   },
   {
     label: "LOCATIONS",
     url: "/locations",
-    index: 4,
+    index: 5,
   },
   {
     label: "FAQs",
     url: "/faqs",
-    index: 5,
+    index: 6,
   },
   {
     label: "CONTACT US",
     url: "/contact",
-    index: 6,
+    index: 7,
   },
 ];
 
