@@ -3,7 +3,7 @@ import { useState } from "react";
 import Link from "next/link";
 import ContactForm from "@/components/ContactForm";
 import CarRemoval from "@/components/CarRemoval";
-import { location } from "./api/locations-content";
+import { location } from "./api/carremoval-content";
 import { MiniCardStyle } from "@/components/GlobalComponents";
 import { styled } from "@mui/system";
 import {
@@ -211,7 +211,7 @@ function Locations({ title, description, image, url, keyword, width, height }) {
           <Grid container sx={{ mt: "10px", justifyContent: "space-between" }}>
             {/* location1 in page */}
 
-            {/* <Grid
+            <Grid
               md={3.7}
               sm={5.7}
               xs={12}
@@ -245,7 +245,7 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                   </CardContent>
                 </Card>
               </Postanimation>
-            </Grid> */}
+            </Grid>
 
             {/* location2 in page */}
             {/* <Grid

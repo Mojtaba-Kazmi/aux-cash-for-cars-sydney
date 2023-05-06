@@ -49,7 +49,7 @@ export const post = [
   {
     image: "/assets/postImage/end-of-life-car.jpg",
     alt: "sell my car for cash today in Sydney",
-    title: <h1>sell my car for cash today in Sydney</h1>,
+    title: <h1>Sell my car for cash today in Sydney</h1>,
     description: (
       <>
         <p>

@@ -908,16 +908,16 @@ export const location = [
       <>
         <h2>Cash for cars Homebush Bay Sydney</h2>,{" "}
         <h2>Cash for cars Silverwater Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Markets Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Summer Hill Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Ashfield Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Croydon Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Croydon Park Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Burwood Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Strathfield Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Enfield Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Concord Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Rhodes Sydney</h2>,{" "}
+        <h2>Cash for cars Markets Sydney</h2>,{" "}
+        <h2>Cash for cars Summer Hill Sydney</h2>,{" "}
+        <h2>Cash for cars Ashfield Sydney</h2>,{" "}
+        <h2>Cash for cars Croydon Sydney</h2>,{" "}
+        <h2>Cash for cars Croydon Park Sydney</h2>,{" "}
+        <h2>Cash for cars Burwood Sydney</h2>,{" "}
+        <h2>Cash for cars Strathfield Sydney</h2>,{" "}
+        <h2>Cash for cars Enfield Sydney</h2>,{" "}
+        <h2>Cash for cars Concord Sydney</h2>,{" "}
+        <h2>Cash for cars Rhodes Sydney</h2>,{" "}
         <h2>Cash for cars Homebush Sydney</h2>,{" "}
         <h2>Cash for cars Lidcombe Sydney</h2>,{" "}
         <h2>Cash for cars Granville Sydney</h2>,{" "}
@@ -1117,7 +1117,7 @@ export const location = [
     tags: (
       <>
         <h2>Cash for cars Merrylands Sydney</h2>,{" "}
-        <h2>Cash for cars Yennora Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Yennora Sydney</h2>,{" "}
         <h2>Cash for cars Chester Hill Sydney</h2>,{" "}
         <h2>Cash for cars Villawood Sydney</h2>,{" "}
         <h2>Cash for cars Smithfield/W.Park Sydney</h2>,{" "}
@@ -1353,7 +1353,7 @@ export const location = [
       <>
         <h2>Cash for cars Miranda Sydney</h2>,{" "}
         <h2>Cash for cars Caringbah Sydney</h2>,{" "}
-        <h2>Cash for cars Cronulla Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Cronulla Sydney</h2>,
         <h2>Cash for cars Kurnell Sydney</h2>,{" "}
         <h2>Cash for cars Sutherland Sydney</h2>,{" "}
         <h2>Cash for cars Heathcote Sydney</h2>,{" "}
