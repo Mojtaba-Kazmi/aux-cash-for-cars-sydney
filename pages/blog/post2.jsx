@@ -19,10 +19,11 @@ import Head from "next/head";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Cars to Get Rid of: Signs you need a replacement one",
+      title: "sell my car for cash today in Sydney",
       description:
-        "lead-acid batteries and lubricating oils in old cars pose a health risk. Used vehicles have damaged parts that are dangerous for people. As a car ages, its repair bills tend to increase. read on to learn signs it’s time to replace it.",
-      image: "https://auxcashforcarsydney.com/assets/postImage/end-of-life-car.jpg",
+        "This topic is a guide for sell your car for cash today in Sydney and at the end, we will introduce The best Cars buyer company for you.",
+      image:
+        "https://auxcashforcarsydney.com/assets/postImage/end-of-life-car.jpg",
       url: `https://auxcashforcarsydney.com/blog/post2`,
       keyword:
         "shaking and Noises in car, expensive repairs, replacement, Excessive Rust in cars",
@@ -48,7 +49,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
         <meta property="og:image" content={image} />
         <meta property="og:image:width" content={width} />
         <meta property="og:image:height" content={height} />
-        <meta name="twitter:card" content='summary' />
+        <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={image} />
