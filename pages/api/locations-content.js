@@ -1650,7 +1650,7 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Sydney</h2>, <h2>Cash for cars Mulgoa Sydney</h2>,{" "}
+        <h2>Cash for cars Mulgoa Sydney</h2>,{" "}
         <h2>Cash for cars Kingswood Sydney</h2>,{" "}
         <h2>Cash for cars Castlereagh Sydney</h2>,{" "}
         <h2>Cash for cars Penrith Sydney</h2>,{" "}
@@ -1666,25 +1666,23 @@ export const location = [
         <h2>Cash for cars Riverstone Sydney</h2>,{" "}
         <h2>Cash for cars Rooty Hill Sydney</h2>,{" "}
         <h2>Cash for cars Parklea Sydney</h2>,{" "}
-        <h2>Cash for cars Minchinbury Sydney</h2>, <h2>Cash for cars Sydney</h2>
-        ,{""}
+        <h2>Cash for cars Minchinbury Sydney</h2>,{""}
         <h2>Cash for cars Campbelltown Sydney</h2>,{" "}
         <h2>Cash for cars Ingleburn Sydney</h2>,{" "}
         <h2>Cash for cars Minto Sydney</h2>,{" "}
         <h2>Cash for cars Narellan Sydney</h2>,{" "}
-        <h2>Cash for cars Camden Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney</h2>,{""}
+        <h2>Cash for cars Camden Sydney</h2>,
         <h2>Cash for cars Miranda Sydney</h2>,{" "}
         <h2>Cash for cars Caringbah Sydney</h2>,{" "}
-        <h2>Cash for cars Cronulla Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Cronulla Sydney</h2>,{" "}
         <h2>Cash for cars Kurnell Sydney</h2>,{" "}
         <h2>Cash for cars Sutherland Sydney</h2>,{" "}
         <h2>Cash for cars Heathcote Sydney</h2>,{" "}
-        <h2>Cash for cars Menai Sydney</h2>, <h2>Cash for cars Sydney</h2>,{""}
+        <h2>Cash for cars Menai Sydney</h2>,{" "}
         <h2>Cash for cars Kogarah Sydney</h2>,{" "}
         <h2>Cash for cars Carlton Sydney</h2>,{" "}
         <h2>Cash for cars Sans Souci Sydney</h2>,{" "}
-        <h2>Cash for cars Rockdale Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Rockdale Sydney</h2>,{" "}
         <h2>Cash for cars Hurstville Sydney</h2>,{" "}
         <h2>Cash for cars Blakehurst Sydney</h2>,{" "}
         <h2>Cash for cars Penshurst Sydney</h2>,{" "}
@@ -1694,20 +1692,20 @@ export const location = [
         <h2>Cash for cars Jannali Sydney</h2>,{" "}
         <h2>Cash for cars Gymea Sydney</h2>,{""}
         <h2>Cash for cars Merrylands Sydney</h2>,{" "}
-        <h2>Cash for cars Yennora Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Yennora Sydney</h2>,{" "}
         <h2>Cash for cars Chester Hill Sydney</h2>,{" "}
         <h2>Cash for cars Villawood Sydney</h2>,{" "}
         <h2>Cash for cars Smithfield/W.Park Sydney</h2>,{" "}
         <h2>Cash for cars Fairfield Sydney</h2>,{" "}
         <h2>Cash for cars Lansvale Sydney</h2>,{" "}
-        <h2>Cash for cars Liverpool Sydney</h2>,
+        <h2>Cash for cars Liverpool Sydney</h2>,{" "}
         <h2>Cash for cars Hoxton Park Sydney</h2>,{" "}
         <h2>Cash for cars St Johns Park Sydney</h2>,{" "}
-        <h2>Cash for cars Chullora Sydney</h2>,
+        <h2>Cash for cars Chullora Sydney</h2>,{" "}
         <h2>Cash for cars Belfield Sydney</h2>,{" "}
         <h2>Cash for cars Belmore Sydney</h2>,{" "}
         <h2>Cash for cars Canterbury Sydney</h2>,{" "}
-        <h2>Cash for cars Campsie Sydney</h2>,
+        <h2>Cash for cars Campsie Sydney</h2>,{" "}
         <h2>Cash for cars Lakemba Sydney</h2>,{" "}
         <h2>Cash for cars Punchbowl Sydney</h2>,{" "}
         <h2>Cash for cars Georges Hall Sydney</h2>,{" "}
@@ -1718,12 +1716,12 @@ export const location = [
         <h2>Cash for cars Arncliffe Sydney</h2>,{" "}
         <h2>Cash for cars Earlwood Sydney</h2>,{" "}
         <h2>Cash for cars Bexley Sydney</h2>,{" "}
-        <h2>Cash for cars Kingsgrove Sydney</h2>,
+        <h2>Cash for cars Kingsgrove Sydney</h2>,{" "}
         <h2>Cash for cars Beverly Hills Sydney</h2>,{" "}
         <h2>Cash for cars Peakhurst Sydney</h2>,{" "}
         <h2>Cash for cars Revesby Padstow Sydney</h2>,
         <h2>Cash for cars East Hills Sydney</h2>,{" "}
-        <h2>Cash for cars Milperra Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Milperra Sydney</h2>,{" "}
         <h2>Cash for cars Parramatta Sydney</h2>,{" "}
         <h2>Cash for cars North Rocks Sydney</h2>,{" "}
         <h2>Cash for cars Northmead Sydney</h2>,{" "}
@@ -1733,19 +1731,19 @@ export const location = [
         <h2>Cash for cars Kenthurst Sydney</h2>,{" "}
         <h2>Cash for cars Glenorie Sydney</h2>,{" "}
         <h2>Cash for cars Dural Sydney</h2>,{" "}
-        <h2>Cash for cars Galston Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Galston Sydney</h2>,{" "}
         <h2>Cash for cars Homebush Bay Sydney</h2>,{" "}
         <h2>Cash for cars Silverwater Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Markets Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Summer Hill Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Ashfield Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Croydon Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Croydon Park Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Burwood Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Strathfield Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Enfield Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Concord Sydney</h2>,{" "}
-        <h2>Cash for cars Sydney Rhodes Sydney</h2>,{" "}
+        <h2>Cash for cars Markets Sydney</h2>,{" "}
+        <h2>Cash for cars Summer Hill Sydney</h2>,{" "}
+        <h2>Cash for cars Ashfield Sydney</h2>,{" "}
+        <h2>Cash for cars Croydon Sydney</h2>,{" "}
+        <h2>Cash for cars Croydon Park Sydney</h2>,{" "}
+        <h2>Cash for cars Burwood Sydney</h2>,{" "}
+        <h2>Cash for cars Strathfield Sydney</h2>,{" "}
+        <h2>Cash for cars Enfield Sydney</h2>,{" "}
+        <h2>Cash for cars Concord Sydney</h2>,{" "}
+        <h2>Cash for cars Rhodes Sydney</h2>,{" "}
         <h2>Cash for cars Homebush Sydney</h2>,{" "}
         <h2>Cash for cars Lidcombe Sydney</h2>,{" "}
         <h2>Cash for cars Granville Sydney</h2>,{" "}
@@ -1754,7 +1752,7 @@ export const location = [
         <h2>Cash for cars Wentworthville Sydney</h2>,{" "}
         <h2>Cash for Toongabbie cars Sydney</h2>,{" "}
         <h2>Cash for cars Seven Hills Sydney</h2>,{" "}
-        <h2>Cash for cars Blacktown Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Blacktown Sydney</h2>,
         <h2>Cash for cars Hunters Hill Sydney</h2>,{" "}
         <h2>Cash for cars Gladesville Sydney</h2>,{" "}
         <h2>Cash for cars Ryde Sydney</h2>,{" "}
@@ -1768,8 +1766,8 @@ export const location = [
         <h2>Cash for cars Epping Sydney</h2>,{" "}
         <h2>Cash for cars Eastwood Sydney</h2>,{" "}
         <h2>Cash for cars W. Pennant Hills Sydney</h2>,{" "}
-        <h2>Cash for cars Cherrybrook Sydney</h2>, <h2>Cash for cars Sydney</h2>
-        , <h2>Cash for cars Seaforth Sydney</h2>,{" "}
+        <h2>Cash for cars Cherrybrook Sydney</h2>, ,{" "}
+        <h2>Cash for cars Seaforth Sydney</h2>,{" "}
         <h2>Cash for cars Balgowlah Sydney</h2>,{" "}
         <h2>Cash for cars Manly Sydney</h2>,{" "}
         <h2>Cash for cars Harbord Sydney</h2>,{" "}
@@ -1781,7 +1779,7 @@ export const location = [
         <h2>Cash for cars Mona Vale Sydney</h2>,{" "}
         <h2>Cash for cars Bayview Sydney</h2>,{" "}
         <h2>Cash for cars Newport Sydney</h2>,{" "}
-        <h2>Cash for cars Avalon Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Avalon Sydney</h2>,
         <h2>Cash for cars Lindfield Sydney</h2>,
         <h2>Cash for cars Killara Sydney</h2>,
         <h2>Cash for cars Gordon Sydney</h2>,{" "}
@@ -1821,7 +1819,7 @@ export const location = [
         <h2>Cash for cars Willoughby Sydney</h2>,{" "}
         <h2>Cash for cars Mosman Sydney</h2>,{" "}
         <h2>Cash for cars Neutral Bay Sydney</h2>,{" "}
-        <h2>Cash for cars Cremorne Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for cars Cremorne Sydney</h2>,
         <h2>Cash for cars Waterloo Sydney</h2>,{" "}
         <h2>Cash for cars Rosebery Sydney</h2>,{" "}
         <h2>Cash for cars Botany Sydney</h2>,{" "}
