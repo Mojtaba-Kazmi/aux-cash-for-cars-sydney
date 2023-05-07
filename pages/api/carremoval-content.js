@@ -67,29 +67,30 @@ export const location = [
 
   // location 1
   {
-    image: "/assets/locationsImages/1.jpg",
+    image: "/assets/carRemovalImages/1.jpg",
     alt: "Car Removal Sydney CBD",
     title: <h1>Car Removal Sydney CBD</h1>,
     description: (
       <>
         <p>
-          <Link href={"/"}>Car removal services</Link> in Sydney CBD have become
-          increasingly popular over the years, as more people realize the
-          benefits of getting rid of their unwanted vehicles in an efficient and
-          hassle-free manner. If you have an old, damaged, or unused car taking
-          up space in your garage or driveway, then hiring a reliable car
-          removal service can be a great solution. In this article, we will
-          discuss the benefits and considerations of using car removal services
-          in Sydney CBD.
+          <Link href={"/car-removal"}>Car removal services</Link> in Sydney CBD
+          have become increasingly popular over the years, as more people
+          realize the benefits of getting rid of their unwanted vehicles in an
+          efficient and hassle-free manner. If you have an old, damaged, or
+          unused car taking up space in your garage or driveway, then hiring a
+          reliable car removal service can be a great solution. In this article,
+          we will discuss the benefits and considerations of using{" "}
+          <Link href={"/car-removal"}>car removal services</Link> in Sydney CBD.
         </p>
         <h3>Benefits of Car Removal Services in Sydney CBD:</h3>
         <ol>
           <li>
-            Convenience: The biggest benefit of using car removal services is
-            the convenience they offer. You don't have to worry about towing
-            your car to the junkyard or scrapyard, as the removal company will
-            come to your location and take care of everything for you. This
-            saves you time, money, and hassle.
+            Convenience: The biggest benefit of using{" "}
+            <Link href={"/car-removal"}>car removal services</Link> is the
+            convenience they offer. You don't have to worry about towing your
+            car to the junkyard or scrapyard, as the removal company will come
+            to your location and take care of everything for you. This saves you
+            time, money, and hassle.
           </li>
           <li>
             Environmentally friendly: Car removal companies in Sydney CBD are
@@ -98,10 +99,10 @@ export const location = [
             doesn't end up in a landfill or harm the environment.
           </li>
           <li>
-            Cash for your car: Many car removal services in Sydney CBD offer
-            cash for your unwanted vehicle, depending on its condition and make.
-            This can be a great way to get some extra money for a car that you
-            no longer need.
+            <Link href={"/"}>Cash for your car:</Link> Many car removal services
+            in Sydney CBD offer cash for your unwanted vehicle, depending on its
+            condition and make. This can be a great way to get some extra money
+            for a car that you no longer need.
           </li>
         </ol>
         <h3>
@@ -109,31 +110,67 @@ export const location = [
         </h3>
         <ol>
           <li>
-            Reputation: It's important to choose a reputable car removal
-            service that has a good track record of providing reliable and
-            efficient services. You can check online reviews and ratings to get
-            an idea of the company's reputation.
+            Reputation: It's important to choose a reputable{" "}
+            <Link href={"/car-removal"}>car removal service</Link> that has a
+            good track record of providing reliable and efficient services. You
+            can check online reviews and ratings to get an idea of the company's
+            reputation.
           </li>
           <li>
-            Licensing and Insurance: Make sure that the car removal service
-            you choose is licensed and insured. This will protect you from any
-            liability in case of accidents or damages during the removal
-            process.
+            Licensing and Insurance: Make sure that the{" "}
+            <Link href={"/car-removal"}>car removal service</Link> you choose is
+            licensed and insured. This will protect you from any liability in
+            case of accidents or damages during the removal process.
           </li>
-          <il>
-            Price: While cash for your car is a great incentive, it's
-            important to get multiple quotes from different car removal services
-            to ensure that you're getting a fair price for your vehicle.
-          </il>
+          <li>
+            Price: While cash for your car is a great incentive, it's important
+            to get multiple quotes from different car removal services to ensure
+            that you're getting a fair price for your vehicle.
+          </li>
         </ol>
         <p>
-
+          In conclusion, if you're looking to get rid of an old, damaged, or
+          unused car in Sydney CBD, then{" "}
+          <Link href={"/car-removal"}>car removal services</Link> can be a great
+          solution. They offer convenience, environmental responsibility, and
+          the possibility of cash for your car. However, it's important to
+          choose a reputable and licensed service and get multiple quotes to
+          ensure that you're getting a fair deal.
+        </p>
+        <p>
+          One of the best car removals in the area of Sydney CDB is{" "}
+          <Link href={"/car-removal"}>Aux Car Removal Sydney</Link>, so if you
+          want to have a good Car removal service you can{" "}
+          <Link href={"/contact"}>contact</Link> them through different ways
+          such as the <Link href={"/contact"}>number</Link>,{" "}
+          <Link href={"/"}>website</Link>,{" "}
+          <Link
+            href={"https://www.facebook.com/auxcashforcarsydney"}
+            target="_blank"
+          >
+            Facebook page
+          </Link>
+          ,{" "}
+          <Link
+            href={"https://www.linkedin.com/company/aux-cash-for-car-sydney"}
+            target="_blank"
+          >
+            LinkedIn page
+          </Link>
+          .
         </p>
       </>
     ),
     tags: (
       <>
-        <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Car removal Sydney</h2>, <h2>Car removal Sydney City</h2>,{" "}
+        <h2>Car removal Ultimo Sydney</h2>,{" "}
+        <h2>Car removal Chippendale Sydney</h2>,{" "}
+        <h2>Car removal Pyrmont Sydney</h2>,{" "}
+        <h2>Car removal Surry Hills Sydney</h2>,{" "}
+        <h2>Car removal Kings Cross Sydney</h2>,{" "}
+        <h2>Car removal Alexandria Sydney</h2>,{" "}
+        <h2>Car removal Redfern Sydney</h2>,{" "}
       </>
     ),
   },
