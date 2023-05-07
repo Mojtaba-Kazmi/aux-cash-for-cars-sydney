@@ -230,14 +230,14 @@ function Locations({ title, description, image, url, keyword, width, height }) {
 
                   <CardContent>
                     <MiniCardStyle>
-                      <Link href={"/locations/location" + ps1}>
+                      <Link href={"/car-removal/location" + ps1}>
                         <TitleContainer>{location[ps1].title}</TitleContainer>
                       </Link>
                       <Postdescription>
                         {location[ps1].description}
                       </Postdescription>
                       <Typography variant="body1" component={"p"}>
-                        <Link href={"/locations/location" + ps1}>
+                        <Link href={"/car-removal/location" + ps1}>
                           Read More
                         </Link>
                       </Typography>
@@ -266,7 +266,7 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                   />
                   <CardContent>
                     <MiniCardStyle>
-                      <Link href={"/locations/location" + ps2}>
+                      <Link href={"/car-removal/location" + ps2}>
                         <TitleContainer>{location[ps2].title}</TitleContainer>
                       </Link>
 
@@ -274,7 +274,7 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                         {location[ps2].description}
                       </Postdescription>
                       <Typography variant="body1" component={"p"}>
-                        <Link href={"/locations/location" + ps2}>
+                        <Link href={"/car-removal/location" + ps2}>
                           Read More
                         </Link>
                       </Typography>
@@ -303,14 +303,14 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                   />
                   <CardContent>
                     <MiniCardStyle>
-                      <Link href={"/locations/location" + ps3}>
+                      <Link href={"/car-removal/location" + ps3}>
                         <TitleContainer>{location[ps3].title}</TitleContainer>
                       </Link>
                       <Postdescription>
                         {location[ps3].description}
                       </Postdescription>
                       <Typography variant="body1" component={"p"}>
-                        <Link href={"/locations/location" + ps3}>
+                        <Link href={"/car-removal/location" + ps3}>
                           Read More
                         </Link>
                       </Typography>
@@ -339,14 +339,14 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                   />
                   <CardContent>
                     <MiniCardStyle>
-                      <Link href={"/locations/location" + ps4}>
+                      <Link href={"/car-removal/location" + ps4}>
                         <TitleContainer>{location[ps4].title}</TitleContainer>
                       </Link>
                       <Postdescription>
                         {location[ps4].description}
                       </Postdescription>
                       <Typography variant="body1" component={"p"}>
-                        <Link href={"/locations/location" + ps4}>
+                        <Link href={"/car-removal/location" + ps4}>
                           Read More
                         </Link>
                       </Typography>
@@ -375,14 +375,14 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                   />
                   <CardContent>
                     <MiniCardStyle>
-                      <Link href={"/locations/location" + ps5}>
+                      <Link href={"/car-removal/location" + ps5}>
                         <TitleContainer>{location[ps5].title}</TitleContainer>
                       </Link>
                       <Postdescription>
                         {location[ps5].description}
                       </Postdescription>
                       <Typography variant="body1" component={"p"}>
-                        <Link href={"/locations/location" + ps5}>
+                        <Link href={"/car-removal/location" + ps5}>
                           Read More
                         </Link>
                       </Typography>
@@ -411,14 +411,14 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                   />
                   <CardContent>
                     <MiniCardStyle>
-                      <Link href={"/locations/location" + ps6}>
+                      <Link href={"/car-removal/location" + ps6}>
                         <TitleContainer>{location[ps6].title}</TitleContainer>
                       </Link>
                       <Postdescription>
                         {location[ps6].description}
                       </Postdescription>
                       <Typography variant="body1" component={"p"}>
-                        <Link href={"/locations/location" + ps6}>
+                        <Link href={"/car-removal/location" + ps6}>
                           Read More
                         </Link>
                       </Typography>

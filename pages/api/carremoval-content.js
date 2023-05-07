@@ -73,31 +73,32 @@ export const location = [
     description: (
       <>
         <p>
-          Car removal services in Sydney CBD have become increasingly popular
-          over the years, as more people realize the benefits of getting rid of
-          their unwanted vehicles in an efficient and hassle-free manner. If you
-          have an old, damaged, or unused car taking up space in your garage or
-          driveway, then hiring a reliable car removal service can be a great
-          solution. In this article, we will discuss the benefits and
-          considerations of using car removal services in Sydney CBD.
+          <Link href={"/"}>Car removal services</Link> in Sydney CBD have become
+          increasingly popular over the years, as more people realize the
+          benefits of getting rid of their unwanted vehicles in an efficient and
+          hassle-free manner. If you have an old, damaged, or unused car taking
+          up space in your garage or driveway, then hiring a reliable car
+          removal service can be a great solution. In this article, we will
+          discuss the benefits and considerations of using car removal services
+          in Sydney CBD.
         </p>
         <h3>Benefits of Car Removal Services in Sydney CBD:</h3>
         <ol>
           <li>
-            1. Convenience: The biggest benefit of using car removal services is
+            Convenience: The biggest benefit of using car removal services is
             the convenience they offer. You don't have to worry about towing
             your car to the junkyard or scrapyard, as the removal company will
             come to your location and take care of everything for you. This
             saves you time, money, and hassle.
           </li>
           <li>
-            2. Environmentally friendly: Car removal companies in Sydney CBD are
+            Environmentally friendly: Car removal companies in Sydney CBD are
             committed to eco-friendly practices. They will recycle or dispose of
             your vehicle in an environmentally responsible way, ensuring that it
             doesn't end up in a landfill or harm the environment.
           </li>
           <li>
-            3. Cash for your car: Many car removal services in Sydney CBD offer
+            Cash for your car: Many car removal services in Sydney CBD offer
             cash for your unwanted vehicle, depending on its condition and make.
             This can be a great way to get some extra money for a car that you
             no longer need.
@@ -108,23 +109,26 @@ export const location = [
         </h3>
         <ol>
           <li>
-            1. Reputation: It's important to choose a reputable car removal
+            Reputation: It's important to choose a reputable car removal
             service that has a good track record of providing reliable and
             efficient services. You can check online reviews and ratings to get
             an idea of the company's reputation.
           </li>
           <li>
-            2. Licensing and Insurance: Make sure that the car removal service
+            Licensing and Insurance: Make sure that the car removal service
             you choose is licensed and insured. This will protect you from any
             liability in case of accidents or damages during the removal
             process.
           </li>
           <il>
-            3. Price: While cash for your car is a great incentive, it's
+            Price: While cash for your car is a great incentive, it's
             important to get multiple quotes from different car removal services
             to ensure that you're getting a fair price for your vehicle.
           </il>
         </ol>
+        <p>
+
+        </p>
       </>
     ),
     tags: (
