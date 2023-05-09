@@ -77,7 +77,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
                     alt={location[1].title}
                   />
                   <CardContent>
-                    {location[1].title}
+                    <h1>{location[1].title}</h1>
                     {location[1].description}
                   </CardContent>
 
