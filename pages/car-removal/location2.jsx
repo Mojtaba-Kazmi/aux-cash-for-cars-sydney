@@ -26,7 +26,7 @@ export async function getServerSideProps() {
       description:
         "This topic is A guide for Car Removal Eastern NSW and at the end, we will introduce The best Cash for Cars company in Eastern NSW  for you.",
       image: "https://auxcashforcarsydney.com/assets/carRemovalImages/2.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location2`,
+      url: `https://auxcashforcarsydney.com/car-removal/location2`,
       keyword:
         "cash for cars sydney, Car Removal Sydney,sell my old car, pick up car for free, juk car removal",
       width: 1200,
