@@ -33,28 +33,28 @@ const navItems = [
     index: 1,
   },
   {
-    label: "ABOUT US",
-    url: "/about",
-    index: 2,
-  },
-  {
     label: "SERVICES",
     url: "/services",
-    index: 3,
+    index: 2,
   },
   {
     label: "BLOG",
     url: "/blog",
-    index: 4,
+    index: 3,
   },
   {
     label: "LOCATIONS",
     url: "/locations",
-    index: 5,
+    index: 4,
   },
   {
     label: "FAQs",
     url: "/faqs",
+    index: 5,
+  },
+  {
+    label: "ABOUT US",
+    url: "/about",
     index: 6,
   },
   {

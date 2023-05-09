@@ -91,7 +91,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
                     }}
                   >
                     <Grid item md={6} sm={6} xs={2}>
-                      <Link href="/blog" style={{ width: "10px" }}>
+                      <Link href="/locations" style={{ width: "10px" }}>
                         <NextLinkBtn>Back</NextLinkBtn>
                       </Link>
                     </Grid>

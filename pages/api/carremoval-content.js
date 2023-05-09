@@ -1,4 +1,6 @@
 import Link from "next/link";
+import { Typography } from "@mui/material";
+import { useRouter } from "next/router";
 export const maintext = [
   {
     description: (
@@ -68,8 +70,8 @@ export const location = [
   // location 1
   {
     image: "/assets/carRemovalImages/1.jpg",
-    alt: "Car Removal Sydney CBD",
-    title: <h1>Car Removal Sydney CBD</h1>,
+    title: "Car Removal Sydney CBD",
+
     description: (
       <>
         <p>
@@ -171,6 +173,84 @@ export const location = [
         <h2>Car removal Kings Cross Sydney</h2>,{" "}
         <h2>Car removal Alexandria Sydney</h2>,{" "}
         <h2>Car removal Redfern Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
+  // location 2
+  {
+    image: "/assets/locationsImages/2.jpg",
+    title: "Car Removal Eastern NSW",
+
+    description: (
+      <>
+        <p>
+          Do you have an old, broken-down car taking up space in your garage or
+          driveway? Are you tired of paying for repairs and maintenance on a
+          vehicle that's no longer worth it? If so, it may be time to consider
+          car removal services in Eastern NSW.
+        </p>
+        <p>
+          Car removal companies offer a convenient and hassle-free way to get
+          rid of your unwanted vehicle. They'll come to your location, tow your
+          car away, and give you cash on the spot. But with so many car removal
+          services available, it can be hard to know which one to choose.
+        </p>
+        <p>
+          In this article, we'll explore the benefits of using a car removal
+          service in Eastern NSW, what to look for in a reputable company, and
+          how to get the most money for your old car.
+        </p>
+        <h2>Benefits of Car Removal Services in Eastern NSW</h2>
+        <p>Benefits of Car Removal Services in Eastern NSW</p>
+        <ol>
+          <li>
+            Convenience: Car removal services make it easy to get rid of your
+            old car. You don't have to worry about transporting it yourself or
+            finding a buyer.
+          </li>
+          <li>
+            Fast and Efficient: Car removal companies typically offer same-day
+            or next-day service, so you can get rid of your car quickly.
+          </li>
+          <li>
+            Environmentally Friendly: Car removal companies dispose of your car
+            in an environmentally friendly manner, ensuring that it doesn't harm
+            the environment.
+          </li>
+          <li>
+            Cash on the Spot: Car removal services pay you cash on the spot for
+            your old car, so you can get money for something you no longer need.
+          </li>
+          <h2>Choosing a Reputable Car Removal Company</h2>
+        </ol>
+        <p>
+          One of the best car removals in the area of Sydney CDB is{" "}
+          <Link href={"/car-removal"}>Aux Car Removal Sydney</Link>, so if you
+          want to have a good Car removal service you can{" "}
+          <Link href={"/contact"}>contact</Link> them through different ways
+          such as the <Link href={"/contact"}>number</Link>,{" "}
+          <Link href={"/"}>website</Link>,{" "}
+          <Link
+            href={"https://www.facebook.com/auxcashforcarsydney"}
+            target="_blank"
+          >
+            Facebook page
+          </Link>
+          ,{" "}
+          <Link
+            href={"https://www.linkedin.com/company/aux-cash-for-car-sydney"}
+            target="_blank"
+          >
+            LinkedIn page
+          </Link>
+          .
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Sydney</h2>,{" "}
       </>
     ),
   },

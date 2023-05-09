@@ -9,7 +9,7 @@ import {
   Typography,
 } from "@mui/material";
 import Link from "next/link";
-import { location } from "../api/locations-content";
+import { location } from "../api/carremoval-content";
 import ContactForm from "@/components/ContactForm";
 import ContactUsCard from "@/components/ContactUsCard";
 import SocialShareBtn, { Line } from "@/components/GlobalComponents";
@@ -22,11 +22,11 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "cash for cars Sydney CBD",
+      title: "Car Removal Eastern NSW",
       description:
-        "This topic is A guide for Cash for Cars Sydney CBD and at the end, we will introduce The best Cash for Cars company in Sydney CBD  for you.",
-      image: "https://auxcashforcarsydney.com/assets/locationsImages/1.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location1`,
+        "This topic is A guide for Car Removal Eastern NSW and at the end, we will introduce The best Cash for Cars company in Eastern NSW  for you.",
+      image: "https://auxcashforcarsydney.com/assets/carRemovalImages/2.jpg",
+      url: `https://auxcashforcarsydney.com/locations/location2`,
       keyword:
         "cash for cars sydney, Car Removal Sydney,sell my old car, pick up car for free, juk car removal",
       width: 1200,
@@ -72,13 +72,13 @@ function post0({ title, description, image, url, keyword, width, height }) {
                 <Card>
                   <CardMedia
                     sx={{ height: "300px" }}
-                    image={location[1].image}
-                    title={location[1].alt}
-                    alt={location[1].alt}
+                    image={location[2].image}
+                    title={location[2].title}
+                    alt={location[2].title}
                   />
                   <CardContent>
-                    {location[1].title}
-                    {location[1].description}
+                    <h1>{location[2].title}</h1>
+                    {location[2].description}
                   </CardContent>
 
                   <Grid
@@ -91,7 +91,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
                     }}
                   >
                     <Grid item md={6} sm={6} xs={2}>
-                      <Link href="/locations" style={{ width: "10px" }}>
+                      <Link href="/car-removal" style={{ width: "10px" }}>
                         <NextLinkBtn>Back</NextLinkBtn>
                       </Link>
                     </Grid>
@@ -115,7 +115,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
                   <Card>
                     <CardContent>
                       <Typography component={"p"}> Tags </Typography>
-                      <TagsStyle>{location[1].tags}</TagsStyle>
+                      <TagsStyle>{location[2].tags}</TagsStyle>
                     </CardContent>
                   </Card>
                 </Grid>

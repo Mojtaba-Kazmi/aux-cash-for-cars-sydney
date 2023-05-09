@@ -224,14 +224,16 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                   <CardMedia
                     sx={{ height: "200px" }}
                     image={location[ps1].image}
-                    title={location[ps1].alt}
-                    alt={location[ps1].alt}
+                    title={location[ps1].title}
+                    alt={location[ps1].title}
                   />
 
                   <CardContent>
                     <MiniCardStyle>
                       <Link href={"/car-removal/location" + ps1}>
-                        <TitleContainer>{location[ps1].title}</TitleContainer>
+                        <TitleContainer>
+                          <h2>{location[ps1].title}</h2>
+                        </TitleContainer>
                       </Link>
                       <Postdescription>
                         {location[ps1].description}
@@ -248,7 +250,7 @@ function Locations({ title, description, image, url, keyword, width, height }) {
             </Grid>
 
             {/* location2 in page */}
-            {/* <Grid
+            <Grid
               md={3.7}
               sm={5.7}
               xs={12}
@@ -261,13 +263,15 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                   <CardMedia
                     sx={{ height: "200px" }}
                     image={location[ps2].image}
-                    title={location[ps2].alt}
-                    alt={location[ps2].alt}
+                    title={location[ps2].title}
+                    alt={location[ps2].title}
                   />
                   <CardContent>
                     <MiniCardStyle>
                       <Link href={"/car-removal/location" + ps2}>
-                        <TitleContainer>{location[ps2].title}</TitleContainer>
+                        <TitleContainer>
+                          <h2>{location[ps2].title}</h2>
+                        </TitleContainer>
                       </Link>
 
                       <Postdescription>
@@ -282,7 +286,7 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                   </CardContent>
                 </Card>
               </Postanimation>
-            </Grid> */}
+            </Grid>
 
             {/* location3 in page */}
             {/* <Grid
@@ -298,13 +302,15 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                   <CardMedia
                     sx={{ height: "200px" }}
                     image={location[ps3].image}
-                    title={location[ps3].alt}
-                    alt={location[ps3].alt}
+                    title={location[ps3].title}
+                    alt={location[ps3].title}
                   />
                   <CardContent>
                     <MiniCardStyle>
                       <Link href={"/car-removal/location" + ps3}>
-                        <TitleContainer>{location[ps3].title}</TitleContainer>
+                        <TitleContainer>
+                          <h2>{location[ps3].title}</h2>
+                        </TitleContainer>
                       </Link>
                       <Postdescription>
                         {location[ps3].description}
@@ -334,13 +340,15 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                   <CardMedia
                     sx={{ height: "200px" }}
                     image={location[ps4].image}
-                    title={location[ps4].alt}
-                    alt={location[ps4].alt}
+                    title={location[ps4].title}
+                    alt={location[ps4].title}
                   />
                   <CardContent>
                     <MiniCardStyle>
                       <Link href={"/car-removal/location" + ps4}>
-                        <TitleContainer>{location[ps4].title}</TitleContainer>
+                        <TitleContainer>
+                          <h2>{location[ps4].title}</h2>
+                        </TitleContainer>
                       </Link>
                       <Postdescription>
                         {location[ps4].description}
@@ -370,13 +378,15 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                   <CardMedia
                     sx={{ height: "200px" }}
                     image={location[ps5].image}
-                    title={location[ps5].alt}
-                    alt={location[ps5].alt}
+                    title={location[ps5].title}
+                    alt={location[ps5].title}
                   />
                   <CardContent>
                     <MiniCardStyle>
                       <Link href={"/car-removal/location" + ps5}>
-                        <TitleContainer>{location[ps5].title}</TitleContainer>
+                        <TitleContainer>
+                          <h2>{location[ps5].title}</h2>
+                        </TitleContainer>
                       </Link>
                       <Postdescription>
                         {location[ps5].description}
@@ -406,13 +416,15 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                   <CardMedia
                     sx={{ height: "200px" }}
                     image={location[ps6].image}
-                    title={location[ps6].alt}
-                    alt={location[ps6].alt}
+                    title={location[ps6].title}
+                    alt={location[ps6].title}
                   />
                   <CardContent>
                     <MiniCardStyle>
                       <Link href={"/car-removal/location" + ps6}>
-                        <TitleContainer>{location[ps6].title}</TitleContainer>
+                        <TitleContainer>
+                          <h2>{location[ps6].title}</h2>
+                        </TitleContainer>
                       </Link>
                       <Postdescription>
                         {location[ps6].description}

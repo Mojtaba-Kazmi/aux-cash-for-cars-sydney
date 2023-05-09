@@ -73,8 +73,8 @@ function post0({ title, description, image, url, keyword, width, height }) {
                   <CardMedia
                     sx={{ height: "300px" }}
                     image={location[1].image}
-                    title={location[1].alt}
-                    alt={location[1].alt}
+                    title={location[1].title}
+                    alt={location[1].title}
                   />
                   <CardContent>
                     {location[1].title}
@@ -91,7 +91,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
                     }}
                   >
                     <Grid item md={6} sm={6} xs={2}>
-                      <Link href="/blog" style={{ width: "10px" }}>
+                      <Link href="/car-removal" style={{ width: "10px" }}>
                         <NextLinkBtn>Back</NextLinkBtn>
                       </Link>
                     </Grid>
