@@ -300,7 +300,23 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Car Removal Sydney</h2>, <h2>Car Removal Waterloo Sydney</h2>,{" "}
+        <h2>Car Removal Rosebery Sydney</h2>, <h2>Car Removal Botany Sydney</h2>
+        , <h2>Car Removal Mascot Sydney</h2>,{" "}
+        <h2>Car Removal Paddington Sydney</h2>,{" "}
+        <h2>Car Removal Bondi Junction Sydney</h2>,{" "}
+        <h2>Car Removal Bellevue Hill Sydney</h2>,{" "}
+        <h2>Car Removal Waverley Sydney</h2>,{" "}
+        <h2>Car Removal Woollahra Sydney</h2>, <h2>Car Removal Bondi Sydney</h2>
+        , <h2>Car Removal Edgecliff Sydney</h2>,{" "}
+        <h2>Car Removal Double Bay Sydney</h2>,{" "}
+        <h2>Car Removal Rose Bay Sydney</h2>,{" "}
+        <h2>Car Removal Vaucluse Sydney</h2>,{" "}
+        <h2>Car Removal Randwick Sydney</h2>,{" "}
+        <h2>Car Removal Kingsford Sydney</h2>,{" "}
+        <h2>Car Removal Kensington Sydney</h2>,{" "}
+        <h2>Car Removal Coogee Sydney</h2>, <h2>Car Removal Pagewood Sydney</h2>
+        , <h2>Car Removal Matraville Sydney</h2>,{" "}
       </>
     ),
   },
