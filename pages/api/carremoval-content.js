@@ -187,27 +187,30 @@ export const location = [
         <p>
           Do you have an old, broken-down car taking up space in your garage or
           driveway? Are you tired of paying for repairs and maintenance on a
-          vehicle that's no longer worth it? If so, it may be time to consider
-          car removal services in Eastern NSW.
+          vehicle that's no longer worth it? If so, it may be time to consider{" "}
+          <Link href={"/car-removal"}>car removal services</Link> in Eastern
+          NSW.
         </p>
         <p>
           Car removal companies offer a convenient and hassle-free way to get
           rid of your unwanted vehicle. They'll come to your location, tow your
-          car away, and give you cash on the spot. But with so many car removal
-          services available, it can be hard to know which one to choose.
+          car away, and give you cash on the spot. But with so many car{" "}
+          <Link href={"/car-removal"}>removal services</Link> available, it can
+          be hard to know which one to choose.
         </p>
         <p>
-          In this article, we'll explore the benefits of using a car removal
-          service in Eastern NSW, what to look for in a reputable company, and
-          how to get the most money for your old car.
+          In this article, we'll explore the benefits of using a{" "}
+          <Link href={"/car-removal"}>car removal service</Link> in Eastern NSW,
+          what to look for in a reputable company, and how to get the most money
+          for your old car.
         </p>
         <h2>Benefits of Car Removal Services in Eastern NSW</h2>
         <p>Benefits of Car Removal Services in Eastern NSW</p>
         <ul>
           <li>
-            Convenience: Car removal services make it easy to get rid of your
-            old car. You don't have to worry about transporting it yourself or
-            finding a buyer.
+            Convenience: <Link href={"/car-removal"}>Car removal services</Link>{" "}
+            make it easy to get rid of your old car. You don't have to worry
+            about transporting it yourself or finding a buyer.
           </li>
           <li>
             Fast and Efficient: Car removal companies typically offer same-day
@@ -231,9 +234,10 @@ export const location = [
         </p>
         <ul>
           <li>
-            Licensing and Insurance: Make sure the car removal company you
-            choose is licensed and insured. This ensures that you're protected
-            in case of any damage or accidents during the removal process.
+            Licensing and Insurance: Make sure the{" "}
+            <Link href={"/car-removal"}>car removal company</Link> you choose is
+            licensed and insured. This ensures that you're protected in case of
+            any damage or accidents during the removal process.
           </li>
           <li>
             Reputation: Check online reviews and ratings to see what other
@@ -269,13 +273,14 @@ export const location = [
         </ul>
         <h2>Conclusion</h2>
         <p>
-          Using a car removal service in Eastern NSW is a convenient and
-          hassle-free way to get rid of your old car. When choosing a company,
-          make sure you choose a reputable and reliable one. And to get the most
-          money for your car, be sure to follow the tips outlined above.
+          Using a <Link href={"/car-removal"}>car removal service</Link> in
+          Eastern NSW is a convenient and hassle-free way to get rid of your old
+          car. When choosing a company, make sure you choose a reputable and
+          reliable one. And to get the most money for your car, be sure to
+          follow the tips outlined above.
         </p>
         <p>
-          One of the best car removals in the area of Sydney CDB is{" "}
+          One of the best car removals in the area of Eastern NSW is{" "}
           <Link href={"/car-removal"}>Aux Car Removal Sydney</Link>, so if you
           want to have a good Car removal service you can{" "}
           <Link href={"/contact"}>contact</Link> them through different ways
