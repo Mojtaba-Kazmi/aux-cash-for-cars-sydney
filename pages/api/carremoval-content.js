@@ -179,7 +179,7 @@ export const location = [
 
   // location 2
   {
-    image: "/assets/locationsImages/2.jpg",
+    image: "/assets/carRemovalImages/2.jpg",
     title: "Car Removal Eastern NSW",
 
     description: (
@@ -203,7 +203,7 @@ export const location = [
         </p>
         <h2>Benefits of Car Removal Services in Eastern NSW</h2>
         <p>Benefits of Car Removal Services in Eastern NSW</p>
-        <ol>
+        <ul>
           <li>
             Convenience: Car removal services make it easy to get rid of your
             old car. You don't have to worry about transporting it yourself or
@@ -222,8 +222,58 @@ export const location = [
             Cash on the Spot: Car removal services pay you cash on the spot for
             your old car, so you can get money for something you no longer need.
           </li>
-          <h2>Choosing a Reputable Car Removal Company</h2>
-        </ol>
+        </ul>
+        <h2>Choosing a Reputable Car Removal Company</h2>
+        <p>
+          When choosing a car removal company in Eastern NSW, it's important to
+          look for a reputable and reliable company. Here are some things to
+          consider:
+        </p>
+        <ul>
+          <li>
+            Licensing and Insurance: Make sure the car removal company you
+            choose is licensed and insured. This ensures that you're protected
+            in case of any damage or accidents during the removal process.
+          </li>
+          <li>
+            Reputation: Check online reviews and ratings to see what other
+            customers have to say about the company.
+          </li>
+          <li>
+            Pricing: Make sure you get a fair price for your car. Get quotes
+            from several companies to compare prices.
+          </li>
+        </ul>
+        <h2>Getting the Most Money for Your Old Car</h2>
+        <p>
+          To get the most money for your old car, there are a few things you can
+          do:
+        </p>
+        <ul>
+          <li>
+            Remove any personal belongings from the car before the removal
+            company arrives.
+          </li>
+          <li>
+            Make sure you have all the necessary paperwork, such as the car's
+            registration and title.
+          </li>
+          <li>
+            Provide an accurate description of the car's condition to the
+            removal company. This will help them give you a more accurate quote.
+          </li>
+          <li>
+            Compare prices from several car removal companies to make sure
+            you're getting the best deal.
+          </li>
+        </ul>
+        <h2>Conclusion</h2>
+        <p>
+          Using a car removal service in Eastern NSW is a convenient and
+          hassle-free way to get rid of your old car. When choosing a company,
+          make sure you choose a reputable and reliable one. And to get the most
+          money for your car, be sure to follow the tips outlined above.
+        </p>
         <p>
           One of the best car removals in the area of Sydney CDB is{" "}
           <Link href={"/car-removal"}>Aux Car Removal Sydney</Link>, so if you
@@ -257,9 +307,8 @@ export const location = [
 
   // location simple
   // {
-  //   image: "/assets/locationsImages/3.jpg",
-  //   alt: "",
-  //   title: <h1></h1>,
+  //   image: "/assets/carRemovalImages/1.jpg"",
+  //   title: "",
   //   description: <></>,
   //   tags: (
   //     <>
