@@ -101,7 +101,6 @@ export const BigCardStyle = styled("div")`width: 100%;
   }
   b {
     font-weight: 600;
-    color: #01b636;
   }
 
   @media screen and (max-width: 600px) {

@@ -326,9 +326,153 @@ export const location = [
     ),
   },
 
+  // location 3
+  {
+    image: "/assets/carRemovalImages/3.jpg",
+    title: "Car Removal Inner West NSW",
+    description: (
+      <>
+        <p>
+          If you have an old or unwanted car sitting in your driveway, taking up
+          valuable space, and collecting dust, it's time to consider car removal
+          services. <Link href={"/car-removal"}>Car removal companies</Link> in
+          Inner West NSW specialize in removing unwanted, damaged, or junk cars
+          from homes, offices, and commercial properties. These services not
+          only help you get rid of your unwanted vehicle but also provide you
+          with cash for it.
+        </p>
+        <p>
+          In this article, we'll cover everything you need to know about{" "}
+          <Link href={"/car-removal"}>car removal services</Link> in Inner West
+          NSW, including the benefits, the process, and what to expect.
+        </p>
+        <h2>Benefits of Car Removal Services</h2>
+        <ul>
+          <li>
+            <b>Free up Space:</b> An old or damaged car can take up a lot of
+            space on your property.{" "}
+            <Link href={"/car-removal"}>Car removal services</Link> will remove
+            the car, freeing up valuable space that can be used for other
+            purposes.
+          </li>
+          <li>
+            <b>Eco-friendly:</b>{" "}
+            <Link href={"/car-removal"}>Car removal services</Link> are an
+            eco-friendly way to dispose of unwanted vehicles. The companies
+            recycle as much of the car as possible, ensuring that it doesn't end
+            up in a landfill.
+          </li>
+          <li>
+            <b>Quick and Easy:</b>{" "}
+            <Link href={"/car-removal"}>Car removal services</Link> are quick
+            and easy. You don't have to worry about transporting the car to a
+            junkyard or dealing with paperwork. The car removal company will
+            handle everything.
+          </li>
+          <li>
+            <b>Cash for Your Car:</b>{" "}
+            <Link href={"/car-removal"}>Car removal services</Link> pay you for
+            your unwanted vehicle, no matter its condition. You can get cash for
+            a car that is no longer roadworthy, damaged, or even completely
+            totaled.
+          </li>
+        </ul>
+        <h2>The Car Removal Process</h2>
+        <ul>
+          <p>
+            The car removal process is straightforward and usually involves the
+            following steps:
+          </p>
+          <li>
+            <b>Contact the car removal company:</b> You can{" "}
+            <Link href={"/contact"}>call</Link> or{" "}
+            <Link href={"/contact"}>email</Link> a car removal company in Inner
+            West NSW to request a quote for your car.
+          </li>
+          <li>
+            <b>Provide Details:</b> The company will ask you to provide details
+            about your car, such as its make, model, year, and condition.
+          </li>
+          <li>
+            <b>Get a Quote:</b> Based on the information you provide, the
+            company will give you a quote for your car.
+          </li>
+          <li>
+            <b>Schedule a Pickup:</b> If you accept the quote, the company will
+            schedule a pickup time that is convenient for you.
+          </li>
+          <li>
+            <b>Get Paid:</b> Once the car is picked up, you will receive payment
+            for your car.
+          </li>
+        </ul>
+        <h2>What to Expect</h2>
+        <p>
+          When choosing a <Link href={"/car-removal"}>car removal service</Link>{" "}
+          in Inner West NSW, it's important to choose a reputable company that
+          has experience in removing unwanted vehicles. Look for a company that
+          offers free quotes, same-day service, and{" "}
+          <Link href={"/"}>cash for your car</Link>.
+        </p>
+        <p>
+          On the day of pickup, make sure you have all the necessary paperwork,
+          such as the car's registration and title, ready for the company. The{" "}
+          <Link href={"/car-removal"}>car removal company</Link> will tow the
+          car away and leave you with cash in hand.
+        </p>
+        <p>
+          In conclusion, <Link href={"/car-removal"}>car removal services</Link>{" "}
+          in Inner West NSW offer a quick and easy way to get rid of unwanted
+          cars and get paid for them. These services are eco-friendly and can
+          help you free up valuable space on your property. If you have an old
+          or unwanted car, consider contacting a car removal company in Inner
+          West NSW to get a quote today.
+        </p>
+        <p>
+          One of the best car removals in the area of Inner West NSW is{" "}
+          <Link href={"/car-removal"}>Aux Car Removal Sydney</Link>, so if you
+          want to have a good Car removal service you can{" "}
+          <Link href={"/contact"}>contact</Link> them through different ways
+          such as the <Link href={"/contact"}>number</Link>,{" "}
+          <Link href={"/"}>website</Link>,{" "}
+          <Link
+            href={"https://www.facebook.com/auxcashforcarsydney"}
+            target="_blank"
+          >
+            Facebook page
+          </Link>
+          ,{" "}
+          <Link
+            href={"https://www.linkedin.com/company/aux-cash-for-car-sydney"}
+            target="_blank"
+          >
+            LinkedIn page
+          </Link>
+          .
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Csr Removal Sydney</h2>, <h2>Csr Removal North Sydney</h2>,{" "}
+        <h2>Csr Removal Milsons Point Sydney</h2>,{" "}
+        <h2>Csr Removal Cammeray Sydney</h2>,{" "}
+        <h2>Csr Removal Northbridge Sydney</h2>,{" "}
+        <h2>Csr Removal Artarmon Sydney</h2>,{" "}
+        <h2>Csr Removal Crows Nest Sydney</h2>,{" "}
+        <h2>Csr Removal Lane Cove Sydney</h2>,{" "}
+        <h2>Csr Removal Chatswood Sydney</h2>,{" "}
+        <h2>Csr Removal Willoughby Sydney</h2>,{" "}
+        <h2>Csr Removal Mosman Sydney</h2>,{" "}
+        <h2>Csr Removal Neutral Bay Sydney</h2>,{" "}
+        <h2>Csr Removal Cremorne Sydney</h2>
+      </>
+    ),
+  },
+
   // location simple
   // {
-  //   image: "/assets/carRemovalImages/1.jpg"",
+  //   image: "/assets/carRemovalImages/1.jpg",
   //   title: "",
   //   description: <></>,
   //   tags: (

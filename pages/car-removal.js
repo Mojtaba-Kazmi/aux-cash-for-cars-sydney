@@ -289,7 +289,7 @@ function Locations({ title, description, image, url, keyword, width, height }) {
             </Grid>
 
             {/* location3 in page */}
-            {/* <Grid
+            <Grid
               md={3.7}
               sm={5.7}
               xs={12}
@@ -324,7 +324,7 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                   </CardContent>
                 </Card>
               </Postanimation>
-            </Grid> */}
+            </Grid>
 
             {/* location4 in page */}
             {/* <Grid
