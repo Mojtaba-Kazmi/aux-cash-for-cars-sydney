@@ -470,7 +470,107 @@ export const location = [
     ),
   },
 
-  // location simple
+  // location 4
+  {
+    image: "/assets/carRemovalImages/4.jpg",
+    title: "Car Removal Lower North Shore NSW",
+    description: (
+      <>
+        <p>
+          If you have an old, damaged, or unwanted car taking up space on your
+          property, you might be wondering how to get rid of it. While you may
+          be tempted to sell it or scrap it yourself, hiring a professional{" "}
+          <Link href={"car-removal"}>car removal service</Link> in Lower North
+          Shore NSW can be a more efficient and stress-free option.
+        </p>
+        <p>
+          <Link href={"car-removal"}>Car removal companies</Link> specialize in
+          safely and quickly removing vehicles of all kinds, from sedans to
+          trucks, regardless of their condition. Here are a few reasons why you
+          should consider hiring a professional{" "}
+          <Link href={"car-removal"}>car removal service</Link> in Lower North
+          Shore NSW.
+        </p>
+        <ol>
+          <li>
+            Convenient and Hassle-Free{" "}
+            <Link href={"/car-removal"}>Car removal companies</Link> offer
+            convenient and hassle-free services that can save you time, energy,
+            and money. They handle all aspects of the car removal process, from
+            towing to paperwork, ensuring that you don't have to lift a finger.
+            This means you can avoid the inconvenience of trying to sell or
+            scrap your car on your own, which can be time-consuming and
+            stressful.
+          </li>
+          <li>
+            Safe and Environmentally-Friendly{" "}
+            <Link href={"/car-removal"}>Car removal services</Link> in Lower
+            North Shore NSW are licensed and insured to ensure that your vehicle
+            is removed safely and responsibly. They also comply with all
+            environmental regulations, ensuring that your car is disposed of in
+            an environmentally-friendly manner. This means you can avoid the
+            risk of fines and legal issues associated with improper car
+            disposal.
+          </li>
+          <li>
+            Get Cash for Your Car Many{" "}
+            <Link href={"/car-removal"}>car removal companies</Link> offer{" "}
+            <Link href={"/blog/post16"}>cash for cars</Link>, which means you
+            can get paid for your unwanted vehicle. The amount you receive will
+            depend on the condition, make, and model of your car, but it can be
+            a great way to earn some extra money while getting rid of your old
+            vehicle.
+          </li>
+          <li>
+            Free Up Space on Your Property A car that's sitting idle on your
+            property can take up valuable space and detract from your home's
+            appearance. By hiring a professional{" "}
+            <Link href={"/car-removal"}>car removal service</Link> in Lower
+            North Shore NSW, you can free up space and enhance the look of your
+            property. This can be especially beneficial if you're planning to
+            sell your home or make other improvements.
+          </li>
+        </ol>
+        <p>
+          In summary, hiring a professional{" "}
+          <Link href={"/car-removal"}>car removal service</Link> in Lower North
+          Shore NSW can be a convenient, safe, and profitable way to get rid of
+          your unwanted vehicle. Whether you need to dispose of a damaged car, a
+          non-functioning truck, or an old SUV, a reliable car removal company
+          can take care of everything for you, so you can focus on other things.
+        </p>
+        <p>
+          One of the best car removals in the area of Inner West NSW is{" "}
+          <Link href={"/car-removal"}>Aux Car Removal Sydney</Link>, so if you
+          want to have a good Car removal service you can{" "}
+          <Link href={"/contact"}>contact</Link> them through different ways
+          such as the <Link href={"/contact"}>number</Link>,{" "}
+          <Link href={"/"}>website</Link>,{" "}
+          <Link
+            href={"https://www.facebook.com/auxcashforcarsydney"}
+            target="_blank"
+          >
+            Facebook page
+          </Link>
+          ,{" "}
+          <Link
+            href={"https://www.linkedin.com/company/aux-cash-for-car-sydney"}
+            target="_blank"
+          >
+            LinkedIn page
+          </Link>
+          .
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
+  // // location simple
   // {
   //   image: "/assets/carRemovalImages/1.jpg",
   //   title: "",

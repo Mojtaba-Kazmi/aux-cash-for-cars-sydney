@@ -191,181 +191,196 @@ function Locations({ title, description, image, url, keyword, width, height }) {
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={image} />
       </Head>
-      <Container>
-        <Box width={"100%"} overflow={"Hidden"}>
-          <Typography
-            variant="h4"
-            component={"h1"}
-            sx={{
-              mt: "30px",
-              mb: "30px",
-              color: "primary.main",
-              display: "inline-block",
-            }}
-          >
-            Car Removal Sydney
-          </Typography>
-          <CarRemoval />
 
-          {/* locations right */}
-          <Grid container sx={{ mt: "10px", justifyContent: "space-between" }}>
-            {/* location1 in page */}
-
-            <Grid
-              md={3.7}
-              sm={5.7}
-              xs={12}
-              item
-              display={ps1 === 0 ? "none" : "flex"}
-              mb={"40px"}
+      <Box width={"100%"} overflow={"Hidden"}>
+        <Box>
+          <Container>
+            <Typography
+              variant="h4"
+              component={"h1"}
+              sx={{
+                mt: "30px",
+                mb: "30px",
+                color: "primary.main",
+                display: "inline-block",
+              }}
             >
-              <Postanimation>
-                <Card height={"100%"}>
-                  <CardMedia
-                    sx={{ height: "200px" }}
-                    image={location[ps1].image}
-                    title={location[ps1].title}
-                    alt={location[ps1].title}
-                  />
+              Car Removal Sydney
+            </Typography>
+            <CarRemoval />
+          </Container>
+        </Box>
+        <Box
+          bgcolor={"secondary.main"}
+          sx={{
+            width: "100%",
+            height: "auto",
+            py: "50px",
+          }}
+        >
+          <Container>
+            {/* locations */}
+            <Grid
+              container
+              sx={{ mt: "10px", justifyContent: "space-between" }}
+            >
+              {/* location1 in page */}
 
-                  <CardContent>
-                    <MiniCardStyle>
-                      <Link href={"/car-removal/location" + ps1}>
-                        <TitleContainer>
-                          <h2>{location[ps1].title}</h2>
-                        </TitleContainer>
-                      </Link>
-                      <Postdescription>
-                        {location[ps1].description}
-                      </Postdescription>
-                      <Typography variant="body1" component={"p"}>
+              <Grid
+                md={3.7}
+                sm={5.7}
+                xs={12}
+                item
+                display={ps1 === 0 ? "none" : "flex"}
+                mb={"40px"}
+              >
+                <Postanimation>
+                  <Card height={"100%"}>
+                    <CardMedia
+                      sx={{ height: "200px" }}
+                      image={location[ps1].image}
+                      title={location[ps1].title}
+                      alt={location[ps1].title}
+                    />
+
+                    <CardContent>
+                      <MiniCardStyle>
                         <Link href={"/car-removal/location" + ps1}>
-                          Read More
+                          <TitleContainer>
+                            <h2>{location[ps1].title}</h2>
+                          </TitleContainer>
                         </Link>
-                      </Typography>
-                    </MiniCardStyle>
-                  </CardContent>
-                </Card>
-              </Postanimation>
-            </Grid>
+                        <Postdescription>
+                          {location[ps1].description}
+                        </Postdescription>
+                        <Typography variant="body1" component={"p"}>
+                          <Link href={"/car-removal/location" + ps1}>
+                            Read More
+                          </Link>
+                        </Typography>
+                      </MiniCardStyle>
+                    </CardContent>
+                  </Card>
+                </Postanimation>
+              </Grid>
 
-            {/* location2 in page */}
-            <Grid
-              md={3.7}
-              sm={5.7}
-              xs={12}
-              item
-              display={ps2 === 0 ? "none" : "flex"}
-              mb={"40px"}
-            >
-              <Postanimation>
-                <Card>
-                  <CardMedia
-                    sx={{ height: "200px" }}
-                    image={location[ps2].image}
-                    title={location[ps2].title}
-                    alt={location[ps2].title}
-                  />
-                  <CardContent>
-                    <MiniCardStyle>
-                      <Link href={"/car-removal/location" + ps2}>
-                        <TitleContainer>
-                          <h2>{location[ps2].title}</h2>
-                        </TitleContainer>
-                      </Link>
-
-                      <Postdescription>
-                        {location[ps2].description}
-                      </Postdescription>
-                      <Typography variant="body1" component={"p"}>
+              {/* location2 in page */}
+              <Grid
+                md={3.7}
+                sm={5.7}
+                xs={12}
+                item
+                display={ps2 === 0 ? "none" : "flex"}
+                mb={"40px"}
+              >
+                <Postanimation>
+                  <Card>
+                    <CardMedia
+                      sx={{ height: "200px" }}
+                      image={location[ps2].image}
+                      title={location[ps2].title}
+                      alt={location[ps2].title}
+                    />
+                    <CardContent>
+                      <MiniCardStyle>
                         <Link href={"/car-removal/location" + ps2}>
-                          Read More
+                          <TitleContainer>
+                            <h2>{location[ps2].title}</h2>
+                          </TitleContainer>
                         </Link>
-                      </Typography>
-                    </MiniCardStyle>
-                  </CardContent>
-                </Card>
-              </Postanimation>
-            </Grid>
 
-            {/* location3 in page */}
-            <Grid
-              md={3.7}
-              sm={5.7}
-              xs={12}
-              item
-              display={ps3 === 0 ? "none" : "flex"}
-              mb={"40px"}
-            >
-              <Postanimation>
-                <Card>
-                  <CardMedia
-                    sx={{ height: "200px" }}
-                    image={location[ps3].image}
-                    title={location[ps3].title}
-                    alt={location[ps3].title}
-                  />
-                  <CardContent>
-                    <MiniCardStyle>
-                      <Link href={"/car-removal/location" + ps3}>
-                        <TitleContainer>
-                          <h2>{location[ps3].title}</h2>
-                        </TitleContainer>
-                      </Link>
-                      <Postdescription>
-                        {location[ps3].description}
-                      </Postdescription>
-                      <Typography variant="body1" component={"p"}>
+                        <Postdescription>
+                          {location[ps2].description}
+                        </Postdescription>
+                        <Typography variant="body1" component={"p"}>
+                          <Link href={"/car-removal/location" + ps2}>
+                            Read More
+                          </Link>
+                        </Typography>
+                      </MiniCardStyle>
+                    </CardContent>
+                  </Card>
+                </Postanimation>
+              </Grid>
+
+              {/* location3 in page */}
+              <Grid
+                md={3.7}
+                sm={5.7}
+                xs={12}
+                item
+                display={ps3 === 0 ? "none" : "flex"}
+                mb={"40px"}
+              >
+                <Postanimation>
+                  <Card>
+                    <CardMedia
+                      sx={{ height: "200px" }}
+                      image={location[ps3].image}
+                      title={location[ps3].title}
+                      alt={location[ps3].title}
+                    />
+                    <CardContent>
+                      <MiniCardStyle>
                         <Link href={"/car-removal/location" + ps3}>
-                          Read More
+                          <TitleContainer>
+                            <h2>{location[ps3].title}</h2>
+                          </TitleContainer>
                         </Link>
-                      </Typography>
-                    </MiniCardStyle>
-                  </CardContent>
-                </Card>
-              </Postanimation>
-            </Grid>
+                        <Postdescription>
+                          {location[ps3].description}
+                        </Postdescription>
+                        <Typography variant="body1" component={"p"}>
+                          <Link href={"/car-removal/location" + ps3}>
+                            Read More
+                          </Link>
+                        </Typography>
+                      </MiniCardStyle>
+                    </CardContent>
+                  </Card>
+                </Postanimation>
+              </Grid>
 
-            {/* location4 in page */}
-            {/* <Grid
-              md={3.7}
-              sm={5.7}
-              xs={12}
-              item
-              display={ps4 === 0 ? "none" : "flex"}
-              mb={"40px"}
-            >
-              <Postanimation>
-                <Card>
-                  <CardMedia
-                    sx={{ height: "200px" }}
-                    image={location[ps4].image}
-                    title={location[ps4].title}
-                    alt={location[ps4].title}
-                  />
-                  <CardContent>
-                    <MiniCardStyle>
-                      <Link href={"/car-removal/location" + ps4}>
-                        <TitleContainer>
-                          <h2>{location[ps4].title}</h2>
-                        </TitleContainer>
-                      </Link>
-                      <Postdescription>
-                        {location[ps4].description}
-                      </Postdescription>
-                      <Typography variant="body1" component={"p"}>
+              {/* location4 in page */}
+              <Grid
+                md={3.7}
+                sm={5.7}
+                xs={12}
+                item
+                display={ps4 === 0 ? "none" : "flex"}
+                mb={"40px"}
+              >
+                <Postanimation>
+                  <Card>
+                    <CardMedia
+                      sx={{ height: "200px" }}
+                      image={location[ps4].image}
+                      title={location[ps4].title}
+                      alt={location[ps4].title}
+                    />
+                    <CardContent>
+                      <MiniCardStyle>
                         <Link href={"/car-removal/location" + ps4}>
-                          Read More
+                          <TitleContainer>
+                            <h2>{location[ps4].title}</h2>
+                          </TitleContainer>
                         </Link>
-                      </Typography>
-                    </MiniCardStyle>
-                  </CardContent>
-                </Card>
-              </Postanimation>
-            </Grid> */}
+                        <Postdescription>
+                          {location[ps4].description}
+                        </Postdescription>
+                        <Typography variant="body1" component={"p"}>
+                          <Link href={"/car-removal/location" + ps4}>
+                            Read More
+                          </Link>
+                        </Typography>
+                      </MiniCardStyle>
+                    </CardContent>
+                  </Card>
+                </Postanimation>
+              </Grid>
 
-            {/* location5 in page */}
-            {/* <Grid
+              {/* location5 in page */}
+              {/* <Grid
               md={3.7}
               sm={5.7}
               xs={12}
@@ -402,8 +417,8 @@ function Locations({ title, description, image, url, keyword, width, height }) {
               </Postanimation>
             </Grid> */}
 
-            {/* location6 in page */}
-            {/* <Grid
+              {/* location6 in page */}
+              {/* <Grid
               md={3.7}
               sm={5.7}
               xs={12}
@@ -439,55 +454,57 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                 </Card>
               </Postanimation>
             </Grid> */}
-          </Grid>
+            </Grid>
 
-          <Box
-            sx={{
-              display: "flex",
-              flexDirection: "column",
-              justifyContent: "center",
-              alignItems: "center",
-              position: "fixed",
-              bottom: "10px",
-              right: "20px",
-              zIndex: "10",
-            }}
-          >
-            <Typography
-              variant="p"
-              component="p"
+            <Box
               sx={{
-                backgroundColor: "primary.main",
-                px: "5px",
-                py: "2px",
-                mb: "4px",
-                color: "white.main",
-                borderRadius: "4px",
+                display: "flex",
+                flexDirection: "column",
+                justifyContent: "center",
+                alignItems: "center",
+
+                bottom: "10px",
+                right: "20px",
+                zIndex: "10",
               }}
             >
-              Page:{pagenum}
-            </Typography>
-            <Box>
-              <Button
-                variant="contained"
-                sx={{ color: "white.main", mr: "5px" }}
-                onClick={heandelClickBack}
-                disabled={backdisable}
+              <Typography
+                variant="p"
+                component="p"
+                sx={{
+                  backgroundColor: "primary.main",
+                  px: "5px",
+                  py: "2px",
+                  mb: "4px",
+                  color: "white.main",
+                  borderRadius: "4px",
+                }}
               >
-                <ArrowBackIosIcon />
-              </Button>
-              <Button
-                variant="contained"
-                sx={{ color: "white.main", ml: "5px" }}
-                onClick={heandelClickNext}
-                disabled={nextdisable}
-              >
-                <ArrowForwardIosIcon />
-              </Button>
+                Page:{pagenum}
+              </Typography>
+              <Box>
+                <Button
+                  variant="contained"
+                  sx={{ color: "white.main", mr: "5px" }}
+                  onClick={heandelClickBack}
+                  disabled={backdisable}
+                >
+                  <ArrowBackIosIcon />
+                </Button>
+                <Button
+                  variant="contained"
+                  sx={{ color: "white.main", ml: "5px" }}
+                  onClick={heandelClickNext}
+                  disabled={nextdisable}
+                >
+                  <ArrowForwardIosIcon />
+                </Button>
+              </Box>
             </Box>
-          </Box>
-
-          {/* locations left */}
+          </Container>
+        </Box>
+        {/* locations left */}
+        <Container>
           <Grid
             sx={{
               mt: "10px",
@@ -504,8 +521,8 @@ function Locations({ title, description, image, url, keyword, width, height }) {
               <ContactForm />
             </Grid>
           </Grid>
-        </Box>
-      </Container>
+        </Container>
+      </Box>
     </>
   );
 }
