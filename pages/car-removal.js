@@ -27,7 +27,7 @@ export async function getServerSideProps() {
       title: "Car Removal Sydney",
       description:
         "Aux Car Removal Sydney - The Ultimate Solution for Car Removal Needs Across All Sydney Wide Suburbs",
-      image: "https://auxcashforcarsydney.com/assets/postImage/scrap-car.jpg",
+      image: "https://auxcashforcarsydney.com/assets/carRemovalImages/4.jpg",
       url: `https://auxcashforcarsydney.com/locations`,
       keyword:
         "cash for cars sydney, Car Removal Sydney, sell my old car, unwanted cars",
@@ -380,42 +380,42 @@ function Locations({ title, description, image, url, keyword, width, height }) {
               </Grid>
 
               {/* location5 in page */}
-              {/* <Grid
-              md={3.7}
-              sm={5.7}
-              xs={12}
-              item
-              display={ps5 === 0 ? "none" : "flex"}
-              mb={"40px"}
-            >
-              <Postanimation>
-                <Card>
-                  <CardMedia
-                    sx={{ height: "200px" }}
-                    image={location[ps5].image}
-                    title={location[ps5].title}
-                    alt={location[ps5].title}
-                  />
-                  <CardContent>
-                    <MiniCardStyle>
-                      <Link href={"/car-removal/location" + ps5}>
-                        <TitleContainer>
-                          <h2>{location[ps5].title}</h2>
-                        </TitleContainer>
-                      </Link>
-                      <Postdescription>
-                        {location[ps5].description}
-                      </Postdescription>
-                      <Typography variant="body1" component={"p"}>
+              <Grid
+                md={3.7}
+                sm={5.7}
+                xs={12}
+                item
+                display={ps5 === 0 ? "none" : "flex"}
+                mb={"40px"}
+              >
+                <Postanimation>
+                  <Card>
+                    <CardMedia
+                      sx={{ height: "200px" }}
+                      image={location[ps5].image}
+                      title={location[ps5].title}
+                      alt={location[ps5].title}
+                    />
+                    <CardContent>
+                      <MiniCardStyle>
                         <Link href={"/car-removal/location" + ps5}>
-                          Read More
+                          <TitleContainer>
+                            <h2>{location[ps5].title}</h2>
+                          </TitleContainer>
                         </Link>
-                      </Typography>
-                    </MiniCardStyle>
-                  </CardContent>
-                </Card>
-              </Postanimation>
-            </Grid> */}
+                        <Postdescription>
+                          {location[ps5].description}
+                        </Postdescription>
+                        <Typography variant="body1" component={"p"}>
+                          <Link href={"/car-removal/location" + ps5}>
+                            Read More
+                          </Link>
+                        </Typography>
+                      </MiniCardStyle>
+                    </CardContent>
+                  </Card>
+                </Postanimation>
+              </Grid>
 
               {/* location6 in page */}
               {/* <Grid

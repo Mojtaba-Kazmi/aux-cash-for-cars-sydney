@@ -570,6 +570,103 @@ export const location = [
     ),
   },
 
+  // location 5
+  {
+    image: "/assets/carRemovalImages/5.jpg",
+    title: "Car Removal Upper North Shore NSW",
+    description: (
+      <>
+        <p>
+          When it comes to getting rid of an old, unwanted or damaged vehicle in
+          Upper North Shore NSW, many people often struggle with the dilemma of
+          whether to sell it or dispose of it. However, if you're looking for a
+          quick and hassle-free solution, professional{" "}
+          <Link href={"/car-removal"}>car removal services</Link> can be your
+          best bet.
+        </p>
+        <p>
+          Here are some of the benefits of choosing professional{" "}
+          <Link href={"/car-removal"}>car removal services</Link> in Upper North
+          Shore NSW:
+        </p>
+        <ol>
+          <li>
+            <b>Convenience:</b> Professional{" "}
+            <Link href={"/car-removal"}>car removal services</Link> offer a
+            convenient and stress-free way to get rid of your old or unwanted
+            car. They can come to your location at a time that's convenient for
+            you and tow away your car without any hassle.
+          </li>
+          <li>
+            <b>Safety:</b> Trying to remove a car on your own can be dangerous,
+            especially if you don't have the right equipment or experience.
+            Professional <Link href={"/car-removal"}>car removal services</Link>{" "}
+            have the necessary equipment, expertise, and safety protocols to
+            ensure that the removal process is safe and efficient.
+          </li>
+          <li>
+            <b>Environmental Responsibility:</b> Professional{" "}
+            <Link href={"/car-removal"}>car removal services</Link> take
+            environmental responsibility seriously and ensure that your vehicle
+            is disposed of in an eco-friendly way. They will recycle as much of
+            the car as possible and dispose of any hazardous materials in a safe
+            and responsible manner.
+          </li>
+          <li>
+            <b>Cash for Cars:</b> Many professional{" "}
+            <Link href={"/car-removal"}>car removal services</Link> offer{" "}
+            <Link href={"/blog/post16"}>cash for cars</Link>, which means that
+            you can get paid for your old or unwanted vehicle. This can be a
+            great way to make some extra cash while getting rid of a car that
+            you no longer need or want.
+          </li>
+          <li>
+            <b>Space:</b> Removing an old or unwanted car from your property can
+            free up valuable space in your garage or driveway. This can be
+            especially beneficial if you have limited parking space or need
+            extra room for other purposes.
+          </li>
+        </ol>
+        <p>
+          In conclusion, professional{" "}
+          <Link href={"/car-removal"}>car removal services</Link> in Upper North
+          Shore NSW offer a range of benefits that make them an excellent choice
+          for anyone looking to dispose of an old or unwanted car. With their
+          convenience, safety, environmental responsibility, and potential for
+          cash, there's no reason not to choose a professional car removal
+          service for your car removal needs.
+        </p>
+        <p>
+          One of the best car removals in the area of Upper North Shore NSW is{" "}
+          <Link href={"/car-removal"}>Aux Car Removal Sydney</Link>, so if you
+          want to have a good Car removal service you can{" "}
+          <Link href={"/contact"}>contact</Link> them through different ways
+          such as the <Link href={"/contact"}>number</Link>,{" "}
+          <Link href={"/"}>website</Link>,{" "}
+          <Link
+            href={"https://www.facebook.com/auxcashforcarsydney"}
+            target="_blank"
+          >
+            Facebook page
+          </Link>
+          ,{" "}
+          <Link
+            href={"https://www.linkedin.com/company/aux-cash-for-car-sydney"}
+            target="_blank"
+          >
+            LinkedIn page
+          </Link>
+          .
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/carRemovalImages/1.jpg",
