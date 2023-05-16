@@ -418,42 +418,42 @@ function Locations({ title, description, image, url, keyword, width, height }) {
               </Grid>
 
               {/* location6 in page */}
-              {/* <Grid
-              md={3.7}
-              sm={5.7}
-              xs={12}
-              item
-              display={ps6 === 0 ? "none" : "flex"}
-              mb={"40px"}
-            >
-              <Postanimation>
-                <Card>
-                  <CardMedia
-                    sx={{ height: "200px" }}
-                    image={location[ps6].image}
-                    title={location[ps6].title}
-                    alt={location[ps6].title}
-                  />
-                  <CardContent>
-                    <MiniCardStyle>
-                      <Link href={"/car-removal/location" + ps6}>
-                        <TitleContainer>
-                          <h2>{location[ps6].title}</h2>
-                        </TitleContainer>
-                      </Link>
-                      <Postdescription>
-                        {location[ps6].description}
-                      </Postdescription>
-                      <Typography variant="body1" component={"p"}>
+              <Grid
+                md={3.7}
+                sm={5.7}
+                xs={12}
+                item
+                display={ps6 === 0 ? "none" : "flex"}
+                mb={"40px"}
+              >
+                <Postanimation>
+                  <Card>
+                    <CardMedia
+                      sx={{ height: "200px" }}
+                      image={location[ps6].image}
+                      title={location[ps6].title}
+                      alt={location[ps6].title}
+                    />
+                    <CardContent>
+                      <MiniCardStyle>
                         <Link href={"/car-removal/location" + ps6}>
-                          Read More
+                          <TitleContainer>
+                            <h2>{location[ps6].title}</h2>
+                          </TitleContainer>
                         </Link>
-                      </Typography>
-                    </MiniCardStyle>
-                  </CardContent>
-                </Card>
-              </Postanimation>
-            </Grid> */}
+                        <Postdescription>
+                          {location[ps6].description}
+                        </Postdescription>
+                        <Typography variant="body1" component={"p"}>
+                          <Link href={"/car-removal/location" + ps6}>
+                            Read More
+                          </Link>
+                        </Typography>
+                      </MiniCardStyle>
+                    </CardContent>
+                  </Card>
+                </Postanimation>
+              </Grid>
             </Grid>
 
             <Box

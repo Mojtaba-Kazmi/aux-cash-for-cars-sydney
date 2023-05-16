@@ -667,6 +667,121 @@ export const location = [
     ),
   },
 
+  // location 6
+  {
+    image: "/assets/carRemovalImages/6.jpg",
+    title: "Car Removal Northern Beaches NSW",
+    description: (
+      <>
+        <p>
+          If you have an old or unwanted car taking up valuable space in your
+          garage or driveway, you may want to consider using a{" "}
+          <Link href={"/car-removal"}>car removal service</Link> in Northern
+          Beaches NSW. These services provide a hassle-free way to get rid of
+          your unwanted car while also providing a range of benefits. In this
+          article, we will discuss the benefits of using a car removal service
+          in Northern Beaches NSW.
+        </p>
+        <ol>
+          <h2>
+            <li>Free Towing Services</li>
+          </h2>
+          <p>
+            One of the main benefits of using a{" "}
+            <Link href={"/car-removal"}>car removal service</Link> is that they
+            offer free towing services. This means that you don't have to worry
+            about the logistics of transporting your car to the scrap yard or
+            recycling center. The car removal company will come to your location
+            and tow your car away for you, saving you time, money, and hassle.
+          </p>
+          <h2>
+            <li>Cash for Your Car</li>
+          </h2>
+          <p>
+            Another advantage of using a{" "}
+            <Link href={"/car-removal"}>car removal service</Link> is that they
+            will pay you <Link href={"/blog/post16"}>cash for your car</Link>.
+            Even if your car is old, damaged, or no longer running, it still has
+            value. The <Link href={"/car-removal"}>car removal company</Link>{" "}
+            will assess the condition of your car and offer you a fair price for
+            it. This is a great way to get some extra cash while also getting
+            rid of your unwanted car.
+          </p>
+          <h2>
+            <li>Environmentally Friendly</li>
+          </h2>
+          <p>
+            <Link href={"/car-removal"}>Car removal services</Link> are also
+            environmentally friendly. When you use a{" "}
+            <Link href={"/car-removal"}>car removal service</Link>, your car
+            will be taken to a recycling center where it will be dismantled and
+            all of the valuable materials will be extracted. This process helps
+            to reduce the amount of waste in landfills and conserves natural
+            resources.
+          </p>
+          <h2>
+            <li>Saves Space</li>
+          </h2>
+          <p>
+            Finally, using a{" "}
+            <Link href={"/car-removal"}>car removal service</Link> can help you
+            save space. If you have an old car taking up space in your garage or
+            driveway, getting rid of it can free up valuable space that you can
+            use for other purposes. This is especially important if you have
+            limited space and need to make the most of what you have.
+          </p>
+        </ol>
+        <p>
+          In conclusion, if you have an old or unwanted car in Northern Beaches
+          NSW, using a <Link href={"/car-removal"}>car removal service</Link>{" "}
+          can provide a range of benefits. These services offer free towing,
+          cash for your car, and are environmentally friendly. They also help
+          you save space and get rid of a car that you no longer need or want.
+          So, consider using a car removal service in Northern Beaches NSW the
+          next time you need to get rid of your unwanted car.
+        </p>
+        <p>
+          One of the best car removals in the area of Upper North Shore NSW is{" "}
+          <Link href={"/car-removal"}>Aux Car Removal Sydney</Link>, so if you
+          want to have a good Car removal service you can{" "}
+          <Link href={"/contact"}>contact</Link> them through different ways
+          such as the <Link href={"/contact"}>number</Link>,{" "}
+          <Link href={"/"}>website</Link>,{" "}
+          <Link
+            href={"https://www.facebook.com/auxcashforcarsydney"}
+            target="_blank"
+          >
+            Facebook page
+          </Link>
+          ,{" "}
+          <Link
+            href={"https://www.linkedin.com/company/aux-cash-for-car-sydney"}
+            target="_blank"
+          >
+            LinkedIn page
+          </Link>
+          .
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Car Removal Sydney</h2>, <h2>Car Removal North Sydney</h2>,{" "}
+        <h2>Car Removal Milsons Point Sydney</h2>,{" "}
+        <h2>Car Removal Cammeray Sydney</h2>,{" "}
+        <h2>Car Removal Northbridge Sydney</h2>,{" "}
+        <h2>Car Removal Artarmon Sydney</h2>,{" "}
+        <h2>Car Removal Crows Nest Sydney</h2>,{" "}
+        <h2>Car Removal Lane Cove Sydney</h2>,{" "}
+        <h2>Car Removal Chatswood Sydney</h2>,{" "}
+        <h2>Car Removal Willoughby Sydney</h2>,{" "}
+        <h2>Car Removal Mosman Sydney</h2>,{" "}
+        <h2>Car Removal Neutral Bay Sydney</h2>,{" "}
+        <h2>Car Removal Cremorne Sydney</h2>
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/carRemovalImages/1.jpg",
