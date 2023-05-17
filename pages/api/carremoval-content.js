@@ -454,18 +454,18 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Csr Removal Sydney</h2>, <h2>Csr Removal North Sydney</h2>,{" "}
-        <h2>Csr Removal Milsons Point Sydney</h2>,{" "}
-        <h2>Csr Removal Cammeray Sydney</h2>,{" "}
-        <h2>Csr Removal Northbridge Sydney</h2>,{" "}
-        <h2>Csr Removal Artarmon Sydney</h2>,{" "}
-        <h2>Csr Removal Crows Nest Sydney</h2>,{" "}
-        <h2>Csr Removal Lane Cove Sydney</h2>,{" "}
-        <h2>Csr Removal Chatswood Sydney</h2>,{" "}
-        <h2>Csr Removal Willoughby Sydney</h2>,{" "}
-        <h2>Csr Removal Mosman Sydney</h2>,{" "}
-        <h2>Csr Removal Neutral Bay Sydney</h2>,{" "}
-        <h2>Csr Removal Cremorne Sydney</h2>
+        <h2>Car Removal Sydney</h2>, <h2>Car Removal North Sydney</h2>,{" "}
+        <h2>Car Removal Milsons Point Sydney</h2>,{" "}
+        <h2>Car Removal Cammeray Sydney</h2>,{" "}
+        <h2>Car Removal Northbridge Sydney</h2>,{" "}
+        <h2>Car Removal Artarmon Sydney</h2>,{" "}
+        <h2>Car Removal Crows Nest Sydney</h2>,{" "}
+        <h2>Car Removal Lane Cove Sydney</h2>,{" "}
+        <h2>Car Removal Chatswood Sydney</h2>,{" "}
+        <h2>Car Removal Willoughby Sydney</h2>,{" "}
+        <h2>Car Removal Mosman Sydney</h2>,{" "}
+        <h2>Car Removal Neutral Bay Sydney</h2>,{" "}
+        <h2>Car Removal Cremorne Sydney</h2>
       </>
     ),
   },
