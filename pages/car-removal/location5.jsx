@@ -22,9 +22,9 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Car Removal Lower North Shore NSW",
+      title: "Car Removal Upper North Shore NSW",
       description:
-        "This topic is A guide for Car Removal Lower North Shore NSW and at the end, we will introduce The best car removal company in Lower North Shore NSW for you.",
+        "This topic is A guide for Car Removal Upper North Shore NSW and at the end, we will introduce The best car removal company in Upper North Shore NSW for you.",
       image: "https://auxcashforcarsydney.com/assets/carRemovalImages/5.jpg",
       url: `https://auxcashforcarsydney.com/car-removal/location5`,
       keyword:
