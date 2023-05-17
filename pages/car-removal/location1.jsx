@@ -22,9 +22,9 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "cash for cars Sydney CBD",
+      title: "Car Removal Sydney CBD",
       description:
-        "This topic is A guide for Cash for Cars Sydney CBD and at the end, we will introduce The best Cash for Cars company in Sydney CBD  for you.",
+        "This topic is A guide for Car Removal Sydney CBD and at the end, we will introduce The best Car removal company in Sydney CBD  for you.",
       image: "https://auxcashforcarsydney.com/assets/carRemovalImages/1.jpg",
       url: `https://auxcashforcarsydney.com/car-removal/location1`,
       keyword:

@@ -24,7 +24,7 @@ export async function getServerSideProps() {
     props: {
       title: "Car Removal Eastern NSW",
       description:
-        "This topic is A guide for Car Removal Eastern NSW and at the end, we will introduce The best Cash for Cars company in Eastern NSW  for you.",
+        "This topic is A guide for Car Removal Eastern NSW and at the end, we will introduce The best car removal company in Eastern NSW  for you.",
       image: "https://auxcashforcarsydney.com/assets/carRemovalImages/2.jpg",
       url: `https://auxcashforcarsydney.com/car-removal/location2`,
       keyword:

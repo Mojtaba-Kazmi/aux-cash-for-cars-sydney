@@ -24,7 +24,7 @@ export async function getServerSideProps() {
     props: {
       title: "Car Removal Inner West NSW",
       description:
-        "This topic is A guide for Car Removal Inner West NSW and at the end, we will introduce The best Cash for Cars company in Inner West NSW  for you.",
+        "This topic is A guide for Car Removal Inner West NSW and at the end, we will introduce The best car removal company in Inner West NSW  for you.",
       image: "https://auxcashforcarsydney.com/assets/carRemovalImages/3.jpg",
       url: `https://auxcashforcarsydney.com/car-removal/location3`,
       keyword:
