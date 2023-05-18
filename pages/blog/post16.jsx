@@ -24,7 +24,7 @@ export async function getServerSideProps() {
     props: {
       title: "Cash for cars Sydney",
       description:
-        "Sell your car now for cash or a bank check in Sydney. Aux cash for cars pays the highest amount for your old, unwanted, scrap, or unworthy cars.",
+        "This topic is A guide for Cash for cars Sydney and at the end, we will introduce The best Cash for cars Sydney company for you.",
       image: "https://auxcashforcarsydney.com/assets/postImage/16.jpg",
       url: `https://auxcashforcarsydney.com/blog/post16`,
       keyword:
