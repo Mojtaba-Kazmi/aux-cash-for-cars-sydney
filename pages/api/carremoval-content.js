@@ -766,23 +766,22 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Car Removal Sydney</h2>, <h2>Car Removal North Sydney</h2>,{" "}
-        <h2>Car Removal Milsons Point Sydney</h2>,{" "}
-        <h2>Car Removal Cammeray Sydney</h2>,{" "}
-        <h2>Car Removal Northbridge Sydney</h2>,{" "}
-        <h2>Car Removal Artarmon Sydney</h2>,{" "}
-        <h2>Car Removal Crows Nest Sydney</h2>,{" "}
-        <h2>Car Removal Lane Cove Sydney</h2>,{" "}
-        <h2>Car Removal Chatswood Sydney</h2>,{" "}
-        <h2>Car Removal Willoughby Sydney</h2>,{" "}
-        <h2>Car Removal Mosman Sydney</h2>,{" "}
-        <h2>Car Removal Neutral Bay Sydney</h2>,{" "}
-        <h2>Car Removal Cremorne Sydney</h2>
+        <h2>Car Removal Seaforth Sydney</h2>,{" "}
+        <h2>Car Removal Balgowlah Sydney</h2>, <h2>Car Removal Manly Sydney</h2>
+        , <h2>Car Removal Harbord Sydney</h2>,{" "}
+        <h2>Car Removal Collaroy Sydney</h2>,{" "}
+        <h2>Car Removal Dee Why Sydney</h2>,{" "}
+        <h2>Car Removal Brookvale Sydney</h2>,{" "}
+        <h2>Car Removal Narrabeen Sydney</h2>,{" "}
+        <h2>Car Removal Warriewood Sydney</h2>,{" "}
+        <h2>Car Removal Mona Vale Sydney</h2>,{" "}
+        <h2>Car Removal Bayview Sydney</h2>, <h2>Car Removal Newport Sydney</h2>
+        , <h2>Car Removal Avalon Sydney</h2>, <h2>Car Removal Sydney</h2>,{" "}
       </>
     ),
   },
 
-  // location simple
+  // location 7
   {
     image: "/assets/carRemovalImages/7.jpg",
     title: "Car Removal Gladesville Ryde Eastwood NSW",
