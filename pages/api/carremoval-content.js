@@ -993,7 +993,26 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Car Removal Sydney</h2>,{" "}
+        <h2>Car Removal Sydney</h2>, <h2>Car Removal Homebush Bay Sydney</h2>,{" "}
+        <h2>Car Removal Silverwater Sydney</h2>,{" "}
+        <h2>Car Removal Markets Sydney</h2>,{" "}
+        <h2>Car Removal Summer Hill Sydney</h2>,{" "}
+        <h2>Car Removal Ashfield Sydney</h2>,{" "}
+        <h2>Car Removal Croydon Sydney</h2>,{" "}
+        <h2>Car Removal Croydon Park Sydney</h2>,{" "}
+        <h2>Car Removal Burwood Sydney</h2>,{" "}
+        <h2>Car Removal Strathfield Sydney</h2>,{" "}
+        <h2>Car Removal Enfield Sydney</h2>, <h2>Car Removal Concord Sydney</h2>
+        , <h2>Car Removal Rhodes Sydney</h2>,{" "}
+        <h2>Car Removal Homebush Sydney</h2>,{" "}
+        <h2>Car Removal Lidcombe Sydney</h2>,{" "}
+        <h2>Car Removal Granville Sydney</h2>,{" "}
+        <h2>Car Removal Regents Park Sydney</h2>,{" "}
+        <h2>Car Removal Auburn Sydney</h2>,{" "}
+        <h2>Car Removal Wentworthville Sydney</h2>,{" "}
+        <h2>Car Removal Toongabbie Sydney</h2>,{" "}
+        <h2>Car Removal Seven Hills Sydney</h2>,{" "}
+        <h2>Car Removal Blacktown Sydney</h2>
       </>
     ),
   },
