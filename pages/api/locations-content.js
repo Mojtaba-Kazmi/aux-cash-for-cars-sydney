@@ -1257,7 +1257,7 @@ export const location = [
         <h2>Cash for cars Penshurst Sydney</h2>,{" "}
         <h2>Cash for cars Mortdale Sydney</h2>,{" "}
         <h2>Cash for cars Sylvania Sydney</h2>,{" "}
-        <h2>Cash for car Oyster Bay Sydney</h2>,{" "}
+        <h2>Cash for cars Oyster Bay Sydney</h2>,{" "}
         <h2>Cash for cars Jannali Sydney</h2>,{" "}
         <h2>Cash for cars Gymea Sydney</h2>
       </>
