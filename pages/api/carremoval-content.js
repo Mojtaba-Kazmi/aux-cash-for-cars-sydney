@@ -1960,6 +1960,276 @@ export const location = [
     ),
   },
 
+  // location 15
+  {
+    image: "/assets/carRemovalImages/15.jpg",
+    title: "Aux Car Removal service all the Sydney wide suburbs",
+    description: (
+      <>
+        <p>
+          <Link href={"/car-removal"}>Aux Car Removal service</Link> has become
+          a reliable and efficient solution for individuals looking to dispose
+          of their old, unwanted, or damaged vehicles across Sydney's vast array
+          of suburbs. This comprehensive service ensures quick and hassle-free
+          removal of auxiliary or non-functional cars, helping residents free up
+          space, earn extra cash, and contribute to a sustainable environment.
+          With its wide coverage throughout Sydney's suburbs, Aux Car Removal
+          offers a convenient and environmentally responsible way to get rid of
+          unwanted vehicles.
+        </p>
+        <ol>
+          <h2>
+            <li>All Sydney Wide Suburbs Coverage:</li>
+          </h2>
+          <p>
+            One of the key advantages of{" "}
+            <Link href={"/car-removal"}>Aux Car Removal service</Link> is its
+            extensive coverage across all the suburbs of Sydney. Whether a
+            vehicle is located in the bustling city center or the outermost
+            suburban regions, this service ensures accessibility to every
+            customer. Regardless of the suburb, individuals can rely on this
+            service to conveniently remove their vehicles without the need for
+            expensive towing or transport arrangements.
+          </p>
+          <h2>
+            <li>Removal of Various Vehicle Types:</li>
+          </h2>
+          <p>
+            <Link href={"/car-removal"}>Aux Car Removal service</Link> caters to
+            a diverse range of vehicles, including cars, vans, trucks, SUVs,
+            utes, 4x4s, and more. The service is not limited to functional
+            vehicles; it also handles non-operational, accident-damaged, old,
+            scrap, and unwanted cars. This versatility allows residents across
+            Sydney's suburbs to benefit from the service, regardless of the
+            vehicle's condition or type.
+          </p>
+          <h2>
+            <li>Environmentally Responsible Disposal:</li>
+          </h2>
+          <p>
+            The <Link href={"/car-removal"}>Aux Car Removal service</Link>{" "}
+            follows environmentally responsible practices when disposing of
+            vehicles. Once the removal process is complete, the professionals
+            ensure that the vehicle is properly recycled and disposed of,
+            adhering to environmental regulations and guidelines. This
+            commitment to eco-friendly practices contributes to reducing
+            pollution and promoting sustainability in Sydney and its suburbs.
+          </p>
+          <h2>
+            <li>Competitive Pricing and Additional Benefits:</li>
+          </h2>
+          <p>
+            <Link href={"/car-removal"}>Aux Car Removal service</Link> providers
+            offer competitive prices for vehicles, providing customers with a
+            fair value for their unwanted cars. In addition to monetary
+            compensation, this service saves individuals from spending money on
+            costly repairs, maintenance, or towing fees. The convenience, ease,
+            and financial benefits of this service make it an attractive option
+            for residents across Sydney's suburbs.
+          </p>
+          <p>Conclusion:</p>
+          <p>
+            The <Link href={"/car-removal"}>Aux Car Removal service</Link> in
+            Sydney's wide suburbs offers a reliable and efficient solution for
+            residents looking to remove their unwanted, damaged, or
+            non-functional vehicles. With its streamlined process, extensive
+            coverage, and commitment to environmentally responsible disposal,
+            this service ensures a hassle-free experience for customers. By
+            utilizing this service, individuals can free up space, earn cash,
+            and contribute to a greener future for Sydney and its suburbs.
+          </p>
+        </ol>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Car Removal Mulgoa Sydney</h2>,{" "}
+        <h2>Car Removal Kingswood Sydney</h2>,{" "}
+        <h2>Car Removal Castlereagh Sydney</h2>,{" "}
+        <h2>Car Removal Penrith Sydney</h2>,{" "}
+        <h2>Car Removal Silverdale Sydney</h2>,{" "}
+        <h2>Car Removal Richmond Sydney</h2>,{" "}
+        <h2>Car Removal North Richmond Sydney</h2>,{" "}
+        <h2>Car Removal Windsor Sydney</h2>,{" "}
+        <h2>Car Removal Kurrajong Sydney</h2>,{" "}
+        <h2>Car Removal Erskine Park Sydney</h2>,{" "}
+        <h2>Car Removal St Marys Sydney</h2>,{" "}
+        <h2>Car Removal Glendenning Sydney</h2>,{" "}
+        <h2>Car Removal Quakers Hill Sydney</h2>,{" "}
+        <h2>Car Removal Riverstone Sydney</h2>,{" "}
+        <h2>Car Removal Rooty Hill Sydney</h2>,{" "}
+        <h2>Car Removal Parklea Sydney</h2>,{" "}
+        <h2>Car Removal Minchinbury Sydney</h2>,{""}
+        <h2>Car Removal Campbelltown Sydney</h2>,{" "}
+        <h2>Car Removal Ingleburn Sydney</h2>, <h2>Car Removal Minto Sydney</h2>
+        , <h2>Car Removal Narellan Sydney</h2>,{" "}
+        <h2>Car Removal Camden Sydney</h2>,<h2>Car Removal Miranda Sydney</h2>,{" "}
+        <h2>Car Removal Caringbah Sydney</h2>,{" "}
+        <h2>Car Removal Cronulla Sydney</h2>,{" "}
+        <h2>Car Removal Kurnell Sydney</h2>,{" "}
+        <h2>Car Removal Sutherland Sydney</h2>,{" "}
+        <h2>Car Removal Heathcote Sydney</h2>, <h2>Car Removal Menai Sydney</h2>
+        , <h2>Car Removal Kogarah Sydney</h2>,{" "}
+        <h2>Car Removal Carlton Sydney</h2>,{" "}
+        <h2>Car Removal Sans Souci Sydney</h2>,{" "}
+        <h2>Car Removal Rockdale Sydney</h2>,{" "}
+        <h2>Car Removal Hurstville Sydney</h2>,{" "}
+        <h2>Car Removal Blakehurst Sydney</h2>,{" "}
+        <h2>Car Removal Penshurst Sydney</h2>,{" "}
+        <h2>Car Removal Mortdale Sydney</h2>,{" "}
+        <h2>Car Removal Sylvania Sydney</h2>,{" "}
+        <h2>Cash for car Oyster Bay Sydney</h2>,{" "}
+        <h2>Car Removal Jannali Sydney</h2>, <h2>Car Removal Gymea Sydney</h2>,
+        {""}
+        <h2>Car Removal Merrylands Sydney</h2>,{" "}
+        <h2>Car Removal Yennora Sydney</h2>,{" "}
+        <h2>Car Removal Chester Hill Sydney</h2>,{" "}
+        <h2>Car Removal Villawood Sydney</h2>,{" "}
+        <h2>Car Removal Smithfield/W.Park Sydney</h2>,{" "}
+        <h2>Car Removal Fairfield Sydney</h2>,{" "}
+        <h2>Car Removal Lansvale Sydney</h2>,{" "}
+        <h2>Car Removal Liverpool Sydney</h2>,{" "}
+        <h2>Car Removal Hoxton Park Sydney</h2>,{" "}
+        <h2>Car Removal St Johns Park Sydney</h2>,{" "}
+        <h2>Car Removal Chullora Sydney</h2>,{" "}
+        <h2>Car Removal Belfield Sydney</h2>,{" "}
+        <h2>Car Removal Belmore Sydney</h2>,{" "}
+        <h2>Car Removal Canterbury Sydney</h2>,{" "}
+        <h2>Car Removal Campsie Sydney</h2>, <h2>Car Removal Lakemba Sydney</h2>
+        , <h2>Car Removal Punchbowl Sydney</h2>,{" "}
+        <h2>Car Removal Georges Hall Sydney</h2>,{" "}
+        <h2>Car Removal Yagoona Sydney</h2>,{" "}
+        <h2>Car Removal Bankstown Sydney</h2>,{" "}
+        <h2>Car Removal Dulwich Hill Sydney</h2>,{" "}
+        <h2>Car Removal Marrickville Sydney</h2>,{" "}
+        <h2>Car Removal Arncliffe Sydney</h2>,{" "}
+        <h2>Car Removal Earlwood Sydney</h2>, <h2>Car Removal Bexley Sydney</h2>
+        , <h2>Car Removal Kingsgrove Sydney</h2>,{" "}
+        <h2>Car Removal Beverly Hills Sydney</h2>,{" "}
+        <h2>Car Removal Peakhurst Sydney</h2>,{" "}
+        <h2>Car Removal Revesby Padstow Sydney</h2>,
+        <h2>Car Removal East Hills Sydney</h2>,{" "}
+        <h2>Car Removal Milperra Sydney</h2>,{" "}
+        <h2>Car Removal Parramatta Sydney</h2>,{" "}
+        <h2>Car Removal North Rocks Sydney</h2>,{" "}
+        <h2>Car Removal Northmead Sydney</h2>,{" "}
+        <h2>Car Removal Baulkham Hills Sydney</h2>,{" "}
+        <h2>Car Removal Castle Hill Sydney</h2>,{" "}
+        <h2>Car Removal Kellyville Sydney</h2>,{" "}
+        <h2>Car Removal Kenthurst Sydney</h2>,{" "}
+        <h2>Car Removal Glenorie Sydney</h2>, <h2>Car Removal Dural Sydney</h2>,{" "}
+        <h2>Car Removal Galston Sydney</h2>,{" "}
+        <h2>Car Removal Homebush Bay Sydney</h2>,{" "}
+        <h2>Car Removal Silverwater Sydney</h2>,{" "}
+        <h2>Car Removal Markets Sydney</h2>,{" "}
+        <h2>Car Removal Summer Hill Sydney</h2>,{" "}
+        <h2>Car Removal Ashfield Sydney</h2>,{" "}
+        <h2>Car Removal Croydon Sydney</h2>,{" "}
+        <h2>Car Removal Croydon Park Sydney</h2>,{" "}
+        <h2>Car Removal Burwood Sydney</h2>,{" "}
+        <h2>Car Removal Strathfield Sydney</h2>,{" "}
+        <h2>Car Removal Enfield Sydney</h2>, <h2>Car Removal Concord Sydney</h2>
+        , <h2>Car Removal Rhodes Sydney</h2>,{" "}
+        <h2>Car Removal Homebush Sydney</h2>,{" "}
+        <h2>Car Removal Lidcombe Sydney</h2>,{" "}
+        <h2>Car Removal Granville Sydney</h2>,{" "}
+        <h2>Car Removal Regents Park Sydney</h2>,{" "}
+        <h2>Car Removal Auburn Sydney</h2>,{" "}
+        <h2>Car Removal Wentworthville Sydney</h2>,{" "}
+        <h2>Car Removal Toongabbie Sydney</h2>,{" "}
+        <h2>Car Removal Seven Hills Sydney</h2>,{" "}
+        <h2>Car Removal Blacktown Sydney</h2>,
+        <h2>Car Removal Hunters Hill Sydney</h2>,{" "}
+        <h2>Car Removal Gladesville Sydney</h2>,{" "}
+        <h2>Car Removal Ryde Sydney</h2>, <h2>Car Removal North Ryde Sydney</h2>
+        , <h2>Car Removal Meadowbank Sydney</h2>,{" "}
+        <h2>Car Removal Ermington Sydney</h2>,{" "}
+        <h2>Car Removal Rydalmere Sydney</h2>,{" "}
+        <h2>Car Removal Telopea Carlingford Sydney</h2>,{" "}
+        <h2>Car Removal Beecroft Sydney</h2>,{" "}
+        <h2>Car Removal Pennant Hills Sydney</h2>,{" "}
+        <h2>Car Removal Epping Sydney</h2>, <h2>Car Removal Eastwood Sydney</h2>
+        , <h2>Car Removal W. Pennant Hills Sydney</h2>,{" "}
+        <h2>Car Removal Cherrybrook Sydney</h2>, ,{" "}
+        <h2>Car Removal Seaforth Sydney</h2>,{" "}
+        <h2>Car Removal Balgowlah Sydney</h2>, <h2>Car Removal Manly Sydney</h2>
+        , <h2>Car Removal Harbord Sydney</h2>,{" "}
+        <h2>Car Removal Collaroy Sydney</h2>,{" "}
+        <h2>Car Removal Dee Why Sydney</h2>,{" "}
+        <h2>Car Removal Brookvale Sydney</h2>,{" "}
+        <h2>Car Removal Narrabeen Sydney</h2>,{" "}
+        <h2>Car Removal Warriewood Sydney</h2>,{" "}
+        <h2>Car Removal Mona Vale Sydney</h2>,{" "}
+        <h2>Car Removal Bayview Sydney</h2>, <h2>Car Removal Newport Sydney</h2>
+        , <h2>Car Removal Avalon Sydney</h2>,
+        <h2>Car Removal Lindfield Sydney</h2>,
+        <h2>Car Removal Killara Sydney</h2>,<h2>Car Removal Gordon Sydney</h2>,{" "}
+        <h2>Car Removal Pymble Sydney</h2>,{" "}
+        <h2>Car Removal Turramurra Sydney</h2>,
+        <h2>Car Removal St Ives Sydney</h2>,<h2>Car Removal Wahroona Sydney</h2>
+        ,<h2>Car Removal Hornsby Sydney</h2>,{" "}
+        <h2>Car Removal Mount Colah Sydney</h2>,
+        <h2>Car Removal Mount Kuring-gai Sydney</h2>,{" "}
+        <h2>Car Removal Berowra Waters Sydney</h2>,{" "}
+        <h2>Car Removal Terrey Hills Sydney</h2>,{" "}
+        <h2>Car Removal Belrose Sydney</h2>,{" "}
+        <h2>Car Removal Frenchs Forest Sydney</h2>,{" "}
+        <h2>Car Removal Forestville Sydney</h2>,{" "}
+        <h2>Car Removal North Sydney</h2>,{" "}
+        <h2>Car Removal Milsons Point Sydney</h2>,{" "}
+        <h2>Car Removal Cammeray Sydney</h2>,{" "}
+        <h2>Car Removal Northbridge Sydney</h2>,{" "}
+        <h2>Car Removal Artarmon Sydney</h2>,{" "}
+        <h2>Car Removal Crows Nest Sydney</h2>,{" "}
+        <h2>Car Removal Lane Cove Sydney</h2>,{" "}
+        <h2>Car Removal Chatswood Sydney</h2>,{" "}
+        <h2>Car Removal Willoughby Sydney</h2>,{" "}
+        <h2>Car Removal Roseville Sydney</h2>,{" "}
+        <h2>Car Removal Mosman Sydney</h2>,{" "}
+        <h2>Car Removal Neutral Bay Sydney</h2>,{" "}
+        <h2>Car Removal Cremorne Sydney</h2>, <h2>Car Removal North Sydney</h2>,{" "}
+        <h2>Car Removal Milsons Point Sydney</h2>,{" "}
+        <h2>Car Removal Cammeray Sydney</h2>,{" "}
+        <h2>Car Removal Northbridge Sydney</h2>,{" "}
+        <h2>Car Removal Artarmon Sydney</h2>,{" "}
+        <h2>Car Removal Crows Nest Sydney</h2>,{" "}
+        <h2>Car Removal Lane Cove Sydney</h2>,{" "}
+        <h2>Car Removal Chatswood Sydney</h2>,{" "}
+        <h2>Car Removal Willoughby Sydney</h2>,{" "}
+        <h2>Car Removal Mosman Sydney</h2>,{" "}
+        <h2>Car Removal Neutral Bay Sydney</h2>,{" "}
+        <h2>Car Removal Cremorne Sydney</h2>,
+        <h2>Car Removal Waterloo Sydney</h2>,{" "}
+        <h2>Car Removal Rosebery Sydney</h2>, <h2>Car Removal Botany Sydney</h2>
+        , <h2>Car Removal Mascot Sydney</h2>,{" "}
+        <h2>Car Removal Paddington Sydney</h2>,{" "}
+        <h2>Car Removal Bondi Junction Sydney</h2>,{" "}
+        <h2>Car Removal Bellevue Hill Sydney</h2>,{" "}
+        <h2>Car Removal Waverley Sydney</h2>,{" "}
+        <h2>Car Removal Woollahra Sydney</h2>, <h2>Car Removal Bondi Sydney</h2>
+        , <h2>Car Removal Edgecliff Sydney</h2>,{" "}
+        <h2>Car Removal Double Bay Sydney</h2>,{" "}
+        <h2>Car Removal Rose Bay Sydney</h2>,{" "}
+        <h2>Car Removal Vaucluse Sydney</h2>,{" "}
+        <h2>Car Removal Randwick Sydney</h2>,{" "}
+        <h2>Car Removal Kingsford Sydney</h2>,{" "}
+        <h2>Car Removal Kensington Sydney</h2>,{" "}
+        <h2>Car Removal Coogee Sydney</h2>, <h2>Car Removal Pagewood Sydney</h2>
+        , <h2>Car Removal Matraville Sydney</h2>,{" "}
+        <h2>Car Removal Sydney City</h2>, <h2>Car Removal Ultimo Sydney</h2>,{" "}
+        <h2>Car Removal Chippendale Sydney</h2>,{" "}
+        <h2>Car Removal Pyrmont Sydney</h2>,{" "}
+        <h2>Car Removal Surry Hills Sydney</h2>,{" "}
+        <h2>Car Removal Kings Cross Sydney</h2>,{" "}
+        <h2>Car Removal Alexandria Sydney</h2>,{" "}
+        <h2>Car Removal Redfern Sydney</h2>,{" "}
+        <h2>Car Removal Mittagong Sydney</h2>,{" "}
+        <h2>Car Removal Helensburgh Sydney</h2>,{" "}
+        <h2>Car Removal Blue Mountains Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/carRemovalImages/1.jpg",

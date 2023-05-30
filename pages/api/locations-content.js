@@ -1750,7 +1750,7 @@ export const location = [
         <h2>Cash for cars Regents Park Sydney</h2>,{" "}
         <h2>Cash for cars Auburn Sydney</h2>,{" "}
         <h2>Cash for cars Wentworthville Sydney</h2>,{" "}
-        <h2>Cash for Toongabbie cars Sydney</h2>,{" "}
+        <h2>Cash for cars Toongabbie Sydney</h2>,{" "}
         <h2>Cash for cars Seven Hills Sydney</h2>,{" "}
         <h2>Cash for cars Blacktown Sydney</h2>,
         <h2>Cash for cars Hunters Hill Sydney</h2>,{" "}
