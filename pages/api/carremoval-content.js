@@ -565,7 +565,19 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Car Removal Sydney</h2>, <h2>Car removal North Sydney Sydney</h2>,{" "}
+        <h2>Car removal Milsons Point Sydney</h2>,{" "}
+        <h2>Car removal Cammeray Sydney</h2>,{" "}
+        <h2>Car removal Northbridge Sydney</h2>,{" "}
+        <h2>Car removal Artarmon Sydney</h2>,{" "}
+        <h2>Car removal Crows Nest Sydney</h2>,{" "}
+        <h2>Car removal Lane Cove Sydney</h2>,{" "}
+        <h2>Car removal Chatswood Sydney</h2>,{" "}
+        <h2>Car removal Willoughby Sydney</h2>,{" "}
+        <h2>Car removal Roseville Sydney</h2>,{" "}
+        <h2>Car removal Mosman Sydney</h2>,{" "}
+        <h2>Car removal Neutral Bay Sydney</h2>,{" "}
+        <h2>Car removal Cremorne Sydney</h2>,{" "}
       </>
     ),
   },
@@ -662,7 +674,19 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Car removal Sydney</h2>, <h2>Car removal Lindfield Sydney</h2>,
+        <h2>Car removal Killara Sydney</h2>,<h2>Car removal Gordon Sydney</h2>,{" "}
+        <h2>Car removal Pymble Sydney</h2>,{" "}
+        <h2>Car removal Turramurra Sydney</h2>,
+        <h2>Car removal St Ives Sydney</h2>,<h2>Car removal Wahroona Sydney</h2>
+        ,<h2>Car removal Hornsby Sydney</h2>,{" "}
+        <h2>Car removal Mount Colah Sydney</h2>,
+        <h2>Car removal Mount Kuring-gai Sydney</h2>,{" "}
+        <h2>Car removal Berowra Waters Sydney</h2>,{" "}
+        <h2>Car removal Terrey Hills Sydney</h2>,{" "}
+        <h2>Car removal Belrose Sydney</h2>,{" "}
+        <h2>Car removal Frenchs Forest Sydney</h2>,{" "}
+        <h2>Car removal Forestville Sydney</h2>,{" "}
       </>
     ),
   },
