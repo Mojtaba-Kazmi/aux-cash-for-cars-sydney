@@ -97,8 +97,8 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Sydney City</h2>, <h2>Cash for cars Ultimo Sydney</h2>
-        , <h2>Cash for cars Chippendale Sydney</h2>,{" "}
+        <h2>Cash for cars Ultimo Sydney</h2>,{" "}
+        <h2>Cash for cars Chippendale Sydney</h2>,{" "}
         <h2>Cash for cars Pyrmont Sydney</h2>,{" "}
         <h2>Cash for cars Surry Hills Sydney</h2>,{" "}
         <h2>Cash for cars Kings Cross Sydney</h2>,{" "}

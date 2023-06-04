@@ -9,7 +9,7 @@ import {
   Typography,
 } from "@mui/material";
 import Link from "next/link";
-import { subLocation } from "../../api/subLocations/sublocation1/subLocation1";
+import { subLocation } from "../../api/subLocations/sublocation1/subLocation1-content";
 import ContactForm from "@/components/ContactForm";
 import ContactUsCard from "@/components/ContactUsCard";
 import SocialShareBtn, { Line } from "@/components/GlobalComponents";
@@ -22,10 +22,11 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Aux Car Removal service all the Sydney wide suburbs",
-      description: "Aux Car Removal service all the Sydney wide suburbs",
-      image: "https://auxcashforcarsydney.com/assets/carRemovalImages/15.jpg",
-      url: `https://auxcashforcarsydney.com/car-removal/location15`,
+      title: "Cash for cars Sydney City",
+      description:
+        "Looking to sell your car for cash in Sydney City? Look no further! At Cash for Cars Sydney City, we offer top-dollar payouts for all types of vehicles, regardless of their make, model, or condition. Our experienced team makes the selling process quick and hassle-free, providing you with a fair appraisal and immediate payment. Whether your car is old, damaged, or simply unwanted, we'll buy it from you and handle all the paperwork. Contact Cash for Cars Sydney City today and turn your car into instant cash!",
+      image: "/assets/locationsImages/sublocation1Images/1.jpg",
+      url: `https://auxcashforcarsydney.com/locations/location1/subLocation1`,
       keyword:
         "cash for cars sydney, Car Removal Sydney,sell my old car, pick up car for free, juk car removal",
       width: 1200,

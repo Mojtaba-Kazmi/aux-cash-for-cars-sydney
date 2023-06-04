@@ -205,6 +205,12 @@
   <lastmod>2023-05-02T06:00:50+00:00</lastmod>
   <priority>0.90</priority>
 </url>
+<!-- Sublocation1 -->
+<url>
+  <loc>https://auxcashforcarsydney.com/locations/location1/subLocation1</loc>
+  <lastmod>2023-06-04T06:00:50+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
 <!-- posts -->
 <url>
   <loc>https://auxcashforcarsydney.com/blog/post23</loc>

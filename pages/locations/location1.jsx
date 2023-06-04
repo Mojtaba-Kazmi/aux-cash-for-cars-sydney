@@ -13,7 +13,7 @@ import { styled } from "@mui/system";
 import { useState } from "react";
 import Link from "next/link";
 import { location } from "../api/locations-content";
-import { subLocation } from "../api/subLocations/sublocation1/subLocation1";
+import { subLocation } from "../api/subLocations/sublocation1/subLocation1-content";
 import ContactForm from "@/components/ContactForm";
 import ContactUsCard from "@/components/ContactUsCard";
 import SocialShareBtn, { Line } from "@/components/GlobalComponents";
