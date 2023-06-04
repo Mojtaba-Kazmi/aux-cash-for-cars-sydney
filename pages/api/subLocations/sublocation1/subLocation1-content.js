@@ -32,7 +32,7 @@ export const subLocation = [
         </p>
         <ol>
           <h2>
-            <li>Convenience and Efficiency</li>,
+            <li>Convenience and Efficiency</li>
           </h2>
           <p>
             <Link href={"/"}>Cash for cars services</Link> offer unparalleled
