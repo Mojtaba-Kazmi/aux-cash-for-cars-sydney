@@ -336,8 +336,8 @@ function post0({ title, description, image, url, keyword, width, height }) {
                 </Postanimation>
               </Grid>
 
-              {/* location2 in page */}
-              {/* <Grid
+              {/* sublocation2 in page */}
+              <Grid
                 md={3.7}
                 sm={5.7}
                 xs={12}
@@ -349,23 +349,23 @@ function post0({ title, description, image, url, keyword, width, height }) {
                   <Card>
                     <CardMedia
                       sx={{ height: "200px" }}
-                      image={location[ps2].image}
-                      title={location[ps2].title}
-                      alt={location[ps2].title}
+                      image={subLocation[ps2].image}
+                      title={subLocation[ps2].title}
+                      alt={subLocation[ps2].title}
                     />
                     <CardContent>
                       <MiniCardStyle>
-                        <Link href={"/car-removal/location" + ps2}>
+                        <Link href={"/car-removal/subLocation" + ps2}>
                           <TitleContainer>
-                            <h2>{location[ps2].title}</h2>
+                            <h2>{subLocation[ps2].title}</h2>
                           </TitleContainer>
                         </Link>
 
                         <Postdescription>
-                          {location[ps2].description}
+                          {subLocation[ps2].description}
                         </Postdescription>
                         <Typography variant="body1" component={"p"}>
-                          <Link href={"/car-removal/location" + ps2}>
+                          <Link href={"/locations/location1/subLocation" + ps2}>
                             Read More
                           </Link>
                         </Typography>
@@ -373,9 +373,9 @@ function post0({ title, description, image, url, keyword, width, height }) {
                     </CardContent>
                   </Card>
                 </Postanimation>
-              </Grid> */}
+              </Grid>
 
-              {/* location3 in page */}
+              {/* subLocation3 in page */}
               {/* <Grid
                 md={3.7}
                 sm={5.7}

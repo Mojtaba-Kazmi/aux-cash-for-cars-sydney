@@ -123,9 +123,115 @@ export const subLocation = [
     ),
   },
 
+  // location 2
+  {
+    image: "/assets/locationsImages/sublocation1Images/2.jpg",
+    title: "Cash for Cars Ultimo Sydney",
+    description: (
+      <>
+        <p>
+          In the bustling city of Sydney, there is a growing demand for reliable
+          and efficient <Link href={"/"}>cash for cars services</Link>. For
+          residents of Ultimo and its surrounding areas, finding a reputable
+          company to sell their used or unwanted vehicles can be a daunting
+          task. Fortunately, <Link href={"/"}>Cash for Cars</Link> Ultimo Sydney
+          provides a solution for individuals seeking to sell their cars quickly
+          and hassle-free. However, among the various options available,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          leading cash for cars company in the region. Let's explore why{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is considered the
+          best choice for anyone looking to sell their vehicle in Ultimo and its
+          vicinity.
+        </p>
+        <ol>
+          <h2>
+            <li>Hassle-Free Process:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            offering a hassle-free process for selling cars. With their
+            professional and efficient team, they ensure a seamless experience
+            for customers. From initial contact to finalizing the deal, Aux Cash
+            for Cars Sydney streamlines the entire process, eliminating any
+            unnecessary complexities or paperwork. Their aim is to make selling
+            your car as convenient and stress-free as possible.
+          </p>
+          <h2>
+            <li>Competitive Prices:</li>
+          </h2>
+          <p>
+            One of the primary concerns when selling a car is obtaining a fair
+            and competitive price.{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> understands the
+            importance of offering top-dollar for vehicles. They have a team of
+            experienced appraisers who assess the value of each car based on its
+            condition, make, model, and other factors. As a result, customers
+            can expect a reasonable and competitive offer that reflects the true
+            worth of their vehicle.
+          </p>
+          <h2>
+            <li>Wide Range of Acceptable Vehicles:</li>
+          </h2>
+          <p>
+            Whether you own a car, truck, van, SUV, or any other type of
+            vehicle, <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts
+            them all. They buy vehicles in any condition, regardless of whether
+            they are old, damaged, wrecked, or non-functional. This
+            inclusiveness ensures that no matter the state of your vehicle, you
+            have a reliable buyer in Aux Cash for Cars Sydney.
+          </p>
+          <h2>
+            <li>Free Towing and Pick-up Services:</li>
+          </h2>
+          <p>
+            To make the selling process even more convenient,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers free towing
+            and pick-up services. Once you have accepted their offer, their team
+            will schedule a time and location for the pick-up. They will handle
+            all the logistics and towing, allowing you to save both time and
+            money. This service is especially beneficial for those with
+            non-functional or immobile vehicles.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to selling your car in Ultimo,
+          Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as
+          the leading cash for cars company. Their hassle-free process,
+          competitive prices, acceptance of a wide range of vehicles, and free
+          towing and pick-up services make them the ideal choice for anyone
+          looking to sell their car quickly and conveniently. By choosing{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you can rest assured
+          that you are dealing with a reliable and trustworthy company that
+          prioritizes customer satisfaction. So, if you are in Ultimo or its
+          vicinity and are considering selling your car, look no further than{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> - the best cash for
+          cars company in the area.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Sell my car Ultimo Sydney</h2>,{" "}
+        <h2>Best cash for cars Ultimo Sydney</h2>,{" "}
+        <h2>Car removal Ultimo Sydney</h2>,{" "}
+        <h2>Junk car removal Ultimo Sydney</h2>,{" "}
+        <h2>Scrap car removal Ultimo Sydney</h2>,{" "}
+        <h2>Cash for old cars Ultimo Sydney</h2>,{" "}
+        <h2>Sell my junk car Ultimo Sydney</h2>,{" "}
+        <h2>Cash for unwanted cars Ultimo Sydney</h2>,{" "}
+        <h2>Instant cash for cars Ultimo Sydney</h2>,{" "}
+        <h2>Top cash for cars Ultimo Sydney</h2>,{" "}
+        <h2>Scrap car buyers Ultimo Sydney</h2>,{" "}
+        <h2>Sell my damaged car Ultimo Sydney</h2>,{" "}
+        <h2>Cash for trucks Ultimo Sydney</h2>,{" "}
+        <h2>Free car removal Ultimo Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
-  //   image: "/assets/carRemovalImages/1.jpg",
+  //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
   //   title: "",
   //   description: <></>,
   //   tags: (
