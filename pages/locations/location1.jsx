@@ -355,7 +355,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
                     />
                     <CardContent>
                       <MiniCardStyle>
-                        <Link href={"/car-removal/subLocation" + ps2}>
+                        <Link href={"/locations/location1/subLocation" + ps2}>
                           <TitleContainer>
                             <h2>{subLocation[ps2].title}</h2>
                           </TitleContainer>
@@ -376,7 +376,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
               </Grid>
 
               {/* subLocation3 in page */}
-              {/* <Grid
+              <Grid
                 md={3.7}
                 sm={5.7}
                 xs={12}
@@ -388,22 +388,22 @@ function post0({ title, description, image, url, keyword, width, height }) {
                   <Card>
                     <CardMedia
                       sx={{ height: "200px" }}
-                      image={location[ps3].image}
-                      title={location[ps3].title}
-                      alt={location[ps3].title}
+                      image={subLocation[ps3].image}
+                      title={subLocation[ps3].title}
+                      alt={subLocation[ps3].title}
                     />
                     <CardContent>
                       <MiniCardStyle>
-                        <Link href={"/car-removal/location" + ps3}>
+                        <Link href={"/locations/location1/subLocation" + ps3}>
                           <TitleContainer>
-                            <h2>{location[ps3].title}</h2>
+                            <h2>{subLocation[ps3].title}</h2>
                           </TitleContainer>
                         </Link>
                         <Postdescription>
-                          {location[ps3].description}
+                          {subLocation[ps3].description}
                         </Postdescription>
                         <Typography variant="body1" component={"p"}>
-                          <Link href={"/car-removal/location" + ps3}>
+                          <Link href={"/locations/location1/subLocation" + ps3}>
                             Read More
                           </Link>
                         </Typography>
@@ -411,7 +411,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
                     </CardContent>
                   </Card>
                 </Postanimation>
-              </Grid> */}
+              </Grid>
 
               {/* location4 in page */}
               {/* <Grid
@@ -426,22 +426,22 @@ function post0({ title, description, image, url, keyword, width, height }) {
                   <Card>
                     <CardMedia
                       sx={{ height: "200px" }}
-                      image={location[ps4].image}
-                      title={location[ps4].title}
-                      alt={location[ps4].title}
+                      image={subLocation[ps4].image}
+                      title={subLocation[ps4].title}
+                      alt={subLocation[ps4].title}
                     />
                     <CardContent>
                       <MiniCardStyle>
-                        <Link href={"/car-removal/location" + ps4}>
+                        <Link href={"/locations/location1/subLocation" + ps4}>
                           <TitleContainer>
-                            <h2>{location[ps4].title}</h2>
+                            <h2>{subLocation[ps4].title}</h2>
                           </TitleContainer>
                         </Link>
                         <Postdescription>
-                          {location[ps4].description}
+                          {subLocation[ps4].description}
                         </Postdescription>
                         <Typography variant="body1" component={"p"}>
-                          <Link href={"/car-removal/location" + ps4}>
+                          <Link href={"/locations/location1/subLocation" + ps4}>
                             Read More
                           </Link>
                         </Typography>
@@ -464,22 +464,22 @@ function post0({ title, description, image, url, keyword, width, height }) {
                   <Card>
                     <CardMedia
                       sx={{ height: "200px" }}
-                      image={location[ps5].image}
-                      title={location[ps5].title}
-                      alt={location[ps5].title}
+                      image={subLocation[ps5].image}
+                      title={subLocation[ps5].title}
+                      alt={subLocation[ps5].title}
                     />
                     <CardContent>
                       <MiniCardStyle>
-                        <Link href={"/car-removal/location" + ps5}>
+                        <Link href={"/locations/location1/subLocation" + ps5}>
                           <TitleContainer>
-                            <h2>{location[ps5].title}</h2>
+                            <h2>{subLocation[ps5].title}</h2>
                           </TitleContainer>
                         </Link>
                         <Postdescription>
-                          {location[ps5].description}
+                          {subLocation[ps5].description}
                         </Postdescription>
                         <Typography variant="body1" component={"p"}>
-                          <Link href={"/car-removal/location" + ps5}>
+                          <Link href={"/locations/location1/subLocation" + ps5}>
                             Read More
                           </Link>
                         </Typography>
@@ -502,22 +502,22 @@ function post0({ title, description, image, url, keyword, width, height }) {
                   <Card>
                     <CardMedia
                       sx={{ height: "200px" }}
-                      image={location[ps6].image}
-                      title={location[ps6].title}
-                      alt={location[ps6].title}
+                      image={subLocation[ps6].image}
+                      title={subLocation[ps6].title}
+                      alt={subLocation[ps6].title}
                     />
                     <CardContent>
                       <MiniCardStyle>
-                        <Link href={"/car-removal/location" + ps6}>
+                        <Link href={"/locations/location1/subLocation" + ps6}>
                           <TitleContainer>
-                            <h2>{location[ps6].title}</h2>
+                            <h2>{subLocation[ps6].title}</h2>
                           </TitleContainer>
                         </Link>
                         <Postdescription>
-                          {location[ps6].description}
+                          {subLocation[ps6].description}
                         </Postdescription>
                         <Typography variant="body1" component={"p"}>
-                          <Link href={"/car-removal/location" + ps6}>
+                          <Link href={"/locations/location1/subLocation" + ps6}>
                             Read More
                           </Link>
                         </Typography>

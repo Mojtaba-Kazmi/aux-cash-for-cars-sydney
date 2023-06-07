@@ -229,6 +229,90 @@ export const subLocation = [
     ),
   },
 
+  // location 3
+  {
+    image: "/assets/locationsImages/sublocation1Images/3.jpg",
+    title: "Cash for cars Chippendale Sydney",
+    description: (
+      <>
+        <p>
+          In the bustling suburb of Chippendale, Sydney, where the need for
+          efficient and reliable car removal services is on the rise,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> emerges as the premier
+          choice for anyone looking to sell their vehicles quickly and
+          hassle-free. With a stellar reputation, unparalleled customer service,
+          and a commitment to providing the best cash offers, Aux Cash for Cars
+          has established itself as the go-to cash for cars company in the area.
+        </p>
+        <h2>Prompt and Convenient Service:</h2>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars</Link> understands the urgency of
+          selling a car, which is why they have streamlined their process to
+          ensure a prompt and convenient service. From the moment you contact
+          them, their team is dedicated to expediting the sale of your vehicle.
+          They offer same-day car removals, eliminating any unnecessary waiting
+          time and allowing you to receive your cash payment swiftly.
+        </p>
+        <h2>Competitive Cash Offers:</h2>
+        <p>
+          What sets <Link href={"/"}>Aux Cash for Cars</Link> apart from other
+          companies in Chippendale is their ability to offer top-dollar{" "}
+          <Link href={"/"}>cash for cars</Link>. They provide fair and
+          competitive quotes based on the make, model, year, and condition of
+          your vehicle. With their extensive market knowledge and expertise, you
+          can trust that you will receive the best possible price for your car,
+          regardless of its age or condition.
+        </p>
+        <h2>Acceptance of All Vehicle Types:</h2>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars</Link> has a wide acceptance
+          policy, ensuring that they buy vehicles of all makes, models, and
+          conditions. Whether you have an old, damaged car, a used vehicle in
+          good condition, or even a non-running vehicle taking up space in your
+          garage, <Link href={"/"}>Aux Cash for Cars</Link> will buy it from
+          you. Their commitment to accepting all vehicle types makes them an
+          inclusive and reliable choice for anyone looking to sell their car.
+        </p>
+        <h2>Eco-Friendly Car Disposal:</h2>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars</Link> not only provides a
+          convenient and lucrative selling experience but also emphasizes
+          environmental responsibility. Once they purchase your vehicle, they
+          ensure its proper disposal through eco-friendly methods. They
+          prioritize recycling and salvaging usable parts, minimizing the impact
+          on the environment.
+        </p>
+        <p>
+          <b>Conclusion:</b> When it comes to cash for cars services in
+          Chippendale, Sydney, <Link href={"/"}>Aux Cash for Cars</Link> stands
+          out as the best choice. With their prompt service, competitive cash
+          offers, acceptance of all vehicle types, professional team, and
+          commitment to eco-friendly practices,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> offers a comprehensive and
+          exceptional car selling experience. Contact them today to experience
+          the convenience, efficiency, and satisfaction of working with the
+          leading cash for cars company in Chippendale, Sydney.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Chippendale</h2>, <h2>Sell My Car Chippendale</h2>,{" "}
+        <h2>Car Removal Chippendale</h2>, <h2>Scrap Car Removal Chippendale</h2>
+        , <h2>Junk Car Removal Chippendale</h2>,{" "}
+        <h2>Car Wreckers Chippendale</h2>,{" "}
+        <h2>Cash for Scrap Cars Chippendale</h2>,{" "}
+        <h2>Unwanted Car Removal Chippendale</h2>,{" "}
+        <h2>Old Car Removal Chippendale</h2>,{" "}
+        <h2>Used Car Buyers Chippendale</h2>, <h2>Car Disposal Chippendale</h2>,{" "}
+        <h2>Salvage Car Removal Chippendale</h2>,{" "}
+        <h2>Top Cash for Cars Chippendale</h2>,{" "}
+        <h2>Car Recyclers Chippendale</h2>,{" "}
+        <h2>Scrap Metal Buyers Chippendale</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
