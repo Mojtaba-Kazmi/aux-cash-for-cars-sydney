@@ -97,7 +97,6 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Pyrmont Sydney</h2>,{" "}
         <h2>Cash for cars Surry Hills Sydney</h2>,{" "}
         <h2>Cash for cars Kings Cross Sydney</h2>,{" "}
         <h2>Cash for cars Alexandria Sydney</h2>,{" "}

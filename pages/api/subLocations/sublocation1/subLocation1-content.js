@@ -313,6 +313,93 @@ export const subLocation = [
     ),
   },
 
+  // location 4
+  {
+    image: "/assets/locationsImages/sublocation1Images/4.jpg",
+    title: "Cash for cars Pyrmont Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling or disposing of an old, unwanted, or damaged
+          vehicle, finding a reliable and efficient car removal service is
+          crucial. In Pyrmont, Sydney, car owners have several options, but one
+          name stands out for its exceptional service and customer satisfaction:
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With their
+          professionalism, reliability, and top-notch services, Aux Cash for
+          Cars has earned its reputation as the best car removal service in the
+          area.
+        </p>
+        <h2>Efficient Car Removal Services: </h2>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers a hassle-free
+          and convenient car removal process. They understand the importance of
+          your time and aim to make the selling process as smooth as possible.
+          Their team of experienced professionals is well-equipped to handle all
+          types of vehicles, regardless of their make, model, or condition.
+          Whether you have a scrap car, an old sedan, or a damaged SUV,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> will provide efficient and
+          prompt removal services.
+        </p>
+        <h2>Competitive Cash Offers:</h2>
+        <p>
+          One of the most appealing aspects of{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> Sydney is their ability to
+          offer competitive cash prices for vehicles. Their team of experts
+          accurately assesses the value of your car, taking into consideration
+          factors such as its age, condition, and market demand. This ensures
+          that you receive a fair and reasonable cash offer for your vehicle,
+          making it an attractive option for those looking to get the best value
+          for their cars in Pyrmont, Sydney.
+        </p>
+        <h2>Environmentally Friendly Disposal:</h2>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars</Link> is committed to
+          environmentally friendly practices. They follow strict regulations and
+          guidelines to ensure that vehicles are disposed of safely and
+          responsibly. This includes proper recycling of car parts and materials
+          to minimize the impact on the environment. By choosing Aux Cash for
+          Cars Sydney, you can rest assured that your old vehicle will be
+          handled in an eco-friendly manner.
+        </p>
+        <h2>Excellent Customer Service:</h2>
+        <p>
+          What sets <Link href={"/"}>Aux Cash for Cars</Link> apart from its
+          competitors is its dedication to providing exceptional customer
+          service. Their friendly and knowledgeable staff are always ready to
+          assist you throughout the car removal process. From scheduling the
+          pickup to answering any queries you may have, their team ensures a
+          seamless experience. <Link href={"/"}>Aux Cash for Cars</Link>{" "}
+          prioritizes customer satisfaction and strives to exceed expectations
+          in every interaction.
+        </p>
+        <p>
+          <b>Conclusion:</b> When it comes to cash for cars in Pyrmont, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> emerges as the top
+          choice for car removal services. Their efficient car removal process,
+          competitive cash offers, environmentally friendly disposal practices,
+          and excellent customer service make them the go-to option for car
+          owners in the area. With <Link href={"/"}>Aux Cash for Cars</Link>,
+          you can trust that your old vehicle will be handled with
+          professionalism and care.{" "}
+          <Link href={"/contact"}>Contact Aux Cash for Cars Sydney</Link> today
+          and experience the best car removal service in Pyrmont.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Pyrmont</h2>, <h2>Sell my car Pyrmont</h2>,{" "}
+        <h2>Car removal Pyrmont Sydney</h2>, <h2>Scrap car removal Pyrmont</h2>,{" "}
+        <h2>Cash for unwanted cars Pyrmont</h2>,{" "}
+        <h2>Instant cash for cars Pyrmont</h2>,{" "}
+        <h2>Top dollar for cars Pyrmont</h2>,{" "}
+        <h2>Best car buyers Pyrmont Sydney</h2>,{" "}
+        <h2>Sell your car for cash Pyrmont</h2>,{" "}
+        <h2>Junk car removal Pyrmont</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
