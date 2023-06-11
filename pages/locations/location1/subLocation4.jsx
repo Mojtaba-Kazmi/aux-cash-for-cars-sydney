@@ -25,8 +25,8 @@ export async function getServerSideProps() {
       title: "Cash for cars Pyrmont Sydney",
       description:
         "Looking to sell your car in Pyrmont, Sydney? Cash for Cars Pyrmont offers top dollar for your vehicle, providing a hassle-free and convenient selling experience. Whether your car is old, damaged, or no longer running, we buy cars of all makes and models. Our team offers fair appraisals and pays cash on the spot, ensuring a quick and easy transaction. Contact Cash for Cars Pyrmont today to get a competitive offer for your car and enjoy a seamless selling process in Sydney.",
-      image: "/assets/locationsImages/sublocation1Images/3.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location1/subLocation3`,
+      image: "/assets/locationsImages/sublocation1Images/4.jpg",
+      url: `https://auxcashforcarsydney.com/locations/location1/subLocation4`,
       keyword:
         "cash for cars sydney, Car Removal Sydney,sell my old car, pick up car for free, juk car removal",
       width: 1200,
