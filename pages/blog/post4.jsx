@@ -24,7 +24,7 @@ export async function getServerSideProps() {
     props: {
       title: "Where to Sell My Car for Cash Near Me",
       description:
-        "First, find a buyer who is actually interested in your car. Next, get your car in tip-top shape before you sell it. There's a chance that a buyer will lowball you on the price",
+        "Looking to sell your used car for cash? Aux Cash for Cars Sydney is your go-to solution. Discover where to sell your car for top dollar near you. Our expert team provides fair evaluations and competitive offers, ensuring you get the best value for your vehicle. Whether your car is in good condition or not, we buy cars of all makes, models, and years. With convenient locations throughout Sydney, selling your car has never been easier. Trust Aux Cash for Cars Sydney to turn your used car into cash today.",
       image: "https://auxcashforcarsydney.com/assets/postImage/junkers.jpg",
       url: "https://auxcashforcarsydney.com/blog/post4",
       keyword:
