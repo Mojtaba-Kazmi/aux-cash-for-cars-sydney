@@ -24,8 +24,9 @@ export async function getServerSideProps() {
     props: {
       title: "The Value of a Used Car: A Guide to Finding Out How Much It Is",
       description:
-        "There are a number of factors that can influence the value of a used car, from its make and model to its age and mileage. In addition, the value of a used car can vary depending on whether you're selling it to a dealer, a private party, or trade it in as part of a new car purchase.",
-      image: "https://auxcashforcarsydney.com/assets/postImage/selling-run-down-cars.jpg",
+        "Discover the true value of your used car with Aux Cash for Cars Sydney. Our comprehensive guide helps you determine how much your car is worth, empowering you to make informed decisions. With our expert appraisal team, we consider factors such as age, mileage, condition, and market trends to provide you with an accurate estimate. Whether you're looking to sell your car or trade it in, trust Aux Cash for Cars Sydney to help you understand the true value of your used vehicle. Start maximizing your car's worth today with our trusted valuation services.",
+      image:
+        "https://auxcashforcarsydney.com/assets/postImage/selling-run-down-cars.jpg",
       url: `https://auxcashforcarsydney.com/blog/post3`,
       keyword:
         "sell my old car, price of old car, determain price of old car, car model, car's age",
@@ -51,7 +52,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
         <meta property="og:description" content={title} />
         <meta property="og:image:width" content={width} />
         <meta property="og:image:height" content={height} />
-        <meta name="twitter:card" content='summary' />
+        <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={image} />
