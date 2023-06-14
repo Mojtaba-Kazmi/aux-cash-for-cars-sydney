@@ -21,7 +21,7 @@ export async function getServerSideProps() {
     props: {
       title: "sell my car for cash today in Sydney",
       description:
-        "This topic is a guide for sell your car for cash today in Sydney and at the end, we will introduce The best Cars buyer company for you.",
+        "Need to sell your car for cash today in Sydney? Look no further than Aux Cash for Cars Sydney. Get a quick and convenient solution to sell your car and receive instant cash. Whether your car is old, damaged, or simply unwanted, Aux Cash for Cars offers a seamless selling experience. With a team of experienced professionals, they provide fair evaluations, competitive offers, and prompt payments. Don't wait any longer—turn your car into cash today with Aux Cash for Cars Sydney.",
       image:
         "https://auxcashforcarsydney.com/assets/postImage/end-of-life-car.jpg",
       url: `https://auxcashforcarsydney.com/blog/post2`,
