@@ -516,6 +516,102 @@ export const subLocation = [
     ),
   },
 
+  // location 6
+  {
+    image: "/assets/locationsImages/sublocation1Images/6.jpg",
+    title: "Cash for cars Kings Cross Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your car in Kings Cross, Sydney, one name
+          stands out: <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With
+          their exceptional services, customer-centric approach, and unbeatable
+          cash offers, they have established themselves as the go-to option for
+          anyone looking to sell their car quickly and conveniently. In this
+          article, we will explore why{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the best cash for
+          cars service in the Kings Cross area.
+        </p>
+        <ol>
+          <h2>
+            <li>Prompt and Hassle-Free Car Selling Process:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            providing a prompt and hassle-free car selling experience to their
+            customers in Kings Cross. Their process is designed to be
+            convenient, ensuring that you can sell your car without any
+            unnecessary delays or complications. From the moment you contact
+            them to the final transaction, they handle every step efficiently,
+            allowing you to sell your car with ease.
+          </p>
+          <h2>
+            <li>Competitive Cash Offers:</li>
+          </h2>
+          <p>
+            One of the key factors that set{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> apart from their
+            competitors is the exceptional cash offers they provide for vehicles
+            in Kings Cross. They understand the value of your car and make sure
+            to offer the most competitive prices in the market. Regardless of
+            your car's make, model, age, or condition, they will provide a fair
+            and attractive cash offer that is sure to exceed your expectations.
+          </p>
+          <h2>
+            <li>Free Car Removal Service:</li>
+          </h2>
+          <p>
+            Another advantage of choosing{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their
+            complimentary car removal service. They understand that arranging
+            transportation for your vehicle can be a hassle, so they take care
+            of it for you. Once a deal is finalized, their team will schedule a
+            convenient time to pick up your car from any location in Kings
+            Cross, at no additional cost. This service saves you time, effort,
+            and money, making the entire selling process even more convenient.
+          </p>
+          <h2>
+            <li>Professional and Reliable Team:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> prides itself on
+            having a team of professional and reliable experts who are dedicated
+            to providing exceptional service to their customers in Kings Cross.
+            Their staff is knowledgeable, courteous, and experienced in the car
+            buying industry. They will guide you through the entire process,
+            answer any questions you may have, and ensure that you have a
+            positive and satisfactory selling experience.
+          </p>
+        </ol>
+        <h2>Conclusion:</h2>
+        <p>
+          When it comes to <Link href={"/"}>cash for cars</Link> in Kings Cross,
+          Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands head
+          and shoulders above the competition. Their prompt and hassle-free car
+          selling process, competitive cash offers, free car removal service,
+          and professional team make them the best choice for anyone looking to
+          sell their car in Kings Cross. Experience the convenience, efficiency,
+          and excellent service that{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> has to offer, and get
+          the best value for your vehicle today.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Sell my car Kings Cross Sydney</h2>,{" "}
+        <h2>Best cash for cars Kings Cross Sydney</h2>,{" "}
+        <h2>Car removal Kings Cross Sydney</h2>,{" "}
+        <h2>Top cash for cars Kings Cross Sydney</h2>,{" "}
+        <h2>Sell old car Kings Cross Sydney</h2>,{" "}
+        <h2>Scrap car removal Kings Cross Sydney</h2>,{" "}
+        <h2>Instant cash for cars Kings Cross Sydney</h2>,{" "}
+        <h2>Junk car removal Kings Cross Sydney</h2>,{" "}
+        <h2>Unwanted car removal Kings Cross Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
