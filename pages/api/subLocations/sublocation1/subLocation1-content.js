@@ -612,6 +612,111 @@ export const subLocation = [
     ),
   },
 
+  // location 7
+  {
+    image: "/assets/locationsImages/sublocation1Images/7.jpg",
+    title: "Cash for cars Alexandria Sydney",
+    description: (
+      <>
+        <p>
+          If you're looking to sell your car in Alexandria, Sydney, and want a
+          hassle-free and reliable service that offers top dollar, look no
+          further than <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With
+          their exceptional customer service, convenient process, and
+          competitive prices, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          stands out as the premier choice for selling your car in Alexandria.
+          This article will explore the reasons why{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is considered the
+          best cash for cars service in the area.
+        </p>
+        <ol>
+          <h2>
+            <li>Exceptional Customer Service:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> prides itself on
+            providing exceptional customer service. Their team of professionals
+            is dedicated to making the car selling experience smooth and
+            hassle-free for every customer. From the initial inquiry to the
+            final transaction, they strive to ensure that all your queries and
+            concerns are addressed promptly and efficiently. Their friendly
+            staff will guide you through the entire process, ensuring a positive
+            and stress-free experience.
+          </p>
+          <h2>
+            <li>Competitive Prices:</li>
+          </h2>
+          <p>
+            When it comes to selling your car, getting the best price is
+            crucial. <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            understands this and offers highly competitive prices for all types
+            of cars, regardless of their make, model, or condition. Their team
+            of experts assesses the value of your vehicle based on its current
+            market worth and provides a fair and accurate cash offer. By
+            choosing Aux Cash for Cars Sydney, you can be confident that you are
+            receiving the best deal for your car.
+          </p>
+          <h2>
+            <li>Convenient Process:</li>
+          </h2>
+          <li>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> has designed a
+            streamlined and convenient process that makes selling your car a
+            breeze. They offer a hassle-free online valuation system that allows
+            you to receive an instant quote for your vehicle by providing some
+            basic details. Once you accept their offer, they arrange a
+            convenient pickup time and location that suits your schedule. With
+            their efficient and professional service, you can sell your car
+            quickly and conveniently, without any unnecessary delays or
+            complications.
+          </li>
+          <h2>
+            <li>All Cars Accepted:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts all types
+            of cars, regardless of their age, make, model, or condition. Whether
+            your vehicle is damaged, broken down, old, or even if it's in
+            excellent condition, they will buy it from you. This makes{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> the go-to choice
+            for anyone looking to sell their car in Alexandria, Sydney,
+            regardless of its current state.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to selling your car in Alexandria,
+          Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as
+          the best <Link href={"/"}>cash for cars service</Link> in the area.
+          With their exceptional customer service, competitive prices,
+          convenient process, and willingness to buy cars in any condition, they
+          provide an unparalleled car-selling experience. Choose{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> and enjoy a
+          stress-free and rewarding transaction when selling your car in
+          Alexandria.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Alexandria Sydney</h2>,{" "}
+        <h2>Sell my car Alexandria Sydney</h2>,{" "}
+        <h2>Top cash for cars Alexandria Sydney</h2>,{" "}
+        <h2>Car removal Alexandria Sydney</h2>,{" "}
+        <h2>Scrap car removal Alexandria Sydney</h2>,{" "}
+        <h2>Instant cash for cars Alexandria Sydney</h2>,{" "}
+        <h2>Sell used cars Alexandria Sydney</h2>,{" "}
+        <h2>Get cash for unwanted cars Alexandria Sydney</h2>,{" "}
+        <h2>Best car buyers Alexandria Sydney</h2>,{" "}
+        <h2>Cash for junk cars Alexandria Sydney</h2>,{" "}
+        <h2>Sell my old car Alexandria Sydney</h2>,{" "}
+        <h2>Quick car sale Alexandria Sydney</h2>,{" "}
+        <h2>Cash for damaged cars Alexandria Sydney</h2>,{" "}
+        <h2>Sell my scrap car Alexandria Sydney</h2>,{" "}
+        <h2>Free car removal Alexandria Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
