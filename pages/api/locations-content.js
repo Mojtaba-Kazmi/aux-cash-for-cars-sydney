@@ -97,7 +97,20 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Redfern Sydney</h2>,{" "}
+        <h2>Sell my car Sydney CBD</h2>, <h2>Car buyers Sydney CBD</h2>,{" "}
+        <h2>Cash for used cars Sydney CBD</h2>, <h2>Sell my car Sydney CBD</h2>,{" "}
+        <h2>Junk car removal Sydney CBD</h2>, <h2>Sell my car Sydney CBD</h2>,{" "}
+        <h2>Scrap car buyers Sydney CBD</h2>,{" "}
+        <h2>Top dollar for cars Sydney CBD</h2>,{" "}
+        <h2>Instant cash for cars Sydney CBD</h2>,{" "}
+        <h2>Car removal services Sydney CBD</h2>,{" "}
+        <h2>Sell your old car Sydney CBD</h2>,{" "}
+        <h2>Top dollar for cars Sydney CBD</h2>,{" "}
+        <h2>Unwanted car removal Sydney CBD</h2>,{" "}
+        <h2>Cash for damaged cars Sydney CBD</h2>,{" "}
+        <h2>Best car buyers in Sydney CBD</h2>,{" "}
+        <h2>Cash for junk cars Sydney CBD</h2>,{" "}
+        <h2>Quick car sale Sydney CBD</h2>,{" "}
       </>
     ),
   },

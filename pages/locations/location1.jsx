@@ -32,7 +32,7 @@ export async function getServerSideProps() {
     props: {
       title: "cash for cars Sydney CBD",
       description:
-        "This topic is A guide for Cash for Cars Sydney CBD and at the end, we will introduce The best Cash for Cars company in Sydney CBD  for you.",
+        "Looking to sell your car for cash in Sydney CBD? Look no further than Aux Cash for Cars Sydney! We offer top dollar for all types of vehicles, regardless of their condition. Our expert team provides hassle-free car removal services, ensuring a seamless transaction. Get instant cash on the spot and enjoy a quick and convenient process. Contact Aux Cash for Cars Sydney today and turn your unwanted car into cash!",
       image: "https://auxcashforcarsydney.com/assets/locationsImages/1.jpg",
       url: `https://auxcashforcarsydney.com/locations/location1`,
       keyword:
