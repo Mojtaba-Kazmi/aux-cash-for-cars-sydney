@@ -22,7 +22,7 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Cash for cars Sydney City",
+      title: "Cash for cars Waterloo Sydney",
       description:
         "Looking to sell your car for cash in Sydney City? Look no further! At Cash for Cars Sydney City, we offer top-dollar payouts for all types of vehicles, regardless of their make, model, or condition. Our experienced team makes the selling process quick and hassle-free, providing you with a fair appraisal and immediate payment. Whether your car is old, damaged, or simply unwanted, we'll buy it from you and handle all the paperwork. Contact Cash for Cars Sydney City today and turn your car into instant cash!",
       image: "/assets/locationsImages/sublocation1Images/9.jpg",
