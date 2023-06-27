@@ -219,7 +219,6 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Waterloo Sydney</h2>,{" "}
         <h2>Cash for cars Rosebery Sydney</h2>,{" "}
         <h2>Cash for cars Botany Sydney</h2>,{" "}
         <h2>Cash for cars Mascot Sydney</h2>,{" "}
