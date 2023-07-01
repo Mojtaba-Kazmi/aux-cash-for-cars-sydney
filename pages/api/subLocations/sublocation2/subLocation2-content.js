@@ -123,6 +123,105 @@ export const subLocation = [
     ),
   },
 
+  // location 2
+  {
+    image: "/assets/locationsImages/sublocation1Images/10.jpg",
+    title: "Cash for Cars Rosebery Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your car in Rosebery, Sydney, finding a
+          reliable and trustworthy <Link href={"/"}>cash for cars service</Link>{" "}
+          is crucial. If you're looking to get the best price for your vehicle
+          while enjoying a hassle-free selling experience, look no further than
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With their
+          exceptional service, fair offers, and convenient process, they have
+          established themselves as the premier choice for cash for cars in the
+          Rosebery area.
+        </p>
+        <ol>
+          <h2>
+            <li>A Trusted and Reputable Service Provider:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> has built a strong
+            reputation in the industry for their professionalism, integrity, and
+            customer-centric approach. With years of experience and a solid
+            track record, they have become a trusted name in Rosebery and
+            throughout Sydney. Their commitment to providing top-notch service
+            has earned them a loyal customer base and numerous positive reviews.
+          </p>
+          <h2>
+            <li>Competitive and Fair Cash Offers:</li>
+          </h2>
+          <p>
+            One of the key reasons why{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out from the
+            competition is their ability to offer competitive and fair cash
+            offers for vehicles. Their team of experts assesses each car
+            diligently, taking into consideration various factors such as its
+            make, model, condition, mileage, and market demand. This ensures
+            that car sellers receive an accurate and competitive price for their
+            vehicle, maximizing their return on investment.
+          </p>
+          <h2>
+            <li>Streamlined and Convenient Process</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> understands that
+            selling a car can be a time-consuming and tedious task. Therefore,
+            they have streamlined their process to make it as convenient and
+            efficient as possible. They handle all the paperwork, including the
+            transfer of ownership, making the entire transaction hassle-free for
+            the car seller. Moreover, they provide free{" "}
+            <Link href={"/car-removal"}>car removal services</Link>, saving
+            sellers from the hassle of arranging transportation.
+          </p>
+          <h2>Wide Range of Accepted Vehicles:</h2>
+          <p>
+            Whether you own an old, damaged, unwanted, or scrap car,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts vehicles in
+            any condition. They buy cars of all makes and models, including
+            sedans, SUVs, trucks, vans, and more. This inclusive approach
+            ensures that car sellers in Rosebery can easily sell their vehicles,
+            regardless of their condition or type.
+          </p>
+          <h2>
+            <li>Commitment to Environmental Sustainability: </li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> prioritizes
+            environmental sustainability by practicing eco-friendly car
+            recycling methods. They ensure that every vehicle they purchase is
+            disposed of responsibly, minimizing its impact on the environment.
+            By choosing <Link href={"/"}>Aux Cash for Cars Sydney</Link>, car
+            sellers can contribute to a greener future while also benefiting
+            financially.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to selling your car in Rosebery,
+          Sydney, Aux Cash for Cars Sydney is undoubtedly the best cash for cars
+          service in the area. Their exceptional{" "}
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Rosebery</h2>, <h2>Cash for Cars Sydney</h2>,{" "}
+        <h2>Sell My Car Sydney</h2>, <h2>Sell My Car Rosebery</h2>,{" "}
+        <h2>Top Cash for Cars Rosebery</h2>,{" "}
+        <h2>Instant Cash for Cars Rosebery Sydney</h2>,{" "}
+        <h2>Car Removal Rosebery</h2>,{" "}
+        <h2>Scrap Car Removal Rosebery Sydney</h2>,{" "}
+        <h2>Junk Car Removal Rosebery</h2>, <h2>Rosebery Car Buyers</h2>,{" "}
+        <h2>Cash for Unwanted Cars Rosebery Sydney</h2>,{" "}
+        <h2>Rosebery Car Dealers</h2>, <h2>Rosebery Car Wreckers</h2>,{" "}
+        <h2>Rosebery Car Dealers</h2>, <h2>Sell Old Car Rosebery Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
