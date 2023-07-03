@@ -222,6 +222,110 @@ export const subLocation = [
     ),
   },
 
+  // location 3
+  {
+    image: "/assets/locationsImages/sublocation1Images/11.jpg",
+    title: "Cash for cars Botany Sydney",
+    description: (
+      <>
+        <p>
+          In the bustling suburb of Botany, Sydney, residents seeking a
+          hassle-free way to sell their used or unwanted vehicles can turn to{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link>, the leading cash for cars
+          service in the area. With a reputation for professionalism,
+          convenience, and top-dollar offers,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> has established itself as
+          the go-to solution for individuals looking to sell their cars quickly
+          and effortlessly.
+        </p>
+        <h2>Reliable and Trustworthy:</h2>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars</Link> prides itself on its
+          commitment to providing a reliable and trustworthy service. When
+          dealing with <Link href={"/"}>Aux Cash for Cars in Botany</Link>,
+          Sydney, customers can rest assured that they are working with a
+          reputable company known for its transparency and fair business
+          practices. The team at Aux Cash for Cars understands the importance of
+          building long-lasting relationships with their customers, making their
+          experience both positive and satisfying.
+        </p>
+        <h2>Competitive Offers:</h2>
+        <p>
+          One of the key reasons why <Link href={"/"}>Aux Cash for Cars</Link>{" "}
+          has gained a reputation as the best cash for cars service in Botany,
+          Sydney, is its ability to provide competitive offers. The company has
+          a team of experienced professionals who assess the value of vehicles
+          accurately, taking into account factors such as make, model,
+          condition, and market demand. This ensures that customers receive the
+          highest possible cash offers for their cars, trucks, SUVs, and other
+          vehicles.
+        </p>
+        <h2>Convenience and Efficiency:</h2>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars</Link> is committed to making the
+          car selling process as convenient and efficient as possible for their
+          customers in Botany, Sydney. Unlike traditional methods of selling a
+          vehicle, such as private listings or negotiating with dealerships, Aux
+          Cash for Cars offers a streamlined process that saves both time and
+          effort. With just a simple phone call or online inquiry, customers can
+          receive an instant quote and schedule a convenient time for their
+          vehicle to be picked up, often within the same day.
+        </p>
+        <h2>Free Vehicle Removal:</h2>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars</Link> not only offers top cash
+          offers but also provides free vehicle removal services in Botany,
+          Sydney. Once a price has been agreed upon, the team at{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> will handle all the
+          necessary paperwork and logistics involved in the transaction. Whether
+          the vehicle is running or not, customers can rely on{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> to safely and efficiently
+          remove the vehicle from their property, at no additional cost.
+        </p>
+        <h2>Environmentally Friendly Disposal:</h2>
+        <p>
+          As an environmentally conscious company,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> ensures that all vehicles
+          received in Botany, Sydney are disposed of responsibly. They follow
+          strict guidelines for recycling and salvaging vehicles, minimizing the
+          impact on the environment. By choosing Aux Cash for Cars, customers
+          can take comfort in knowing that their old or unwanted vehicles will
+          be handled in an eco-friendly manner.
+        </p>
+        <p>
+          <b>Conclusion:</b> When it comes to cash for cars services in Botany,
+          Sydney, <Link href={"/"}>Aux Cash for Cars</Link> stands out as the
+          top choice for residents. With their commitment to reliability,
+          competitive offers, convenience, and environmental responsibility,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> has built a solid reputation
+          as the best cash for cars service in the area. Whether you have a used
+          car, truck, SUV, or any other vehicle, you can trust{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> to provide you with a
+          seamless and rewarding car-selling experience in Botany, Sydney.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Botany Sydney</h2>,{" "}
+        <h2>Sell your car for cash Botany Sydney</h2>,{" "}
+        <h2>Top cash for cars Botany Sydney</h2>,{" "}
+        <h2>Car removal Botany Sydney</h2>,{" "}
+        <h2>Scrap car removal Botany Sydney</h2>,{" "}
+        <h2>Junk car removal Botany Sydney</h2>,{" "}
+        <h2>Cash for unwanted cars Botany Sydney</h2>,{" "}
+        <h2>Cash for unwanted cars Botany Sydney</h2>,{" "}
+        <h2>Car buyers Botany Sydney</h2>,{" "}
+        <h2>Instant cash for cars Botany Sydney</h2>,{" "}
+        <h2>Best car removal service Botany Sydney</h2>,{" "}
+        <h2>Cash for old cars Botany Sydney</h2>,{" "}
+        <h2>Free car removal Botany Sydney</h2>,{" "}
+        <h2>Sell damaged car Botany Sydney</h2>,{" "}
+        <h2>Cash for used cars Botany Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
