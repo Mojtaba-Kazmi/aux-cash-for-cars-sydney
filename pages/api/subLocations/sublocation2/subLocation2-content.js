@@ -326,6 +326,97 @@ export const subLocation = [
     ),
   },
 
+  // location 4
+  {
+    image: "/assets/locationsImages/sublocation1Images/12.jpg",
+    title: "Cash for cars Mascot Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your car in the Mascot area, finding a
+          reliable and trustworthy cash for cars service is crucial. With
+          numerous options available, it can be challenging to choose the right
+          one. However, one company stands out from the rest in terms of
+          professionalism, efficiency, and top dollar offers: Aux Cash for Cars
+          Sydney. With their exceptional services and customer-centric approach,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> has established
+          itself as the premier choice for anyone looking to sell their car in
+          Mascot.
+        </p>
+        <h2>Unparalleled Customer Service:</h2>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+          providing unmatched customer service to every client. Their team of
+          experienced professionals understands the importance of a hassle-free
+          selling experience. From the moment you contact them, their friendly
+          and knowledgeable staff will guide you through the entire process,
+          ensuring that you receive the highest level of assistance and support.
+        </p>
+        <h2>Prompt and Efficient Process:</h2>
+        <p>
+          One of the key reasons why{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the best cash for
+          cars service in Mascot is their prompt and efficient process. They
+          understand that your time is valuable, and they strive to make the car
+          selling process as quick and convenient as possible. Once you reach
+          out to them, they will schedule a convenient time to inspect your
+          vehicle. After a thorough evaluation, they will provide you with a
+          fair and competitive offer on the spot. If you accept the offer, they
+          will handle all the necessary paperwork and payment, ensuring a
+          seamless transaction.
+        </p>
+        <h2>Competitive Offers:</h2>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is committed to
+          offering the best prices for your car. They understand the market
+          value and take into account various factors such as the car's make,
+          model, condition, and mileage. With their extensive knowledge and
+          expertise, they provide highly competitive offers that are hard to
+          match. You can rest assured that you will receive a fair price for
+          your vehicle without the need for negotiations or haggling.
+        </p>
+        <h2>Any Car, Any Condition:</h2>
+        <p>
+          Regardless of your car's make, model, or condition,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is willing to buy it.
+          Whether you have a used car, damaged vehicle, wrecked automobile, or
+          even an old, non-running car, they will make you an offer. They
+          specialize in buying cars in any condition, saving you the hassle of
+          finding individual buyers or dealing with unreliable car dealerships.
+        </p>
+        <p>
+          <b>Conclusion:</b> When it comes to selling your car in Mascot,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the top choice for
+          a seamless, convenient, and profitable transaction. Their unparalleled
+          customer service, prompt and efficient process, competitive offers,
+          and willingness to buy cars in any condition make them the best cash
+          for cars service in the area. If you're looking to sell your car and
+          get top dollar in Mascot, trust{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> to provide you with
+          an exceptional experience. Contact them today and experience the
+          difference for yourself.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Mascot Sydney</h2>, <h2>Sell my car Mascot Sydney</h2>
+        , <h2>Top cash for cars Mascot</h2>,{" "}
+        <h2>Instant cash for cars Mascot Sydney</h2>,{" "}
+        <h2>Car removal Mascot Sydney</h2>,{" "}
+        <h2>Scrap car removal Mascot Sydney</h2>,{" "}
+        <h2>Junk car buyers Mascot Sydney</h2>,{" "}
+        <h2>Free car removal Mascot Sydney</h2>,{" "}
+        <h2>Best cash for cars Mascot</h2>,{" "}
+        <h2>Sell my old car Mascot Sydney</h2>,{" "}
+        <h2>Cash for unwanted cars Mascot Sydney</h2>,{" "}
+        <h2>Car wreckers Mascot Sydney</h2>, <h2>We buy cars Mascot Sydney</h2>,{" "}
+        <h2>Cash for damaged cars Mascot Sydney</h2>,{" "}
+        <h2>Sell my junk car Mascot Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
