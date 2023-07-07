@@ -417,6 +417,119 @@ export const subLocation = [
     ),
   },
 
+  // location 5
+  {
+    image: "/assets/locationsImages/sublocation1Images/13.jpg",
+    title: "Cash for cars Paddington Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your old, unwanted, or damaged car, finding a
+          reliable cash for cars service is crucial. In Paddington, Sydney, one
+          name stands out among the rest –{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With their
+          exceptional services and customer-centric approach, they have earned a
+          reputation as the leading cash for cars service in the area. If you're
+          looking to sell your car quickly and get the best value for it, look
+          no further than <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+        </p>
+        <ol>
+          <li>
+            <h2>Streamlined Car Selling Process:</h2>
+          </li>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> understands the
+            importance of a hassle-free car selling experience. They have
+            designed a streamlined process that ensures selling your car is
+            convenient and straightforward. From the initial inquiry to the
+            final transaction, their team of experts handles all the paperwork
+            and logistics, saving you time and effort.
+          </p>
+          <li>
+            <h2>
+              <li>Top Dollar for Your Car:</li>
+            </h2>
+          </li>
+          <p>
+            One of the key reasons why{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is considered the
+            best in Paddington is their commitment to offering top dollar for
+            cars. Regardless of the make, model, or condition of your vehicle,
+            they assess its value based on its market worth and provide a fair
+            and competitive cash offer. Selling your car to Aux Cash for Cars
+            Sydney guarantees that you will receive the maximum value for your
+            vehicle.
+          </p>
+          <li>
+            <h2>
+              <li>All Cars Accepted:</li>
+            </h2>
+          </li>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts cars in all
+            conditions. Whether your car is old, damaged, wrecked, or simply
+            unwanted, they are ready to make an offer. They specialize in buying
+            cars of all makes and models, including sedans, SUVs, trucks, vans,
+            and more. Even if your car is not in working condition or fails to
+            meet roadworthy standards, they will still buy it.
+          </p>
+          <li>
+            <h2>
+              <li>Instant Cash Payment:</li>
+            </h2>
+          </li>
+          <p>
+            One of the standout features of{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their prompt and
+            reliable payment process. Once you accept their offer, they arrange
+            for an immediate cash payment, ensuring a quick and hassle-free
+            transaction. Say goodbye to lengthy waiting periods or delayed
+            payments – with Aux Cash for Cars Sydney, you receive your cash
+            instantly.
+          </p>
+          <li>
+            <h2>
+              <li>Free Car Removal Service:</li>
+            </h2>
+          </li>
+          <p>
+            In addition to providing top cash offers,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers
+            complimentary car removal services. Their team will come to your
+            location in Paddington, Sydney, at a time convenient for you and tow
+            away your car for free. This eliminates the need for you to arrange
+            transportation or incur additional expenses for car removal.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to selling your car for cash in
+          Paddington, Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          is undoubtedly the best choice. With their streamlined process,
+          top-dollar offers, instant cash payments, and free car removal
+          services, they make the car selling experience convenient, profitable,
+          and hassle-free. Contact{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> today and experience
+          their exceptional services firsthand.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Paddington</h2>, <h2>Sydney car buyers</h2>,{" "}
+        <h2>Car removal Paddington</h2>, <h2>Sell my car Paddington</h2>,{" "}
+        <h2>Cash for used cars Sydney</h2>,{" "}
+        <h2>Instant cash for cars Paddington</h2>,{" "}
+        <h2>Scrap car removal Sydney</h2>, <h2>Top cash for cars Paddington</h2>
+        , <h2>Sell your car fast Paddington</h2>,{" "}
+        <h2>Best car buyers Sydney</h2>,{" "}
+        <h2>Unwanted car removal Paddington</h2>,{" "}
+        <h2>Cash for junk cars Sydney</h2>,{" "}
+        <h2>Sell damaged cars Paddington</h2>, <h2>Quick car sale Sydney</h2>,{" "}
+        <h2>Scrap car buyers Paddington</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
