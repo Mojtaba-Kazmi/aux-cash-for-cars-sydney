@@ -434,9 +434,9 @@ export const subLocation = [
           no further than <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
         </p>
         <ol>
-          <li>
-            <h2>Streamlined Car Selling Process:</h2>
-          </li>
+          <h2>
+            <li>Streamlined Car Selling Process:</li>
+          </h2>
           <p>
             <Link href={"/"}>Aux Cash for Cars Sydney</Link> understands the
             importance of a hassle-free car selling experience. They have
@@ -445,11 +445,9 @@ export const subLocation = [
             final transaction, their team of experts handles all the paperwork
             and logistics, saving you time and effort.
           </p>
-          <li>
-            <h2>
-              <li>Top Dollar for Your Car:</li>
-            </h2>
-          </li>
+          <h2>
+            <li>Top Dollar for Your Car:</li>
+          </h2>
           <p>
             One of the key reasons why{" "}
             <Link href={"/"}>Aux Cash for Cars Sydney</Link> is considered the
@@ -460,11 +458,9 @@ export const subLocation = [
             Sydney guarantees that you will receive the maximum value for your
             vehicle.
           </p>
-          <li>
-            <h2>
-              <li>All Cars Accepted:</li>
-            </h2>
-          </li>
+          <h2>
+            <li>All Cars Accepted:</li>
+          </h2>
           <p>
             <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts cars in all
             conditions. Whether your car is old, damaged, wrecked, or simply
@@ -473,11 +469,9 @@ export const subLocation = [
             and more. Even if your car is not in working condition or fails to
             meet roadworthy standards, they will still buy it.
           </p>
-          <li>
-            <h2>
-              <li>Instant Cash Payment:</li>
-            </h2>
-          </li>
+          <h2>
+            <li>Instant Cash Payment:</li>
+          </h2>
           <p>
             One of the standout features of{" "}
             <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their prompt and
@@ -487,11 +481,9 @@ export const subLocation = [
             payments – with Aux Cash for Cars Sydney, you receive your cash
             instantly.
           </p>
-          <li>
-            <h2>
-              <li>Free Car Removal Service:</li>
-            </h2>
-          </li>
+          <h2>
+            <li>Free Car Removal Service:</li>
+          </h2>
           <p>
             In addition to providing top cash offers,{" "}
             <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers
