@@ -522,6 +522,184 @@ export const subLocation = [
     ),
   },
 
+  // location 6
+  {
+    image: "/assets/locationsImages/sublocation1Images/14.jpg",
+    title: "Cash for cars Woollahra Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your car in Woollahra, Sydney, finding the
+          best cash for cars service provider is crucial. Among the numerous
+          options available, Aux Cash for Cars Sydney stands out as the leading
+          choice for car sellers in the area. With a stellar reputation for
+          providing top-notch service and unbeatable cash offers, Aux Cash for
+          Cars Sydney has established itself as the go-to solution for those
+          looking to sell their vehicles quickly and hassle-free.
+        </p>
+        <h2>Reliable and Trustworthy:</h2>
+        <p>
+          One of the key factors that sets Aux Cash for Cars Sydney apart is its
+          reputation for reliability and trustworthiness. With years of
+          experience in the industry, they have gained the trust of countless
+          car owners in Woollahra and across Sydney. The company takes pride in
+          its transparent and ethical business practices, ensuring that
+          customers receive fair appraisals and competitive cash offers for
+          their cars.
+        </p>
+        <h2>Instant Cash Offers:</h2>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> understands the
+          urgency and importance of a swift selling process. When you choose
+          their services, you can expect to receive an instant cash offer for
+          your vehicle. Their team of experts evaluates your car based on its
+          make, model, year, condition, and market value, providing you with a
+          fair and accurate quote. With Aux Cash for Cars Sydney, you won't have
+          to wait endlessly to sell your car and get the cash you need.
+        </p>
+        <h2>All Car Types Accepted:</h2>
+        <p>
+          Whether you have a used sedan, an SUV, a luxury vehicle, a van, a
+          truck, or any other type of car,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts all makes and
+          models. It doesn't matter if your car is old, damaged, broken down, or
+          simply unwanted. The company is interested in purchasing vehicles in
+          any condition, and they are willing to offer top dollar regardless of
+          your car's state.
+        </p>
+        <h2>Convenient and Hassle-Free Process:</h2>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+          providing a hassle-free selling experience. From the moment you
+          contact them, their friendly and knowledgeable staff will guide you
+          through the entire process. They handle all the paperwork, including
+          transfer of ownership and cancellation of registration, ensuring a
+          seamless transaction. With{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you can sell your
+          car without any stress or inconvenience.
+        </p>
+        <h2>Positive Customer Feedback:</h2>
+        <p>
+          The exceptional service provided by{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is evident in the
+          positive feedback from their satisfied customers. Numerous car owners
+          in Woollahra and beyond have praised the company for their
+          professionalism, reliability, and fair cash offers. The consistently
+          high ratings and testimonials speak volumes about the quality of
+          service provided by <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+        </p>
+        <p>
+          <b>Conclusion:</b> When it comes to selling your car in Woollahra,
+          Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the clear
+          frontrunner. With their impeccable reputation, instant cash offers,
+          acceptance of all car types, hassle-free process, and positive
+          customer feedback, they have established themselves as the best cash
+          for car service provider in the area. If you're looking to sell your
+          car quickly and receive top dollar,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the ultimate
+          choice.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Woollahra Sydney</h2>, <h2>Sell My Car Woollahra</h2>,{" "}
+        <h2>Car Removal Woollahra</h2>, <h2>Scrap Car Removal Sydney</h2>,{" "}
+        <h2>Junk Car Buyers Woollahra</h2>, <h2>Cash for Old Cars Sydney</h2>,{" "}
+        <h2>Used Car Buyers Woollahra</h2>,{" "}
+        <h2>Unwanted Car Removal Woollahra</h2>,{" "}
+        <h2>Scrap Car Buyers Sydney</h2>, <h2>Cash for Scrap Cars Woollahra</h2>
+        , <h2>Car Wreckers Woollahra</h2>, <h2>Sell Damaged Car Sydney</h2>,{" "}
+        <h2>Cash for Junk Cars Woollahra</h2>,{" "}
+        <h2>Free Car Removal Woollahra</h2>,{" "}
+        <h2>Sell Unregistered Car Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
+  // // location 7
+  // {
+  //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
+  //   title: "Cash for cars Bondi Sydney",
+  //   description: (
+  //     <>
+  //       <p>
+  //         When it comes to selling your car for cash in Bondi, Sydney, finding a
+  //         reliable and trustworthy cash for cars service is crucial. Among the
+  //         numerous options available, Aux Cash for Cars Sydney stands out as the
+  //         premier choice for anyone looking to sell their vehicle quickly and
+  //         conveniently. With a stellar reputation and a commitment to providing
+  //         exceptional customer service, Aux Cash for Cars Sydney has become the
+  //         go-to destination for Bondi residents in need of cash for their cars.
+  //       </p>
+  //       <ol>
+  //         <h2>
+  //           <li>Top-dollar offers:</li>
+  //         </h2>
+  //         <p>
+  //           Aux Cash for Cars Sydney understands that obtaining a fair and
+  //           competitive price for your vehicle is a top priority. They offer
+  //           top-dollar cash offers for cars, regardless of their make, model, or
+  //           condition. Whether you have a used car, a damaged vehicle, or even a
+  //           scrap car, Aux Cash for Cars Sydney will provide you with an
+  //           attractive offer, ensuring you receive the best value for your car.
+  //         </p>
+  //         <h2>
+  //           <li>Quick and hassle-free process:</li>
+  //         </h2>
+  //         <p>
+  //           Selling a car can often be a time-consuming and complicated process,
+  //           but not with Aux Cash for Cars Sydney. They have streamlined their
+  //           procedures to make the selling experience as quick and hassle-free
+  //           as possible. With a simple three-step process, you can sell your car
+  //           in no time. Just contact Aux Cash for Cars Sydney, receive a cash
+  //           offer, and schedule a convenient pickup time. They handle all the
+  //           paperwork, making the process seamless and stress-free for their
+  //           customers.
+  //         </p>
+  //         <h2>
+  //           <li>Free car removal services: </li>
+  //         </h2>
+  //         <p>
+  //           One of the standout features of Aux Cash for Cars Sydney is their
+  //           complimentary car removal service. Once you accept their cash offer,
+  //           they will arrange a free pickup of your vehicle from anywhere in
+  //           Bondi or the surrounding areas. This service not only saves you time
+  //           and effort but also ensures that you don't have to worry about
+  //           towing or transportation costs. Aux Cash for Cars Sydney takes care
+  //           of everything, making the entire process convenient and
+  //           cost-effective
+  //         </p>
+  //         <h2>Commitment to customer satisfaction:</h2>
+  //         <p>
+  //           Aux Cash for Cars Sydney takes pride in its exceptional customer
+  //           service. Their team of experienced professionals is dedicated to
+  //           ensuring a positive and satisfying experience for every customer.
+  //           They are responsive, friendly, and knowledgeable, addressing any
+  //           concerns or queries you may have throughout the process. By choosing
+  //           Aux Cash for Cars Sydney, you can rest assured that you are dealing
+  //           with a reputable company that values its customers.
+  //         </p>
+  //       </ol>
+  //       <p>
+  //         Conclusion: When it comes to cash for cars services in Bondi, Sydney,
+  //         Aux Cash for Cars Sydney stands out as the leading choice. Their
+  //         top-dollar offers, quick and hassle-free process, complimentary car
+  //         removal service, and commitment to customer satisfaction make them the
+  //         best option for anyone looking to sell their car for cash. By choosing
+  //         Aux Cash for Cars Sydney, you can sell your car with confidence,
+  //         knowing that you are dealing with a trusted and reliable service
+  //         provider in the Bondi area.
+  //       </p>
+  //     </>
+  //   ),
+  //   tags: (
+  //     <>
+  //       <h2>Car Removal Sydney</h2>,{" "}
+  //     </>
+  //   ),
+  // },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
