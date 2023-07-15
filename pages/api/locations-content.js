@@ -223,7 +223,6 @@ export const location = [
         <h2>Cash for cars Bellevue Hill Sydney</h2>,{" "}
         <h2>Cash for cars Waverley Sydney</h2>,{" "}
         <h2>Cash for cars Woollahra Sydney</h2>,{" "}
-        <h2>Cash for cars Double Bay Sydney</h2>,{" "}
         <h2>Cash for cars Rose Bay Sydney</h2>,{" "}
         <h2>Cash for cars Vaucluse Sydney</h2>,{" "}
         <h2>Cash for cars Randwick Sydney</h2>,{" "}
