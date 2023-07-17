@@ -915,6 +915,120 @@ export const subLocation = [
     ),
   },
 
+  // location 10
+  {
+    image: "/assets/locationsImages/sublocation1Images/18.jpg",
+    title: "Cash for cars Bondi Junction Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your car in Bondi Junction, Sydney, finding a
+          reliable and reputable cash for cars service is crucial. If you're
+          looking for a hassle-free and convenient way to sell your vehicle
+          while getting the best value for it, look no further than Aux Cash for
+          Cars Sydney. With their exceptional services and customer-centric
+          approach, <Link href={"/"}>Aux Cash for Cars</Link> has established
+          itself as the leading choice for anyone seeking cash for cars in the
+          Bondi Junction area.
+        </p>
+        <ol>
+          <h2>
+            <li>Streamlined Car Selling Process:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out from the
+            competition by offering a streamlined and efficient car selling
+            process. They understand the importance of saving time and effort,
+            which is why they have designed a simple and straightforward process
+            that ensures a stress-free experience for their customers. With just
+            a few easy steps, you can sell your car quickly and receive top
+            dollar for it.
+          </p>
+          <h2>
+            <li>Competitive Cash Offers:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            providing the best cash offers for cars in Bondi Junction. They have
+            a team of experienced professionals who evaluate your vehicle based
+            on its make, model, condition, and market value. This thorough
+            assessment ensures that you receive a fair and competitive price for
+            your car, maximizing your financial gain.
+          </p>
+          <h2>
+            <li>Any Make, Any Model, Any Condition:</li>
+          </h2>
+          <p>
+            One of the significant advantages of choosing{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their
+            willingness to buy cars of any make, model, or condition. Whether
+            your vehicle is old, damaged, non-functional, or simply unwanted,
+            they are ready to make an offer. You won't have to worry about
+            finding a buyer for your specific car type or spending time and
+            money on repairs before selling it.
+          </p>
+          <h2>
+            <li>Free Car Removal Service:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> understands the
+            inconvenience of arranging transportation for your vehicle when
+            selling it. To alleviate this concern, they offer a complimentary
+            car removal service. Their team will come to your location in Bondi
+            Junction, Sydney, and tow away your car without any extra charge.
+            This service adds to the overall convenience and makes the selling
+            process even more convenient for you.
+          </p>
+          <h2>
+            <li>ustworthy and Reliable:</li>
+          </h2>
+          <p>
+            With numerous positive customer reviews and a strong reputation,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> has gained the
+            trust and confidence of car owners throughout Bondi Junction. Their
+            commitment to professionalism, integrity, and customer satisfaction
+            is evident in every transaction. When dealing with Aux Cash for
+            Cars, you can be confident that you are partnering with a reliable
+            and trustworthy service provider.
+          </p>
+          <p>
+            <b>Conclusion:</b> When it comes to cash for cars in Bondi Junction,
+            Sydney, <Link href={"/"}>Aux Cash for Cars</Link> stands out as the
+            best choice. Their streamlined process, competitive cash offers,
+            willingness to buy cars in any condition, free car removal service,
+            and stellar reputation make them the premier cash for cars service
+            in the area. Choose <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            for a seamless and rewarding car selling experience in Bondi
+            Junction.
+          </p>
+        </ol>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Bondi Junction</h2>,{" "}
+        <h2>Sell my car Bondi Junction</h2>,{" "}
+        <h2>Scrap car removal Bondi Junction</h2>,{" "}
+        <h2>Cash for unwanted cars Bondi Junction</h2>,{" "}
+        <h2>Car wreckers Bondi Junction</h2>,{" "}
+        <h2>Cash for junk cars Bondi Junction</h2>,{" "}
+        <h2>Sell my old car Bondi Junction</h2>,{" "}
+        <h2>Instant cash for cars Bondi Junction</h2>,{" "}
+        <h2>Scrap car buyers Bondi Junction</h2>,{" "}
+        <h2>Top dollar for cars Bondi Junction</h2>,{" "}
+        <h2>Free car removal Bondi Junction</h2>,{" "}
+        <h2>Car disposal Bondi Junction</h2>,{" "}
+        <h2>Sell my damaged car Bondi Junction</h2>,{" "}
+        <h2>Cash for used cars Bondi Junction</h2>,{" "}
+        <h2>Junk car removal Bondi Junction</h2>,{" "}
+        <h2>Sell my broken car Bondi Junction</h2>,{" "}
+        <h2>Cash for salvage cars Bondi Junction</h2>,{" "}
+        <h2>Sell my unwanted vehicle Bondi Junction</h2>,{" "}
+        <h2>Get rid of my car Bondi Junction.</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
