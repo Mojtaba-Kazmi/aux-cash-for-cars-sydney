@@ -219,8 +219,6 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Bondi Junction Sydney</h2>,{" "}
-        <h2>Cash for cars Bellevue Hill Sydney</h2>,{" "}
         <h2>Cash for cars Waverley Sydney</h2>,{" "}
         <h2>Cash for cars Woollahra Sydney</h2>,{" "}
         <h2>Cash for cars Rose Bay Sydney</h2>,{" "}
