@@ -1133,60 +1133,121 @@ export const subLocation = [
     ),
   },
 
-  // // location 12
-  // {
-  //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
-  //   title: "Cash for cars Waverley Sydney",
-  //   description: (
-  //     <>
-  //       <p>
-  //         In the bustling neighborhood of Waverley, Sydney, finding a reliable
-  //         and efficient cash for cars service can be a challenging task. With
-  //         numerous options available, it's crucial to choose a reputable company
-  //         that offers the best value for your vehicle. Among the various
-  //         options, Aux Cash for Cars Sydney stands out as the premier choice for
-  //         residents of Waverley seeking a hassle-free and rewarding car selling
-  //         experience. This article will explore the exceptional services
-  //         provided by Aux Cash for Cars Sydney and why they are considered the
-  //         best in the area.
-  //       </p>
-  //       <ol>
-  //         <h2>
-  //           <li>Unparalleled Customer Service:</li>
-  //         </h2>
-  //         <p>
-  //           Aux Cash for Cars Sydney prides itself on its commitment to
-  //           providing exceptional customer service. They prioritize client
-  //           satisfaction by offering a seamless car selling experience from
-  //           start to finish. Their team of friendly and knowledgeable
-  //           professionals guide customers throughout the entire process,
-  //           ensuring that every query is promptly addressed. The company's
-  //           dedication to providing personalized attention sets them apart from
-  //           competitors in the Waverley area
-  //         </p>
-  //         <h2>
-  //           <li>Competitive Cash Offers:</li>
-  //         </h2>
-  //         <p>
-  //           Aux Cash for Cars Sydney understands the importance of offering
-  //           competitive cash offers for vehicles. They assess the value of cars
-  //           based on their make, model, age, condition, and market demand. Their
-  //           team of experienced evaluators employs industry-leading appraisal
-  //           techniques to provide fair and accurate quotes, ensuring customers
-  //           receive the best possible deal. With Aux Cash for Cars Sydney, you
-  //           can expect top dollar for your vehicle, maximizing your return on
-  //           investment.
-  //         </p>
-
-  //       </ol>
-  //     </>
-  //   ),
-  //   tags: (
-  //     <>
-  //       <h2>Car Removal Sydney</h2>,{" "}
-  //     </>
-  //   ),
-  // },
+  // location 12
+  {
+    image: "/assets/locationsImages/sublocation1Images/20.jpg",
+    title: "Cash for cars Waverley Sydney",
+    description: (
+      <>
+        <p>
+          In the bustling neighborhood of Waverley, Sydney, finding a reliable
+          and efficient cash for cars service can be a challenging task. With
+          numerous options available, it's crucial to choose a reputable company
+          that offers the best value for your vehicle. Among the various
+          options, <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out
+          as the premier choice for residents of Waverley seeking a hassle-free
+          and rewarding car selling experience. This article will explore the
+          exceptional services provided by Aux Cash for Cars Sydney and why they
+          are considered the best in the area.
+        </p>
+        <ol>
+          <h2>
+            <li>Unparalleled Customer Service:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> prides itself on
+            its commitment to providing exceptional customer service. They
+            prioritize client satisfaction by offering a seamless car selling
+            experience from start to finish. Their team of friendly and
+            knowledgeable professionals guide customers throughout the entire
+            process, ensuring that every query is promptly addressed. The
+            company's dedication to providing personalized attention sets them
+            apart from competitors in the Waverley area
+          </p>
+          <h2>
+            <li>Competitive Cash Offers:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> understands the
+            importance of offering competitive cash offers for vehicles. They
+            assess the value of cars based on their make, model, age, condition,
+            and market demand. Their team of experienced evaluators employs
+            industry-leading appraisal techniques to provide fair and accurate
+            quotes, ensuring customers receive the best possible deal. With Aux
+            Cash for Cars Sydney, you can expect top dollar for your vehicle,
+            maximizing your return on investment.
+          </p>
+          <h2>
+            <li>Quick and Convenient Process:</li>
+          </h2>
+          <p>
+            Selling a car can be time-consuming and tedious, but{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> streamlines the
+            process, making it quick and convenient. They prioritize efficiency,
+            allowing customers to sell their cars within hours rather than days
+            or weeks. By providing essential documents and information,
+            scheduling a convenient pickup time, and handling all the paperwork,
+            Aux Cash for Cars Sydney ensures a hassle-free experience for
+            sellers in Waverley.
+          </p>
+          <h2>
+            <li>Acceptance of All Car Makes and Models:</li>
+          </h2>
+          <p>
+            Regardless of the make, model, or condition of your car,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts vehicles of
+            all types. Whether you have a sedan, SUV, truck, van, or even a
+            damaged or non-running vehicle, they will make an offer. This
+            flexibility makes them a go-to choice for individuals in Waverley
+            looking to sell their cars quickly and effortlessly.
+          </p>
+          <h2>
+            <li>Eco-friendly Disposal Practices:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is committed to
+            environmentally responsible car disposal. They adhere to strict
+            recycling and disposal guidelines, ensuring that hazardous materials
+            and pollutants are handled safely and responsibly. By choosing Aux
+            Cash for Cars Sydney, you contribute to a cleaner and greener
+            environment.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to selling your car in Waverley,
+          Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link> emerges as
+          the top choice. Their unwavering commitment to exceptional customer
+          service, competitive cash offers, quick and convenient process,
+          acceptance of all car makes and models, and eco-friendly disposal
+          practices make them the best cash for cars service in the area. For
+          Waverley residents seeking a hassle-free car selling experience and
+          maximum value for their vehicles,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the trusted
+          partner to rely on.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Waverley</h2>, <h2>Waverley Sydney car removal</h2>,{" "}
+        <h2>Sell my car for cash Waverley</h2>,{" "}
+        <h2>Waverley junk car removal</h2>, <h2>Cash for used cars Waverley</h2>
+        , <h2>Best car buyers Waverley Sydney</h2>,{" "}
+        <h2>Scrap car removal Waverley</h2>,{" "}
+        <h2>Sell car without hassle Waverley Sydney</h2>,{" "}
+        <h2>Cash for old cars Waverley</h2>, <h2>Waverley broken car buyers</h2>
+        , <h2>Quick car sale Waverley Sydney</h2>,{" "}
+        <h2>Waverley wrecked car removal</h2>,{" "}
+        <h2>Cash for unwanted cars Waverley</h2>,{" "}
+        <h2>Waverley damaged car buyers</h2>,{" "}
+        <h2>Sell my used car for cash Waverley Sydney</h2>,{" "}
+        <h2>Waverley cash for scrap cars</h2>,{" "}
+        <h2>Top dollar for cars Waverley</h2>,{" "}
+        <h2>Waverley abandoned car removal</h2>,{" "}
+        <h2>Instant cash for cars Waverley Sydney</h2>,{" "}
+      </>
+    ),
+  },
 
   // // location simple
   // {
