@@ -1249,6 +1249,113 @@ export const subLocation = [
     ),
   },
 
+  // location 13
+  {
+    image: "/assets/locationsImages/sublocation1Images/21.jpg",
+    title: "Cash for cars Rose Bay Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your car in Rose Bay, Sydney, finding a
+          reliable and trustworthy <Link href={"/"}>cash for cars service</Link>{" "}
+          is essential. In recent years, the demand for such services has grown
+          significantly, prompting the emergence of various car buying companies
+          in the area. Among them,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          premier choice for anyone looking to sell their car quickly and
+          hassle-free. In this article, we will explore the reasons why Aux Cash
+          for Cars is the best cash for cars service in Rose Bay, Sydney.
+        </p>
+        <ol>
+          <h2>
+            <li>Top Dollar Offers:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            offering top dollar cash offers for all types of vehicles. Whether
+            your car is old, damaged, or simply unwanted, they will provide a
+            fair and competitive price based on its condition and market value.
+            Their team of experts is skilled at accurately assessing the worth
+            of any vehicle, ensuring that you receive the highest possible
+            payout.
+          </p>
+          <h2>
+            <li>Quick and Convenient Service:</li>
+          </h2>
+          <p>
+            Selling a car through traditional methods can be time-consuming and
+            tedious. However, with <Link href={"/"}>Aux Cash for Cars</Link>,
+            the process is swift and convenient. They offer a streamlined
+            service that allows you to get a quote within minutes and schedule a
+            pickup at your preferred location and time. Once the deal is
+            finalized, they handle all the paperwork and ensure a smooth and
+            hassle-free transaction.
+          </p>
+          <h2>
+            <li>All Makes and Models Accepted:</li>
+          </h2>
+          <p>
+            Regardless of the make, model, year, or condition of your car,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts all
+            vehicles. Whether you have a used sedan, an old SUV, a damaged
+            truck, or even a scrap car, they are willing to buy it from you.
+            This inclusive approach makes them a go-to option for anyone looking
+            to sell their car without any restrictions.
+          </p>
+          <h2>
+            <li>Professional and Customer-Focused Approach:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars</Link> prides itself on its
+            professionalism and customer-focused approach. Their team is
+            friendly, knowledgeable, and dedicated to providing the best
+            customer experience possible. They are always ready to answer your
+            questions, address any concerns, and guide you through the entire
+            process, ensuring you feel confident and satisfied with the
+            transaction.
+          </p>
+          <h2>
+            <li>Eco-Friendly Disposal Practices:</li>
+          </h2>
+          <p>
+            Concerned about the environmental impact of selling your old car?
+            Worry not, as <Link href={"/"}>Aux Cash for Cars Sydney</Link> is
+            committed to eco-friendly disposal practices. They responsibly
+            recycle and dispose of vehicles, minimizing their impact on the
+            environment. By choosing their service, you contribute to
+            sustainable practices and responsible automotive recycling.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to cash for cars services in Rose
+          Bay, Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          undoubtedly stands out as the best choice. With their top dollar
+          offers, quick and convenient service, acceptance of all makes and
+          models, professional approach, and commitment to eco-friendly
+          practices, they have earned a reputation as the premier cash for cars
+          service in the area. If you're looking to sell your car in Rose Bay,
+          consider <Link href={"/"}>Aux Cash for Cars</Link> for a stress-free
+          and rewarding transaction.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Rose Bay</h2>, <h2>Sydney car buyers</h2>,{" "}
+        <h2>Rose Bay car removal</h2>, <h2>Top cash for cars Sydney</h2>,{" "}
+        <h2>Sell my car Rose Bay</h2>, <h2>Instant cash for cars</h2>,{" "}
+        <h2>Best car buyers Rose Bay</h2>, <h2>Scrap car removal Sydney</h2>,{" "}
+        <h2>Sell your car for cash</h2>, <h2>Cash for junk cars Rose Bay</h2>,{" "}
+        <h2>Sydney cash car buyers</h2>, <h2>Rose Bay used car buyers</h2>,{" "}
+        <h2>Quick car sale Sydney</h2>, <h2>Get cash for your car</h2>,{" "}
+        <h2>Rose Bay auto wreckers</h2>, <h2>Sell old car for cash</h2>,{" "}
+        <h2>Cash for unwanted cars Sydney</h2>,{" "}
+        <h2>Rose Bay car selling service</h2>, <h2>Scrap my car for cash</h2>,{" "}
+        <h2>Sell damaged car Rose Bay</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/1.jpg",

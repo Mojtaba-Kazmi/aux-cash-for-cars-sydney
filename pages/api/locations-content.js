@@ -185,9 +185,9 @@ export const location = [
           In conclusion, cash for cars Eastern NSW offers a quick and
           hassle-free way to sell your car. With instant cash payments, a simple
           process, and acceptance of all types of cars,{" "}
-          <Link href={"/blog/post16"}>cash for cars services</Link>
-          have become a popular choice for car owners looking to sell their cars
-          in Eastern NSW. Consider opting for a{" "}
+          <Link href={"/blog/post16"}>cash for cars services</Link> have become
+          a popular choice for car owners looking to sell their cars in Eastern
+          NSW. Consider opting for a{" "}
           <Link href={"/blog/post16"}>cash for cars service</Link> for a
           convenient and efficient car selling experience.
         </p>
@@ -220,7 +220,6 @@ export const location = [
     tags: (
       <>
         <h2>Cash for cars Woollahra Sydney</h2>,{" "}
-        <h2>Cash for cars Rose Bay Sydney</h2>,{" "}
         <h2>Cash for cars Vaucluse Sydney</h2>,{" "}
         <h2>Cash for cars Randwick Sydney</h2>,{" "}
         <h2>Cash for cars Kingsford Sydney</h2>,{" "}
