@@ -220,7 +220,6 @@ export const location = [
     tags: (
       <>
         <h2>Cash for cars Woollahra Sydney</h2>,{" "}
-        <h2>Cash for cars Vaucluse Sydney</h2>,{" "}
         <h2>Cash for cars Randwick Sydney</h2>,{" "}
         <h2>Cash for cars Kingsford Sydney</h2>,{" "}
         <h2>Cash for cars Kensington Sydney</h2>,{" "}
