@@ -1567,6 +1567,98 @@ export const subLocation = [
     ),
   },
 
+  // location 16
+  {
+    image: "/assets/locationsImages/sublocation1Images/24.jpg",
+    title: "Cash for cars Kingsford Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your old, unwanted, or damaged car in
+          Kingsford, Sydney, the options can be overwhelming. However, there is
+          one standout cash for cars service that has consistently earned a
+          reputation for excellence -{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With their
+          unparalleled commitment to customer satisfaction, streamlined process,
+          and generous payouts, they have become the preferred choice for many
+          vehicle owners in the area.
+        </p>
+        <h2>Instant Cash Offers:</h2>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> prides itself on
+          offering instant cash offers for all types of vehicles, regardless of
+          their make, model, or condition. Whether your car is running or not,
+          you can expect to receive a fair and competitive quote on the spot.
+        </p>
+        <h2>Hassle-Free Process:</h2>
+        <p>
+          Selling a car can be a daunting task, especially when dealing with
+          private buyers or traditional dealerships.{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> makes the entire
+          process hassle-free. Their team of experts will handle all the
+          paperwork and legalities, ensuring a smooth transaction from start to
+          finish.
+        </p>
+        <h2>Top Dollar for Your Car:</h2>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> understands the value
+          of your vehicle and strives to offer the best possible price. Their
+          experienced appraisers will assess your car based on its market value,
+          condition, and other relevant factors, guaranteeing a top-dollar
+          payout.
+        </p>
+        <h2>Any Make or Model Accepted:</h2>
+        <p>
+          No matter what make or model your car is,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> will gladly accept
+          it. From sedans and SUVs to trucks and vans, they buy all kinds of
+          vehicles, providing a convenient solution for anyone looking to sell
+          their car quickly.
+        </p>
+        <h2>Eco-Friendly Car Disposal:</h2>
+        <p>
+          As a responsible and eco-conscious company,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> ensures that all
+          end-of-life vehicles are properly recycled and disposed of in an
+          environmentally-friendly manner. By choosing their service, you
+          contribute to a sustainable and greener future.
+        </p>
+        <h2>Unparalleled Customer Service:</h2>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes immense pride
+          in their exceptional customer service. Their team of friendly and
+          knowledgeable professionals will assist you at every step, addressing
+          any queries or concerns promptly and professionally.
+        </p>
+        <p>
+          <b>Conclusion:</b> When it comes to{" "}
+          <Link href={"/"}>cash for cars</Link> services in Kingsford, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands head and
+          shoulders above the competition. With their commitment to offering top
+          dollar, hassle-free process, and environmentally-friendly practices,
+          they have earned the trust of countless satisfied customers. If you
+          are looking to sell your car in Kingsford and want a seamless,
+          lucrative, and customer-centric experience, look no further than{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. Get an instant quote
+          today and experience the best cash for cars service in the area.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Kingsford</h2>, <h2>Sydney Cash for Cars</h2>,{" "}
+        <h2>Best Cash for Cars Kingsford</h2>, <h2>Top Cash for Cars Sydney</h2>
+        , <h2>Instant Cash for Cars Kingsford</h2>, <h2>Sell My Car Sydney</h2>,{" "}
+        <h2>Junk Car Removal Kingsford</h2>, <h2>Cash for Old Cars Sydney</h2>,{" "}
+        <h2>Scrap Car Buyers Kingsford</h2>, <h2>Free Car Removal Sydney</h2>,{" "}
+        <h2>Unwanted Car Removal Kingsford</h2>,{" "}
+        <h2>Cash for Used Cars Sydney</h2>, <h2>Kingsford Car Buyers</h2>,{" "}
+        <h2>Quick Cash for Cars Kingsford</h2>,{" "}
+        <h2>Reliable Car Removal Sydney</h2>
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
