@@ -1659,6 +1659,103 @@ export const subLocation = [
     ),
   },
 
+  // location 17
+  {
+    image: "/assets/locationsImages/sublocation1Images/25.jpg",
+    title: "Cash for cars Kensington Sydney",
+    description: (
+      <>
+        <p>
+          In the bustling suburb of Kensington, Sydney, the need for reliable
+          and efficient cash for cars services has grown exponentially. Whether
+          you're looking to dispose of an old, damaged vehicle or upgrade to a
+          newer model, finding a reputable cash for cars service is crucial to
+          ensure a hassle-free transaction and get the best value for your
+          vehicle. Among the various options available,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the top
+          choice, offering unparalleled benefits and customer satisfaction in
+          the area.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney:</h2>
+        <h3>Competitive Cash Offers:</h3>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is renowned for
+          providing the most competitive cash offers for all types of vehicles.
+          Whether your car is running or not, damaged, salvaged, or simply
+          unwanted, they guarantee fair and top-dollar payouts that surpass the
+          industry standards.
+        </p>
+        <h3>Free Vehicle Removal:</h3>
+        <p>
+          Convenience is a top priority when dealing with unwanted vehicles.{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers complimentary
+          vehicle removal services, saving you the trouble of arranging
+          transportation or incurring additional costs. Their team of experts
+          will pick up your car from any location in Kensington, Sydney, at your
+          preferred time.
+        </p>
+        <h3>Instant Quotes:</h3>
+        <p>
+          Gone are the days of haggling and prolonged negotiations. With{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you can obtain an
+          instant quote for your vehicle online or over the phone. Their
+          transparent and straightforward process ensures you receive an
+          accurate valuation in no time.
+        </p>
+        <h3>All Makes and Models Accepted:</h3>
+        <p>
+          Regardless of the make, model, year, or condition of your vehicle,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts all cars,
+          trucks, vans, and SUVs. Whether you own a Japanese sedan, a European
+          luxury car, or an American pickup, you can count on them to buy it for
+          a fair price.
+        </p>
+        <h3>Environmentally Friendly Practices:</h3>
+        <p>
+          Being an eco-conscious company,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> prioritizes
+          environmentally friendly practices. They ensure that all recycling and
+          disposal processes adhere to strict environmental regulations,
+          minimizing the impact on the ecosystem.
+        </p>
+        <h3>Professional and Customer-Centric Service:</h3>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in its
+          team of skilled professionals who are committed to delivering
+          outstanding customer service. From the initial inquiry to the final
+          transaction, you can expect a smooth, respectful, and hassle-free
+          experience.
+        </p>
+        <p>
+          Conclusion: In Kensington, Sydney, where the demand for reliable cash
+          for cars services continues to grow,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> has proven itself as
+          the best choice for individuals looking to sell their vehicles quickly
+          and efficiently. With their competitive cash offers, complimentary
+          vehicle removal, instant quotes, and customer-centric approach, they
+          have earned a reputation for being the premier cash for cars service
+          in the area. If you have an unwanted vehicle that you want to turn
+          into cash promptly, look no further than{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> for a seamless and
+          rewarding transaction.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Kensington</h2>, <h2>Sell my car Kensington</h2>,{" "}
+        <h2>Top cash for cars Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Best car buyers Kensington</h2>, <h2>Sell used car Sydney</h2>,{" "}
+        <h2>Instant cash for cars Kensington</h2>,{" "}
+        <h2>Junk car removal Sydney</h2>, <h2>Scrap car buyers Kensington</h2>,{" "}
+        <h2>Sell old car Sydney</h2>, <h2>Unwanted car removal Kensington</h2>,{" "}
+        <h2>Cash for scrap cars Sydney</h2>,{" "}
+        <h2>Sell damaged car Kensington</h2>, <h2>Car wreckers Sydney</h2>,{" "}
+        <h2>Cash for unwanted cars Kensington</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
