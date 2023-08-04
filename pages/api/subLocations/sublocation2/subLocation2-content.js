@@ -1766,11 +1766,11 @@ export const subLocation = [
           When it comes to selling your car for cash in Coogee, Sydney, one name
           stands out among the rest – Aux Cash for Cars Sydney. With a
           reputation for providing top-notch services and fair deals,{" "}
-          <Link>Aux Cash for Cars</Link> has become the go-to choice for
-          residents of Coogee and surrounding areas looking to sell their
+          <Link href={"/"}>Aux Cash for Cars</Link> has become the go-to choice
+          for residents of Coogee and surrounding areas looking to sell their
           vehicles quickly and conveniently. In this article, we will explore
-          the reasons why <Link>Aux Cash for Cars Sydney</Link> is regarded as
-          the best cash for cars service in the region.
+          the reasons why <Link href={"/"}>Aux Cash for Cars Sydney</Link> is
+          regarded as the best cash for cars service in the region.
         </p>
         <ol>
           <li>
@@ -1778,25 +1778,25 @@ export const subLocation = [
           </li>
           <p>
             One of the key factors that sets{" "}
-            <Link>Aux Cash for Cars Sydney</Link> apart from other car buyers in
-            Coogee is their commitment to providing exceptional customer
-            service. Their team of friendly and knowledgeable professionals
-            ensures that the entire selling process is smooth and hassle-free
-            for every customer. From the initial inquiry to the final
-            transaction, they prioritize the satisfaction of their clients,
-            making the experience pleasant and stress-free.
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> apart from other
+            car buyers in Coogee is their commitment to providing exceptional
+            customer service. Their team of friendly and knowledgeable
+            professionals ensures that the entire selling process is smooth and
+            hassle-free for every customer. From the initial inquiry to the
+            final transaction, they prioritize the satisfaction of their
+            clients, making the experience pleasant and stress-free.
           </p>
           <li>
             <h2>Instant Cash Offers:</h2>
           </li>
           <p>
-            <Link>Aux Cash for Cars Sydney</Link> understands the importance of
-            a quick and efficient car selling process. They offer instant cash
-            offers for vehicles of all makes and models. This means that sellers
-            can receive a fair appraisal for their cars on the spot, without any
-            unnecessary delays. The convenience of getting an immediate cash
-            offer is a significant advantage for those in urgent need of funds
-            or seeking a swift sale.
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> understands the
+            importance of a quick and efficient car selling process. They offer
+            instant cash offers for vehicles of all makes and models. This means
+            that sellers can receive a fair appraisal for their cars on the
+            spot, without any unnecessary delays. The convenience of getting an
+            immediate cash offer is a significant advantage for those in urgent
+            need of funds or seeking a swift sale.
           </p>
           <li>
             <h2>Any Car, Any Condition:</h2>
@@ -1804,19 +1804,19 @@ export const subLocation = [
           <p>
             Unlike traditional car selling methods that may require extensive
             repairs or advertising efforts,{" "}
-            <Link>Aux Cash for Cars Sydney</Link> buys vehicles in any
-            condition. Whether it's a used car in good shape, a damaged vehicle,
-            or even an old clunker gathering dust in the garage, they accept
-            them all. This flexibility allows car owners to sell their vehicles
-            without investing additional time or money into repairs or
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> buys vehicles in
+            any condition. Whether it's a used car in good shape, a damaged
+            vehicle, or even an old clunker gathering dust in the garage, they
+            accept them all. This flexibility allows car owners to sell their
+            vehicles without investing additional time or money into repairs or
             renovations.
           </p>
           <li>
             <h2>Free Car Removal Services:</h2>
           </li>
           <p>
-            <Link>Aux Cash for Cars Sydney</Link> goes the extra mile to make
-            the selling process as convenient as possible. They offer
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> goes the extra mile
+            to make the selling process as convenient as possible. They offer
             complimentary car removal services, meaning they will come to the
             seller's location to pick up the vehicle at a time that suits them
             best. This service saves sellers from the hassle of arranging
@@ -1827,22 +1827,24 @@ export const subLocation = [
           </li>
           <p>
             As a responsible and eco-friendly car removal service,{" "}
-            <Link>Aux Cash for Cars Sydney</Link> ensures that end-of-life
-            vehicles are properly recycled and disposed of in an environmentally
-            conscious manner. By choosing <Link>Aux Cash for Cars</Link>,
-            sellers can contribute to sustainable practices and reduce the
-            impact of automotive waste on the environment.
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> ensures that
+            end-of-life vehicles are properly recycled and disposed of in an
+            environmentally conscious manner. By choosing{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link>, sellers can contribute to
+            sustainable practices and reduce the impact of automotive waste on
+            the environment.
           </p>
         </ol>
         <p>
           Conclusion: When it comes to selling your car for cash in Coogee,
-          Sydney, <Link>Aux Cash for Cars Sydney</Link> proves to be the leading
-          choice. With their outstanding customer service, instant cash offers,
-          willingness to buy cars in any condition, free car removal services,
-          and commitment to environmentally conscious practices, they have
-          earned a reputation as the best cash for cars service in the area. For
-          Coogee residents seeking a hassle-free and rewarding car selling
-          experience, <Link>Aux Cash for Cars Sydney</Link> is undoubtedly the
+          Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link> proves to be
+          the leading choice. With their outstanding customer service, instant
+          cash offers, willingness to buy cars in any condition, free car
+          removal services, and commitment to environmentally conscious
+          practices, they have earned a reputation as the best cash for cars
+          service in the area. For Coogee residents seeking a hassle-free and
+          rewarding car selling experience,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is undoubtedly the
           go-to option.
         </p>
       </>
