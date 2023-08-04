@@ -22,9 +22,9 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Cash for cars Surry Hills Sydney",
+      title: "Cash for cars Kings Cross Sydney",
       description:
-        "Get top cash for cars in Surry Hills, Sydney with Aux Cash for Cars Sydney. We offer hassle-free car selling experience, competitive cash offers, and free car removal service. Sell your car quickly and conveniently with our professional team. Contact us now for instant cash for cars in Surry Hills.",
+        "Aux Cash for Cars Sydney offers top-notch cash for cars services in the vibrant neighborhood of Kings Cross. Turn your unwanted vehicles into instant cash with our hassle-free process. Whether you have an old car, damaged vehicle, or simply looking to upgrade, we'll provide the best value for your car. Get paid on the spot and enjoy a seamless car selling experience with Aux Cash for Cars in Kings Cross, Sydney.",
       image: "/assets/locationsImages/sublocation1Images/6.jpg",
       url: `https://auxcashforcarsydney.com/locations/location1/subLocation6`,
       keyword:
