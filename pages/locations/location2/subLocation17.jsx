@@ -25,7 +25,7 @@ export async function getServerSideProps() {
       title: "Cash for cars Kensington Sydney",
       description:
         "Get top cash for your unwanted cars in Kensington, Sydney with Aux Cash for Cars! We offer hassle-free car removal services, accepting all makes and models, regardless of their condition. Turn your old, damaged, or unused vehicles into instant cash. Contact us now for a free quote and experience a swift and reliable car selling process. Sell your car to us and enjoy a stress-free experience with Aux Cash for Cars in Kensington, Sydney",
-      image: "/assets/locationsImages/sublocation1Images/24.jpg",
+      image: "/assets/locationsImages/sublocation1Images/25.jpg",
       url: `https://auxcashforcarsydney.com/locations/location2/subLocation17`,
       keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
