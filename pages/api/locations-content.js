@@ -220,7 +220,6 @@ export const location = [
     tags: (
       <>
         <h2>Cash for cars Randwick Sydney</h2>,{" "}
-        <h2>Cash for cars Coogee Sydney</h2>,{" "}
         <h2>Cash for cars Pagewood Sydney</h2>,{" "}
         <h2>Cash for cars Matraville Sydney</h2>,{" "}
       </>
