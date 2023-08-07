@@ -1868,6 +1868,121 @@ export const subLocation = [
     ),
   },
 
+  // location 19
+  {
+    image: "/assets/locationsImages/sublocation1Images/27.jpg",
+    title: "Cash for cars Pagewood Sydney",
+    description: (
+      <>
+        <p>
+          If you reside in the vibrant suburb of Pagewood, Sydney, and find
+          yourself in possession of an old, unwanted, or damaged vehicle taking
+          up valuable space, you may have contemplated selling it for cash.
+          Turning to a reputable cash for cars service can be an ideal solution
+          to get rid of your vehicle while earning some money in the process.
+          Among the numerous options available,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          best choice for those seeking a reliable, hassle-free, and rewarding
+          experience.
+        </p>
+        <ol>
+          <h2>
+            <li>A Trusted and Established Service Provider:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> has earned a
+            reputation as one of the most trusted and established cash for cars
+            services in the Pagewood area. With years of experience in the
+            industry, their team has successfully assisted countless customers
+            in selling their vehicles quickly and efficiently. Their commitment
+            to transparency, fair deals, and customer satisfaction has garnered
+            them a loyal client base, making them a standout choice in the
+            region.
+          </p>
+          <h2>
+            <li>Instant Top Dollar Offers:</li>
+          </h2>
+          <p>
+            One of the primary reasons why{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> has gained immense
+            popularity in Pagewood is their ability to provide top dollar offers
+            for vehicles of all makes and models. Whether your car is in perfect
+            condition, has mechanical issues, or is simply scrap, their team
+            will assess its value accurately and offer a fair price, ensuring
+            you get the maximum cash for your car.
+          </p>
+          <h2>
+            <li>Seamless and Convenient Process:</li>
+          </h2>
+          <p>
+            Selling a car can be a daunting task, involving time-consuming
+            paperwork, negotiations, and finding potential buyers. However, with
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the process
+            becomes remarkably simple and convenient. Their team handles all the
+            paperwork, making the transaction smooth and effortless for the
+            seller. Additionally, they offer free vehicle removal services,
+            saving you the trouble of arranging transportation.
+          </p>
+          <h2>
+            <li>Eco-Friendly Vehicle Disposal:</li>
+          </h2>
+          <p>
+            As responsible citizens, it is crucial to consider the environmental
+            impact of disposing of old vehicles.{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> adheres to
+            eco-friendly practices, recycling and salvaging car parts to
+            minimize the carbon footprint. By choosing their service, you can
+            contribute to a sustainable future while getting rid of your
+            unwanted vehicle.
+          </p>
+          <h2>
+            <li>Customer-Centric Approach:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> places great
+            emphasis on customer satisfaction and aims to exceed expectations in
+            every interaction. Their team of knowledgeable and friendly
+            professionals ensures that clients receive personalized attention,
+            providing guidance throughout the selling process. Their dedication
+            to delivering a positive experience has earned them an outstanding
+            reputation among the community.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to selling your car for cash in
+          Pagewood, Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          emerges as the clear choice for the best cash for cars service in the
+          area. With their reliability, transparency, top dollar offers, and
+          customer-centric approach, they make the process of selling your
+          vehicle not only financially rewarding but also stress-free and
+          environmentally responsible. By selecting{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you can rest assured
+          that you are making a wise and advantageous decision for both yourself
+          and the environment.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Pagewood</h2>, <h2>Sydney cash for cars</h2>,{" "}
+        <h2>Pagewood car buyers</h2>, <h2>Sell my car Sydney</h2>,{" "}
+        <h2>Cash for scrap cars Pagewood</h2>,{" "}
+        <h2>Top cash for used cars Sydney</h2>,{" "}
+        <h2>Instant car buyers Pagewood</h2>,{" "}
+        <h2>Best cash for old cars Sydney</h2>,{" "}
+        <h2>Sell your car fast Pagewood</h2>,{" "}
+        <h2>Top dollar for cars Sydney</h2>, <h2>Sydney car removal service</h2>
+        , <h2>Pagewood junk car buyers</h2>,{" "}
+        <h2>Cash for unwanted vehicles Sydney</h2>,{" "}
+        <h2>Sell my damaged car Pagewood</h2>, <h2>Sydney car wreckers</h2>,{" "}
+        <h2>Pagewood car selling service</h2>,{" "}
+        <h2>Cash for broken cars Sydney</h2>,{" "}
+        <h2>Scrap car removal Pagewood</h2>, <h2>Pagewood car trade-in</h2>,{" "}
+        <h2>Cash for used trucks Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
