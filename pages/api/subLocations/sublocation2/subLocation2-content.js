@@ -1916,7 +1916,7 @@ export const subLocation = [
           </h2>
           <p>
             Selling a car can be a daunting task, involving time-consuming
-            paperwork, negotiations, and finding potential buyers. However, with
+            paperwork, negotiations, and finding potential buyers. However, with{" "}
             <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the process
             becomes remarkably simple and convenient. Their team handles all the
             paperwork, making the transaction smooth and effortless for the
