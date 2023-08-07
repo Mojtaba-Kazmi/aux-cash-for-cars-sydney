@@ -1983,6 +1983,217 @@ export const subLocation = [
     ),
   },
 
+  // location 20
+  {
+    image: "/assets/locationsImages/sublocation1Images/28.jpg",
+    title: "Cash for cars Matraville Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your old, unwanted, or damaged car in
+          Matraville, Sydney, finding the right buyer who offers a fair price
+          and excellent service is essential. In recent years, the demand for
+          cash for cars services has surged, leading to the emergence of
+          numerous companies vying for the attention of car sellers. Among
+          these, <Link href={"/"}>Aux Cash for Cars Sydney</Link> has
+          consistently stood out as the best choice for residents in Matraville
+          and the surrounding areas.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney?</h2>
+        <ol>
+          <h3>
+            <li>Competitive Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> prides itself on
+            providing highly competitive offers for vehicles in any condition.
+            Whether your car is running smoothly, slightly damaged, or no longer
+            operational, they offer top dollar for it. Their team of automotive
+            experts evaluates each vehicle meticulously, taking into account
+            various factors such as make, model, age, condition, and market
+            value to offer the best possible price.
+          </p>
+          <h3>
+            <li>Instant Cash Payments:</li>
+          </h3>
+          <p>
+            Selling your car to Aux Cash for Cars Sydney means quick and
+            hassle-free transactions. As a reputable and established cash for
+            cars service in Matraville, they understand the importance of prompt
+            payment to their customers. Upon reaching an agreement, they offer
+            on-the-spot cash payments, ensuring you receive the money you
+            deserve right away.
+          </p>
+          <h3>
+            <li>Easy and Convenient Process:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            streamlining the car-selling process for their customers. They offer
+            a user-friendly and straightforward procedure that allows you to get
+            a quote for your car either through their website or over the phone.
+            Once you accept their offer, they handle all the paperwork, making
+            the experience seamless and convenient for you.
+          </p>
+          <h3>
+            <li>Acceptance of All Vehicles:</li>
+          </h3>
+          <p>
+            One significant advantage of choosing{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their
+            willingness to buy all types of vehicles, regardless of make, model,
+            or condition. Whether you have an old sedan, a damaged SUV, or a
+            non-functional truck, they are prepared to purchase it from you.
+          </p>
+          <h3>
+            <li>Eco-Friendly Disposal:</li>
+          </h3>
+          <p>
+            Concerned about the environmental impact of selling your car?{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> follows
+            eco-friendly practices in the disposal of vehicles. They adhere to
+            proper recycling and disposal methods, ensuring that hazardous
+            materials are handled responsibly.
+          </p>
+        </ol>
+        <p>
+          Conclusion: When it comes to selling your car for cash in Matraville,
+          Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands as the
+          top choice. Their commitment to providing competitive offers, prompt
+          payments, and a hassle-free process has earned them a stellar
+          reputation among satisfied customers. By choosing{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you can rest assured
+          that you'll receive the best deal for your vehicle while enjoying a
+          stress-free selling experience.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Matraville</h2>, <h2>Sell my car Matraville</h2>,{" "}
+        <h2>Car buyers Matraville</h2>, <h2>Sell car for cash Sydney</h2>,{" "}
+        <h2>Junk car removal Matraville</h2>, <h2>Scrap car buyers Sydney</h2>,{" "}
+        <h2>Top dollar for cars Matraville</h2>,{" "}
+        <h2>Cash for unwanted cars Sydney</h2>,{" "}
+        <h2>Matraville used car buyers</h2>,{" "}
+        <h2>Instant cash for cars Sydney</h2>,{" "}
+        <h2>Best car removal Matraville</h2>,{" "}
+        <h2>Get cash for your car Sydney</h2>,{" "}
+        <h2>Old car buyers Matraville</h2>, <h2>Sell my damaged car Sydney</h2>,{" "}
+        <h2>Cash for cars near me Matraville</h2>,{" "}
+      </>
+    ),
+  },
+
+  // // location 21
+  // {
+  //   image: "/assets/locationsImages/sublocation1Images/29.jpg",
+  //   title: "Cash for cars Randwick Sydney",
+  //   description: (
+  //     <>
+  //       <p>
+  //         If you're looking to sell your old, unwanted, or damaged car in
+  //         Randwick, Sydney, there's no better option than Aux Cash for Cars
+  //         Sydney. With a reputation for excellence and a track record of
+  //         satisfied customers, Aux Cash for Cars stands out as the premier
+  //         choice for getting cash for cars in the area. This topic delves into
+  //         the reasons why Aux Cash for Cars is considered the best cash for cars
+  //         service in Randwick and why it should be your top choice when selling
+  //         your vehicle.
+  //       </p>
+  //       <ol>
+  //         <h3>
+  //           <li>Competitive and Instant Cash Offers:</li>
+  //         </h3>
+  //         <p>
+  //           One of the key reasons why Aux Cash for Cars Sydney excels in the
+  //           market is its ability to provide competitive and instant cash offers
+  //           for all types of vehicles. Whether your car is old, damaged, junked,
+  //           or simply unwanted, Aux Cash for Cars guarantees to offer a fair and
+  //           attractive price, reflecting the true value of your vehicle.
+  //         </p>
+  //         <h2>
+  //           <li>Hassle-Free and Convenient Process:</li>
+  //         </h2>
+  //         <p>
+  //           The team at Aux Cash for Cars understands that selling a car can be
+  //           a daunting task, involving extensive paperwork and numerous hassles.
+  //           As a customer-centric service, they have streamlined the entire
+  //           process, ensuring a hassle-free and convenient experience for all
+  //           clients. From providing free car removal services to handling all
+  //           the paperwork, Aux Cash for Cars takes care of every aspect, making
+  //           the selling process quick and effortless.
+  //         </p>
+  //         <h2>
+  //           <li>Professional and Trustworthy Service:</li>
+  //         </h2>
+  //         <p>
+  //           Aux Cash for Cars has earned its reputation as the best cash for
+  //           cars service in Randwick by offering professional and trustworthy
+  //           assistance to its customers. Their team of experts is highly
+  //           experienced in the automotive industry, which enables them to
+  //           accurately assess the value of your car and offer the best possible
+  //           price. Moreover, they operate with transparency and honesty,
+  //           ensuring you receive a fair deal for your vehicle.
+  //         </p>
+  //         <h2>
+  //           <li>Acceptance of All Vehicle Types:</li>
+  //         </h2>
+  //         <p>
+  //           Unlike many other cash for cars services, Aux Cash for Cars Sydney
+  //           accepts all types of vehicles, regardless of their make, model, or
+  //           condition. Whether you have an old sedan, a damaged truck, a scrap
+  //           SUV, or even a non-running van, Aux Cash for Cars is willing to buy
+  //           it from you. This inclusive approach sets them apart from the
+  //           competition and makes them the go-to choice for anyone looking to
+  //           sell their car in Randwick.
+  //         </p>
+  //         <h2>
+  //           <li>Positive Customer Feedback and Testimonials:</li>
+  //         </h2>
+  //         <p>
+  //           Aux Cash for Cars has garnered a plethora of positive customer
+  //           feedback and testimonials over the years. Satisfied clients praise
+  //           their friendly customer service, quick response times, and seamless
+  //           transactions. These testimonials are a testament to the company's
+  //           commitment to customer satisfaction and speak volumes about their
+  //           reliability and professionalism.
+  //         </p>
+  //       </ol>
+  //       <p>
+  //         Conclusion: When it comes to getting cash for cars in Randwick,
+  //         Sydney, Aux Cash for Cars stands out as the undisputed leader. Their
+  //         competitive offers, hassle-free process, professionalism, and
+  //         acceptance of all vehicle types make them the best cash for cars
+  //         service in the area. If you're looking to sell your car and want a
+  //         smooth and rewarding experience, choosing Aux Cash for Cars Sydney is
+  //         undoubtedly the wisest decision you can make.
+  //       </p>
+  //     </>
+  //   ),
+  //   tags: (
+  //     <>
+  //       <h2>Cash for cars Randwick</h2>,<h2>Randwick Sydney cash for cars</h2>,
+  //       <h2>Sell my car Randwick</h2>,<h2>Best cash for cars Randwick</h2>,
+  //       <h2>Instant cash for cars Randwick</h2>,
+  //       <h2>Top dollar for cars Randwick</h2>,
+  //       <h2>Scrap car removal Randwick</h2>,
+  //       <h2>Sell old car for cash Randwick</h2>,
+  //       <h2>Junk car buyers Randwick</h2>,
+  //       <h2>Cash for unwanted cars Randwick Sydney</h2>,
+  //       <h2>Cash for damaged cars Randwick</h2>,
+  //       <h2>Free car removal Randwick</h2>,
+  //       <h2>Scrap car buyers Randwick Sydney</h2>,
+  //       <h2>Sell car for cash in Randwick</h2>,
+  //       <h2>Quick cash for cars Randwick</h2>,
+  //       <h2>Top cash for cars Randwick Sydney</h2>,
+  //       <h2>Car wreckers Randwick</h2>,<h2>Get cash for cars in Randwick</h2>,
+  //       <h2>Unwanted car removal Randwick</h2>,
+  //       <h2>Sell my junk car Randwick</h2>,
+  //     </>
+  //   ),
+  // },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
@@ -1990,7 +2201,7 @@ export const subLocation = [
   //   description: <></>,
   //   tags: (
   //     <>
-  //       <h2>Car Removal Sydney</h2>,{" "}
+  //       <h2></h2>,
   //     </>
   //   ),
   // },
