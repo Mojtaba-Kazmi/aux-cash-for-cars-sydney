@@ -219,7 +219,24 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Randwick Sydney</h2>,{" "}
+        <h2>Cash for Cars Eastern NSW</h2>,
+        <h2>Sell Your Car for Cash Eastern NSW</h2>,
+        <h2>Car Buyers Eastern NSW</h2>, <h2>Auto Recycling Eastern NSW</h2>,
+        <h2>Top Cash for Cars Eastern NSW</h2>,
+        <h2>Cash for Scrap Cars Eastern NSW</h2>,
+        <h2>Instant Cash for Cars Eastern NSW</h2>,
+        <h2>Best Car Removal Eastern NSW</h2>, <h2>We Buy Cars Eastern NSW</h2>,
+        <h2>Junk Car Removal Eastern NSW</h2>,
+        <h2>Used Car Buyers Eastern NSW</h2>,
+        <h2>Free Car Valuation Eastern NSW</h2>,
+        <h2>Car Wreckers Eastern NSW</h2>, ,
+        <h2>Unwanted Car Removal Eastern NSW</h2>,
+        <h2>Get Paid for Your Car Eastern NSW</h2>,
+        <h2>Cash for Old Cars Eastern NSW</h2>, ,
+        <h2>Scrap Car Buyers Eastern NSW</h2>, ,
+        <h2>Sell My Car Fast Eastern NSW</h2>, ,
+        <h2>Cash for Damaged Cars Eastern NSW</h2>, ,
+        <h2>Quick Car Sale Eastern NSW</h2>, ,
       </>
     ),
   },
