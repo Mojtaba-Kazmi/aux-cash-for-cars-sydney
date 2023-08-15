@@ -25,7 +25,7 @@ export async function getServerSideProps() {
       title: "Cash for Cars North Sydney",
       description:
         "Get top cash for cars in North Sydney with Aux Cash for Cars! We offer hassle-free vehicle selling and removal services, providing instant cash for your unwanted cars, trucks, and SUVs. Turn your old vehicles into cash quickly and conveniently. Contact us today for a seamless car selling experience!",
-      image: "/assets/locationsImages/sublocation1Images/29.jpg",
+      image: "/assets/locationsImages/sublocation1Images/30.jpg",
       url: `https://auxcashforcarsydney.com/locations/location3/subLocation1`,
       keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
