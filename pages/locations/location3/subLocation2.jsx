@@ -9,7 +9,7 @@ import {
   Typography,
 } from "@mui/material";
 import Link from "next/link";
-import { location } from "../api/locations-content";
+import { subLocation } from "../../api/subLocations/sublocation3/subLocation3-content";
 import ContactForm from "@/components/ContactForm";
 import ContactUsCard from "@/components/ContactUsCard";
 import SocialShareBtn, { Line } from "@/components/GlobalComponents";
@@ -22,13 +22,12 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Cash for Cars Inner West NSW",
+      title: "Cash for cars Milsons Point Sydney",
       description:
-        "This topic is A guide for Cash for Cars Inner West NSW and at the end, we will introduce The best Cash for Cars company in Inner West NSW  for you.",
-      image: "https://auxcashforcarsydney.com/assets/locationsImages/3.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location3`,
-      keyword:
-        "Get top dollar for your unwanted vehicles in the Inner West NSW with Aux Cash for Cars Sydney. We offer hassle-free cash for cars service, ensuring a seamless process from appraisal to instant payment. Turn your old, damaged, or unused cars into cash today. Contact us for a fair and competitive quote!",
+        "Top Cash for Cars Milsons Point Sydney - Get instant cash for your unwanted vehicles! Aux Cash for Cars offers hassle-free car removal and top-dollar payments for all types of vehicles in Milsons Point. Sell your old, damaged, or unused cars today and enjoy a quick and easy process. Contact us now for a free quote!",
+      image: "/assets/locationsImages/sublocation1Images/31.jpg",
+      url: `https://auxcashforcarsydney.com/locations/location3/subLocation2`,
+      keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
       height: 630,
     },
@@ -72,13 +71,13 @@ function post0({ title, description, image, url, keyword, width, height }) {
                 <Card>
                   <CardMedia
                     sx={{ height: "300px" }}
-                    image={location[3].image}
-                    title={location[3].alt}
-                    alt={location[3].alt}
+                    image={subLocation[2].image}
+                    title={subLocation[2].title}
+                    alt={subLocation[2].title}
                   />
                   <CardContent>
-                    {location[3].title}
-                    {location[3].description}
+                    <h1>{subLocation[2].title}</h1>
+                    {subLocation[2].description}
                   </CardContent>
 
                   <Grid
@@ -91,7 +90,10 @@ function post0({ title, description, image, url, keyword, width, height }) {
                     }}
                   >
                     <Grid item md={6} sm={6} xs={2}>
-                      <Link href="/locations" style={{ width: "10px" }}>
+                      <Link
+                        href="/locations/location3"
+                        style={{ width: "10px" }}
+                      >
                         <NextLinkBtn>Back</NextLinkBtn>
                       </Link>
                     </Grid>
@@ -115,7 +117,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
                   <Card>
                     <CardContent>
                       <Typography component={"p"}> Tags </Typography>
-                      <TagsStyle>{location[3].tags}</TagsStyle>
+                      <TagsStyle>{subLocation[2].tags}</TagsStyle>
                     </CardContent>
                   </Card>
                 </Grid>

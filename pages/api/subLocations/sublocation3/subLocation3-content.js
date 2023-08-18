@@ -150,6 +150,101 @@ export const subLocation = [
     ),
   },
 
+  // location 2
+  {
+    image: "/assets/locationsImages/sublocation1Images/31.jpg",
+    title: "Cash for cars Milsons Point Sydney",
+    description: (
+      <>
+        <p>
+          Selling your car in Milsons Point, Sydney, can be a hassle, especially
+          when you're looking for the best deal and a smooth, stress-free
+          process. If you're in this situation, look no further than{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With a reputation
+          for being the premier cash for cars service in the area, they offer an
+          exceptional experience for those looking to sell their vehicles
+          quickly and easily.
+        </p>
+        <h2>
+          Why Choose <Link href={"/"}>Aux Cash for Cars Sydney</Link> in Milsons
+          Point?
+        </h2>
+        <ol>
+          <h3>
+            <li>Competitive Offers: </li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is known for
+            offering some of the most competitive prices for used cars in the
+            Milsons Point area. Their team of experienced appraisers ensures
+            that you receive a fair and accurate assessment of your vehicle's
+            value, allowing you to get the most cash for your car.
+          </p>
+          <h3>
+            <li>Streamlined Process: </li>
+          </h3>
+          <p>
+            Selling a car can often be a time-consuming and complex process.
+            However, <Link href={"/"}>Aux Cash for Cars Sydney</Link> has
+            perfected a streamlined process designed to save you time and
+            effort. From initial evaluation to final payment, their team guides
+            you through each step, ensuring a hassle-free transaction.
+          </p>
+          <h3>
+            <li>Any Make or Model: </li>
+          </h3>
+          <p>
+            Whether you're selling a sedan, SUV, truck, or any other type of
+            vehicle, <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts
+            all makes and models. This versatility makes them an ideal choice
+            for anyone looking to sell their car in Milsons Point.
+          </p>
+          <h3>
+            <li>Instant Cash:</li>
+          </h3>
+          <p>
+            Need cash quickly? <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            offers instant cash payment upon agreement. This feature is
+            especially beneficial if you're in urgent need of funds or want to
+            avoid the delays often associated with other selling methods.
+          </p>
+          <h3>
+            <li>Free Vehicle Removal: </li>
+          </h3>
+          <p>
+            As an added convenience, Aux Cash for Cars Sydney offers free
+            vehicle removal services. They'll come to your location in Milsons
+            Point, Sydney, to pick up your car, eliminating the need for you to
+            transport it yourself.
+          </p>
+          <h3>
+            <li>Experienced and Professional Team:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> boasts a team of
+            experienced professionals who are well-versed in the car selling
+            process. Their knowledge and expertise ensure that you have a
+            seamless and satisfying experience from start to finish.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to selling your car in Milsons Point,
+          Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as
+          the top choice. With their competitive offers, streamlined process,
+          and commitment to customer satisfaction, they make selling your car a
+          straightforward and lucrative endeavor. Experience the ease of selling
+          your car with the <Link href={"/"}>best cash for cars service</Link>{" "}
+          in the area - choose <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2></h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/29.jpg",
