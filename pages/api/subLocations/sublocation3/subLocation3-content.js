@@ -245,6 +245,114 @@ export const subLocation = [
     ),
   },
 
+  // location 3
+  {
+    image: "/assets/locationsImages/sublocation1Images/32.jpg",
+    title: "Cash for cars Cammeray Sydney",
+    description: (
+      <>
+        <p>
+          Are you a resident of Cammeray, Sydney, looking to sell your old,
+          unwanted, or damaged car? If so, you're in luck!{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is here to offer you
+          the ultimate solution for turning your unwanted vehicle into instant
+          cash. With their exceptional services and customer-centric approach,
+          Aux Cash for Cars Sydney stands out as the top choice for residents in
+          the Cammeray area.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney in Cammeray?</h2>
+        <ol>
+          <h3>
+            <li>Top Dollar Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            providing the most competitive offers for all types of vehicles,
+            regardless of their condition. Whether your car is running perfectly
+            or has seen better days, you can expect a fair and transparent
+            valuation process that ensures you receive the best deal possible.
+          </p>
+          <h3>
+            <li>Convenience at Your Doorstep</li>
+          </h3>
+          <p>
+            Say goodbye to the hassle of advertising, negotiating, and haggling
+            with potential buyers.{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers a
+            hassle-free experience by coming to your location in Cammeray to
+            inspect and collect your vehicle. This convenient service saves you
+            time and effort, making the selling process stress-free.
+          </p>
+          <h3>
+            <li>All Makes and Models Accepted:</li>
+          </h3>
+          <p>
+            No matter the make, model, or condition of your car,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is ready to buy it.
+            From sedans to SUVs, trucks to vans, and everything in between, they
+            are interested in purchasing a wide variety of vehicles.
+          </p>
+          <h3>
+            <li>Instant Cash Payment:</li>
+          </h3>
+          <p>
+            Once the inspection is complete and the deal is agreed upon,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers immediate
+            cash payment. This means you can have the money you need in your
+            hands on the same day, providing you with quick access to funds.
+          </p>
+          <h3>
+            <li>Environmentally Responsible Disposal: </li>
+          </h3>
+          <p>
+            If your car is no longer roadworthy, you can trust{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> to responsibly
+            recycle and dispose of it in an eco-friendly manner. By choosing
+            their services, you contribute to reducing the environmental impact
+            associated with old and unused vehicles.
+          </p>
+          <h3>
+            <li>Professional and Friendly Service:</li>
+          </h3>
+          <p>
+            The team at <Link href={"/"}>Aux Cash for Cars Sydney</Link> is
+            dedicated to delivering a professional and friendly experience.
+            Their experts are knowledgeable, respectful, and committed to
+            ensuring your satisfaction throughout the entire process.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to cash for cars in Cammeray,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> has proven itself to
+          be the best in the business. With their exceptional offers,
+          convenience, and commitment to customer service, they have earned a
+          reputation as the go-to choice for residents seeking a hassle-free way
+          to sell their vehicles. Contact{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> today to turn your
+          unwanted car into cash and experience the difference for yourself.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Cammeray Sydney</h2>, <h2>Sell My Car Cammeray</h2>,{" "}
+        <h2>Top Dollar for Used Cars Sydney</h2>, <h2>Cammeray Car Buyers</h2>,{" "}
+        <h2>Instant Cash for Cars Cammeray</h2>,{" "}
+        <h2>Sydney Car Removal Services</h2>,{" "}
+        <h2>Scrap Car Removal Cammeray</h2>, <h2>Best Car Buyers Sydney</h2>,{" "}
+        <h2>Get Paid for Your Unwanted Car</h2>,{" "}
+        <h2>Sell Damaged Cars Cammeray</h2>,{" "}
+        <h2>Reliable Car Removal Sydney</h2>, <h2>Junk Car Removal Cammeray</h2>
+        , <h2>Cammeray Cash Car Sales</h2>, <h2>Used Car Valuation Sydney</h2>,{" "}
+        <h2>Quick Car Selling Cammeray</h2>, <h2>Free Car Removal Services</h2>,{" "}
+        <h2>Eco-friendly Car Disposal Sydney</h2>,{" "}
+        <h2>Cammeray Scrap Car Buyers</h2>,{" "}
+        <h2>Cash for Trucks and Vans Sydney</h2>,{" "}
+        <h2>Sell My Old Car Cammeray</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/29.jpg",
