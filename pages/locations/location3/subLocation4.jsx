@@ -25,8 +25,8 @@ export async function getServerSideProps() {
       title: "Cash for cars Northbridge Sydney",
       description:
         "Looking to sell your car in Northbridge, Sydney? Aux Cash for Cars Sydney offers the best cash for cars service in the area. Get top dollar for your vehicle, regardless of its condition. With free vehicle removal, quick transactions, and a friendly team, selling your car has never been easier. Contact us today for a hassle-free car selling experience!",
-      image: "/assets/locationsImages/sublocation1Images/32.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location3/subLocation3`,
+      image: "/assets/locationsImages/sublocation1Images/33.jpg",
+      url: `https://auxcashforcarsydney.com/locations/location3/subLocation4`,
       keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
       height: 630,
