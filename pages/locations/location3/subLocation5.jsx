@@ -25,7 +25,7 @@ export async function getServerSideProps() {
       title: "Cash for cars Artarmon Sydney",
       description:
         "Get top cash for cars in Artarmon, Sydney with Aux Cash for Cars. We offer instant quotes, free vehicle removal, and a hassle-free process. Turn your unwanted car into quick cash today!",
-      image: "/assets/locationsImages/sublocation1Images/33.jpg",
+      image: "/assets/locationsImages/sublocation1Images/34.jpg",
       url: `https://auxcashforcarsydney.com/locations/location3/subLocation5`,
       keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
