@@ -620,6 +620,120 @@ export const subLocation = [
     ),
   },
 
+  // location 6
+  {
+    image: "/assets/locationsImages/sublocation1Images/35.jpg",
+    title: "Cash for cars Crows Nest Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your car for cash in Crows Nest, Sydney, the
+          options might seem overwhelming. However, there's one name that stands
+          out as the best in the business –{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With their
+          reputation for exceptional service, hassle-free transactions, and
+          competitive offers, they have become the top choice for individuals
+          looking to sell their cars quickly and efficiently.
+        </p>
+        <h2>
+          Why Choose <Link href={"/"}>Aux Cash for Cars Sydney</Link> in Crows
+          Nest?
+        </h2>
+        <ol>
+          <h3>
+            <li>Competitive Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> has gained a
+            reputation for providing highly competitive offers for all types of
+            vehicles, regardless of their make, model, age, or condition. Their
+            experienced team evaluates each car meticulously to ensure that the
+            seller receives the best deal possible.
+          </p>
+          <h3>
+            <li>Quick and Efficient Process:</li>
+          </h3>
+          <p>
+            Selling a car traditionally can be time-consuming and stressful.{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> streamlines the process,
+            enabling sellers in Crows Nest to get their cash quickly. From the
+            initial inquiry to the final transaction, their team ensures a
+            seamless experience.
+          </p>
+          <h3>
+            <li>Any Make, Any Model:</li>
+          </h3>
+          <p>
+            Whether you have a luxury car, a sedan, an SUV, a truck, or even a
+            damaged vehicle, <Link href={"/"}>Aux Cash for Cars Sydney</Link> is
+            interested. They accept a wide range of vehicle types, making them a
+            go-to option for anyone looking to sell their car in Crows Nest.
+          </p>
+          <h3>
+            <li>Free Car Removal:</li>
+          </h3>
+          <p>
+            One of the most significant advantages of choosing{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> is their free car removal
+            service. Once you accept their offer, they'll arrange a convenient
+            time to pick up your vehicle, saving you the hassle of transport.
+          </p>
+          <h3>
+            <li>Transparent and Trustworthy:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars</Link> prides itself on being
+            transparent in all its dealings. There are no hidden fees or
+            unexpected deductions. What you're quoted is what you'll receive.
+          </p>
+          <h3>
+            <li>Customer-Centric Approach:</li>
+          </h3>
+          <p>
+            The team at <Link href={"/"}>Aux Cash for Cars Sydney</Link> places
+            the customer at the center of their operations. They're known for
+            their friendly and professional service, ensuring that customers
+            have a positive and stress-free experience throughout the entire
+            process.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> If you're in Crows Nest, Sydney, and you're
+          considering selling your car for cash, look no further than{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With their
+          reputation for offering top dollar, a hassle-free process, and
+          exceptional customer service, they have earned their place as the best
+          cash-for-cars service in the area. Say goodbye to the stress of
+          selling your car and hello to a convenient and rewarding experience
+          with <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Crows Nest Sydney</h2>,{" "}
+        <h2>Top Cash for Cars Crows Nest</h2>,{" "}
+        <h2>Sell My Car for Cash Crows Nest</h2>,{" "}
+        <h2>Instant Cash for Cars Crows Nest</h2>,{" "}
+        <h2>Crows Nest Car Removal Services</h2>,{" "}
+        <h2>Scrap Car Removal Crows Nest</h2>,{" "}
+        <h2>Best Car Buyers Crows Nest Sydney</h2>,{" "}
+        <h2>Junk Car Removal Crows Nest</h2>,{" "}
+        <h2>Unwanted Car Removal Sydney</h2>, <h2>Quick Car Sale Crows Nest</h2>
+        , <h2>Cash for Damaged Cars Crows Nest</h2>,{" "}
+        <h2>Sell Your Used Car Crows Nest</h2>,{" "}
+        <h2>Old Car Removal Crows Nest</h2>,{" "}
+        <h2>Cash for Trucks Crows Nest Sydney</h2>,{" "}
+        <h2>Free Car Valuation Crows Nest</h2>,{" "}
+        <h2>Scrap Car Buyers Crows Nest</h2>,{" "}
+        <h2>Same-Day Car Removal Crows Nest</h2>,{" "}
+        <h2>Crows Nest Auto Wreckers</h2>,{" "}
+        <h2>Cash for Utes and Vans Crows Nest</h2>,{" "}
+        <h2>Reliable Car Removal Crows Nest</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/29.jpg",
