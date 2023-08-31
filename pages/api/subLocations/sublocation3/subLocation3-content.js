@@ -734,6 +734,131 @@ export const subLocation = [
     ),
   },
 
+  // location 7
+  {
+    image: "/assets/locationsImages/sublocation1Images/36.jpg",
+    title: "Cash for cars Lane Cove Sydney",
+    description: (
+      <>
+        <p>
+          If you're a resident of Lane Cove in Sydney and are looking to sell
+          your old, unwanted, or damaged car, you're in luck. Cash for cars
+          services have gained significant popularity in recent years, providing
+          individuals with a convenient and efficient way to get rid of their
+          vehicles while earning some extra cash. Among the various options
+          available, <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out
+          as the top choice for anyone seeking the best value for their vehicle
+          in the Lane Cove area.
+        </p>
+        <h2>Why Choose Cash for Cars Services in Lane Cove, Sydney?</h2>
+        <p>
+          Selling a car can often be a hassle, involving numerous steps such as
+          advertising, negotiating with potential buyers, and dealing with
+          paperwork. Cash for cars services simplify this process by offering a
+          quick and straightforward solution. These services purchase vehicles
+          in almost any condition – whether they're old, damaged, unwanted, or
+          simply no longer needed. This eliminates the need for sellers to
+          invest time and money in repairs or advertising.
+        </p>
+        <h2>The Benefits of Aux Cash for Cars Sydney</h2>
+        <p>
+          While there are several cash for cars options available in Lane Cove,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> has emerged as the
+          top choice for a variety of reasons:
+        </p>
+        <ol>
+          <h3>
+            <li>Best Price Guarantee:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is committed to
+            providing the best possible price for your vehicle. Their team of
+            experienced appraisers evaluates your car's condition and market
+            value to ensure you receive a fair and competitive offer.
+          </p>
+          <h3>
+            <li>Instant Cash Offers:</li>
+          </h3>
+          <p>
+            Once you contact <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            with details about your vehicle, they provide instant cash offers.
+            This eliminates the waiting time associated with traditional selling
+            methods and ensures you get paid quickly.
+          </p>
+          <h3>
+            <li>Free Car Removal:</li>
+          </h3>
+          <p>
+            Getting rid of an old or non-functional vehicle can be a headache,
+            especially when it's not in drivable condition.{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers free car
+            removal services, making the process convenient and hassle-free.
+          </p>
+          <h3>
+            <li>No Hidden Costs:</li>
+          </h3>
+          <p>
+            Unlike some other cash for cars services,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is transparent
+            about their pricing. There are no hidden fees or deductions,
+            ensuring you receive the full amount you were offered.
+          </p>
+          <h3>
+            <li>Environmental Responsibility:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> disposes of
+            vehicles in an environmentally friendly manner. If your car is
+            beyond repair, they ensure that it's recycled properly, contributing
+            to a greener future.
+          </p>
+          <h3>
+            <li>Customer-Centric Approach:</li>
+          </h3>
+          <p>
+            Reviews and testimonials from satisfied customers highlight the
+            professionalism and exceptional customer service that{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> provides. Their
+            friendly team guides you through the process and addresses any
+            concerns you might have.
+          </p>
+        </ol>
+        <p>
+          In conclusion, if you're a resident of Lane Cove in Sydney and are
+          considering selling your car, opting for a cash for cars service like{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> could be your best
+          choice. Their commitment to providing the best price, instant cash
+          offers, free car removal, and exceptional customer service sets them
+          apart as the leading option in the area. With{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you can turn your
+          old, unwanted vehicle into cash without the stress and hassle of
+          traditional selling methods.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Lane Cove Sydney</h2>,{" "}
+        <h2>Top Dollar Cash for Cars Lane Cove</h2>,{" "}
+        <h2>Sell My Car for Cash Lane Cove</h2>,{" "}
+        <h2>Instant Cash for Cars Lane Cove</h2>,{" "}
+        <h2>Best Car Removal Lane Cove Sydney</h2>,{" "}
+        <h2>Scrap Car Removal Lane Cove</h2>, <h2></h2>,{" "}
+        <h2>Unwanted Car Removal Sydney</h2>, <h2></h2>,{" "}
+        <h2>Old Car Removal Lane Cove</h2>, <h2>Junk Car Buyers Lane Cove</h2>,{" "}
+        <h2>Free Car Removal Lane Cove Sydney</h2>,{" "}
+        <h2>Sell Your Used Car Lane Cove</h2>, <h2>Quick Car Sale Lane Cove</h2>
+        , <h2>Reliable Car Buyers Sydney</h2>,{" "}
+        <h2>Cash for Scrap Cars Lane Cove</h2>,{" "}
+        <h2>Get Rid of My Car Lane Cove</h2>, <h2>Broken Car Removal Sydney</h2>
+        , <h2>Sell Damaged Car for Cash Lane Cove</h2>, ,{" "}
+        <h2>Scrap Car Collection Lane Cove</h2>, ,{" "}
+        <h2>Cash for Trucks Lane Cove Sydney</h2>, ,{" "}
+        <h2>Used Car Valuation Lane Cove</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/29.jpg",
