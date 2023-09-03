@@ -859,6 +859,122 @@ export const subLocation = [
     ),
   },
 
+  // location 8
+  {
+    image: "/assets/locationsImages/sublocation1Images/37.jpg",
+    title: "Cash for cars Chatswood Sydney",
+    description: (
+      <>
+        <p>
+          Are you a resident of Chatswood, Sydney, looking to sell your old,
+          unwanted car for cash? If so, you're in luck!{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          premier choice for those seeking the best cash for cars service in the
+          Chatswood area. With a stellar reputation built on reliability,
+          professionalism, and top-dollar payouts,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> has earned its status
+          as the go-to destination for turning your old vehicle into quick and
+          hassle-free cash.
+        </p>
+        <h2>
+          Why Choose <Link href={"/"}>Aux Cash for Cars Sydney</Link> in
+          Chatswood?
+        </h2>
+        <ol>
+          <h3>
+            <li>Highest Cash Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> prides itself on
+            offering the highest cash payouts for your unwanted vehicles.
+            Whether your car is old, damaged, junk, or simply no longer serving
+            your needs, you can count on{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> to provide you with
+            a competitive and fair price.
+          </p>
+          <h3>
+            <li>Fast and Convenient:</li>
+          </h3>
+          <p>
+            Selling your car has never been easier! The team at{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> understands the
+            importance of a quick and straightforward process. They'll handle
+            all the necessary paperwork and removal logistics, ensuring you get
+            your cash promptly without any stress.
+          </p>
+          <h3>
+            <li>All Vehicle Types Accepted:</li>
+          </h3>
+          <p>
+            No matter the make, model, age, or condition of your vehicle,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is willing to buy
+            it. Whether you have an old sedan, a broken-down truck, or a scrap
+            car taking up space, they are ready to offer you a great deal.
+          </p>
+          <h3>
+            <li>Eco-Friendly Disposal</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is committed to
+            environmentally responsible car disposal. They follow eco-friendly
+            practices to recycle and dispose of vehicles in an environmentally
+            sound manner, reducing their impact on the environment.
+          </p>
+          <h3>
+            <li>Experienced Professionals:</li>
+          </h3>
+          <p>
+            With a team of seasoned professionals,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> ensures that every
+            aspect of your car selling experience is handled with the utmost
+            professionalism and courtesy. Their knowledgeable staff is ready to
+            answer any questions you may have.
+          </p>
+          <h3>
+            <li>Local Service:</li>
+          </h3>
+          <p>
+            Being a part of the Chatswood community,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> understands the
+            local market and the unique needs of its residents. This local
+            expertise allows them to offer personalized solutions and
+            competitive prices tailored to the area.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> If you're in Chatswood, Sydney, and looking to turn
+          your old car into quick cash, look no further than{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With their
+          top-dollar payouts, fast and convenient service, and commitment to
+          eco-friendly practices,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> has earned its
+          reputation as the best cash for cars service in the area. Say goodbye
+          to your old vehicle and hello to a hassle-free cash transaction by
+          choosing <Link href={"/"}>Aux Cash for Cars Sydney</Link> for all your
+          car-selling needs.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Chatswood</h2>, <h2>Sell my car Chatswood</h2>,{" "}
+        <h2>Chatswood car buyers</h2>, <h2>Instant cash for cars Chatswood</h2>,{" "}
+        <h2>Top car removal Chatswood</h2>, <h2>Chatswood scrap car removal</h2>
+        , <h2>Best car wreckers Chatswood</h2>,{" "}
+        <h2>Chatswood junk car buyers</h2>, <h2>Free car removal Chatswood</h2>,{" "}
+        <h2>Chatswood old car removal</h2>,{" "}
+        <h2>Chatswood damaged car buyers</h2>,{" "}
+        <h2>Chatswood unwanted car removal</h2>,{" "}
+        <h2>Cash for used cars Chatswood</h2>, <h2>Chatswood auto wreckers</h2>,{" "}
+        <h2>Sell my junk car Chatswood</h2>, <h2>Chatswood car disposal</h2>,{" "}
+        <h2>Chatswood cash for cars service</h2>,{" "}
+        <h2>Chatswood scrap car disposal</h2>,{" "}
+        <h2>Top dollar for cars Chatswood</h2>,{" "}
+        <h2>Chatswood car recycling service</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/29.jpg",
