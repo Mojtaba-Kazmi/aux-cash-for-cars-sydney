@@ -975,6 +975,129 @@ export const subLocation = [
     ),
   },
 
+  // location 9
+  {
+    image: "/assets/locationsImages/sublocation1Images/38.jpg",
+    title: "Cash for cars Willoughby Sydney",
+    description: (
+      <>
+        <p>
+          Are you looking to sell your old or unwanted car for cash in
+          Willoughby, Sydney? Look no further than{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, your trusted partner
+          in turning your car into instant cash. With a stellar reputation in
+          the area, <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out
+          as the best choice for those seeking a seamless and lucrative car
+          selling experience.
+        </p>
+        <p>
+          In this article, we will explore why Aux Cash for Cars Sydney is the
+          top choice when it comes to cash for cars in Willoughby, Sydney:
+        </p>
+
+        <ol>
+          <h2>
+            <li>Highest Cash Offers:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            offering the highest cash offers for all types of vehicles,
+            regardless of their make, model, or condition. They understand the
+            true value of your car and ensure that you receive the most
+            competitive price.
+          </p>
+          <h2>
+            <li>Instant Quotes:</li>
+          </h2>
+          <p>
+            Selling your car couldn't be easier with{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>. They provide
+            instant, no-obligation quotes, allowing you to know the worth of
+            your vehicle within minutes. Say goodbye to lengthy negotiations and
+            hello to a straightforward process.
+          </p>
+          <h2>
+            <li>Free Car Removal:</li>
+          </h2>
+          <p>
+            Once you accept their offer,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers free car
+            removal services at your convenience. They will come to your
+            location, pick up the vehicle, and handle all the paperwork, making
+            the process hassle-free.
+          </p>
+          <h2>
+            <li>Environmentally Friendly:</li>
+          </h2>
+          <p>
+            As a responsible car removal service,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> ensures that all
+            vehicles are disposed of in an environmentally friendly manner. They
+            prioritize recycling and safe disposal practices, reducing the
+            environmental impact of old and unwanted cars.
+          </p>
+          <h2>
+            <li>Professional and Friendly Team:</li>
+          </h2>
+          <p>
+            he team at <Link href={"/"}>Aux Cash for Cars Sydney</Link> is known
+            for their professionalism and friendliness. They provide exceptional
+            customer service, answering all your queries and guiding you through
+            the entire process with a smile.
+          </p>
+          <h2>
+            <li>Transparent Transactions:</li>
+          </h2>
+          <p>
+            Transparency is a key aspect of{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney's</Link> operations. You
+            can trust them for honest evaluations and straightforward
+            transactions, ensuring you get the best deal without any hidden fees
+            or surprises.
+          </p>
+          <h2>
+            <li>Local Expertise:</li>
+          </h2>
+          <p>
+            With a deep understanding of the Willoughby and Sydney area,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> has become a
+            trusted name among locals. They know the market dynamics and offer
+            services tailored to the specific needs of the community.
+          </p>
+        </ol>
+        <p>
+          In conclusion, if you're looking to sell your car for cash in
+          Willoughby, Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          is undoubtedly the best choice. Their commitment to providing the
+          highest cash offers, exceptional customer service, and environmentally
+          responsible practices sets them apart as the top cash for cars service
+          in the area. Say goodbye to the stress of selling your car and hello
+          to a swift, profitable, and hassle-free experience with{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Willoughby</h2>, <h2>Willoughby car buyers</h2>,{" "}
+        <h2>Sell my car Willoughby</h2>, <h2>Top cash for cars Willoughby</h2>,{" "}
+        <h2>Instant car removal Willoughby</h2>, <h2>We buy cars Willoughby</h2>
+        , <h2>Scrap car removal Willoughby</h2>,{" "}
+        <h2>Willoughby cash for used cars</h2>,{" "}
+        <h2>Free car valuation Willoughby</h2>, <h2>Sell old car Willoughby</h2>
+        , <h2>Junk car removal Willoughby</h2>,{" "}
+        <h2>Willoughby auto wreckers</h2>,{" "}
+        <h2>Best car removal service in Willoughby</h2>,{" "}
+        <h2>Cash for unwanted cars Willoughby</h2>,{" "}
+        <h2>Willoughby car recycling</h2>,{" "}
+        <h2>Same-day car removal Willoughby</h2>,{" "}
+        <h2>Willoughby car salvage</h2>, <h2>Quick car sale Willoughby</h2>,{" "}
+        <h2>Used car buyers Willoughby</h2>,{" "}
+        <h2>Get paid for your car Willoughby Sydne</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/29.jpg",
