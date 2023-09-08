@@ -1098,6 +1098,113 @@ export const subLocation = [
     ),
   },
 
+  // location 10
+  {
+    image: "/assets/locationsImages/sublocation1Images/39.jpg",
+    title: "Cash for cars Mosman Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your old, unwanted, or damaged car in Mosman,
+          Sydney, you have several options. However, if you're looking for a
+          hassle-free and convenient way to get top cash for your car,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          best choice in the area. With a reputation for exceptional service and
+          competitive offers, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          has become the preferred destination for Mosman residents seeking cash
+          for their cars.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney?</h2>
+        <ol>
+          <h3>
+            <li>Instant Cash Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            providing instant cash offers for your vehicles. Whether your car is
+            running or not, they will assess its value and offer you a fair
+            price on the spot. This quick and efficient process means you can
+            have cash in hand within hours of contacting them.
+          </p>
+          <h3>
+            <li>Any Make and Model:</li>
+          </h3>
+          <p>
+            Regardless of your car's make, model, age, or condition,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is interested in
+            buying it. Whether you have a used sedan, a damaged SUV, or a scrap
+            truck, they will make you an offer that reflects its true worth.
+          </p>
+          <h3>
+            <li>Free Towing and Removal:</li>
+          </h3>
+          <p>
+            One of the most significant advantages of dealing with{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their free
+            towing and removal service. Once you accept their offer, they will
+            schedule a convenient pickup time and location. You don't have to
+            worry about the logistics or incur any additional expenses.
+          </p>
+          <h3>
+            <li>Environmentally Friendly:</li>
+          </h3>
+          <p>
+            {" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is committed to
+            environmentally responsible recycling practices. They ensure that
+            every vehicle they purchase is disposed of in an eco-friendly
+            manner, reducing its impact on the environment.
+          </p>
+          <h3>
+            <li>Professional and Friendly Service:</li>
+          </h3>
+          <p>
+            Customers in Mosman, Sydney, consistently praise{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> for their
+            professionalism and friendly approach. Their team of experts is
+            dedicated to making the selling process as smooth as possible,
+            answering any questions you may have along the way.
+          </p>
+          <h3>
+            <li>Competitive Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> understands the
+            local market and strives to provide the most competitive cash offers
+            in Mosman. They are known for their transparent pricing and fair
+            assessments, ensuring you get the best deal for your vehicle.
+          </p>
+        </ol>
+        <p>
+          Conclusion: When it comes to cash for cars in Mosman, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          best choice. Their commitment to excellent customer service, instant
+          cash offers, and environmentally responsible practices make them the
+          preferred option for anyone looking to sell their car quickly and
+          hassle-free. Contact <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          today and experience the convenience and efficiency of selling your
+          car to the best in the business.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Mosman</h2>, <h2>Sydney car buyers</h2>,{" "}
+        <h2>Sell my car Mosman</h2>, <h2>Cash for unwanted cars</h2>,{" "}
+        <h2>Mosman car removal</h2>, <h2>Top dollar for cars Sydney</h2>,{" "}
+        <h2>Instant cash for cars Mosman</h2>,{" "}
+        <h2>Best car selling service Mosman</h2>,{" "}
+        <h2>Sell damaged car Mosman</h2>, <h2>Mosman junk car buyers</h2>,{" "}
+        <h2>Scrap car removal Sydney</h2>, <h2>Cash for old cars Mosman</h2>,{" "}
+        <h2>Free car valuation Mosman</h2>, <h2>Quick car sale Mosman</h2>,{" "}
+        <h2>Top car removals Sydney</h2>, <h2>Sell my junk car Mosman</h2>,{" "}
+        <h2>Mosman car wreckers</h2>, <h2>Cash for used cars Mosman</h2>,{" "}
+        <h2>Sell my damaged car Sydney</h2>,{" "}
+        <h2>Mosman auto recycling services</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/29.jpg",
