@@ -1205,6 +1205,121 @@ export const subLocation = [
     ),
   },
 
+  // location 11
+  {
+    image: "/assets/locationsImages/sublocation1Images/40.jpg",
+    title: "Cash for cars Neutral Bay Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your old or unwanted vehicle in Neutral Bay,
+          Sydney, finding the right cash for cars service can make all the
+          difference. Among the many options available,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>
+          stands out as the best choice for those looking to get top dollar for
+          their vehicles and a hassle-free selling experience. In this article,
+          we will explore why <Link href={"/"}>
+            Aux Cash for Cars Sydney
+          </Link>{" "}
+          is considered the premier cash for cars service in the area.
+        </p>
+        <ol>
+          <h2>
+            <li>Exceptional Cash Offers:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> prides itself on
+            offering some of the most competitive cash offers for cars in
+            Neutral Bay. Whether your vehicle is in perfect condition or has
+            seen better days, they evaluate every car fairly and provide a quote
+            that reflects its true worth. With Aux Cash for Cars Sydney, you can
+            expect to receive the best value for your car.
+          </p>
+          <h2>
+            <li>Hassle-Free and Convenient Process:</li>
+          </h2>
+          <p>
+            Selling a car can often be a time-consuming and stressful endeavor.
+            However, <Link href={"/"}>Aux Cash for Cars Sydney</Link> has
+            streamlined the process to make it as hassle-free and convenient as
+            possible. They handle all the paperwork and logistics, ensuring a
+            smooth and straightforward transaction. You can sell your car
+            quickly without the headaches of dealing with potential buyers,
+            negotiations, or complicated paperwork.
+          </p>
+          <h2>
+            <li>Acceptance of All Vehicle Types:</li>
+          </h2>
+          <p>
+            One of the standout features of{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their
+            willingness to buy all types of vehicles. Whether you have an old
+            sedan, a damaged SUV, a scrap truck, or even a used motorcycle, they
+            will gladly take it off your hands. This versatility makes them a
+            go-to option for anyone looking to sell a vehicle, regardless of its
+            condition or type.
+          </p>
+          <h2>
+            <li>Environmentally Responsible Disposal:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is committed to
+            responsible disposal practices. If your vehicle is beyond repair or
+            salvageable, they ensure that it is recycled and disposed of in an
+            environmentally friendly manner, minimizing the impact on the
+            environment.
+          </p>
+          <h2>
+            <li>Trusted Reputation:</li>
+          </h2>
+          <p>
+            Over the years, <Link href={"/"}>Aux Cash for Cars Sydney</Link> has
+            built a reputation for reliability, transparency, and excellent
+            customer service. Numerous satisfied customers in Neutral Bay and
+            the surrounding areas attest to their professionalism and integrity.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to{" "}
+          <Link href={"/"}>cash for cars services</Link> in Neutral Bay, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> has earned its
+          reputation as the best in the area. With competitive cash offers, a
+          hassle-free process, acceptance of all vehicle types, and a commitment
+          to responsible disposal, they are the top choice for those looking to
+          sell their cars quickly and easily. Experience the convenience and
+          satisfaction of selling your car to{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the trusted name in
+          cash for cars in Neutral Bay.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Neutral Bay</h2>, <h2>Sell my car Neutral Bay</h2>,{" "}
+        <h2>Top car buyers Neutral Bay</h2>,{" "}
+        <h2>Instant cash for cars Neutral Bay</h2>,{" "}
+        <h2>Neutral Bay car removal</h2>,{" "}
+        <h2>Best car removal service in Sydney</h2>,{" "}
+        <h2>Scrap car buyers Neutral Bay</h2>, <h2></h2>,{" "}
+        <h2>Get top dollar for your car Neutral Bay</h2>,{" "}
+        <h2>Free car valuation Neutral Bay</h2>,{" "}
+        <h2>Junk car removal Neutral Bay</h2>,{" "}
+        <h2>Unwanted car buyers Neutral Bay</h2>,{" "}
+        <h2>Quick car sale Neutral Bay</h2>,{" "}
+        <h2>Top car wreckers Neutral Bay</h2>,{" "}
+        <h2>Sydney's trusted car buyers</h2>, <h2>Sell any car Neutral Bay</h2>,{" "}
+        <h2>Neutral Bay auto recycling</h2>,{" "}
+        <h2>Cash for old cars Neutral Bay</h2>,{" "}
+        <h2>Neutral Bay car disposal</h2>,{" "}
+        <h2>We buy cars for cash in Neutral Bay</h2>,{" "}
+        <h2>Sell your car fast Neutral Bay</h2>,{" "}
+        <h2>Neutral Bay car salvage</h2>,{" "}
+        <h2>Reliable car buyers Neutral Bay</h2>,{" "}
+        <h2>Best price for cars in Neutral Bay</h2>,
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/29.jpg",

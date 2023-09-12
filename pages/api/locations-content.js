@@ -361,9 +361,6 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Willoughby Sydney</h2>,{" "}
-        <h2>Cash for cars Mosman Sydney</h2>,{" "}
-        <h2>Cash for cars Neutral Bay Sydney</h2>,{" "}
         <h2>Cash for cars Cremorne Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
       </>
     ),
