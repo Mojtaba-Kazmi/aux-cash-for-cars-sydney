@@ -26,7 +26,7 @@ export async function getServerSideProps() {
       description:
         "Discover the best cash for cars service in Neutral Bay, Sydney – Aux Cash for Cars Sydney! Get top-dollar offers, hassle-free transactions, and eco-friendly disposal for all vehicle types. Sell your car with confidence today!",
       image: "/assets/locationsImages/sublocation1Images/40.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location3/subLocation10`,
+      url: `https://auxcashforcarsydney.com/locations/location3/subLocation11`,
       keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
       height: 630,
