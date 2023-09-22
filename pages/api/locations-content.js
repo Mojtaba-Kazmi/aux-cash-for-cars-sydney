@@ -474,8 +474,6 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars North Sydney Sydney</h2>,{" "}
-        <h2>Cash for cars Milsons Point Sydney</h2>,{" "}
         <h2>Cash for cars Cammeray Sydney</h2>,{" "}
         <h2>Cash for cars Northbridge Sydney</h2>,{" "}
         <h2>Cash for cars Artarmon Sydney</h2>,{" "}
