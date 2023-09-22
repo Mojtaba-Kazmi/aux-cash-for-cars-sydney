@@ -25,8 +25,8 @@ export async function getServerSideProps() {
       title: "Cash for cars Milsons Point Sydney",
       description:
         "Looking to sell your car in Milsons Point, Sydney? Aux Cash for Cars Sydney offers top cash for cars in Milsons Point and surrounding areas. Get instant quotes, same-day car removal, and a hassle-free selling experience. Contact us today!",
-      image: "/assets/locationsImages/sublocation1Images/30.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location3/subLocation1`,
+      image: "/assets/locationsImages/sublocation1Images/42.jpg",
+      url: `https://auxcashforcarsydney.com/locations/location4/subLocation1`,
       keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
       height: 630,
