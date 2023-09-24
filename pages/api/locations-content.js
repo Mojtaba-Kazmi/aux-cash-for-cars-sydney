@@ -474,7 +474,6 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Northbridge Sydney</h2>,{" "}
         <h2>Cash for cars Artarmon Sydney</h2>,{" "}
         <h2>Cash for cars Crows Nest Sydney</h2>,{" "}
         <h2>Cash for cars Lane Cove Sydney</h2>,{" "}

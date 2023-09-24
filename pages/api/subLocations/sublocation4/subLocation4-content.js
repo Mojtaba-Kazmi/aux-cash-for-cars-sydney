@@ -252,6 +252,122 @@ export const subLocation = [
     ),
   },
 
+  // location 3
+  {
+    image: "/assets/locationsImages/sublocation1Images/44.jpg",
+    title: "Cash for cars Northbridge Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your car in Northbridge, Sydney, the choice
+          is clear: <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out
+          as the best cash for cars service in the area. Whether you have a used
+          vehicle, a damaged car, or simply want to trade in your old model for
+          some quick cash, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          offers a seamless and lucrative solution for residents in Northbridge
+          and its surrounding neighborhoods.
+        </p>
+        <p>
+          Selling your car can often be a daunting task, with a myriad of
+          uncertainties and hassles involved. However, Aux Cash for Cars Sydney
+          has simplified the process, making it hassle-free and highly rewarding
+          for car owners in Northbridge. Here's why{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the top choice for
+          cashing in your vehicle:
+        </p>
+        <ol>
+          <h2>
+            <li>Instant Cash Offers:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> understands that
+            time is of the essence. That's why they provide instant cash offers
+            for your car. With their efficient evaluation system, you can
+            receive a fair and competitive price for your vehicle within minutes
+            of contacting them.
+          </p>
+          <h2>
+            <li>Free Car Removal:</li>
+          </h2>
+          <p>
+            One of the most convenient aspects of{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney's</Link>
+            service is their complimentary car removal service. They will come
+            to your location in Northbridge at a time that suits you, ensuring
+            the entire process is as convenient as possible.
+          </p>
+          <h2>
+            <li>All Car Types Accepted: </li>
+          </h2>
+          <p>
+            Whether you have an old, damaged, scrap, or unwanted car,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts vehicles in
+            all conditions. You don't have to worry about the condition of your
+            car; they will buy it regardless.
+          </p>
+          <h2>
+            <li>Professional and Friendly Team: </li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> boasts a team of
+            experienced and friendly professionals who are dedicated to
+            providing excellent customer service. They are there to guide you
+            through the process, answer your questions, and ensure a smooth
+            transaction.
+          </p>
+          <h2>
+            <li>Environmentally Responsible: </li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is committed to
+            eco-friendly practices. They dispose of vehicles in an
+            environmentally responsible manner, recycling and salvaging parts to
+            minimize the impact on the environment.
+          </p>
+          <h2>
+            <li>Competitive Pricing: </li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers some of the
+            most competitive prices for cars in Northbridge. You can be sure
+            that you are getting the best value for your vehicle.
+          </p>
+        </ol>
+        <p>
+          In conclusion, when it comes to selling your car in Northbridge,
+          Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the go-to
+          choice. Their dedication to customer satisfaction, prompt service, and
+          competitive pricing make them the premier cash for cars service in the
+          area. Say goodbye to the hassles of selling your car and hello to a
+          seamless and rewarding experience with{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Northbridge</h2>,{" "}
+        <h2>Northbridge Sydney car buyers</h2>, <h2>Sell my car Northbridge</h2>
+        , <h2>Instant cash for cars Northbridge</h2>,{" "}
+        <h2>Top car removal Northbridge</h2>, <h2>Northbridge car wreckers</h2>,{" "}
+        <h2>Scrap car removal Northbridge</h2>,{" "}
+        <h2>Get paid for your car Northbridge</h2>,{" "}
+        <h2>Junk car buyers Northbridge</h2>,{" "}
+        <h2>Sell my old car Northbridge Sydney</h2>,{" "}
+        <h2>Unwanted car removal Northbridge</h2>,{" "}
+        <h2>Cash for damaged cars Northbridge</h2>,{" "}
+        <h2>Northbridge auto recyclers</h2>,{" "}
+        <h2>Best car removal service Northbridge</h2>,{" "}
+        <h2>Sell my used car Northbridge Sydney</h2>,{" "}
+        <h2>Free car removal Northbridge</h2>,{" "}
+        <h2>Top dollar for cars Northbridge</h2>,{" "}
+        <h2>Northbridge car disposal</h2>,{" "}
+        <h2>Cash for unwanted vehicles Northbridge</h2>,{" "}
+        <h2>Northbridge car selling experts</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/42.jpg",
