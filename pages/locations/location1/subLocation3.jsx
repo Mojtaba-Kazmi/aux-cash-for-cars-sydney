@@ -22,9 +22,9 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Cash for Cars Ultimo Sydney",
+      title: "Cash for cars Chippendale Sydney",
       description:
-        "Looking to sell your car for cash in Ultimo, Sydney? Look no further! Cash for Cars Ultimo Sydney is your trusted and reliable solution. We offer top dollar for your used, unwanted, or old vehicles, regardless of their make, model, or condition. Our expert team provides a hassle-free car selling experience, offering instant cash payment and free vehicle removal. Don't let your car sit idle – contact Cash for Cars Ultimo Sydney today and turn your vehicle into cash!",
+        "Get top cash for cars in Chippendale, Sydney with Aux Cash for Cars Sydney! We offer fast and hassle-free car removal services, turning your old or unwanted vehicles into instant cash. Contact us today for a quick and convenient car selling experience.",
       image: "/assets/locationsImages/sublocation1Images/3.jpg",
       url: `https://auxcashforcarsydney.com/locations/location1/subLocation3`,
       keyword:
