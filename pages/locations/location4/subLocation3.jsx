@@ -22,9 +22,9 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Cash for cars Northbridge Sydney",
+      title: "Cash for cars Rozelle Sydney",
       description:
-        "Looking to sell your old car in Northbridge, Sydney? Aux Cash for Cars Sydney offers top cash for cars in Northbridge and surrounding areas. Get instant quotes, hassle-free pickups, and quick cash for your unwanted vehicles. Contact us today for a fast and convenient car selling experience",
+        "Looking to sell your old car in Rozelle, Sydney? Aux Cash for Cars Sydney offers top cash for cars in Rozelle and its surrounding areas. We buy all makes and models, running or not. Get quick cash for your car today! Contact us for a hassle-free car selling experience.",
       image: "/assets/locationsImages/sublocation1Images/44.jpg",
       url: `https://auxcashforcarsydney.com/locations/location4/subLocation3`,
       keyword: "Cash for cars Sydney, car remval Sydney",

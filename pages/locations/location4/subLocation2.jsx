@@ -22,9 +22,9 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Cash for cars Cammeray Sydney",
+      title: "Cash for cars Annandale Sydney",
       description:
-        "Looking to sell your car in Cammeray, Sydney? Aux Cash for Cars is your trusted partner for quick and hassle-free cash transactions. We offer top dollar for your unwanted vehicles, providing a seamless car selling experience. Contact us today for instant cash and efficient car removal services in Cammeray, Sydney!",
+        "Looking to sell your car in Annandale, Sydney? Aux Cash for Cars Sydney offers top cash for cars in Annandale and the surrounding areas. Get instant cash for your old, unwanted, or damaged vehicle. Contact us today for a hassle-free car selling experience!",
       image: "/assets/locationsImages/sublocation1Images/43.jpg",
       url: `https://auxcashforcarsydney.com/locations/location4/subLocation2`,
       keyword: "Cash for cars Sydney, car remval Sydney",

@@ -22,9 +22,9 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Cash for cars Milsons Point Sydney",
+      title: "Cash for cars Glebe Sydney",
       description:
-        "Looking to sell your car in Milsons Point, Sydney? Aux Cash for Cars Sydney offers top cash for cars in Milsons Point and surrounding areas. Get instant quotes, same-day car removal, and a hassle-free selling experience. Contact us today!",
+        "Looking to sell your car for cash in Glebe, Sydney? Aux Cash for Cars Sydney offers top dollar for all types of vehicles. Get quick and hassle-free cash for cars in Glebe today!",
       image: "/assets/locationsImages/sublocation1Images/42.jpg",
       url: `https://auxcashforcarsydney.com/locations/location4/subLocation1`,
       keyword: "Cash for cars Sydney, car remval Sydney",

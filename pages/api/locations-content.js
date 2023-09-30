@@ -493,8 +493,6 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Glebe Sydney</h2>,{" "}
-        <h2>Cash for cars Annandale Sydney</h2>,{" "}
         <h2>Cash for cars Rozelle Sydney</h2>,{" "}
         <h2>Cash for cars Leichhardt Sydney</h2>,{" "}
         <h2>Cash for cars Balmain Sydney</h2>,{" "}
