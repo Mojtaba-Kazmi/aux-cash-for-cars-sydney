@@ -316,6 +316,122 @@ export const subLocation = [
     ),
   },
 
+  // location 4
+  {
+    image: "/assets/locationsImages/sublocation1Images/45.jpg",
+    title: "Cash for cars Leichhardt Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your old, unwanted, or damaged vehicle in
+          Leichhardt, Sydney, finding the right cash for cars service is
+          crucial. Among the various options available,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          best choice for anyone looking to get the most value for their
+          vehicle. With a reputation for excellence and a commitment to customer
+          satisfaction, <Link href={"/"}>Aux Cash for Cars Sydney</Link> has
+          become the go-to destination for residents in the area seeking a
+          hassle-free and rewarding car selling experience.
+        </p>
+        <h2>
+          Why Choose <Link href={"/"}>Aux Cash for Cars Sydney?</Link>
+        </h2>
+        <ol>
+          <h3>
+            <li>Top Dollar for Your Vehicle:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is known for
+            offering the highest payouts in the industry. Whether your car is in
+            pristine condition or has seen better days, you can trust{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> to provide a fair
+            and competitive cash offer. They specialize in all types of
+            vehicles, including old cars, used cars, scrap cars, and even
+            wrecked cars.
+          </p>
+
+          <h3>
+            <li>Quick and Convenient Service:</li>
+          </h3>
+          <p>
+            Selling your car with{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is a breeze. They
+            have streamlined the process to ensure that it's as quick and
+            convenient as possible. You can get an instant quote online or over
+            the phone, schedule a pickup at your preferred time, and have your
+            car removed in no time. Say goodbye to the hassles of listing your
+            car online, negotiating with potential buyers, and dealing with the
+            paperwork—<Link href={"/"}>Aux Cash for Cars Sydney</Link> takes
+            care of it all.
+          </p>
+
+          <h3>
+            <li>Professional and Reliable Team:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> prides itself on
+            its team of experienced professionals who are dedicated to
+            delivering top-notch service. Their friendly and knowledgeable staff
+            will guide you through the entire process, answer your questions,
+            and ensure a seamless transaction.
+          </p>
+
+          <h3>
+            <li>Eco-Friendly Car Disposal:</li>
+          </h3>
+          <p>
+            Concerned about the environmental impact of disposing of your old
+            car? <Link href={"/"}>Aux Cash for Cars Sydney</Link> is committed
+            to eco-friendly practices. They properly recycle and dispose of
+            vehicles in compliance with all environmental regulations, helping
+            to reduce the carbon footprint associated with automotive waste.
+          </p>
+
+          <h3>
+            <li>Wide Service Area:</li>
+          </h3>
+          <p>
+            While based in Leichhardt,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> serves a wide range
+            of areas in and around Sydney. Whether you're in Leichhardt,
+            Newtown, Parramatta, or any other suburb, they will come to you to
+            pick up your vehicle.
+          </p>
+        </ol>
+        <p>
+          Conclusion: When it comes to selling your car in Leichhardt, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          premier cash for cars service in the area. With their commitment to
+          offering the best prices, hassle-free process, and dedication to
+          customer satisfaction, they have earned their reputation as the top
+          choice for anyone looking to turn their unwanted vehicle into cash.
+          Contact <Link href={"/"}>Aux Cash for Cars Sydney</Link> today for a
+          stress-free and rewarding car selling experience.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Leichhardt</h2>, <h2>Sell my car Leichhardt</h2>,{" "}
+        <h2>Top dollar for cars Leichhardt</h2>, <h2>Car buyers Leichhardt</h2>,{" "}
+        <h2>Instant cash for cars Leichhardt</h2>,{" "}
+        <h2>Leichhardt car removal</h2>,{" "}
+        <h2>3. Leichhardt car selling service</h2>,{" "}
+        <h2>Scrap car removal Leichhardt</h2>,{" "}
+        <h2>Junk car buyers Leichhardt</h2>, <h2>Old car removal Leichhardt</h2>
+        , <h2>Free car removal Leichhardt</h2>,{" "}
+        <h2>Best car buyers in Sydney</h2>,{" "}
+        <h2>Cash for unwanted cars Sydney</h2>,{" "}
+        <h2>We buy used cars Leichhardt</h2>, <h2>Leichhardt auto wreckers</h2>,{" "}
+        <h2>Sell damaged car Leichhardt</h2>,{" "}
+        <h2>Quick cash for cars Leichhardt</h2>,{" "}
+        <h2>1. Cash for trucks Leichhardt</h2>,{" "}
+        <h2>2. Sell my SUV Leichhardt</h2>,{" "}
+        <h2>4. Reliable car buyers Leichhardt</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/42.jpg",
