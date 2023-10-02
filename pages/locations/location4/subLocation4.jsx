@@ -25,8 +25,8 @@ export async function getServerSideProps() {
       title: "Cash for cars Leichhardt Sydney",
       description:
         "Looking to sell your old car for cash in Leichhardt, Sydney? Aux Cash for Cars Sydney is your trusted partner for hassle-free car removal and top-dollar payouts. Get quick and convenient cash for cars in Leichhardt today!",
-      image: "/assets/locationsImages/sublocation1Images/44.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location4/subLocation3`,
+      image: "/assets/locationsImages/sublocation1Images/45.jpg",
+      url: `https://auxcashforcarsydney.com/locations/location4/subLocation4`,
       keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
       height: 630,
