@@ -432,6 +432,125 @@ export const subLocation = [
     ),
   },
 
+  // location 5
+  {
+    image: "/assets/locationsImages/sublocation1Images/46.jpg",
+    title: "Cash for cars Balmain Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your old, unwanted, or damaged car in
+          Balmain, Sydney, finding a reliable and hassle-free solution is
+          paramount. In the heart of this bustling urban community,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          go-to choice for individuals looking to convert their vehicles into
+          instant cash. With a proven track record and a commitment to customer
+          satisfaction, <Link href={"/"}>Aux Cash for Cars Sydney</Link> has
+          earned its reputation as the best cash for cars service in the area.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney?</h2>
+        <ol>
+          <h3>
+            <li>Top Dollar for Your Vehicle:</li>
+          </h3>
+          <p>
+            At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, they understand
+            the value of your car, regardless of its condition. Whether you have
+            a working, damaged, scrap, or old vehicle, you can expect to receive
+            the highest possible cash offer for it. They believe that every car
+            has worth, and they are determined to offer you the best deal.
+          </p>
+          <h3>
+            <li>Convenient and Quick Service:</li>
+          </h3>
+          <p>
+            Time is money, and <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            respects your time. They offer a streamlined, hassle-free process
+            that ensures you get cash for your car swiftly. Their team is prompt
+            and efficient, making the entire transaction smooth and convenient
+            for you.
+          </p>
+          <h3>
+            <li>Free Car Removal:</li>
+          </h3>
+          <p>
+            Towing a damaged or non-functional car can be expensive and
+            troublesome. With <Link href={"/"}>Aux Cash for Cars Sydney</Link>,
+            you won't have to worry about this. They provide free car removal
+            services, saving you both time and money.
+          </p>
+          <h3>
+            <li>Environmentally Friendly Practices:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is committed to
+            eco-friendly car recycling practices. They ensure that all
+            components and materials from scrapped vehicles are recycled
+            responsibly, contributing to a cleaner environment.
+          </p>
+          <h3>
+            <li>Friendly and Professional Team:</li>
+          </h3>
+          <p>
+            Dealing with unwanted cars can be stressful, but the team at{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> makes the process
+            easy. Their friendly and knowledgeable staff are always ready to
+            assist you and answer any questions you may have.
+          </p>
+          <h3>
+            <li>No Hidden Fees:</li>
+          </h3>
+          <p>
+            You can trust <Link href={"/"}>Aux Cash for Cars Sydney</Link> for a
+            transparent and honest transaction. They provide fair, upfront cash
+            offers with no hidden fees or surprises.
+          </p>
+          <h3>
+            <li>All Makes and Models:</li>
+          </h3>
+          <p>
+            Regardless of the make, model, or year of your vehicle,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> will buy it. They
+            accept a wide range of vehicles, from cars to trucks and everything
+            in between.
+          </p>
+        </ol>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars Sydney's</Link> commitment to
+          customer satisfaction, fair pricing, and efficient service makes them
+          the ultimate choice for anyone looking to sell their car in Balmain,
+          Sydney. When you choose{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you're not just
+          selling a car; you're making a smart and hassle-free decision.
+        </p>
+        <p>
+          Say goodbye to the stress and uncertainty of selling your car
+          privately or through classified ads. Experience the ease and
+          reliability of <Link href={"/"}>Aux Cash for Cars Sydney</Link> and
+          get top dollar for your vehicle today.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Leichhardt</h2>, <h2>Sell my car Leichhardt</h2>,{" "}
+        <h2>Top dollar for cars Leichhardt</h2>, <h2>Car buyers Leichhardt</h2>,{" "}
+        <h2>Instant cash for cars Leichhardt</h2>,{" "}
+        <h2>Leichhardt car removal</h2>, <h2>Scrap car removal Leichhardt</h2>,{" "}
+        <h2>Junk car buyers Leichhardt</h2>, <h2>Old car removal Leichhardt</h2>
+        , <h2>Free car removal Leichhardt</h2>,{" "}
+        <h2>Best car buyers in Sydney</h2>,{" "}
+        <h2>Cash for unwanted cars Sydney</h2>,{" "}
+        <h2>We buy used cars Leichhardt</h2>, <h2>Leichhardt auto wreckers</h2>,{" "}
+        <h2>Sell damaged car Leichhardt</h2>,{" "}
+        <h2>Quick cash for cars Leichhardt</h2>,{" "}
+        <h2>Cash for trucks Leichhardt</h2>, <h2>Sell my SUV Leichhardt</h2>,{" "}
+        <h2>Leichhardt car selling service</h2>,{" "}
+        <h2>Reliable car buyers Leichhardt</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/42.jpg",
