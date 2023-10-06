@@ -551,6 +551,110 @@ export const subLocation = [
     ),
   },
 
+  // location 6
+  {
+    image: "/assets/locationsImages/sublocation1Images/47.jpg",
+    title: "Cash for cars Newtown Sydney",
+    description: (
+      <>
+        <p>
+          Newtown, located in the vibrant heart of Sydney, is a bustling suburb
+          with a diverse community and a thriving automotive culture. Whether
+          you're a resident or business owner in Newtown, there may come a time
+          when you need to part ways with your old or unwanted vehicle. When
+          it's time to sell your car for cash in Newtown, Aux Cash for Cars
+          Sydney stands out as the premier choice. In this article, we will
+          explore why <Link href={"/"}>Aux Cash for Cars Sydney</Link> is
+          considered the best cash for cars service in the area.
+        </p>
+        <ol>
+          <h2>
+            <li>Top Dollar for Your Vehicle:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> prides itself on
+            offering the most competitive cash offers for cars in Newtown. They
+            understand that every vehicle has value, regardless of its make,
+            model, or condition. Whether you have a used car, a damaged vehicle,
+            or an old clunker, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            will provide you with a fair and top-dollar offer.
+          </p>
+          <h2>
+            <li>Hassle-Free Car Removal:</li>
+          </h2>
+          <p>
+            Getting rid of an old car can be a daunting task, but{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> makes it easy.
+            Their team offers a hassle-free car removal service, ensuring that
+            you don't have to worry about towing, paperwork, or any other
+            logistics. They handle it all, making the process convenient and
+            stress-free for you.
+          </p>
+          <h2>
+            <li>Instant Cash Payments:</li>
+          </h2>
+          <p>
+            One of the standout features of{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their commitment
+            to delivering instant cash payments. Once they assess your vehicle
+            and provide you with an offer, you can expect to receive your
+            payment right on the spot. This quick and straightforward
+            transaction ensures that you get the cash you need when you need it.
+          </p>
+          <h2>
+            <li>Eco-Friendly Car Recycling:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is not just about
+            providing cash for cars; they are also dedicated to environmental
+            sustainability. They follow eco-friendly car recycling practices,
+            ensuring that end-of-life vehicles are disposed of in an
+            environmentally responsible manner. By choosing{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you're
+            contributing to a greener future.
+          </p>
+          <h2>
+            <li>Customer-Centric Approach:</li>
+          </h2>
+          <p>
+            What sets <Link href={"/"}>Aux Cash for Cars Sydney</Link> apart is
+            their customer-centric approach. They prioritize customer
+            satisfaction and ensure that the entire car-selling process is
+            convenient and transparent. Their friendly and professional staff is
+            always ready to assist you, addressing any questions or concerns you
+            may have.
+          </p>
+        </ol>
+        <p>
+          When it comes to cash for cars in Newtown, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands as the
+          unrivaled choice. Their commitment to fair offers, hassle-free
+          services, instant cash payments, eco-friendly practices, and customer
+          satisfaction makes them the best cash for cars service in the area. If
+          you're looking to sell your car and receive top dollar for it, while
+          also contributing to a cleaner environment,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is your trusted
+          partner in Newtown.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Newtown Sydney</h2>, <h2>Newtown car buyers</h2>,{" "}
+        <h2>Sell my car Newtown</h2>, <h2>Top cash for cars Sydney</h2>,{" "}
+        <h2>Instant car valuation Newtown</h2>,{" "}
+        <h2>Scrap car removal Sydney</h2>, <h2>Used car buyers Newtown</h2>,{" "}
+        <h2>Junk car removal Newtown</h2>, <h2>Newtown cash for used cars</h2>,{" "}
+        <h2>Sell your car fast Newtown</h2>, <h2>Cash for old cars Sydney</h2>,{" "}
+        <h2>Newtown auto wreckers</h2>, <h2>Unwanted car removal Sydney</h2>,{" "}
+        <h2>Newtown car salvage</h2>, <h2>Best car removal service Newtown</h2>,{" "}
+        <h2>Top dollar for cars Sydney</h2>, <h2>Free car removal Newtown</h2>,{" "}
+        <h2>Newtown car recycling</h2>, <h2>Sell damaged car Newtown</h2>,{" "}
+        <h2>Newtown cash for scrap cars</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/42.jpg",

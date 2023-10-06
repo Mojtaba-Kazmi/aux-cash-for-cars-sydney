@@ -493,8 +493,6 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Balmain Sydney</h2>,{" "}
-        <h2>Cash for cars Newtown Sydney</h2>,{" "}
         <h2>Cash for cars Erskineville Sydney</h2>,{" "}
         <h2>Cash for cars St Peters Sydney</h2>,{" "}
         <h2>Cash for cars Haberfield Sydney</h2>,{" "}
