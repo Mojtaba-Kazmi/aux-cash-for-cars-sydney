@@ -655,6 +655,123 @@ export const subLocation = [
     ),
   },
 
+  // location 7
+  {
+    image: "/assets/locationsImages/sublocation1Images/48.jpg",
+    title: "Cash for cars Erskineville Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your old or unwanted vehicles in
+          Erskineville, Sydney, you want a service that not only offers the best
+          cash deals but also ensures a hassle-free experience. Look no further
+          than <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the undisputed
+          leader in the industry and the go-to choice for anyone looking to sell
+          their cars quickly and conveniently in the Erskineville area.
+        </p>
+        <h2>
+          Why <Link href={"/"}>Aux Cash for Cars Sydney</Link> Stands Out:
+        </h2>
+        <ol>
+          <h3>
+            <li>Top Dollar Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is renowned for its
+            generous cash offers. We understand the value of your vehicle,
+            regardless of its make, model, or condition, and ensure that you
+            receive the best price possible.
+          </p>
+          <h3>
+            <li>Instant Quotes:</li>
+          </h3>
+          <p>
+            Our streamlined process allows you to obtain an instant quote for
+            your car. Simply provide us with some essential details about your
+            vehicle, and we'll provide you with an accurate and competitive
+            quote within minutes.
+          </p>
+          <h3>
+            <li>Free Car Removal:</li>
+          </h3>
+          <p>
+            Unlike many other cash for cars services,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers free car
+            removal services. We'll come to your location in Erskineville,
+            Sydney, at a time that suits you, and tow away your vehicle at no
+            cost to you.
+          </p>
+          <h3>
+            <li>All Vehicle Types Accepted:</li>
+          </h3>
+          <p>
+            Whether you have an old, damaged, wrecked, or even a scrap car, we
+            accept vehicles in any condition. You don't need to worry about
+            repairs or cleaning your car before selling it to us.
+          </p>
+          <h3>
+            <li>Simple and Transparent Process:</li>
+          </h3>
+          <p>
+            We believe in transparency and simplicity. Our experienced team will
+            guide you through the entire process, from obtaining a quote to
+            completing the sale and paperwork, making it stress-free and
+            straightforward.
+          </p>
+          <h3>
+            <li>Eco-Friendly Recycling:</li>
+          </h3>
+          <p>
+            We are committed to environmentally responsible practices. If your
+            vehicle is beyond repair, we ensure that it is recycled in an
+            eco-friendly manner, contributing to a greener future.
+          </p>
+          <h3>
+            <li>Local Experts:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> has a strong
+            presence in the Erskineville area, with a team of local experts who
+            understand the market and the needs of the community.
+          </p>
+        </ol>
+        <p>
+          Conclusion: <Link href={"/"}>Aux Cash for Cars Sydney</Link> has
+          earned its reputation as the best cash for cars service in
+          Erskineville, Sydney, through its commitment to providing top-dollar
+          offers, exceptional customer service, and eco-friendly practices. When
+          it comes to selling your car, trust the experts at{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> for a hassle-free
+          experience and the best cash deals in town. Say goodbye to your old
+          vehicle and hello to extra cash by choosing{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> as your preferred
+          cash for cars service in Erskineville.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Erskineville</h2>, <h2>Sell My Car Erskineville</h2>,{" "}
+        <h2></h2>, <h2>Top Cash for Cars Sydney</h2>,{" "}
+        <h2>Instant Cash for Cars Erskineville</h2>,{" "}
+        <h2>Scrap Car Removal Erskineville</h2>,{" "}
+        <h2>Car Buyers Erskineville</h2>,{" "}
+        <h2>Sell Your Car Fast Erskineville</h2>,{" "}
+        <h2>Junk Car Removal Sydney</h2>, <h2>Unwanted Car Removal Sydney</h2>,{" "}
+        <h2>Best Car Removal Services Erskineville</h2>,{" "}
+        <h2>Cash for Old Cars Erskineville</h2>,{" "}
+        <h2>Car Wreckers Erskineville</h2>,{" "}
+        <h2>Free Car Removal Erskineville</h2>,{" "}
+        <h2>Quick Cash for Scrap Cars Sydney</h2>,{" "}
+        <h2>Car Recycling Erskineville</h2>,{" "}
+        <h2>Cash for Damaged Cars Erskineville</h2>,{" "}
+        <h2>Used Car Buyers Sydney</h2>, <h2>Erskineville Car Removal</h2>,{" "}
+        <h2>Cash for Unregistered Cars Erskineville</h2>,{" "}
+        <h2>Car Disposal Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/42.jpg",
