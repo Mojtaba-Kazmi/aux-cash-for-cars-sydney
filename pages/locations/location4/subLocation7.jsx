@@ -25,8 +25,8 @@ export async function getServerSideProps() {
       title: "Cash for cars Erskineville Sydney",
       description:
         "Looking to sell your old car in Erskineville, Sydney? Aux Cash for Cars Sydney offers top cash for cars in the area. We buy all makes and models, no matter the condition. Get a quick and hassle-free cash offer for your car today!",
-      image: "/assets/locationsImages/sublocation1Images/47.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location4/subLocation6`,
+      image: "/assets/locationsImages/sublocation1Images/1.jpg",
+      url: `https://auxcashforcarsydney.com/locations/location4/subLocation7`,
       keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
       height: 630,
