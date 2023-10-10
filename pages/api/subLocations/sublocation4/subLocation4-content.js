@@ -657,7 +657,7 @@ export const subLocation = [
 
   // location 7
   {
-    image: "/assets/locationsImages/sublocation1Images/48.jpg",
+    image: "/assets/locationsImages/sublocation1Images/1.jpg",
     title: "Cash for cars Erskineville Sydney",
     description: (
       <>
