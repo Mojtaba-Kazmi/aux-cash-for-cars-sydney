@@ -772,6 +772,114 @@ export const subLocation = [
     ),
   },
 
+  // location 8
+  {
+    image: "/assets/locationsImages/sublocation1Images/2.jpg",
+    title: "Cash for cars St Peters Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your old, unwanted, or damaged car in St
+          Peters, Sydney, the choices can be overwhelming. With various options
+          available, it can be challenging to find the most reliable and
+          efficient solution for turning your vehicle into cash. However,
+          there's one standout option that consistently receives acclaim from
+          satisfied customers: <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+        </p>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is undoubtedly the
+          best cash for cars service in the St Peters area, offering a range of
+          benefits that make the selling process simple, convenient, and
+          profitable. Whether you have a used car, a scrap vehicle, a wrecked
+          car, or a vehicle that's no longer roadworthy,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> provides a
+          hassle-free solution for turning your car into cash.
+        </p>
+        <p>
+          So, why choose <Link href={"/"}>Aux Cash for Cars Sydney</Link> over
+          other options in the St Peters area?
+        </p>
+        <ol>
+          <h2>
+            <li>Instant Cash Payments:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers on-the-spot
+            cash payments, ensuring you receive your money immediately. This
+            means you don't have to wait for checks to clear or online transfers
+            to process.
+          </p>
+          <h2>
+            <li>Free Car Removal:</li>
+          </h2>
+          <p>
+            When you sell your car to{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you won't have to
+            worry about arranging transportation. They provide free car removal
+            services, making it convenient and stress-free.
+          </p>
+          <h2>
+            <li>Top Dollar Offers:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is known for
+            offering competitive prices for all types of vehicles. They have a
+            team of experienced appraisers who assess your car's value
+            accurately, ensuring you get the best deal.
+          </p>
+          <h2>
+            <li>All Makes and Models:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts cars of all
+            makes and models, regardless of their condition. Whether you have a
+            luxury car, a family sedan, a truck, or an SUV, they will buy it.
+          </p>
+          <h2>
+            <li>Eco-Friendly Car Disposal:</li>
+          </h2>
+          <p>
+            They also prioritize the environment by ensuring that cars are
+            disposed of in an environmentally responsible manner. This helps
+            reduce the ecological footprint of old, unwanted vehicles.
+          </p>
+          <h2>
+            <li>Friendly and Professional Service:</li>
+          </h2>
+          <p>
+            The team at <Link href={"/"}>Aux Cash for Cars Sydney</Link> is
+            known for their friendly and professional approach. They guide you
+            through the entire process and answer any questions you may have.
+          </p>
+        </ol>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          best cash for cars service in St Peters, Sydney, by offering a
+          hassle-free, reliable, and customer-centric experience. When it's time
+          to part ways with your old vehicle and convert it into cash,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the name you can
+          trust. Sell your car and experience the seamless and efficient service
+          that sets them apart in the St Peters area.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars St Peters</h2>, <h2>St Peters Cash for Cars</h2>,{" "}
+        <h2>Cash for Cars Sydney</h2>, <h2>St Peters Car Buyers</h2>,{" "}
+        <h2>Sell Your Car St Peters</h2>, <h2>Sydney Car Removal</h2>,{" "}
+        <h2>Instant Cash for Cars</h2>, <h2>Car Wreckers St Peters</h2>,{" "}
+        <h2>Junk Car Removal Sydney</h2>, <h2>Scrap Car Removal Sydney</h2>,{" "}
+        <h2>Unwanted Car Removal St Peters</h2>, <h2>Car Disposal St Peters</h2>
+        , <h2>Best Car Buyers Sydney</h2>, <h2></h2>, <h2></h2>, <h2></h2>,{" "}
+        <h2>Free Car Removal St Peters</h2>,{" "}
+        <h2>Cash for Damaged Cars Sydney</h2>,{" "}
+        <h2>We Buy Used Cars St Peters</h2>, <h2>St Peters Car Recycling</h2>,{" "}
+        <h2>Get Cash for Your Car Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/42.jpg",
