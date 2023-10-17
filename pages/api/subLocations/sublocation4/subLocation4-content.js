@@ -657,7 +657,7 @@ export const subLocation = [
 
   // location 7
   {
-    image: "/assets/locationsImages/sublocation1Images/1.jpg",
+    image: "/assets/locationsImages/sublocation1Images/48.jpg",
     title: "Cash for cars Erskineville Sydney",
     description: (
       <>
@@ -774,7 +774,7 @@ export const subLocation = [
 
   // location 8
   {
-    image: "/assets/locationsImages/sublocation1Images/2.jpg",
+    image: "/assets/locationsImages/sublocation1Images/49.jpg",
     title: "Cash for cars St Peters Sydney",
     description: (
       <>
@@ -876,6 +876,106 @@ export const subLocation = [
         <h2>Cash for Damaged Cars Sydney</h2>,{" "}
         <h2>We Buy Used Cars St Peters</h2>, <h2>St Peters Car Recycling</h2>,{" "}
         <h2>Get Cash for Your Car Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
+  // location 9
+  {
+    image: "/assets/locationsImages/sublocation1Images/50.jpg",
+    title: "Cash for cars Haberfield Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your old, unwanted, or damaged car in
+          Haberfield, Sydney, you want to make sure you get the best deal
+          possible. This is where Aux Cash for Cars Sydney steps in as your
+          ideal partner in the world of cash for cars. With a reputation for
+          being the best in the area,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers a seamless and
+          hassle-free experience for selling your vehicle while putting cash in
+          your pocket.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney?</h2>
+        <ol>
+          <h3>
+            <li>Top Dollar for Your Vehicle:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            providing the most competitive offers for your vehicles. Regardless
+            of the make, model, or condition of your car, you can count on them
+            to offer you the best price.
+          </p>
+          <h3>
+            <li>Fast and Convenient Service:</li>
+          </h3>
+          <p>
+            Selling your car couldn't be easier with{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>. They offer a quick
+            and hassle-free process, ensuring that you receive cash for your car
+            on the spot. Their team of experts is dedicated to making the
+            process as convenient as possible for you.
+          </p>
+          <h3>
+            <li>A Wide Range of Services:</li>
+          </h3>
+          <p>
+            Whether you have a scrap car, an old vehicle that's no longer
+            roadworthy, or a car in good condition,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> will buy it. Their
+            services cater to all types of cars, providing you with a one-stop
+            solution for selling your vehicle.
+          </p>
+          <h3>
+            <li>Professional and Friendly Staff:</li>
+          </h3>
+          <p>
+            The team at <Link href={"/"}>Aux Cash for Cars Sydney</Link> is
+            known for their professionalism and friendly service. They are
+            committed to ensuring that you have a positive and stress-free
+            experience, making them the preferred choice for Haberfield
+            residents.
+          </p>
+          <h3>
+            <li>Environmentally Responsible:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> follows
+            eco-friendly practices in recycling and disposing of vehicles. You
+            can trust them to handle your car's disposal in an environmentally
+            responsible manner, contributing to a greener future.
+          </p>
+        </ol>
+        <p>
+          Conclusion: When you're ready to part ways with your car in
+          Haberfield, Sydney, look no further than{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. Their reputation as
+          the best cash for cars service in the area is well-deserved, and their
+          commitment to top-dollar offers, fast and convenient service, and a
+          wide range of options make them the ultimate choice for selling your
+          vehicle. Say goodbye to the hassle of traditional car sales and hello
+          to a seamless experience with{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Haberfield</h2>,{" "}
+        <h2>Sell my car for cash Haberfield</h2>,{" "}
+        <h2>Haberfield car removal</h2>, <h2></h2>,{" "}
+        <h2>Scrap car buyers Haberfield</h2>,{" "}
+        <h2>Cash for unwanted cars Sydney</h2>, <h2>Haberfield car wreckers</h2>
+        , <h2>Top cash for cars Haberfield</h2>, <h2>Sell my old car Sydney</h2>
+        , <h2>Car removal services Haberfield</h2>,{" "}
+        <h2>Get cash for your car Sydney</h2>, <h2>Haberfield car disposal</h2>,{" "}
+        <h2>Junk car removal Haberfield</h2>, <h2>Haberfield auto recyclers</h2>
+        , <h2>We buy cars in Haberfield</h2>,{" "}
+        <h2>Cash for damaged cars Sydney</h2>,{" "}
+        <h2>Sell my used car Haberfield</h2>,{" "}
+        <h2>Free car removal Haberfield</h2>, <h2>Haberfield car salvage</h2>,{" "}
+        <h2>Cash for scrap cars Sydney</h2>,{" "}
       </>
     ),
   },

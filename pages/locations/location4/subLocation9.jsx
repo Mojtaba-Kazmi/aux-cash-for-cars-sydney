@@ -22,11 +22,11 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Cash for cars St Peters Sydney",
+      title: "Cash for cars Haberfield Sydney",
       description:
-        "Get top cash for cars in St Peters, Sydney with Aux Cash for Cars! We buy all types of vehicles, offering the best prices and hassle-free service. Contact us today to sell your car for instant cash.",
-      image: "/assets/locationsImages/sublocation1Images/49.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location4/subLocation8`,
+        "Looking to sell your car for cash in Haberfield, Sydney? Aux Cash for Cars Sydney is your trusted partner for quick and hassle-free transactions. Get top dollar for your vehicle today!",
+      image: "/assets/locationsImages/sublocation1Images/50.jpg",
+      url: `https://auxcashforcarsydney.com/locations/location4/subLocation9`,
       keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
       height: 630,
@@ -71,13 +71,13 @@ function post0({ title, description, image, url, keyword, width, height }) {
                 <Card>
                   <CardMedia
                     sx={{ height: "300px" }}
-                    image={subLocation[8].image}
-                    title={subLocation[8].title}
-                    alt={subLocation[8].title}
+                    image={subLocation[9].image}
+                    title={subLocation[9].title}
+                    alt={subLocation[9].title}
                   />
                   <CardContent>
-                    <h1>{subLocation[8].title}</h1>
-                    {subLocation[8].description}
+                    <h1>{subLocation[9].title}</h1>
+                    {subLocation[9].description}
                   </CardContent>
 
                   <Grid
@@ -117,7 +117,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
                   <Card>
                     <CardContent>
                       <Typography component={"p"}> Tags </Typography>
-                      <TagsStyle>{subLocation[8].tags}</TagsStyle>
+                      <TagsStyle>{subLocation[9].tags}</TagsStyle>
                     </CardContent>
                   </Card>
                 </Grid>
