@@ -493,8 +493,6 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Haberfield Sydney</h2>,{" "}
-        <h2>Cash for cars Five Dock Sydney</h2>,{" "}
         <h2>Cash for cars Drummoyne Sydney</h2>,{" "}
         <h2>Cash for cars Stanmore Sydney</h2>,{" "}
         <h2>Cash for cars Petersham Sydney</h2>,{" "}

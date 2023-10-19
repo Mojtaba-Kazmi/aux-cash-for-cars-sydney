@@ -980,9 +980,125 @@ export const subLocation = [
     ),
   },
 
+  // location 10
+  {
+    image: "/assets/locationsImages/sublocation1Images/51.jpg",
+    title: "Cash for cars Five Dock Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your old, unwanted, or scrap vehicles in Five
+          Dock, Sydney, one name stands out above the rest –{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With a reputation
+          for offering the best cash for cars in the area,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> is your go-to solution for
+          turning your unwanted vehicles into instant cash.
+        </p>
+        <h2>
+          Why <Link href={"/"}>Aux Cash for Cars</Link> is the Best in Five
+          Dock, Sydney:
+        </h2>
+        <ol>
+          <h3>
+            <li>Highest Cash Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars</Link> is known for providing the
+            most competitive cash offers for all types of vehicles. Whether your
+            car is old, damaged, or simply no longer needed, they ensure you get
+            the maximum value for it.
+          </p>
+          <h3>
+            <li>Free Vehicle Removal:</li>
+          </h3>
+          <p>
+            The convenience of selling your car to{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> doesn't stop at the cash
+            offer. They also offer free vehicle removal services, saving you
+            time and money in the process.
+          </p>
+          <h3>
+            <li>Eco-Friendly Disposal:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars</Link> takes its environmental
+            responsibilities seriously. They follow eco-friendly disposal
+            practices, ensuring that your vehicle is recycled, and hazardous
+            materials are disposed of properly.
+          </p>
+          <h3>
+            <li>Quick and Hassle-Free Process:</li>
+          </h3>
+          <p>
+            Selling your car to <Link href={"/"}>Aux Cash for Cars</Link> is a
+            straightforward and efficient process. Their team ensures that you
+            have a hassle-free experience, from the initial contact to the final
+            transaction.
+          </p>
+          <h3>
+            <li>Wide Range of Accepted Vehicles:</li>
+          </h3>
+          <p>
+            No matter the make, model, or condition of your vehicle,{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> is willing to buy it. This
+            includes cars, trucks, vans, 4x4s, SUVs, and more.
+          </p>
+          <h3>
+            <li>Experienced and Trustworthy:</li>
+          </h3>
+          <p>
+            With years of experience in the industry,{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> has built a strong
+            reputation for being trustworthy and reliable. Their team of
+            professionals is dedicated to making the selling process easy and
+            transparent.
+          </p>
+          <h3>
+            <li>Local Experts:</li>
+          </h3>
+          <p>
+            As a local business, <Link href={"/"}>Aux Cash for Cars</Link>{" "}
+            understands the unique needs and preferences of Five Dock residents.
+            They are committed to serving the community with the best possible
+            cash for cars services.
+          </p>
+        </ol>
+        <p>
+          In conclusion, if you're looking to sell your car for cash in Five
+          Dock, Sydney, <Link href={"/"}>Aux Cash for Cars</Link> is undoubtedly
+          the best choice. With their reputation for offering top dollar, a
+          commitment to eco-friendly practices, and a hassle-free process, they
+          are the trusted name in the area. Contact{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> today and experience the
+          difference in selling your vehicle with the best cash for cars service
+          in Five Dock, Sydney.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Five Dock</h2>, <h2>Sell Your Car Five Dock</h2>,{" "}
+        <h2>Five Dock Car Buyers</h2>, <h2>Top Car Removal Five Dock</h2>,{" "}
+        <h2>Instant Cash for Cars Five Dock</h2>,{" "}
+        <h2>Scrap Car Removal Five Dock</h2>, <h2>Five Dock Auto Wreckers</h2>,{" "}
+        <h2>Free Car Valuation Five Dock</h2>,{" "}
+        <h2>Unwanted Car Removal Five Dock</h2>,{" "}
+        <h2>Cash for Junk Cars Five Dock</h2>,{" "}
+        <h2>Five Dock Car Removal Services</h2>, <h2>We Buy Cars Five Dock</h2>,{" "}
+        <h2>Five Dock Scrap Car Dealers</h2>, <h2>Five Dock Used Car Buyers</h2>
+        , <h2>Cash for Old Cars Five Dock</h2>,{" "}
+        <h2>Sell My Car Fast Five Dock</h2>,{" "}
+        <h2>Top Dollar for Cars Five Dock</h2>,{" "}
+        <h2>Get Cash for Your Car in Five Dock</h2>,{" "}
+        <h2>Five Dock Car Selling Experts</h2>,{" "}
+        <h2>Five Dock Car Disposal Services</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
-  //   image: "/assets/locationsImages/sublocation1Images/42.jpg",
+  //   image: "/assets/locationsImages/sublocation1Images/51.jpg",
   //   title: "",
   //   description: <></>,
   //   tags: (
