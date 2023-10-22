@@ -1096,6 +1096,131 @@ export const subLocation = [
     ),
   },
 
+  // location 11
+  {
+    image: "/assets/locationsImages/sublocation1Images/52.jpg",
+    title: "Cash for cars Drummoyne Sydney",
+    description: (
+      <>
+        <p>
+          If you're a resident of Drummoyne, Sydney, and are in need of a
+          hassle-free and efficient way to get cash for your old, unwanted, or
+          scrap car, look no further than{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With a reputation
+          for being the best cash for cars service in the area,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers a range of
+          benefits and services that make selling your car a breeze.
+        </p>
+        <h2>
+          Why Choose <Link href={"/"}>Aux Cash for Cars Sydney</Link>?
+        </h2>
+        <ol>
+          <h3>
+            <li>Top Dollar for Your Car:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is committed to
+            providing the highest cash payouts for your vehicle. Whether your
+            car is in working condition or not, they offer competitive prices
+            that ensure you get the best value for your car.
+          </p>
+          <h3>
+            <li>Instant Cash on the Spot:</li>
+          </h3>
+          <p>
+            One of the standout features of{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their promise to
+            provide instant cash on the spot. Once they assess your vehicle, you
+            can expect to walk away with your money in hand.
+          </p>
+          <h3>
+            <li>Instant Cash on the Spot:</li>
+          </h3>
+          <p>
+            One of the standout features of{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their promise to
+            provide instant cash on the spot. Once they assess your vehicle, you
+            can expect to walk away with your money in hand.
+          </p>
+          <h3>
+            <li>Free Car Removal Service:</li>
+          </h3>
+          <p>
+            Worried about the logistics of getting your car to their location?{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> has you covered
+            with their free car removal service. They will come to your
+            location, pick up your vehicle, and tow it away, all at no extra
+            cost to you.
+          </p>
+          <h3>
+            <li>Quick and Convenient Process:</li>
+          </h3>
+          <p>
+            Selling your car to <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            is a hassle-free process. Their team of experts will guide you
+            through the entire transaction, ensuring it is a smooth and
+            convenient experience for you.
+          </p>
+          <h3>
+            <li>All Makes and Models Accepted:</li>
+          </h3>
+          <p>
+            Regardless of your car's make, model, age, or condition,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is willing to buy
+            it. They accept a wide range of vehicles, from sedans to trucks, in
+            various conditions, including damaged, scrap, or used cars.
+          </p>
+          <h3>
+            <li>Environmentally Responsible Disposal:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is committed to
+            eco-friendly practices. They dispose of vehicles in an
+            environmentally responsible way, ensuring that hazardous materials
+            are properly handled and recycled.
+          </p>
+          <h3>
+            <li>Friendly and Professional Team:</li>
+          </h3>
+          <p>
+            Their team of professionals is known for their friendly and
+            professional approach. They are dedicated to providing you with the
+            best customer service throughout the entire process.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to getting cash for cars in
+          Drummoyne, Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          stands out as the top choice. Their commitment to providing top
+          dollar, instant cash, free car removal, and environmentally
+          responsible disposal makes them the go-to option for anyone looking to
+          sell their old or unwanted vehicle. Experience a quick, convenient,
+          and financially rewarding transaction with{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the best cash for
+          cars service in the area.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Drummoyne</h2>,{" "}
+        <h2>Sell Your Car for Cash Drummoyne</h2>,{" "}
+        <h2>Drummoyne Cash for Cars</h2>, <h2>Sydney Cash for Cars</h2>,{" "}
+        <h2>Top Cash for Cars Drummoyne</h2>, <h2>Fast Cash for Cars Sydney</h2>
+        , <h2>Best Car Removal Drummoyne</h2>, <h2>Drummoyne Car Buyers</h2>,{" "}
+        <h2>Sell My Car Drummoyne</h2>, <h2>Cash for Scrap Cars Sydney</h2>,{" "}
+        <h2>Drummoyne Unwanted Car Removal</h2>,{" "}
+        <h2>Scrap Car Removal Sydney</h2>, <h2>Free Car Removal Drummoyne</h2>,{" "}
+        <h2>Instant Cash for Old Cars Sydney</h2>,{" "}
+        <h2>Junk Car Buyers Drummoyne</h2>,{" "}
+        <h2>Cash for Damaged Cars Sydney</h2>,{" "}
+        <h2>Sell Your Wrecked Car Drummoyne</h2>,{" "}
+        <h2>Top Dollar for Used Cars Sydney</h2>,{" "}
+        <h2>Drummoyne Auto Wreckers</h2>, <h2>Scrap Car Yard Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/51.jpg",
