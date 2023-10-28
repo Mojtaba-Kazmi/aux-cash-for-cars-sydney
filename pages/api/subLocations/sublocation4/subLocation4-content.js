@@ -1327,6 +1327,111 @@ export const subLocation = [
     ),
   },
 
+  // location 13
+  {
+    image: "/assets/locationsImages/sublocation1Images/54.jpg",
+    title: "Cash for cars Petersham Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your old, unwanted, or damaged car in
+          Petersham, Sydney, you want a hassle-free and lucrative solution. This
+          is where <Link href={"/"}>Aux Cash for Cars Sydney</Link> steps in as
+          the best option for turning your car into cash. With a commitment to
+          offering top-notch services and unbeatable payouts,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the leading choice
+          for those looking to sell their vehicles in the Petersham area.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney?</h2>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          premier choice for cash for cars in Petersham, Sydney, for several
+          compelling reasons:
+        </p>
+        <ol>
+          <h3>
+            <li>Highest Cash Offers:</li>
+          </h3>
+          <p>
+            When it's time to part ways with your car, you deserve the best
+            possible return on your investment.{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> prides itself on
+            offering some of the highest cash offers in the industry. You can
+            expect a fair and competitive quote for your vehicle, ensuring that
+            you get the most value for your car, regardless of its make, model,
+            or condition.
+          </p>
+          <h3>
+            <li>Easy and Convenient Process:</li>
+          </h3>
+          <p>
+            Selling a car can often be a daunting task, but with{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the process is
+            streamlined and hassle-free. They handle all the paperwork and
+            logistics, making it simple for you to get rid of your car. The
+            entire process is designed to save you time and stress.
+          </p>
+          <h3>
+            <li>Free Car Removal:</li>
+          </h3>
+          <p>
+            One of the most significant advantages of choosing{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their
+            complimentary car removal service. They'll come to your location at
+            a time that suits you, tow your car away, and leave you with the
+            cash you deserve, all at no extra cost.
+          </p>
+          <h3>
+            <li>Acceptance of All Makes and Models:</li>
+          </h3>
+          <p>
+            Regardless of the make, model, or condition of your car,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> will buy it.
+            Whether you have a used, damaged, scrap, or old vehicle, you can
+            rely on them to provide a fair and competitive offer.
+          </p>
+          <h3>
+            <li>Environmental Responsibility:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is committed to
+            environmentally responsible car disposal. They ensure that
+            end-of-life vehicles are recycled and disposed of in an eco-friendly
+            manner, minimizing their impact on the environment.
+          </p>
+        </ol>
+        <p>
+          Conclusion: If you're looking to sell your car in Petersham, Sydney,
+          and want the best deal and a stress-free experience,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is your ultimate
+          choice. With a reputation for offering top cash offers, hassle-free
+          car removal, and a commitment to environmental responsibility, they
+          have established themselves as the premier cash for cars service in
+          the area. Say goodbye to the hassles of traditional car selling and
+          opt for <Link href={"/"}>Aux Cash for Cars Sydney</Link> for a smooth
+          and profitable transaction.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Petersham</h2>, <h2>Sell Your Car Petersham</h2>,{" "}
+        <h2>Petersham Car Buyers</h2>, <h2>Top Cash for Cars in Sydney</h2>,{" "}
+        <h2>Instant Cash for Your Car</h2>, <h2>Petersham Car Removal</h2>,{" "}
+        <h2>Sydney Car Wreckers</h2>, <h2>We Buy Cars Petersham</h2>,{" "}
+        <h2>Junk Car Removal Petersham</h2>, <h2>Sell My Car Sydney</h2>,{" "}
+        <h2></h2>, <h2>Get Cash for Your Old Car</h2>,{" "}
+        <h2>Used Car Buyers Petersham</h2>, <h2>Scrap Car Removal Sydney</h2>,{" "}
+        <h2></h2>, <h2>Petersham Auto Salvage</h2>,{" "}
+        <h2>Best Car Removal Service in Sydney</h2>,{" "}
+        <h2>Free Car Valuation Petersham</h2>,{" "}
+        <h2>Unwanted Car Removal Petersham</h2>,{" "}
+        <h2>Quick Cash for Damaged Cars</h2>, <h2>Cash for Cars Near Me</h2>,{" "}
+        <h2>Petersham Cash for Cars Company</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/51.jpg",
