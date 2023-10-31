@@ -493,7 +493,22 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Camperdown Sydney</h2>,{" "}
+        <h2>Cash for Cars Inner West NSW</h2>,{" "}
+        <h2>Sell My Car for Cash Inner West</h2>,{" "}
+        <h2>Top Cash for Cars Inner West</h2>, <h2>Inner West Car Buyers</h2>,{" "}
+        <h2>Cash for Scrap Cars Inner West</h2>,{" "}
+        <h2>Junk Car Removal Inner West</h2>,{" "}
+        <h2>Best Car Removal Inner West</h2>,{" "}
+        <h2>Instant Cash for Used Cars Inner West</h2>,{" "}
+        <h2>Inner West Car Wreckers</h2>, <h2>Free Car Valuation Inner West</h2>
+        , <h2>Car Removal Service Inner West NSW</h2>,{" "}
+        <h2>Old Car Buyers Inner West</h2>,{" "}
+        <h2>Cash for Unregistered Cars Inner West</h2>,{" "}
+        <h2>Unwanted Car Buyers Inner West</h2>,{" "}
+        <h2>Scrap Car Disposal Inner West</h2>,{" "}
+        <h2>Damaged Car Removal Inner West</h2>,{" "}
+        <h2>Sell My Truck Inner West</h2>, <h2>4x4 Wreckers Inner West</h2>,{" "}
+        <h2>We Buy Cars Inner West</h2>, <h2>Cash for Vans Inner West NSW</h2>,{" "}
       </>
     ),
   },
