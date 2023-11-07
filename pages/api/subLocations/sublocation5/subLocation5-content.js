@@ -131,6 +131,110 @@ export const subLocation = [
     ),
   },
 
+  // location 2
+  {
+    image: "/assets/locationsImages/sublocation1Images/57.jpg",
+    title: "Cash for cars Killara Sydney",
+    description: (
+      <>
+        <p>
+          Are you looking to sell your old, unwanted car in Killara, Sydney, and
+          get the best possible deal? If so, you're in the right place!{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is here to provide
+          you with the most hassle-free and rewarding cash for cars experience
+          in the Killara area. In this article, we will explore the benefits of
+          choosing <Link href={"/"}>Aux Cash for Cars</Link> as your trusted
+          partner when it comes to selling your car and why they are considered
+          the best in the business.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney?</h2>
+        <ol>
+          <h3>
+            <li>Instant Cash Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            offering quick and competitive cash offers for all types of
+            vehicles. Whether you have a used car, a scrap car, a damaged car,
+            or an old car that you no longer need, they are ready to make you a
+            fair cash offer on the spot. Their commitment to providing instant
+            cash for cars sets them apart in the industry.
+          </p>
+          <h3>
+            <li>Free Car Removal Services:</li>
+          </h3>
+          <p>
+            Not only will <Link href={"/"}>Aux Cash for Cars</Link> offer you
+            top dollar for your vehicle, but they also provide free car removal
+            services. You won't have to worry about transportation, as their
+            team will come to your location to pick up your car at a time
+            convenient for you. This ensures a seamless and stress-free
+            experience for the seller.
+          </p>
+          <h3>
+            <li>Eco-Friendly Disposal:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> places a strong
+            emphasis on environmental responsibility. They ensure that all
+            vehicles they purchase are disposed of in an eco-friendly manner,
+            adhering to the highest environmental standards. By choosing them,
+            you are not only getting a great deal for your car but also
+            contributing to a greener future.
+          </p>
+          <h3>
+            <li>Friendly and Professional Team:</li>
+          </h3>
+          <p>
+            The team at <Link href={"/"}>Aux Cash for Cars Sydney</Link>
+            is known for its friendliness and professionalism. They are
+            dedicated to making the entire process as easy as possible for you.
+            Their experts will answer any questions you have and guide you
+            through every step, making sure you are well-informed and satisfied.
+          </p>
+          <h3>
+            <li>Extensive Experience:</li>
+          </h3>
+          <p>
+            With years of experience in the industry,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> has built a solid
+            reputation for offering the best cash for cars service in Killara
+            and throughout Sydney. They have a thorough understanding of the
+            local market, ensuring that you receive the most competitive offer
+            for your vehicle.
+          </p>
+        </ol>
+        <p>
+          Conclusion: If you're in Killara, Sydney, and you want to sell your
+          car for cash, <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the
+          best choice. With their commitment to providing instant cash offers,
+          free car removal, eco-friendly disposal, friendly service, and
+          extensive experience, they have earned their reputation as the top
+          cash for cars service in the area. Choose{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> and experience a
+          hassle-free and rewarding transaction when selling your car.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Killara</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Sell my car Killara</h2>, <h2>Car removal Killara</h2>,{" "}
+        <h2>Top cash for cars Killara</h2>,{" "}
+        <h2>Sell old cars for cash Sydney</h2>,{" "}
+        <h2>Junk car removal Killara</h2>, <h2>We buy cars Killara</h2>,{" "}
+        <h2>Sell damaged cars for cash</h2>, <h2>Cash for scrap cars Sydney</h2>
+        , <h2>Car buyers Killara</h2>, <h2>Sell my old car for cash</h2>,{" "}
+        <h2>Scrap car removal Sydney</h2>, <h2>Auto wreckers Killara</h2>,{" "}
+        <h2>Instant cash for cars Sydney</h2>,{" "}
+        <h2>Best car removal service Killara</h2>,{" "}
+        <h2>Free car removal Killara</h2>,{" "}
+        <h2>Get cash for unwanted cars Killara</h2>,{" "}
+        <h2>Car disposal Killara</h2>, <h2>Quick cash for cars Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/57.jpg",
