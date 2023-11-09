@@ -235,6 +235,105 @@ export const subLocation = [
     ),
   },
 
+  // location 3
+  {
+    image: "/assets/locationsImages/sublocation1Images/58.jpg",
+    title: "Cash for cars Gordon Sydney",
+    description: (
+      <>
+        <p>
+          If you're a resident of Gordon, Sydney, and have an old, unwanted, or
+          damaged car taking up space in your driveway or garage, you may be
+          considering selling it for cash. When it comes to getting top dollar
+          for your vehicle in Gordon,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          premier choice for cash for cars services. This trusted company not
+          only offers excellent cash deals for your cars but also provides a
+          seamless and hassle-free experience.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney in Gordon?</h2>
+        <ol>
+          <h3>
+            <li>Competitive Cash Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> prides itself on
+            offering some of the most competitive cash offers for vehicles in
+            Gordon and the surrounding areas. Whether your car is running or
+            not, old or new, they are committed to providing you with a fair and
+            reasonable price for your vehicle.
+          </p>
+
+          <h3>
+            <li>Quick and Convenient Process:</li>
+          </h3>
+          <p>
+            Selling your car to <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            is a swift and straightforward process. You can get an instant quote
+            for your vehicle online or over the phone. Once you accept their
+            offer, they will schedule a convenient pickup time, and you can have
+            your car removed in no time.
+          </p>
+          <h3>
+            <li>Wide Range of Acceptable Vehicles:</li>
+          </h3>
+          <p>
+            No matter the make, model, or condition of your car,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is willing to buy
+            it. From used cars, scrap vehicles, damaged cars, and even those
+            that have failed their roadworthy certificate (RWC), they are ready
+            to make you an offer.
+          </p>
+          <h3>
+            <li>Friendly and Professional Service:</li>
+          </h3>
+          <p>
+            The team at <Link href={"/"}>Aux Cash for Cars Sydney</Link> prides
+            itself on delivering exceptional customer service. Their friendly
+            staff will guide you through the selling process, ensuring that you
+            have a stress-free experience from start to finish.
+          </p>
+          <h3>
+            <li>Environmentally Responsible Disposal:</li>
+          </h3>
+          <p>
+            When you sell your car to{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you're also making
+            an eco-friendly choice. They follow environmentally responsible
+            disposal practices, ensuring that vehicles are recycled and disposed
+            of in an environmentally conscious manner.
+          </p>
+        </ol>
+        <p>
+          Conclusion: When it comes to cash for cars in Gordon, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the best choice
+          for vehicle owners. Their competitive cash offers, swift and
+          convenient process, and commitment to excellent customer service make
+          them the top option for selling your car. Whether you have an old car
+          you no longer need or a damaged vehicle taking up space, you can trust{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> to provide you with a
+          fair deal and a stress-free experience.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Gordon</h2>, <h2>Sell My Car Gordon Sydney</h2>,{" "}
+        <h2>Top Cash for Cars Gordon</h2>, <h2>Gordon Car Removal</h2>,{" "}
+        <h2>Cash for Scrap Cars Gordon</h2>,{" "}
+        <h2>Instant Cash for Cars Gordon</h2>, <h2>Gordon Car Buyers</h2>,{" "}
+        <h2>Junk Car Removal Gordon</h2>, <h2>Unwanted Car Removal Gordon</h2>,{" "}
+        <h2>Free Car Valuation Gordon Sydney</h2>,{" "}
+        <h2>Best Car Wreckers Gordon</h2>, <h2>Scrap Car Buyers Gordon</h2>,{" "}
+        <h2>Old Car Removal Gordon</h2>, <h2>Used Car Buyers Gordon</h2>,{" "}
+        <h2>Quick Car Sale Gordon Sydney</h2>,{" "}
+        <h2>Top Dollar for Cars Gordon</h2>,{" "}
+        <h2>Cash for Damaged Cars Gordon</h2>, <h2>We Buy Cars Gordon</h2>,{" "}
+        <h2>Cash for Trucks Gordon</h2>, <h2>Same Day Car Removal Gordon</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/57.jpg",
