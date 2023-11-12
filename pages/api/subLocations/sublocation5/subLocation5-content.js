@@ -334,6 +334,112 @@ export const subLocation = [
     ),
   },
 
+  // location 4
+  {
+    image: "/assets/locationsImages/sublocation1Images/59.jpg",
+    title: "Cash for cars Pymble Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your old, unwanted, or damaged vehicle for
+          cash in Pymble, Sydney, there is one name that stands out as the best
+          in the business - <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+          With their exceptional service, hassle-free process, and commitment to
+          customer satisfaction, <Link href={"/"}>Aux Cash for Cars</Link> has
+          earned a stellar reputation as the top choice for those looking to get
+          the most value out of their used cars in the Pymble area.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney in Pymble?</h2>
+
+        <ol>
+          <h3>
+            <li>Top Dollar for Your Vehicle:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is known for
+            offering the most competitive and fair cash offers for all types of
+            vehicles. Whether you have a scrap car, a wrecked SUV, a used truck,
+            or even a luxury car, they are ready to provide you with a
+            top-dollar offer, ensuring that you receive the best value for your
+            vehicle.
+          </p>
+          <h3>
+            <li>Quick and Convenient Process:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars</Link> has streamlined the car
+            selling process to make it as quick and convenient as possible. They
+            offer same-day car removal services, ensuring that you can get your
+            cash and have your vehicle removed within hours of accepting their
+            offer. This hassle-free process makes selling your car in Pymble a
+            breeze.
+          </p>
+
+          <h3>
+            <li>Expert Team:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars</Link> boasts a team of experts
+            who are knowledgeable about the local market conditions in Pymble,
+            ensuring that you receive the most accurate and competitive cash
+            offer for your vehicle. Their team is committed to making your
+            experience smooth and stress-free.
+          </p>
+          <h3>
+            <li>Any Make or Model:</li>
+          </h3>
+          <p>
+            Regardless of the make, model, age, or condition of your vehicle,
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is interested in
+            buying it. They accept cars, trucks, vans, 4x4s, SUVs, and more,
+            regardless of their condition.
+          </p>
+          <h3>
+            <li>Environmentally Friendly Car Disposal:</li>
+          </h3>
+          <p>
+            In addition to offering a great cash deal,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is committed to
+            environmentally responsible car disposal. They recycle and dispose
+            of vehicles in an eco-friendly manner, ensuring that you contribute
+            to a greener environment while getting cash for your old car.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> For those in Pymble, Sydney, who are looking to
+          sell their cars for cash,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the ultimate
+          choice. With their reputation for providing top-dollar offers, quick
+          and convenient service, and a commitment to environmental
+          responsibility, they have established themselves as the best cash for
+          cars service in the area. Trust{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> to get the most value
+          for your vehicle, while also enjoying a smooth and hassle-free selling
+          experience.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Pymble</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Sell my car Pymble</h2>, <h2>Pymble car buyers</h2>,{" "}
+        <h2>Instant cash for cars Pymble</h2>, <h2>Scrap car removal Pymble</h2>
+        , <h2>Cash for old cars Pymble</h2>, <h2></h2>,{" "}
+        <h2>Top car removal Sydney</h2>, <h2>Unwanted car removal Sydney</h2>,{" "}
+        <h2>Junk car buyers Pymble</h2>, <h2>Best cash for cars Sydney</h2>,{" "}
+        <h2>Free car removal Pymble</h2>, <h2>Used car buyers Sydney</h2>,{" "}
+        <h2>Quick car sale Pymble</h2>, <h2>Top-dollar car buyers Sydney</h2>,{" "}
+        <h2>Sell damaged car Pymble</h2>, <h2>Wrecked car removal Sydney</h2>,{" "}
+        <h2>Get paid for cars Pymble</h2>, <h2>Cash for scrap cars Sydney</h2>,{" "}
+        <h2>Car removal service Pymble</h2>,{" "}
+        <h2>Scrap car collection Sydney</h2>,{" "}
+        <h2>Sell my unwanted car Pymble</h2>, <h2>Damaged car buyers Sydney</h2>
+        , <h2>Cash for unwanted cars Pymble</h2>,{" "}
+        <h2>Old car removal Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/57.jpg",

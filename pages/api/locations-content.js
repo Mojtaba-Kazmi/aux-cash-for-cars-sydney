@@ -607,8 +607,6 @@ export const location = [
     ),
     tags: (
       <>
-
-        <h2>Cash for cars Pymble Sydney</h2>,{" "}
         <h2>Cash for cars Turramurra Sydney</h2>,
         <h2>Cash for cars St Ives Sydney</h2>,
         <h2>Cash for cars Wahroona Sydney</h2>,
