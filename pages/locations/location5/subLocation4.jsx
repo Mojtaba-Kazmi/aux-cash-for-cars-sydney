@@ -25,8 +25,8 @@ export async function getServerSideProps() {
       title: "Cash for cars Pymble Sydney",
       description:
         "Looking to sell your car in Pymble, Sydney? Aux Cash for Cars Sydney offers top-dollar cash for cars in Pymble and the surrounding areas. Get fast and hassle-free car selling with us today!",
-      image: "/assets/locationsImages/sublocation1Images/58.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location5/subLocation3`,
+      image: "/assets/locationsImages/sublocation1Images/59.jpg",
+      url: `https://auxcashforcarsydney.com/locations/location5/subLocation4`,
       keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
       height: 630,
