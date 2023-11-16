@@ -440,6 +440,114 @@ export const subLocation = [
     ),
   },
 
+  // location 5
+  {
+    image: "/assets/locationsImages/sublocation1Images/61.jpg",
+    title: "Cash for cars Turramurra Sydney",
+    description: (
+      <>
+        <p>
+          In the vibrant suburb of Turramurra in Sydney, the demand for reliable
+          and efficient cash-for-cars services has never been higher. Among the
+          various options available,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          premier choice for those looking to sell their vehicles seamlessly.
+          With a stellar reputation and a commitment to customer satisfaction,
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> has earned its place
+          as the best in the area.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney in Turramurra?</h2>
+        <ol>
+          <h3>
+            <li>Prompt and Hassle-Free Service</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> understands the
+            value of your time. Their team is dedicated to providing prompt and
+            hassle-free services, ensuring a quick and efficient car-selling
+            experience. Say goodbye to lengthy and complicated procedures –{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> streamlines the
+            process for your convenience.
+          </p>
+          <h3>
+            <li>Top Dollar for Your Vehicle: </li>
+          </h3>
+          <p>
+            When it comes to getting the best value for your car,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is unmatched. Their
+            team of experts assesses your vehicle thoroughly, taking into
+            consideration its make, model, condition, and market trends. This
+            commitment to fair and competitive pricing ensures that you receive
+            top dollar for your car.
+          </p>
+          <h3>
+            <li>All Makes and Models Accepted: </li>
+          </h3>
+          <p>
+            Whether you own a sedan, SUV, truck, or any other vehicle,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts all makes
+            and models. This inclusive approach makes them a go-to option for
+            Turramurra residents looking to sell a variety of vehicles,
+            regardless of age or condition.
+          </p>
+          <h3>
+            <li>Transparent and Honest Transactions</li>
+          </h3>
+          <p>
+            Transparency and honesty are at the core of{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney's</Link> business
+            practices. There are no hidden fees or surprise deductions – their
+            team communicates openly with customers throughout the entire
+            process. You can trust{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> for a
+            straightforward and transparent transaction.
+          </p>
+          <h3>
+            <li>Environmentally Responsible Practices: </li>
+          </h3>
+          <p>
+            about providing excellent service; they also prioritize
+            environmentally responsible practices. By recycling and salvaging
+            vehicles in an eco-friendly manner, they contribute to sustainable
+            and green initiatives, aligning with the community's values in
+            Turramurra.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> For Turramurra residents seeking the best
+          cash-for-cars service,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> emerges as the
+          unrivaled choice. With a commitment to efficiency, top-notch pricing,
+          and transparent transactions,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> has earned its
+          reputation as the go-to solution for all your car-selling needs.
+          Experience a seamless and rewarding process with{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> – your trusted
+          partner in Turramurra.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Turramurra</h2>, <h2>Sell my car Turramurra</h2>,{" "}
+        <h2>Turramurra car buyers</h2>, <h2>Top cash for cars Sydney</h2>,{" "}
+        <h2>Instant car removal Turramurra</h2>,{" "}
+        <h2>Cash for unwanted cars Turramurra</h2>,{" "}
+        <h2>Turramurra scrap car removal</h2>,{" "}
+        <h2>Best car wreckers Turramurra</h2>,{" "}
+        <h2>Quick cash for used cars Turramurra</h2>,{" "}
+        <h2>Turramurra junk car buyers</h2>,{" "}
+        <h2>Scrap car disposal Turramurra</h2>,{" "}
+        <h2>Cash for old cars Turramurra</h2>, <h2>Turramurra auto wreckers</h2>
+        , <h2>Sell damaged car Turramurra</h2>,{" "}
+        <h2>Top dollar for cars Turramurra</h2>,{" "}
+        <h2>Cash for clunkers Turramurra</h2>, <h2>Turramurra car recycling</h2>
+        , <h2>Sell my damaged car Turramurra</h2>,{" "}
+        <h2>Turramurra same-day car removal</h2>, <h2></h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/57.jpg",
