@@ -607,7 +607,6 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars St Ives Sydney</h2>,
         <h2>Cash for cars Wahroona Sydney</h2>,
         <h2>Cash for cars Hornsby Sydney</h2>,{" "}
         <h2>Cash for cars Mount Colah Sydney</h2>,

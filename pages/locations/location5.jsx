@@ -490,7 +490,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
               </Grid>
 
               {/* location6 in page */}
-              {/* <Grid
+              <Grid
                 md={3.7}
                 sm={5.7}
                 xs={12}
@@ -525,7 +525,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
                     </CardContent>
                   </Card>
                 </Postanimation>
-              </Grid> */}
+              </Grid>
             </Grid>
 
             <Box
