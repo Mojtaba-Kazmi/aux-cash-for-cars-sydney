@@ -648,6 +648,105 @@ export const subLocation = [
     ),
   },
 
+  // location 7
+  {
+    image: "/assets/locationsImages/sublocation1Images/63.jpg",
+    title: "Cash for cars Wahroona Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your old or unwanted car in Wahroonga,
+          Sydney, one name stands out among the rest –{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With a reputation
+          for offering top-notch service and unbeatable cash deals,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> has become the go-to choice
+          for residents in the area looking to convert their unused vehicles
+          into instant cash.
+        </p>
+        <h2>Why Choose Aux Cash for Cars in Wahroonga?</h2>
+        <ol>
+          <h3>
+            <li>Best Cash Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            providing the best cash offers for your cars in Wahroonga. Our team
+            of experts assesses the value of your vehicle fairly, ensuring that
+            you receive the maximum cash value possible. Say goodbye to
+            undervalued deals – <Link href={"/"}>Aux Cash for Cars</Link> is
+            committed to putting the most money in your pocket.
+          </p>
+          <h3>
+            <li>Quick and Hassle-Free Process:</li>
+          </h3>
+          <p>
+            Selling a car can often be a tedious and time-consuming process, but
+            not with <Link href={"/"}>Aux Cash for Cars</Link>. We have
+            streamlined our procedures to make the selling experience quick and
+            hassle-free. From the initial inquiry to the final transaction, our
+            team is dedicated to ensuring a smooth and efficient process for our
+            clients.
+          </p>
+          <h3>
+            <li>Wide Range of Accepted Vehicles:</li>
+          </h3>
+          <p>
+            Regardless of the make, model, or condition of your car,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is interested in
+            purchasing it. Whether you have a damaged car, an old clunker, or a
+            vehicle that's simply reached the end of its life, we are ready to
+            make you a fair cash offer.
+          </p>
+          <h3>
+            <li>Free Towing and Pickup:</li>
+          </h3>
+          <p>
+            Forget the stress of transporting your car to the buyer.{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> offers free towing and
+            pickup services, saving you time and money. Our team will come to
+            your location at a time convenient for you, ensuring a hassle-free
+            transaction.
+          </p>
+          <h3>
+            <li>Environmentally Responsible Recycling:</li>
+          </h3>
+          <p>
+            In addition to offering cash for cars,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is committed to
+            environmentally responsible recycling practices. We ensure that
+            every vehicle we purchase is recycled in an eco-friendly manner,
+            contributing to a sustainable future.
+          </p>
+        </ol>
+        <p>
+          When it comes to cash for cars in Wahroonga, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> stands out as the premier
+          choice. With a commitment to fair valuations, a quick and hassle-free
+          process, and a dedication to environmental responsibility,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the trusted
+          partner for turning your old vehicles into instant cash. Contact us
+          today and experience the best cash for cars service in the area.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Wahroonga</h2>, <h2>Sell My Car Wahroonga</h2>,{" "}
+        <h2>Top Cash for Cars Sydney</h2>,{" "}
+        <h2>Instant Cash for Cars Wahroonga</h2>,{" "}
+        <h2>Junk Car Removal Wahroonga</h2>, <h2>Scrap Car Buyers Sydney</h2>,{" "}
+        <h2>Get Cash for Your Car Wahroonga</h2>,{" "}
+        <h2>Sell Your Old Car Sydney</h2>,{" "}
+        <h2>Cash for Unwanted Cars Wahroonga</h2>,{" "}
+        <h2>Best Car Removal Wahroonga</h2>, <h2>Free Car Removal Sydney</h2>,{" "}
+        <h2>Quick Cash for Cars Wahroonga</h2>,{" "}
+        <h2>Top Dollar for Scrap Cars Sydney</h2>,{" "}
+        <h2>Sell Damaged Car Wahroonga</h2>,{" "}
+        <h2>Same Day Car Removal Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/57.jpg",
