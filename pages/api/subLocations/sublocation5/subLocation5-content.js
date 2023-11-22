@@ -747,6 +747,106 @@ export const subLocation = [
     ),
   },
 
+  // location 8
+  {
+    image: "/assets/locationsImages/sublocation1Images/64.jpg",
+    title: "Cash for cars Hornsby Sydney",
+    description: (
+      <>
+        <p>
+          In the bustling automotive market of Hornsby, Sydney, finding a
+          reliable and efficient cash-for-cars service is crucial for those
+          looking to sell their vehicles seamlessly. Among the myriad options
+          available, <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out
+          as the undisputed leader in providing top-notch services for
+          individuals looking to sell their cars quickly and conveniently.
+        </p>
+        <ol>
+          <h2>
+            <li>Swift and Hassle-Free Transactions:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> prides itself on
+            offering swift and hassle-free transactions. With a streamlined
+            process that prioritizes your time and convenience, selling your car
+            has never been easier. From the initial evaluation to the final
+            payment, <Link href={"/"}>Aux Cash for Cars</Link> ensures a
+            seamless experience.
+          </p>
+          <h2>
+            <li>Competitive and Fair Cash Offers:</li>
+          </h2>
+          <p>
+            One of the key factors that set{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> apart is its commitment to
+            providing competitive and fair cash offers. Utilizing a transparent
+            and market-driven valuation process, the company ensures that
+            sellers receive the best possible price for their vehicles,
+            reflecting the current market conditions.
+          </p>
+          <h2>
+            <li>Wide Range of Accepted Vehicles:</li>
+          </h2>
+          <p>
+            Whether you have an old, damaged car, a used vehicle in good
+            condition, or a scrap car taking up space, Aux Cash for Cars Sydney
+            accepts a wide range of vehicles. This versatility makes them the
+            go-to choice for anyone in Hornsby and the surrounding areas looking
+            to sell their car, regardless of its condition.
+          </p>
+          <h2>
+            <li></li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars</Link> places a strong emphasis
+            on a customer-centric approach. With a dedicated team that
+            understands the unique needs of each seller, they go the extra mile
+            to ensure a positive and satisfying experience. Their commitment to
+            customer satisfaction has earned them a stellar reputation in the
+            Hornsby automotive community.
+          </p>
+          <h2>
+            <li>Environmentally Responsible Disposal:</li>
+          </h2>
+          <p>
+            In addition to providing cash for cars,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is committed to
+            environmentally responsible disposal practices. They adhere to
+            eco-friendly recycling methods, ensuring that end-of-life vehicles
+            are dismantled and disposed of in an environmentally sustainable
+            manner.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to cash for cars in Hornsby, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> stands as the epitome of
+          reliability, efficiency, and customer satisfaction. With a commitment
+          to fair transactions, a diverse range of accepted vehicles, and a
+          customer-centric approach,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> has rightfully earned
+          its reputation as the best cash-for-cars service in the area.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Hornsby</h2>, <h2>Sell My Car Hornsby</h2>,{" "}
+        <h2>Hornsby Car Buyers</h2>, <h2>Top Cash for Cars Hornsby</h2>,{" "}
+        <h2>Quick Car Sale Hornsby</h2>, <h2>Hornsby Scrap Car Removal</h2>,{" "}
+        <h2>Cash for Unwanted Cars Hornsby</h2>, <h2>Hornsby Car Wreckers</h2>,{" "}
+        <h2>Instant Cash for Old Cars Hornsby</h2>,{" "}
+        <h2>Free Car Removal Hornsby</h2>,{" "}
+        <h2>Sell Your Scrap Car in Hornsby</h2>,{" "}
+        <h2>Best Car Buyers in Hornsby</h2>, <h2>Hornsby Cash for Junk Cars</h2>
+        , <h2>Scrap Car Collection Hornsby</h2>,{" "}
+        <h2>Cash for Damaged Cars Hornsby</h2>, <h2>Hornsby Auto Wreckers</h2>,{" "}
+        <h2>We Buy Cars for Cash Hornsby</h2>,{" "}
+        <h2>Hornsby Cash for Used Cars</h2>, <h2>Sell Broken Car Hornsby</h2>,{" "}
+        <h2>Top Dollar for Cars Hornsby</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/57.jpg",
