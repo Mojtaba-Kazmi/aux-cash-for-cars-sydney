@@ -795,7 +795,7 @@ export const subLocation = [
             to sell their car, regardless of its condition.
           </p>
           <h2>
-            <li></li>
+            <li>Customer-Centric Approach: </li>
           </h2>
           <p>
             <Link href={"/"}>Aux Cash for Cars</Link> places a strong emphasis
