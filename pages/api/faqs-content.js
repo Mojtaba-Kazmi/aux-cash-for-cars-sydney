@@ -353,137 +353,109 @@ export const question = [
 
   // location 4
   {
-    image: "/assets/locationsImages/sublocation1Images/33.jpg",
-    title: "Cash for cars Northbridge Sydney",
+    image: "/assets/locationsImages/sublocation1Images/4.jpg",
+    title:
+      "Do I need to provide any documentation when selling my car for cash?",
     description: (
       <>
         <p>
-          Are you looking to sell your old, unwanted, or damaged car in
-          Northbridge, Sydney? If so, you're in luck! There's a reputable and
-          efficient service in the area that offers top-dollar cash for cars.
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
-          best cash for cars service, providing a hassle-free and
-          customer-friendly experience.
+          Certainly! When selling your car for cash through{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, it's important to be
+          prepared with the necessary documentation to ensure a smooth and
+          transparent transaction. While specific requirements may vary, the
+          following documents are commonly needed:
         </p>
-        <h2>
-          Why Choose <Link href={"/"}>Aux Cash for Cars Sydney?</Link>
-        </h2>
         <ol>
-          <h3>
-            <li>Top Dollar Offers: </li>
-          </h3>
+          <h2>
+            <li>Vehicle Title:</li>
+          </h2>
           <p>
-            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers competitive
-            prices for all types of vehicles, regardless of their condition.
-            Whether your car is old, damaged, or simply unwanted, they ensure
-            you receive the best possible value for it.
+            Ensure that you have the original title of the vehicle, as it serves
+            as proof of ownership. If there is a lien on the car, you may need
+            to coordinate with the lienholder to complete the sale.
           </p>
-          <h3>
-            <li>Free Vehicle Removal:</li>
-          </h3>
+          <h2>
+            <li>Valid ID:</li>
+          </h2>
           <p>
-            Tired of dealing with the logistics of selling your car?{" "}
-            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes care of that
-            for you. They offer free vehicle removal services, making the
-            process smooth and convenient. You don't have to worry about towing
-            or transportation costs.
+            Provide a government-issued identification document, such as a
+            driver's license or passport. This helps verify your identity as the
+            legal owner of the vehicle.
           </p>
-          <h3>
-            <li>Quick and Efficient Process: </li>
-          </h3>
+          <h2>
+            <li>Maintenance Records:</li>
+          </h2>
           <p>
-            Selling a car can be time-consuming, but{" "}
-            <Link href={"/"}>Aux Cash for Cars Sydney</Link>
-            values your time. Their streamlined process ensures a quick
-            transaction, allowing you to get rid of your car and receive cash
-            promptly.
+            While not always required, having maintenance records can add value
+            to your car and reassure the buyer about its history and condition.
           </p>
-          <h3>
-            <li>All Makes and Models Accepted:</li>
-          </h3>
+          <h2>
+            <li>Bill of Sale:</li>
+          </h2>
           <p>
-            No matter the make, model, or condition of your vehicle,{" "}
-            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is interested. They
-            accept a wide range of cars, including sedans, SUVs, trucks, and
-            even those that are no longer running.
+            Draft a bill of sale that includes details such as the sale price,
+            date of sale, your contact information, the buyer's information, and
+            a description of the vehicle. Both parties should sign this
+            document.
           </p>
-          <h3>
-            <li>Professional and Friendly Staff:</li>
-          </h3>
+          <h2>
+            <li>Release of Liability Form:</li>
+          </h2>
           <p>
-            The team at <Link href={"/"}>Aux Cash for Cars Sydney</Link> is
-            known for their professionalism and friendly approach. They guide
-            you through the entire selling process, answering any questions you
-            might have along the way.
+            Some regions may require you to fill out a release of liability
+            form. This document informs the relevant authorities that you are no
+            longer responsible for the vehicle after the sale.
           </p>
-          <h3>
-            <li>Environmentally Responsible:</li>
-          </h3>
+          <h2>
+            <li>Odometer Disclosure Statement:</li>
+          </h2>
           <p>
-            Not only do they provide a great way to sell your car, but they also
-            have environmentally responsible practices. They properly recycle
-            and dispose of vehicles to minimize the impact on the environment.
+            If your vehicle is under a certain age, you may need to provide an
+            odometer disclosure statement, indicating the accurate mileage of
+            the car at the time of sale.
           </p>
-        </ol>
-        <h2>How It Works:</h2>
-        <ol>
-          <h3>
-            <li>Get a Quote:</li>
-          </h3>
+          <h2>
+            <li>Smog Certification:</li>
+          </h2>
           <p>
-            Contact <Link href={"/"}>Aux Cash for Cars Sydney</Link> with
-            details about your car, such as its make, model, year, and
-            condition. They will provide you with a competitive quote.
+            Depending on your location, you might need to provide a recent smog
+            certification. Ensure that your vehicle complies with local emission
+            standards.
           </p>
-          <h3>
-            <li>Accept the Offer:</li>
-          </h3>
+          <h2>
+            <li>Any Outstanding Recall Information:</li>
+          </h2>
           <p>
-            Once you accept the offer, they will schedule a convenient time for
-            vehicle inspection and removal.
-          </p>
-          <h3>
-            <li>Get Paid:</li>
-          </h3>
-          <p>
-            After the inspection, if everything matches the provided details,
-            you'll receive instant cash for your car on the spot.
-          </p>
-          <h3>
-            <li>Free Vehicle Removal</li>
-          </h3>
-          <p>
-            They'll tow away your car for free, eliminating any additional costs
-            on your end.
+            Check if there are any outstanding recalls on your vehicle and
+            address them before selling. Some buyers may request this
+            information for safety reasons.
           </p>
         </ol>
         <p>
-          <b>Conclusion:</b>When it comes to cash for cars services in
-          Northbridge, Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
-          stands out as the premier choice. With their fair prices, efficient
-          process, and commitment to customer satisfaction, selling your car has
-          never been easier. Say goodbye to the hassle of listing your car
-          online or negotiating with potential buyers—choose{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link> and experience a
-          stress-free car selling experience.
+          Before finalizing the sale, it's advisable to contact{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> directly or check
+          their <Link href={"/"}>website</Link> for any specific requirements
+          they may have. This will help you streamline the selling process and
+          avoid any potential complications.
         </p>
       </>
     ),
     tags: (
       <>
-        <h2>Cash for cars Northbridge Sydney</h2>,{" "}
-        <h2>Best car buyers Northbridge</h2>,{" "}
-        <h2>Top cash for cars Northbridge</h2>, <h2>Sell my car Northbridge</h2>
-        , <h2>Cash for junk cars Northbridge</h2>,{" "}
-        <h2>Scrap car removal Northbridge</h2>,{" "}
-        <h2>Unwanted car buyers Sydney</h2>,{" "}
-        <h2>Old car removal Northbridge</h2>,{" "}
-        <h2>Sell damaged car Northbridge</h2>,{" "}
-        <h2>Instant cash for cars Sydney</h2>,{" "}
-        <h2>Northbridge car selling services</h2>,{" "}
-        <h2>Free car removal Sydney</h2>, <h2>Northbridge car wreckers</h2>,{" "}
-        <h2>Reliable car buyers Sydney</h2>,{" "}
-        <h2>Highest paying car buyers Northbridge</h2>,{" "}
+        <h2>Car selling documentation</h2>, <h2>Cash car sale requirements</h2>,{" "}
+        <h2>Selling car paperwork</h2>, <h2>Documentation for selling car</h2>,{" "}
+        <h2>Cash for cars process</h2>, <h2>Required documents for car sale</h2>
+        , <h2>Selling car without title</h2>, <h2>Cash offer for my car</h2>,{" "}
+        <h2>Car selling paperwork checklist</h2>,{" "}
+        <h2>Selling vehicle for cash tips</h2>,{" "}
+        <h2>Transfer of ownership for cash sale</h2>,{" "}
+        <h2>Cash sale car title transfer</h2>,{" "}
+        <h2>Selling car without a license</h2>, <h2>Selling car with lien</h2>,{" "}
+        <h2>Cash for cars legal requirements</h2>,{" "}
+        <h2>Selling car privately documentation</h2>,{" "}
+        <h2>Car selling transaction paperwork</h2>,{" "}
+        <h2>Documents needed for cash car sale</h2>,{" "}
+        <h2>Selling used car paperwork</h2>, <h2>Cash for cars legalities</h2>,{" "}
       </>
     ),
   },

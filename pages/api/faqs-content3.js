@@ -353,113 +353,113 @@ export const question = [
   },
 
   // Question 4
-  // {
-  //   image: "/assets/locationsImages/sublocation1Images/4.jpg",
-  //   title:
-  //     "Do I need to provide any documentation when selling my car for cash?",
-  //   description: (
-  //     <>
-  //       <p>
-  //         Certainly! When selling your car for cash through{" "}
-  //         <Link href={"/"}>Aux Cash for Cars Sydney</Link>, it's important to be
-  //         prepared with the necessary documentation to ensure a smooth and
-  //         transparent transaction. While specific requirements may vary, the
-  //         following documents are commonly needed:
-  //       </p>
-  //       <ol>
-  //         <h2>
-  //           <li>Vehicle Title:</li>
-  //         </h2>
-  //         <p>
-  //           Ensure that you have the original title of the vehicle, as it serves
-  //           as proof of ownership. If there is a lien on the car, you may need
-  //           to coordinate with the lienholder to complete the sale.
-  //         </p>
-  //         <h2>
-  //           <li>Valid ID:</li>
-  //         </h2>
-  //         <p>
-  //           Provide a government-issued identification document, such as a
-  //           driver's license or passport. This helps verify your identity as the
-  //           legal owner of the vehicle.
-  //         </p>
-  //         <h2>
-  //           <li>Maintenance Records:</li>
-  //         </h2>
-  //         <p>
-  //           While not always required, having maintenance records can add value
-  //           to your car and reassure the buyer about its history and condition.
-  //         </p>
-  //         <h2>
-  //           <li>Bill of Sale:</li>
-  //         </h2>
-  //         <p>
-  //           Draft a bill of sale that includes details such as the sale price,
-  //           date of sale, your contact information, the buyer's information, and
-  //           a description of the vehicle. Both parties should sign this
-  //           document.
-  //         </p>
-  //         <h2>
-  //           <li>Release of Liability Form:</li>
-  //         </h2>
-  //         <p>
-  //           Some regions may require you to fill out a release of liability
-  //           form. This document informs the relevant authorities that you are no
-  //           longer responsible for the vehicle after the sale.
-  //         </p>
-  //         <h2>
-  //           <li>Odometer Disclosure Statement:</li>
-  //         </h2>
-  //         <p>
-  //           If your vehicle is under a certain age, you may need to provide an
-  //           odometer disclosure statement, indicating the accurate mileage of
-  //           the car at the time of sale.
-  //         </p>
-  //         <h2>
-  //           <li>Smog Certification:</li>
-  //         </h2>
-  //         <p>
-  //           Depending on your location, you might need to provide a recent smog
-  //           certification. Ensure that your vehicle complies with local emission
-  //           standards.
-  //         </p>
-  //         <h2>
-  //           <li>Any Outstanding Recall Information:</li>
-  //         </h2>
-  //         <p>
-  //           Check if there are any outstanding recalls on your vehicle and
-  //           address them before selling. Some buyers may request this
-  //           information for safety reasons.
-  //         </p>
-  //       </ol>
-  //       <p>
-  //         Before finalizing the sale, it's advisable to contact{" "}
-  //         <Link href={"/"}>Aux Cash for Cars Sydney</Link> directly or check
-  //         their <Link href={"/"}>website</Link> for any specific requirements
-  //         they may have. This will help you streamline the selling process and
-  //         avoid any potential complications.
-  //       </p>
-  //     </>
-  //   ),
-  //   tags: (
-  //     <>
-  //       <h2>Car selling documentation</h2>, <h2>Cash car sale requirements</h2>,{" "}
-  //       <h2>Selling car paperwork</h2>, <h2>Documentation for selling car</h2>,{" "}
-  //       <h2>Cash for cars process</h2>, <h2>Required documents for car sale</h2>
-  //       , <h2>Selling car without title</h2>, <h2>Cash offer for my car</h2>,{" "}
-  //       <h2>Car selling paperwork checklist</h2>,{" "}
-  //       <h2>Selling vehicle for cash tips</h2>,{" "}
-  //       <h2>Transfer of ownership for cash sale</h2>,{" "}
-  //       <h2>Cash sale car title transfer</h2>,{" "}
-  //       <h2>Selling car without a license</h2>, <h2>Selling car with lien</h2>,{" "}
-  //       <h2>Cash for cars legal requirements</h2>,{" "}
-  //       <h2>Selling car privately documentation</h2>,{" "}
-  //       <h2>Car selling transaction paperwork</h2>,{" "}
-  //       <h2>Documents needed for cash car sale</h2>,{" "}
-  //       <h2>Selling used car paperwork</h2>, <h2>Cash for cars legalities</h2>,{" "}
-  //     </>
-  //   ),
-  // },
+  {
+    image: "/assets/locationsImages/sublocation1Images/4.jpg",
+    title:
+      "Do I need to provide any documentation when selling my car for cash?",
+    description: (
+      <>
+        <p>
+          Certainly! When selling your car for cash through{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, it's important to be
+          prepared with the necessary documentation to ensure a smooth and
+          transparent transaction. While specific requirements may vary, the
+          following documents are commonly needed:
+        </p>
+        <ol>
+          <h2>
+            <li>Vehicle Title:</li>
+          </h2>
+          <p>
+            Ensure that you have the original title of the vehicle, as it serves
+            as proof of ownership. If there is a lien on the car, you may need
+            to coordinate with the lienholder to complete the sale.
+          </p>
+          <h2>
+            <li>Valid ID:</li>
+          </h2>
+          <p>
+            Provide a government-issued identification document, such as a
+            driver's license or passport. This helps verify your identity as the
+            legal owner of the vehicle.
+          </p>
+          <h2>
+            <li>Maintenance Records:</li>
+          </h2>
+          <p>
+            While not always required, having maintenance records can add value
+            to your car and reassure the buyer about its history and condition.
+          </p>
+          <h2>
+            <li>Bill of Sale:</li>
+          </h2>
+          <p>
+            Draft a bill of sale that includes details such as the sale price,
+            date of sale, your contact information, the buyer's information, and
+            a description of the vehicle. Both parties should sign this
+            document.
+          </p>
+          <h2>
+            <li>Release of Liability Form:</li>
+          </h2>
+          <p>
+            Some regions may require you to fill out a release of liability
+            form. This document informs the relevant authorities that you are no
+            longer responsible for the vehicle after the sale.
+          </p>
+          <h2>
+            <li>Odometer Disclosure Statement:</li>
+          </h2>
+          <p>
+            If your vehicle is under a certain age, you may need to provide an
+            odometer disclosure statement, indicating the accurate mileage of
+            the car at the time of sale.
+          </p>
+          <h2>
+            <li>Smog Certification:</li>
+          </h2>
+          <p>
+            Depending on your location, you might need to provide a recent smog
+            certification. Ensure that your vehicle complies with local emission
+            standards.
+          </p>
+          <h2>
+            <li>Any Outstanding Recall Information:</li>
+          </h2>
+          <p>
+            Check if there are any outstanding recalls on your vehicle and
+            address them before selling. Some buyers may request this
+            information for safety reasons.
+          </p>
+        </ol>
+        <p>
+          Before finalizing the sale, it's advisable to contact{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> directly or check
+          their <Link href={"/"}>website</Link> for any specific requirements
+          they may have. This will help you streamline the selling process and
+          avoid any potential complications.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Car selling documentation</h2>, <h2>Cash car sale requirements</h2>,{" "}
+        <h2>Selling car paperwork</h2>, <h2>Documentation for selling car</h2>,{" "}
+        <h2>Cash for cars process</h2>, <h2>Required documents for car sale</h2>
+        , <h2>Selling car without title</h2>, <h2>Cash offer for my car</h2>,{" "}
+        <h2>Car selling paperwork checklist</h2>,{" "}
+        <h2>Selling vehicle for cash tips</h2>,{" "}
+        <h2>Transfer of ownership for cash sale</h2>,{" "}
+        <h2>Cash sale car title transfer</h2>,{" "}
+        <h2>Selling car without a license</h2>, <h2>Selling car with lien</h2>,{" "}
+        <h2>Cash for cars legal requirements</h2>,{" "}
+        <h2>Selling car privately documentation</h2>,{" "}
+        <h2>Car selling transaction paperwork</h2>,{" "}
+        <h2>Documents needed for cash car sale</h2>,{" "}
+        <h2>Selling used car paperwork</h2>, <h2>Cash for cars legalities</h2>,{" "}
+      </>
+    ),
+  },
 
   // Question 5
   // {
