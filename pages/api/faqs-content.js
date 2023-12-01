@@ -16,136 +16,98 @@ export const question = [
 
   // location 1
   {
-    image: "/assets/locationsImages/sublocation1Images/30.jpg",
-    title: "Cash for Cars North Sydney",
+    image: "/assets/locationsImages/sublocation1Images/1.jpg",
+    title: "What is the process of selling a car for cash in Sydney?",
     description: (
       <>
         <p>
-          When it comes to parting ways with your old, unused, or damaged
-          vehicle in North Sydney, there's a hassle-free solution that's been
-          turning heads and transforming the way people handle car disposals:
-          Cash for Cars services. Among the plethora of options available, one
-          name stands out as the pinnacle of excellence in this domain –{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link>
+          Selling your car for cash in Sydney has never been easier, thanks to{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link>. Our streamlined process
+          ensures a hassle-free experience, putting cash in your hands quickly
+          and efficiently. Here's a step-by-step guide to selling your car with
+          us:
         </p>
-        <h2>
-          The Evolution of Car Disposals: Cash for Cars Services in North Sydney
-        </h2>
-        <p>
-          Bid farewell to the days of tedious classified ads, countless
-          negotiations, and the uncertainty that comes with selling your car
-          privately. Cash for Cars services have revolutionized the process of
-          selling vehicles, making it streamlined, efficient, and surprisingly
-          rewarding. North Sydney residents now have the luxury of avoiding the
-          headache that typically accompanies the sale of a car.
-        </p>
-        <h2>Why Choose Aux Cash for Cars Sydney? The Epitome of Excellence</h2>
-        <p>
-          Among the array of <Link href={"/"}>Cash for Cars services</Link>{" "}
-          operating in North Sydney,{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link> has consistently
-          stood out as the epitome of excellence. With a reputation built on
-          trust, transparency, and top-notch customer service,{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link> has carved a niche
-          for itself as the go-to choice for anyone looking to sell their car
-          seamlessly and lucratively.
-        </p>
-        <h2>What Sets Aux Cash for Cars Sydney Apart?</h2>
         <ol>
-          <h3>
-            <li>Instant Cash Offers:</li>
-          </h3>
+          <h2>
+            <li>Online Valuation:</li>
+          </h2>
           <p>
-            <Link href={"/"}>Aux Cash for Cars Sydney</Link> ensures a swift and
-            stress-free process by providing instant cash offers for vehicles.
-            This eliminates the uncertainty and waiting period associated with
-            traditional selling methods.
+            Start by filling out our online valuation form. Provide accurate
+            details about your vehicle, including make, model, year, and
+            condition. Our experts will assess the information and provide you
+            with a fair and competitive quote.
           </p>
-          <h3>
-            <li>All Vehicle Types:</li>
-          </h3>
+          <h2>
+            <li>Schedule an Inspection:</li>
+          </h2>
           <p>
-            Whether you have a sedate sedan, a rugged SUV, a compact car, or
-            even a scrap vehicle,{" "}
-            <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts all types
-            of vehicles in any condition.
+            Once you receive your quote and are satisfied with the offer, our
+            team will schedule an on-site inspection at a time that suits you.
+            We'll assess the condition of your car and verify the details
+            provided.
           </p>
-          <h3>
-            <li>Free Vehicle Removal:</li>
-          </h3>
+          <h2>
+            <li>Receive a Cash Offer:</li>
+          </h2>
           <p>
-            Say goodbye to towing fees and logistical nightmares. Aux Cash for
-            Cars Sydney offers complimentary vehicle removal services, making
-            the entire process even more convenient.
+            After the inspection, we'll present you with a final cash offer. If
+            you accept, we move forward to the next steps. Our offers are
+            transparent, and there are no hidden fees or last-minute surprises.
           </p>
-          <h3>
-            <li>Transparent Transactions:</li>
-          </h3>
+          <h2>
+            <li>Paperwork Simplified:</li>
+          </h2>
           <p>
-            Transparency is at the core of{" "}
-            <Link href={"/"}>Aux Cash for Cars Sydney's</Link> business model.
-            Sellers can expect fair valuations and straightforward transactions,
-            ensuring peace of mind throughout the process.
+            We take care of all the necessary paperwork, making the process
+            swift and stress-free. Our team will guide you through the
+            paperwork, ensuring everything is in order for a smooth transaction.
           </p>
-          <h3>
-            <li>Experienced Team:</li>
-          </h3>
+          <h2>
+            <li>Get Paid Instantly:</li>
+          </h2>
           <p>
-            Backed by a team of seasoned professionals, Aux Cash for Cars Sydney
-            brings years of industry knowledge to the table, allowing them to
-            provide accurate valuations and exceptional customer support.
+            Once the paperwork is complete, we hand you the cash on the spot. No
+            waiting for bank transfers or checks to clear – you walk away with
+            money in your pocket.
           </p>
-          <h3>
-            <li>Sustainability:</li>
-          </h3>
+          <h2>
+            <li>Free Car Removal:</li>
+          </h2>
           <p>
-            Aux Cash for Cars Sydney is committed to eco-friendly practices.
-            They prioritize proper disposal and recycling of vehicles,
-            contributing to a greener environment.
+            <Link href={"/"}>Aux Cash for Cars</Link> provides complimentary car
+            removal services. We'll tow away your vehicle at no extra cost,
+            saving you time and effort.
+          </p>
+          <h2>
+            <li>Environmentally Friendly Disposal:</li>
+          </h2>
+          <p>
+            Concerned about the environment? We adhere to eco-friendly disposal
+            practices, recycling and salvaging components to minimize our
+            environmental impact.
           </p>
         </ol>
-        <h2>The Aux Cash for Cars Sydney Experience</h2>
         <p>
-          Selling your car in North Sydney has never been easier, thanks to{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With a track record
-          of satisfied customers and a commitment to making the process as
-          convenient as possible, they have rightfully earned their reputation
-          as the premier Cash for Cars service in the area. Wave goodbye to the
-          complexities of traditional car sales and embrace the simplicity and
-          rewards that come with choosing{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
-        </p>
-        <p>
-          <b>In conclusion</b>, if you're in North Sydney and in need of a
-          reliable, efficient, and lucrative way to part with your vehicle, look
-          no further than Aux Cash for Cars Sydney. Experience the future of car
-          disposals today and let{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link> handle your
-          car-selling journey with unmatched professionalism and ease.
+          At <Link href={"/"}>Aux Cash for Cars </Link>, we prioritize customer
+          satisfaction and strive to make selling your car a seamless
+          experience. Contact us today to turn your unwanted vehicle into
+          instant cash.
         </p>
       </>
     ),
     tags: (
       <>
-        <h2>Cash for Cars North Sydney</h2>,{" "}
-        <h2>Sell Your Car for Cash North Sydney</h2>,{" "}
-        <h2>Top Car Buyer North Sydney</h2>,{" "}
-        <h2>Get Paid for Your Car North Sydney</h2>,{" "}
-        <h2>Instant Cash for Cars North Sydney</h2>,{" "}
-        <h2>North Sydney Cash Car Buyers</h2>, <h2></h2>,{" "}
-        <h2>Sell My Car Fast North Sydney</h2>, <h2></h2>,{" "}
-        <h2>Best Cash for Cars Services North Sydney</h2>,{" "}
-        <h2>Cash Offer for Used Cars North Sydney</h2>,{" "}
-        <h2>Trusted Car Selling Services North Sydney</h2>,{" "}
-        <h2>Quick Car Sale North Sydney</h2>,{" "}
-        <h2>Highest Cash Offers for Cars North Sydney</h2>,{" "}
-        <h2>Reliable Car Removal North Sydney</h2>,{" "}
-        <h2>Scrap Car Removal for Cash North Sydney</h2>,{" "}
-        <h2>North Sydney Cash for Unwanted Cars</h2>,{" "}
-        <h2>Sell Damaged Cars for Cash North Sydney</h2>,{" "}
-        <h2>Free Car Valuation North Sydney</h2>,{" "}
-        <h2>Sell Old Cars for Cash North Sydney</h2>,{" "}
-        <h2>North Sydney Eco-Friendly Car Disposal</h2>
+        <h2>Sell car Sydney</h2>, <h2>Cash for cars process</h2>,{" "}
+        <h2>Sydney car selling steps</h2>, <h2>Instant cash for cars</h2>,{" "}
+        <h2>Car valuation Sydney</h2>, <h2>Hassle-free car sale</h2>,{" "}
+        <h2>On-site car inspection</h2>, <h2>Transparent cash offers</h2>,{" "}
+        <h2>Free car removal Sydney</h2>, <h2>Eco-friendly car disposal</h2>,{" "}
+        <h2>Quick cash for unwanted cars</h2>, <h2>Sydney car selling guide</h2>
+        , <h2>Best cash offers for cars</h2>,{" "}
+        <h2>Streamlined car selling process</h2>,{" "}
+        <h2>Top car buyers in Sydney</h2>, <h2>Sell my car today for cash</h2>,{" "}
+        <h2>Efficient car selling Sydney</h2>, <h2>Sydney auto resale</h2>,{" "}
+        <h2>Fast and easy car cash sale</h2>
       </>
     ),
   },
