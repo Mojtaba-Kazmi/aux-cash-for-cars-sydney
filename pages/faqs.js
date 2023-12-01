@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 import Link from "next/link";
 import ContactForm from "@/components/ContactForm";
-import { question } from "./api/faqs-content";
+import { question } from "./api/locations-content";
 import { MiniCardStyle } from "@/components/GlobalComponents";
 import { styled } from "@mui/system";
 import {
