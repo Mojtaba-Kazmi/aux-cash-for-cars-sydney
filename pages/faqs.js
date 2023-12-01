@@ -494,7 +494,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
         </Box>
       </Box>
       {/* sectoion 2 */}
-      <Grid
+      {/* <Grid
         sx={{
           mt: "10px",
           mb: "50px",
@@ -509,7 +509,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
         <Grid item md={5.8} sm={12} xs={12}>
           <ContactForm />
         </Grid>
-      </Grid>
+      </Grid> */}
     </>
   );
 }
