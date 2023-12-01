@@ -114,352 +114,352 @@ export const question = [
   },
 
   // Question 2
-  {
-    image: "/assets/locationsImages/sublocation1Images/2.jpg",
-    title:
-      "Are there specific requirements for selling a car for cash in Sydney?",
-    description: (
-      <>
-        <p>
-          Selling your car for cash in Sydney with{" "}
-          <Link href={"/"}>Aux Cash for Cars</Link> is a straightforward process
-          designed to provide you with a hassle-free experience. While specific
-          requirements may vary, here are the general steps to sell your car:
-        </p>
-        <ol>
-          <h2>
-            <li>Vehicle Information:</li>
-          </h2>
-          <p>
-            Provide accurate details about your car, including make, model,
-            year, mileage, and overall condition.
-          </p>
-          <h2>
-            <li>Ownership Documentation:</li>
-          </h2>
-          <p>
-            Ensure you have the legal right to sell the vehicle. Have the
-            original title and any other relevant ownership documents ready.
-          </p>
-          <h2>
-            <li>Identification:</li>
-          </h2>
-          <p>
-            Bring a valid form of identification, such as a driver's license, to
-            verify your identity.
-          </p>
-          <h2>
-            <li>Vehicle Inspection:</li>
-          </h2>
-          <p>
-            <Link href={"/"}>Aux Cash for Cars</Link> may conduct a brief
-            inspection of your vehicle to assess its condition. Ensure your car
-            is clean and accessible for inspection.
-          </p>
-          <h2>
-            <li>Maintenance Records:</li>
-          </h2>
-          <p>
-            While not always required, having maintenance records can enhance
-            the credibility of your vehicle and potentially result in a better
-            offer.
-          </p>
-          <h2>
-            <li>Remove Personal Belongings:</li>
-          </h2>
-          <p>
-            Clean out your car and remove personal belongings before the
-            transaction.
-          </p>
-          <h2>
-            <li>Negotiation and Agreement:</li>
-          </h2>
-          <p>
-            Once the assessment is complete, Aux Cash for Cars will provide a
-            cash offer. Feel free to negotiate, and once an agreement is
-            reached, the paperwork can begin.
-          </p>
-          <h2>
-            <li>Paperwork:</li>
-          </h2>
-          <p>
-            Sign the necessary paperwork to transfer ownership.{" "}
-            <Link href={"/"}>Aux Cash for Cars</Link> will guide you through
-            this process.
-          </p>
-          <h2>
-            <li>Payment:</li>
-          </h2>
-          <p>
-            Receive your cash payment promptly upon completion of the paperwork
-            and transfer of ownership.
-          </p>
-          <h2>
-            <li>Towing Service:</li>
-          </h2>
-          <p>
-            If needed, <Link href={"/"}>Aux Cash for Cars</Link> may offer
-            towing services to transport the vehicle from your location.
-          </p>
-        </ol>
-        <p>
-          Please note that these are general guidelines, and specific
-          requirements may vary. It's advisable to contact{" "}
-          <Link href={"/"}>Aux Cash for Cars</Link> directly or visit their
-          website for the most accurate and up-to-date information.
-        </p>
-        <p>
-          For more information and to initiate the selling process, visit{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link> or contact their
-          customer service.
-        </p>
-      </>
-    ),
-    tags: (
-      <>
-        <h2>Sell car for cash Sydney</h2>, <h2>Cash for cars requirements</h2>,{" "}
-        <h2>Selling a car in Sydney guidelines</h2>,{" "}
-        <h2>Sydney car selling process</h2>,{" "}
-        <h2>Cash for cars eligibility criteria</h2>,{" "}
-        <h2>Quick cash sale Sydney</h2>,{" "}
-        <h2>Selling car without a title Sydney</h2>,{" "}
-        <h2>Car selling documentation Sydney</h2>,{" "}
-        <h2>Instant cash for cars Sydney</h2>,{" "}
-        <h2>Sydney car buyers regulations</h2>,{" "}
-        <h2>Selling unregistered car for cash Sydney</h2>,{" "}
-        <h2>Best way to sell car for cash in Sydney</h2>,{" "}
-        <h2>Cash for cars inspection Sydney</h2>,{" "}
-        <h2>Sydney car selling tips</h2>,{" "}
-        <h2>Legal aspects of selling a car for cash</h2>,{" "}
-        <h2>Selling damaged car for cash Sydney</h2>,{" "}
-        <h2>Cash for cars without roadworthy certificate Sydney</h2>,{" "}
-        <h2>Sydney scrap car removal cash</h2>,{" "}
-        <h2>Get cash for old cars Sydney</h2>,{" "}
-      </>
-    ),
-  },
+  // {
+  //   image: "/assets/locationsImages/sublocation1Images/2.jpg",
+  //   title:
+  //     "Are there specific requirements for selling a car for cash in Sydney?",
+  //   description: (
+  //     <>
+  //       <p>
+  //         Selling your car for cash in Sydney with{" "}
+  //         <Link href={"/"}>Aux Cash for Cars</Link> is a straightforward process
+  //         designed to provide you with a hassle-free experience. While specific
+  //         requirements may vary, here are the general steps to sell your car:
+  //       </p>
+  //       <ol>
+  //         <h2>
+  //           <li>Vehicle Information:</li>
+  //         </h2>
+  //         <p>
+  //           Provide accurate details about your car, including make, model,
+  //           year, mileage, and overall condition.
+  //         </p>
+  //         <h2>
+  //           <li>Ownership Documentation:</li>
+  //         </h2>
+  //         <p>
+  //           Ensure you have the legal right to sell the vehicle. Have the
+  //           original title and any other relevant ownership documents ready.
+  //         </p>
+  //         <h2>
+  //           <li>Identification:</li>
+  //         </h2>
+  //         <p>
+  //           Bring a valid form of identification, such as a driver's license, to
+  //           verify your identity.
+  //         </p>
+  //         <h2>
+  //           <li>Vehicle Inspection:</li>
+  //         </h2>
+  //         <p>
+  //           <Link href={"/"}>Aux Cash for Cars</Link> may conduct a brief
+  //           inspection of your vehicle to assess its condition. Ensure your car
+  //           is clean and accessible for inspection.
+  //         </p>
+  //         <h2>
+  //           <li>Maintenance Records:</li>
+  //         </h2>
+  //         <p>
+  //           While not always required, having maintenance records can enhance
+  //           the credibility of your vehicle and potentially result in a better
+  //           offer.
+  //         </p>
+  //         <h2>
+  //           <li>Remove Personal Belongings:</li>
+  //         </h2>
+  //         <p>
+  //           Clean out your car and remove personal belongings before the
+  //           transaction.
+  //         </p>
+  //         <h2>
+  //           <li>Negotiation and Agreement:</li>
+  //         </h2>
+  //         <p>
+  //           Once the assessment is complete, Aux Cash for Cars will provide a
+  //           cash offer. Feel free to negotiate, and once an agreement is
+  //           reached, the paperwork can begin.
+  //         </p>
+  //         <h2>
+  //           <li>Paperwork:</li>
+  //         </h2>
+  //         <p>
+  //           Sign the necessary paperwork to transfer ownership.{" "}
+  //           <Link href={"/"}>Aux Cash for Cars</Link> will guide you through
+  //           this process.
+  //         </p>
+  //         <h2>
+  //           <li>Payment:</li>
+  //         </h2>
+  //         <p>
+  //           Receive your cash payment promptly upon completion of the paperwork
+  //           and transfer of ownership.
+  //         </p>
+  //         <h2>
+  //           <li>Towing Service:</li>
+  //         </h2>
+  //         <p>
+  //           If needed, <Link href={"/"}>Aux Cash for Cars</Link> may offer
+  //           towing services to transport the vehicle from your location.
+  //         </p>
+  //       </ol>
+  //       <p>
+  //         Please note that these are general guidelines, and specific
+  //         requirements may vary. It's advisable to contact{" "}
+  //         <Link href={"/"}>Aux Cash for Cars</Link> directly or visit their
+  //         website for the most accurate and up-to-date information.
+  //       </p>
+  //       <p>
+  //         For more information and to initiate the selling process, visit{" "}
+  //         <Link href={"/"}>Aux Cash for Cars Sydney</Link> or contact their
+  //         customer service.
+  //       </p>
+  //     </>
+  //   ),
+  //   tags: (
+  //     <>
+  //       <h2>Sell car for cash Sydney</h2>, <h2>Cash for cars requirements</h2>,{" "}
+  //       <h2>Selling a car in Sydney guidelines</h2>,{" "}
+  //       <h2>Sydney car selling process</h2>,{" "}
+  //       <h2>Cash for cars eligibility criteria</h2>,{" "}
+  //       <h2>Quick cash sale Sydney</h2>,{" "}
+  //       <h2>Selling car without a title Sydney</h2>,{" "}
+  //       <h2>Car selling documentation Sydney</h2>,{" "}
+  //       <h2>Instant cash for cars Sydney</h2>,{" "}
+  //       <h2>Sydney car buyers regulations</h2>,{" "}
+  //       <h2>Selling unregistered car for cash Sydney</h2>,{" "}
+  //       <h2>Best way to sell car for cash in Sydney</h2>,{" "}
+  //       <h2>Cash for cars inspection Sydney</h2>,{" "}
+  //       <h2>Sydney car selling tips</h2>,{" "}
+  //       <h2>Legal aspects of selling a car for cash</h2>,{" "}
+  //       <h2>Selling damaged car for cash Sydney</h2>,{" "}
+  //       <h2>Cash for cars without roadworthy certificate Sydney</h2>,{" "}
+  //       <h2>Sydney scrap car removal cash</h2>,{" "}
+  //       <h2>Get cash for old cars Sydney</h2>,{" "}
+  //     </>
+  //   ),
+  // },
 
   // Question 3
-  {
-    image: "/assets/locationsImages/sublocation1Images/3.jpg",
-    title: "How can I get a cash quote for my car in Sydney?",
-    description: (
-      <>
-        <p>
-          To get a cash quote for your car in Sydney through a "
-          <Link href={"/"}>Cash for Cars</Link>" service, you can follow these
-          general steps:
-        </p>
-        <ol>
-          <h2>
-            <li>Research Local Cash for Cars Services:</li>
-          </h2>
-          <p>
-            Start by researching and identifying reputable{" "}
-            <Link href={"/"}>Cash for Cars services</Link> in Sydney. You can
-            use online search engines, business directories, or ask for
-            recommendations from friends and family.
-          </p>
-          <h2>
-            <li>Contact the Service Providers:</li>
-          </h2>
-          <p>
-            Reach out to the selected Cash for Cars companies through phone,
-            email, or their online contact forms. Provide them with details
-            about your car, such as its make, model, year, condition, and any
-            relevant information.
-          </p>
-          <h2>
-            <li>Get a Quote:</li>
-          </h2>
-          <p>
-            Once you've contacted the service providers, they will typically ask
-            for details about your car to provide you with a cash quote. Be
-            honest and accurate in your description to get the most accurate
-            estimate.
-          </p>
-          <h2>
-            <li>Schedule an Inspection:</li>
-          </h2>
-          <p>
-            In many cases, the <Link href={"/"}>Cash for Cars service</Link> may
-            want to inspect your car in person to assess its condition. They
-            might do this at your location or ask you to bring the car to their
-            facility.
-          </p>
-          <h2>
-            <li>Receive the Cash Offer:</li>
-          </h2>
-          <p>
-            After the inspection, the service will present you with a cash offer
-            for your car. Evaluate the offer and decide whether it meets your
-            expectations.
-          </p>
-          <h2>
-            <li>Negotiate if Necessary:</li>
-          </h2>
-          <p>
-            If you feel the initial offer is not satisfactory, you can try
-            negotiating with the <Link href={"/"}>Cash for Cars service</Link>.{" "}
-            They may be willing to adjust the offer based on factors such as
-            market conditions, demand for your specific car, and its overall
-            condition.
-          </p>
-          <h2>
-            <li>Finalize the Deal:</li>
-          </h2>
-          <p>
-            Once you've agreed on a cash offer, finalize the deal. The{" "}
-            <Link href={"/"}>Cash for Cars service</Link> will typically handle
-            the necessary paperwork, and you'll receive the agreed-upon cash
-            amount.
-          </p>
-          <h2>
-            <li>Arrange for Car Removal:</li>
-          </h2>
-          <p>
-            If your car is not in working condition, the service will usually
-            offer free towing or removal services. Ensure that these logistics
-            are coordinated smoothly.
-          </p>
-        </ol>
-        <p>
-          Remember to choose a reputable and licensed{" "}
-          <Link href={"/"}>Cash for Cars service</Link> to ensure a fair and
-          transparent transaction. Always read reviews and testimonials to gauge
-          the experiences of others who have used the service.
-        </p>
-      </>
-    ),
-    tags: (
-      <>
-        <h2>Cash car quote Sydney</h2>, <h2>Car valuation Sydney</h2>,{" "}
-        <h2>Sell my car for cash Sydney</h2>,{" "}
-        <h2>Instant cash offer for my car</h2>, <h2>Sydney car buyers</h2>,{" "}
-        <h2>Get cash for your car today</h2>, <h2>Car selling quotes Sydney</h2>
-        , <h2>Quick cash quote for my car</h2>, <h2>Sell used car Sydney</h2>,{" "}
-        <h2>Top cash for cars Sydney</h2>,{" "}
-        <h2>Cash for unwanted cars Sydney</h2>,{" "}
-        <h2>Best car valuation service</h2>, <h2>Sell my car fast Sydney</h2>,{" "}
-        <h2>Free car valuation Sydney</h2>,{" "}
-        <h2>Cash offer for my car in Sydney</h2>,{" "}
-        <h2>Sell your car in Sydney for cash</h2>,{" "}
-        <h2>Instant car appraisal Sydney</h2>,{" "}
-        <h2>Reliable car selling quotes</h2>,{" "}
-        <h2>Sydney's best cash for cars</h2>,{" "}
-        <h2>Quick and easy car valuation Sydney</h2>,{" "}
-      </>
-    ),
-  },
+  // {
+  //   image: "/assets/locationsImages/sublocation1Images/3.jpg",
+  //   title: "How can I get a cash quote for my car in Sydney?",
+  //   description: (
+  //     <>
+  //       <p>
+  //         To get a cash quote for your car in Sydney through a "
+  //         <Link href={"/"}>Cash for Cars</Link>" service, you can follow these
+  //         general steps:
+  //       </p>
+  //       <ol>
+  //         <h2>
+  //           <li>Research Local Cash for Cars Services:</li>
+  //         </h2>
+  //         <p>
+  //           Start by researching and identifying reputable{" "}
+  //           <Link href={"/"}>Cash for Cars services</Link> in Sydney. You can
+  //           use online search engines, business directories, or ask for
+  //           recommendations from friends and family.
+  //         </p>
+  //         <h2>
+  //           <li>Contact the Service Providers:</li>
+  //         </h2>
+  //         <p>
+  //           Reach out to the selected Cash for Cars companies through phone,
+  //           email, or their online contact forms. Provide them with details
+  //           about your car, such as its make, model, year, condition, and any
+  //           relevant information.
+  //         </p>
+  //         <h2>
+  //           <li>Get a Quote:</li>
+  //         </h2>
+  //         <p>
+  //           Once you've contacted the service providers, they will typically ask
+  //           for details about your car to provide you with a cash quote. Be
+  //           honest and accurate in your description to get the most accurate
+  //           estimate.
+  //         </p>
+  //         <h2>
+  //           <li>Schedule an Inspection:</li>
+  //         </h2>
+  //         <p>
+  //           In many cases, the <Link href={"/"}>Cash for Cars service</Link> may
+  //           want to inspect your car in person to assess its condition. They
+  //           might do this at your location or ask you to bring the car to their
+  //           facility.
+  //         </p>
+  //         <h2>
+  //           <li>Receive the Cash Offer:</li>
+  //         </h2>
+  //         <p>
+  //           After the inspection, the service will present you with a cash offer
+  //           for your car. Evaluate the offer and decide whether it meets your
+  //           expectations.
+  //         </p>
+  //         <h2>
+  //           <li>Negotiate if Necessary:</li>
+  //         </h2>
+  //         <p>
+  //           If you feel the initial offer is not satisfactory, you can try
+  //           negotiating with the <Link href={"/"}>Cash for Cars service</Link>.{" "}
+  //           They may be willing to adjust the offer based on factors such as
+  //           market conditions, demand for your specific car, and its overall
+  //           condition.
+  //         </p>
+  //         <h2>
+  //           <li>Finalize the Deal:</li>
+  //         </h2>
+  //         <p>
+  //           Once you've agreed on a cash offer, finalize the deal. The{" "}
+  //           <Link href={"/"}>Cash for Cars service</Link> will typically handle
+  //           the necessary paperwork, and you'll receive the agreed-upon cash
+  //           amount.
+  //         </p>
+  //         <h2>
+  //           <li>Arrange for Car Removal:</li>
+  //         </h2>
+  //         <p>
+  //           If your car is not in working condition, the service will usually
+  //           offer free towing or removal services. Ensure that these logistics
+  //           are coordinated smoothly.
+  //         </p>
+  //       </ol>
+  //       <p>
+  //         Remember to choose a reputable and licensed{" "}
+  //         <Link href={"/"}>Cash for Cars service</Link> to ensure a fair and
+  //         transparent transaction. Always read reviews and testimonials to gauge
+  //         the experiences of others who have used the service.
+  //       </p>
+  //     </>
+  //   ),
+  //   tags: (
+  //     <>
+  //       <h2>Cash car quote Sydney</h2>, <h2>Car valuation Sydney</h2>,{" "}
+  //       <h2>Sell my car for cash Sydney</h2>,{" "}
+  //       <h2>Instant cash offer for my car</h2>, <h2>Sydney car buyers</h2>,{" "}
+  //       <h2>Get cash for your car today</h2>, <h2>Car selling quotes Sydney</h2>
+  //       , <h2>Quick cash quote for my car</h2>, <h2>Sell used car Sydney</h2>,{" "}
+  //       <h2>Top cash for cars Sydney</h2>,{" "}
+  //       <h2>Cash for unwanted cars Sydney</h2>,{" "}
+  //       <h2>Best car valuation service</h2>, <h2>Sell my car fast Sydney</h2>,{" "}
+  //       <h2>Free car valuation Sydney</h2>,{" "}
+  //       <h2>Cash offer for my car in Sydney</h2>,{" "}
+  //       <h2>Sell your car in Sydney for cash</h2>,{" "}
+  //       <h2>Instant car appraisal Sydney</h2>,{" "}
+  //       <h2>Reliable car selling quotes</h2>,{" "}
+  //       <h2>Sydney's best cash for cars</h2>,{" "}
+  //       <h2>Quick and easy car valuation Sydney</h2>,{" "}
+  //     </>
+  //   ),
+  // },
 
   // Question 4
-  {
-    image: "/assets/locationsImages/sublocation1Images/4.jpg",
-    title:
-      "Do I need to provide any documentation when selling my car for cash?",
-    description: (
-      <>
-        <p>
-          Certainly! When selling your car for cash through{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, it's important to be
-          prepared with the necessary documentation to ensure a smooth and
-          transparent transaction. While specific requirements may vary, the
-          following documents are commonly needed:
-        </p>
-        <ol>
-          <h2>
-            <li>Vehicle Title:</li>
-          </h2>
-          <p>
-            Ensure that you have the original title of the vehicle, as it serves
-            as proof of ownership. If there is a lien on the car, you may need
-            to coordinate with the lienholder to complete the sale.
-          </p>
-          <h2>
-            <li>Valid ID:</li>
-          </h2>
-          <p>
-            Provide a government-issued identification document, such as a
-            driver's license or passport. This helps verify your identity as the
-            legal owner of the vehicle.
-          </p>
-          <h2>
-            <li>Maintenance Records:</li>
-          </h2>
-          <p>
-            While not always required, having maintenance records can add value
-            to your car and reassure the buyer about its history and condition.
-          </p>
-          <h2>
-            <li>Bill of Sale:</li>
-          </h2>
-          <p>
-            Draft a bill of sale that includes details such as the sale price,
-            date of sale, your contact information, the buyer's information, and
-            a description of the vehicle. Both parties should sign this
-            document.
-          </p>
-          <h2>
-            <li>Release of Liability Form:</li>
-          </h2>
-          <p>
-            Some regions may require you to fill out a release of liability
-            form. This document informs the relevant authorities that you are no
-            longer responsible for the vehicle after the sale.
-          </p>
-          <h2>
-            <li>Odometer Disclosure Statement:</li>
-          </h2>
-          <p>
-            If your vehicle is under a certain age, you may need to provide an
-            odometer disclosure statement, indicating the accurate mileage of
-            the car at the time of sale.
-          </p>
-          <h2>
-            <li>Smog Certification:</li>
-          </h2>
-          <p>
-            Depending on your location, you might need to provide a recent smog
-            certification. Ensure that your vehicle complies with local emission
-            standards.
-          </p>
-          <h2>
-            <li>Any Outstanding Recall Information:</li>
-          </h2>
-          <p>
-            Check if there are any outstanding recalls on your vehicle and
-            address them before selling. Some buyers may request this
-            information for safety reasons.
-          </p>
-        </ol>
-        <p>
-          Before finalizing the sale, it's advisable to contact{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link> directly or check
-          their <Link href={"/"}>website</Link> for any specific requirements
-          they may have. This will help you streamline the selling process and
-          avoid any potential complications.
-        </p>
-      </>
-    ),
-    tags: (
-      <>
-        <h2>Car selling documentation</h2>, <h2>Cash car sale requirements</h2>,{" "}
-        <h2>Selling car paperwork</h2>, <h2>Documentation for selling car</h2>,{" "}
-        <h2>Cash for cars process</h2>, <h2>Required documents for car sale</h2>
-        , <h2>Selling car without title</h2>, <h2>Cash offer for my car</h2>,{" "}
-        <h2>Car selling paperwork checklist</h2>,{" "}
-        <h2>Selling vehicle for cash tips</h2>,{" "}
-        <h2>Transfer of ownership for cash sale</h2>,{" "}
-        <h2>Cash sale car title transfer</h2>,{" "}
-        <h2>Selling car without a license</h2>, <h2>Selling car with lien</h2>,{" "}
-        <h2>Cash for cars legal requirements</h2>,{" "}
-        <h2>Selling car privately documentation</h2>,{" "}
-        <h2>Car selling transaction paperwork</h2>,{" "}
-        <h2>Documents needed for cash car sale</h2>,{" "}
-        <h2>Selling used car paperwork</h2>, <h2>Cash for cars legalities</h2>,{" "}
-      </>
-    ),
-  },
+  // {
+  //   image: "/assets/locationsImages/sublocation1Images/4.jpg",
+  //   title:
+  //     "Do I need to provide any documentation when selling my car for cash?",
+  //   description: (
+  //     <>
+  //       <p>
+  //         Certainly! When selling your car for cash through{" "}
+  //         <Link href={"/"}>Aux Cash for Cars Sydney</Link>, it's important to be
+  //         prepared with the necessary documentation to ensure a smooth and
+  //         transparent transaction. While specific requirements may vary, the
+  //         following documents are commonly needed:
+  //       </p>
+  //       <ol>
+  //         <h2>
+  //           <li>Vehicle Title:</li>
+  //         </h2>
+  //         <p>
+  //           Ensure that you have the original title of the vehicle, as it serves
+  //           as proof of ownership. If there is a lien on the car, you may need
+  //           to coordinate with the lienholder to complete the sale.
+  //         </p>
+  //         <h2>
+  //           <li>Valid ID:</li>
+  //         </h2>
+  //         <p>
+  //           Provide a government-issued identification document, such as a
+  //           driver's license or passport. This helps verify your identity as the
+  //           legal owner of the vehicle.
+  //         </p>
+  //         <h2>
+  //           <li>Maintenance Records:</li>
+  //         </h2>
+  //         <p>
+  //           While not always required, having maintenance records can add value
+  //           to your car and reassure the buyer about its history and condition.
+  //         </p>
+  //         <h2>
+  //           <li>Bill of Sale:</li>
+  //         </h2>
+  //         <p>
+  //           Draft a bill of sale that includes details such as the sale price,
+  //           date of sale, your contact information, the buyer's information, and
+  //           a description of the vehicle. Both parties should sign this
+  //           document.
+  //         </p>
+  //         <h2>
+  //           <li>Release of Liability Form:</li>
+  //         </h2>
+  //         <p>
+  //           Some regions may require you to fill out a release of liability
+  //           form. This document informs the relevant authorities that you are no
+  //           longer responsible for the vehicle after the sale.
+  //         </p>
+  //         <h2>
+  //           <li>Odometer Disclosure Statement:</li>
+  //         </h2>
+  //         <p>
+  //           If your vehicle is under a certain age, you may need to provide an
+  //           odometer disclosure statement, indicating the accurate mileage of
+  //           the car at the time of sale.
+  //         </p>
+  //         <h2>
+  //           <li>Smog Certification:</li>
+  //         </h2>
+  //         <p>
+  //           Depending on your location, you might need to provide a recent smog
+  //           certification. Ensure that your vehicle complies with local emission
+  //           standards.
+  //         </p>
+  //         <h2>
+  //           <li>Any Outstanding Recall Information:</li>
+  //         </h2>
+  //         <p>
+  //           Check if there are any outstanding recalls on your vehicle and
+  //           address them before selling. Some buyers may request this
+  //           information for safety reasons.
+  //         </p>
+  //       </ol>
+  //       <p>
+  //         Before finalizing the sale, it's advisable to contact{" "}
+  //         <Link href={"/"}>Aux Cash for Cars Sydney</Link> directly or check
+  //         their <Link href={"/"}>website</Link> for any specific requirements
+  //         they may have. This will help you streamline the selling process and
+  //         avoid any potential complications.
+  //       </p>
+  //     </>
+  //   ),
+  //   tags: (
+  //     <>
+  //       <h2>Car selling documentation</h2>, <h2>Cash car sale requirements</h2>,{" "}
+  //       <h2>Selling car paperwork</h2>, <h2>Documentation for selling car</h2>,{" "}
+  //       <h2>Cash for cars process</h2>, <h2>Required documents for car sale</h2>
+  //       , <h2>Selling car without title</h2>, <h2>Cash offer for my car</h2>,{" "}
+  //       <h2>Car selling paperwork checklist</h2>,{" "}
+  //       <h2>Selling vehicle for cash tips</h2>,{" "}
+  //       <h2>Transfer of ownership for cash sale</h2>,{" "}
+  //       <h2>Cash sale car title transfer</h2>,{" "}
+  //       <h2>Selling car without a license</h2>, <h2>Selling car with lien</h2>,{" "}
+  //       <h2>Cash for cars legal requirements</h2>,{" "}
+  //       <h2>Selling car privately documentation</h2>,{" "}
+  //       <h2>Car selling transaction paperwork</h2>,{" "}
+  //       <h2>Documents needed for cash car sale</h2>,{" "}
+  //       <h2>Selling used car paperwork</h2>, <h2>Cash for cars legalities</h2>,{" "}
+  //     </>
+  //   ),
+  // },
 
   // Question 5
   // {
