@@ -16,102 +16,102 @@ export const question = [
   },
 
   // Question 1
-  {
-    image: "/assets/locationsImages/sublocation1Images/1.jpg",
-    title: "What is the process of selling a car for cash in Sydney?",
-    description: (
-      <>
-        <p>
-          Selling your car for cash in Sydney has never been easier, thanks to{" "}
-          <Link href={"/"}>Aux Cash for Cars</Link>. Our streamlined process
-          ensures a hassle-free experience, putting cash in your hands quickly
-          and efficiently. Here's a step-by-step guide to selling your car with
-          us:
-        </p>
-        <ol>
-          <h2>
-            <li>Online Valuation:</li>
-          </h2>
-          <p>
-            Start by filling out our online valuation form. Provide accurate
-            details about your vehicle, including make, model, year, and
-            condition. Our experts will assess the information and provide you
-            with a fair and competitive quote.
-          </p>
-          <h2>
-            <li>Schedule an Inspection:</li>
-          </h2>
-          <p>
-            Once you receive your quote and are satisfied with the offer, our
-            team will schedule an on-site inspection at a time that suits you.
-            We'll assess the condition of your car and verify the details
-            provided.
-          </p>
-          <h2>
-            <li>Receive a Cash Offer:</li>
-          </h2>
-          <p>
-            After the inspection, we'll present you with a final cash offer. If
-            you accept, we move forward to the next steps. Our offers are
-            transparent, and there are no hidden fees or last-minute surprises.
-          </p>
-          <h2>
-            <li>Paperwork Simplified:</li>
-          </h2>
-          <p>
-            We take care of all the necessary paperwork, making the process
-            swift and stress-free. Our team will guide you through the
-            paperwork, ensuring everything is in order for a smooth transaction.
-          </p>
-          <h2>
-            <li>Get Paid Instantly:</li>
-          </h2>
-          <p>
-            Once the paperwork is complete, we hand you the cash on the spot. No
-            waiting for bank transfers or checks to clear – you walk away with
-            money in your pocket.
-          </p>
-          <h2>
-            <li>Free Car Removal:</li>
-          </h2>
-          <p>
-            <Link href={"/"}>Aux Cash for Cars</Link> provides complimentary car
-            removal services. We'll tow away your vehicle at no extra cost,
-            saving you time and effort.
-          </p>
-          <h2>
-            <li>Environmentally Friendly Disposal:</li>
-          </h2>
-          <p>
-            Concerned about the environment? We adhere to eco-friendly disposal
-            practices, recycling and salvaging components to minimize our
-            environmental impact.
-          </p>
-        </ol>
-        <p>
-          At <Link href={"/"}>Aux Cash for Cars </Link>, we prioritize customer
-          satisfaction and strive to make selling your car a seamless
-          experience. Contact us today to turn your unwanted vehicle into
-          instant cash.
-        </p>
-      </>
-    ),
-    tags: (
-      <>
-        <h2>Sell car Sydney</h2>, <h2>Cash for cars process</h2>,{" "}
-        <h2>Sydney car selling steps</h2>, <h2>Instant cash for cars</h2>,{" "}
-        <h2>Car valuation Sydney</h2>, <h2>Hassle-free car sale</h2>,{" "}
-        <h2>On-site car inspection</h2>, <h2>Transparent cash offers</h2>,{" "}
-        <h2>Free car removal Sydney</h2>, <h2>Eco-friendly car disposal</h2>,{" "}
-        <h2>Quick cash for unwanted cars</h2>, <h2>Sydney car selling guide</h2>
-        , <h2>Best cash offers for cars</h2>,{" "}
-        <h2>Streamlined car selling process</h2>,{" "}
-        <h2>Top car buyers in Sydney</h2>, <h2>Sell my car today for cash</h2>,{" "}
-        <h2>Efficient car selling Sydney</h2>, <h2>Sydney auto resale</h2>,{" "}
-        <h2>Fast and easy car cash sale</h2>
-      </>
-    ),
-  },
+  // {
+  //   image: "/assets/locationsImages/sublocation1Images/1.jpg",
+  //   title: "What is the process of selling a car for cash in Sydney?",
+  //   description: (
+  //     <>
+  //       <p>
+  //         Selling your car for cash in Sydney has never been easier, thanks to{" "}
+  //         <Link href={"/"}>Aux Cash for Cars</Link>. Our streamlined process
+  //         ensures a hassle-free experience, putting cash in your hands quickly
+  //         and efficiently. Here's a step-by-step guide to selling your car with
+  //         us:
+  //       </p>
+  //       <ol>
+  //         <h2>
+  //           <li>Online Valuation:</li>
+  //         </h2>
+  //         <p>
+  //           Start by filling out our online valuation form. Provide accurate
+  //           details about your vehicle, including make, model, year, and
+  //           condition. Our experts will assess the information and provide you
+  //           with a fair and competitive quote.
+  //         </p>
+  //         <h2>
+  //           <li>Schedule an Inspection:</li>
+  //         </h2>
+  //         <p>
+  //           Once you receive your quote and are satisfied with the offer, our
+  //           team will schedule an on-site inspection at a time that suits you.
+  //           We'll assess the condition of your car and verify the details
+  //           provided.
+  //         </p>
+  //         <h2>
+  //           <li>Receive a Cash Offer:</li>
+  //         </h2>
+  //         <p>
+  //           After the inspection, we'll present you with a final cash offer. If
+  //           you accept, we move forward to the next steps. Our offers are
+  //           transparent, and there are no hidden fees or last-minute surprises.
+  //         </p>
+  //         <h2>
+  //           <li>Paperwork Simplified:</li>
+  //         </h2>
+  //         <p>
+  //           We take care of all the necessary paperwork, making the process
+  //           swift and stress-free. Our team will guide you through the
+  //           paperwork, ensuring everything is in order for a smooth transaction.
+  //         </p>
+  //         <h2>
+  //           <li>Get Paid Instantly:</li>
+  //         </h2>
+  //         <p>
+  //           Once the paperwork is complete, we hand you the cash on the spot. No
+  //           waiting for bank transfers or checks to clear – you walk away with
+  //           money in your pocket.
+  //         </p>
+  //         <h2>
+  //           <li>Free Car Removal:</li>
+  //         </h2>
+  //         <p>
+  //           <Link href={"/"}>Aux Cash for Cars</Link> provides complimentary car
+  //           removal services. We'll tow away your vehicle at no extra cost,
+  //           saving you time and effort.
+  //         </p>
+  //         <h2>
+  //           <li>Environmentally Friendly Disposal:</li>
+  //         </h2>
+  //         <p>
+  //           Concerned about the environment? We adhere to eco-friendly disposal
+  //           practices, recycling and salvaging components to minimize our
+  //           environmental impact.
+  //         </p>
+  //       </ol>
+  //       <p>
+  //         At <Link href={"/"}>Aux Cash for Cars </Link>, we prioritize customer
+  //         satisfaction and strive to make selling your car a seamless
+  //         experience. Contact us today to turn your unwanted vehicle into
+  //         instant cash.
+  //       </p>
+  //     </>
+  //   ),
+  //   tags: (
+  //     <>
+  //       <h2>Sell car Sydney</h2>, <h2>Cash for cars process</h2>,{" "}
+  //       <h2>Sydney car selling steps</h2>, <h2>Instant cash for cars</h2>,{" "}
+  //       <h2>Car valuation Sydney</h2>, <h2>Hassle-free car sale</h2>,{" "}
+  //       <h2>On-site car inspection</h2>, <h2>Transparent cash offers</h2>,{" "}
+  //       <h2>Free car removal Sydney</h2>, <h2>Eco-friendly car disposal</h2>,{" "}
+  //       <h2>Quick cash for unwanted cars</h2>, <h2>Sydney car selling guide</h2>
+  //       , <h2>Best cash offers for cars</h2>,{" "}
+  //       <h2>Streamlined car selling process</h2>,{" "}
+  //       <h2>Top car buyers in Sydney</h2>, <h2>Sell my car today for cash</h2>,{" "}
+  //       <h2>Efficient car selling Sydney</h2>, <h2>Sydney auto resale</h2>,{" "}
+  //       <h2>Fast and easy car cash sale</h2>
+  //     </>
+  //   ),
+  // },
 
   // Question 2
   // {
