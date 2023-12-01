@@ -114,109 +114,126 @@ export const question = [
 
   // location 2
   {
-    image: "/assets/locationsImages/sublocation1Images/31.jpg",
-    title: "Cash for cars Milsons Point Sydney",
+    image: "/assets/locationsImages/sublocation1Images/2.jpg",
+    title:
+      "Are there specific requirements for selling a car for cash in Sydney?",
     description: (
       <>
         <p>
-          Selling your car in Milsons Point, Sydney, can be a hassle, especially
-          when you're looking for the best deal and a smooth, stress-free
-          process. If you're in this situation, look no further than{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With a reputation
-          for being the premier cash for cars service in the area, they offer an
-          exceptional experience for those looking to sell their vehicles
-          quickly and easily.
+          Selling your car for cash in Sydney with{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> is a straightforward process
+          designed to provide you with a hassle-free experience. While specific
+          requirements may vary, here are the general steps to sell your car:
         </p>
-        <h2>
-          Why Choose <Link href={"/"}>Aux Cash for Cars Sydney</Link> in Milsons
-          Point?
-        </h2>
         <ol>
-          <h3>
-            <li>Competitive Offers: </li>
-          </h3>
+          <h2>
+            <li>Vehicle Information:</li>
+          </h2>
           <p>
-            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is known for
-            offering some of the most competitive prices for used cars in the
-            Milsons Point area. Their team of experienced appraisers ensures
-            that you receive a fair and accurate assessment of your vehicle's
-            value, allowing you to get the most cash for your car.
+            Provide accurate details about your car, including make, model,
+            year, mileage, and overall condition.
           </p>
-          <h3>
-            <li>Streamlined Process: </li>
-          </h3>
+          <h2>
+            <li>Ownership Documentation:</li>
+          </h2>
           <p>
-            Selling a car can often be a time-consuming and complex process.
-            However, <Link href={"/"}>Aux Cash for Cars Sydney</Link> has
-            perfected a streamlined process designed to save you time and
-            effort. From initial evaluation to final payment, their team guides
-            you through each step, ensuring a hassle-free transaction.
+            Ensure you have the legal right to sell the vehicle. Have the
+            original title and any other relevant ownership documents ready.
           </p>
-          <h3>
-            <li>Any Make or Model: </li>
-          </h3>
+          <h2>
+            <li>Identification:</li>
+          </h2>
           <p>
-            Whether you're selling a sedan, SUV, truck, or any other type of
-            vehicle, <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts
-            all makes and models. This versatility makes them an ideal choice
-            for anyone looking to sell their car in Milsons Point.
+            Bring a valid form of identification, such as a driver's license, to
+            verify your identity.
           </p>
-          <h3>
-            <li>Instant Cash:</li>
-          </h3>
+          <h2>
+            <li>Vehicle Inspection:</li>
+          </h2>
           <p>
-            Need cash quickly? <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
-            offers instant cash payment upon agreement. This feature is
-            especially beneficial if you're in urgent need of funds or want to
-            avoid the delays often associated with other selling methods.
+            <Link href={"/"}>Aux Cash for Cars</Link> may conduct a brief
+            inspection of your vehicle to assess its condition. Ensure your car
+            is clean and accessible for inspection.
           </p>
-          <h3>
-            <li>Free Vehicle Removal: </li>
-          </h3>
+          <h2>
+            <li>Maintenance Records:</li>
+          </h2>
           <p>
-            As an added convenience, Aux Cash for Cars Sydney offers free
-            vehicle removal services. They'll come to your location in Milsons
-            Point, Sydney, to pick up your car, eliminating the need for you to
-            transport it yourself.
+            While not always required, having maintenance records can enhance
+            the credibility of your vehicle and potentially result in a better
+            offer.
           </p>
-          <h3>
-            <li>Experienced and Professional Team:</li>
-          </h3>
+          <h2>
+            <li>Remove Personal Belongings:</li>
+          </h2>
           <p>
-            <Link href={"/"}>Aux Cash for Cars Sydney</Link> boasts a team of
-            experienced professionals who are well-versed in the car selling
-            process. Their knowledge and expertise ensure that you have a
-            seamless and satisfying experience from start to finish.
+            Clean out your car and remove personal belongings before the
+            transaction.
+          </p>
+          <h2>
+            <li>Negotiation and Agreement:</li>
+          </h2>
+          <p>
+            Once the assessment is complete, Aux Cash for Cars will provide a
+            cash offer. Feel free to negotiate, and once an agreement is
+            reached, the paperwork can begin.
+          </p>
+          <h2>
+            <li>Paperwork:</li>
+          </h2>
+          <p>
+            Sign the necessary paperwork to transfer ownership.{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> will guide you through
+            this process.
+          </p>
+          <h2>
+            <li>Payment:</li>
+          </h2>
+          <p>
+            Receive your cash payment promptly upon completion of the paperwork
+            and transfer of ownership.
+          </p>
+          <h2>
+            <li>Towing Service:</li>
+          </h2>
+          <p>
+            If needed, <Link href={"/"}>Aux Cash for Cars</Link> may offer
+            towing services to transport the vehicle from your location.
           </p>
         </ol>
         <p>
-          <b>Conclusion:</b> When it comes to selling your car in Milsons Point,
-          Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as
-          the top choice. With their competitive offers, streamlined process,
-          and commitment to customer satisfaction, they make selling your car a
-          straightforward and lucrative endeavor. Experience the ease of selling
-          your car with the <Link href={"/"}>best cash for cars service</Link>{" "}
-          in the area - choose <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+          Please note that these are general guidelines, and specific
+          requirements may vary. It's advisable to contact{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> directly or visit their
+          website for the most accurate and up-to-date information.
+        </p>
+        <p>
+          For more information and to initiate the selling process, visit{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> or contact their
+          customer service.
         </p>
       </>
     ),
     tags: (
       <>
-        <h2>Cash for Cars Milsons Point Sydney</h2>,{" "}
-        <h2>Sell Your Car for Cash Milsons Point</h2>,{" "}
-        <h2>Top Cash for Cars Milsons Point</h2>,{" "}
-        <h2>Instant Cash for Cars in Sydney</h2>,{" "}
-        <h2>Milsons Point Car Removal Services</h2>,{" "}
-        <h2>Best Car Buyers Milsons Point</h2>,{" "}
-        <h2>Get Paid Cash for Your Car Sydney</h2>,{" "}
-        <h2>Sell Damaged Cars for Cash Milsons Point</h2>,{" "}
-        <h2>Quick Car Sale Milsons Point Sydney</h2>,{" "}
-        <h2>Scrap Car Removal Milsons Point</h2>,{" "}
-        <h2>Sell My Used Car for Cash Sydney</h2>,{" "}
-        <h2>Milsons Point Cash for Unwanted Cars</h2>,{" "}
-        <h2>Free Car Valuation Milsons Point</h2>,{" "}
-        <h2>Reliable Car Removal Sydney</h2>,{" "}
-        <h2>Highest Payout for Junk Cars Milsons Point</h2>
+        <h2>Sell car for cash Sydney</h2>, <h2>Cash for cars requirements</h2>,{" "}
+        <h2>Selling a car in Sydney guidelines</h2>,{" "}
+        <h2>Sydney car selling process</h2>,{" "}
+        <h2>Cash for cars eligibility criteria</h2>,{" "}
+        <h2>Quick cash sale Sydney</h2>,{" "}
+        <h2>Selling car without a title Sydney</h2>,{" "}
+        <h2>Car selling documentation Sydney</h2>,{" "}
+        <h2>Instant cash for cars Sydney</h2>,{" "}
+        <h2>Sydney car buyers regulations</h2>,{" "}
+        <h2>Selling unregistered car for cash Sydney</h2>,{" "}
+        <h2>Best way to sell car for cash in Sydney</h2>,{" "}
+        <h2>Cash for cars inspection Sydney</h2>,{" "}
+        <h2>Sydney car selling tips</h2>,{" "}
+        <h2>Legal aspects of selling a car for cash</h2>,{" "}
+        <h2>Selling damaged car for cash Sydney</h2>,{" "}
+        <h2>Cash for cars without roadworthy certificate Sydney</h2>,{" "}
+        <h2>Sydney scrap car removal cash</h2>,{" "}
+        <h2>Get cash for old cars Sydney</h2>,{" "}
       </>
     ),
   },
