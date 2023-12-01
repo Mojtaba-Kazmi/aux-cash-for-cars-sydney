@@ -28,7 +28,7 @@ export async function getServerSideProps() {
       description:
         "Discover the easiest way to get top cash for cars in Upper North Shore, NSW! Aux Cash for Cars Sydney offers quick and hassle-free car removal services, turning your old, unwanted vehicles into instant cash. Contact us today for a fast and reliable car selling experience!",
       image: "https://auxcashforcarsydney.com/assets/locationsImages/5.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location5`,
+      url: `https://auxcashforcarsydney.com/faqs`,
       keyword:
         "cash for cars sydney, Car Removal Sydney,sell my old car, pick up car for free, juk car removal",
       width: 1200,
