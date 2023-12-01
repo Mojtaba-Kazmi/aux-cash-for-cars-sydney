@@ -24,7 +24,11 @@ import ArrowBackIosIcon from "@mui/icons-material/ArrowBackIos";
 export async function getServerSideProps() {
   return {
     props: {
+<<<<<<< HEAD
       title: "FAQs - Aux Cash For Cars Sydney",
+=======
+      title: "Cash For Cars Upper North Shore NSW",
+>>>>>>> acd62d178272b3f2189e1e70717f8849e3d47109
       description:
         "Discover the easiest way to get top cash for cars in Upper North Shore, NSW! Aux Cash for Cars Sydney offers quick and hassle-free car removal services, turning your old, unwanted vehicles into instant cash. Contact us today for a fast and reliable car selling experience!",
       image: "https://auxcashforcarsydney.com/assets/locationsImages/5.jpg",

@@ -7,7 +7,7 @@ export const subLocation = [
   // location empty
   {
     image: "/assets/broken-down-cars.jpg",
-    title: <h1>location empty</h1>,
+    title: "location empty",
     description: (
       <>
         <p>empty</p>
