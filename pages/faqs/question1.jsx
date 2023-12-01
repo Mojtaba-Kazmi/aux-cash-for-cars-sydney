@@ -9,7 +9,7 @@ import {
   Typography,
 } from "@mui/material";
 import Link from "next/link";
-import { subLocation } from "../api/faqs-content3";
+import { subLocation } from "../api/faqs-content";
 import ContactForm from "@/components/ContactForm";
 import ContactUsCard from "@/components/ContactUsCard";
 import SocialShareBtn, { Line } from "@/components/GlobalComponents";
