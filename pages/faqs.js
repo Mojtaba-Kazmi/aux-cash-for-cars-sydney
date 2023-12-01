@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 import Link from "next/link";
 import ContactForm from "@/components/ContactForm";
-import { location } from "./api/locations-content";
+import { question } from "./api/faqs-content";
 import { MiniCardStyle } from "@/components/GlobalComponents";
 import { styled } from "@mui/system";
 import {
@@ -23,11 +23,11 @@ import Head from "next/head";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Locations - Aux Cash For Cars Sydney",
+      title: "FAQ - Aux Cash For Cars Sydney",
       description:
-        "Aux Cash for Cars Sydney service all areas in Sydney such as Sydney CBD, Eastern Suburbs, Inner West, Lower North Shore, Upper North Shore, Northern Beaches, Gladesville–Ryde–Eastwood, Western Sydney Suburbs, South Western, St George,  Sutherland Shire, Macarthur Region, Outer Western Suburbs and their suburbs.",
+        "Explore Aux Cash for Cars Sydney's comprehensive FAQS page to find answers to all your queries about selling your car for top cash! From the selling process and documentation requirements to payment details and more, our FAQs provide valuable insights to ensure a smooth and hassle-free experience. Discover everything you need to know before selling your car to Aux Cash for Cars Sydney. Get instant cash and expert guidance today!",
       image: "https://auxcashforcarsydney.com/assets/postImage/scrap-car.jpg",
-      url: `https://auxcashforcarsydney.com/locations`,
+      url: `https://auxcashforcarsydney.com/faqs`,
       keyword:
         "cash for cars sydney, Car Removal Sydney, sell my old car, unwanted cars",
       width: 1200,
@@ -73,7 +73,7 @@ function Locations({ title, description, image, url, keyword, width, height }) {
     }
   `;
   // location printer
-  let pslength = location.length - 1;
+  let pslength = question.length - 1;
   const [nextdisable, setNextdisable] = useState(false);
   const [backdisable, setBakcdisable] = useState(true);
   let [pagenum, setPagenum] = useState(1);
@@ -197,13 +197,13 @@ function Locations({ title, description, image, url, keyword, width, height }) {
             component={"h1"}
             sx={{ mt: "10px", color: "primary.main", display: "inline-block" }}
           >
-            Locations
+            FAQs
           </Typography>
           <Typography
             component={"p"}
             sx={{ display: "inline-block", ml: "2px" }}
           >
-            WE SERVICE ALL THE SYDNEY WIDE SUBURBS
+            IF YOUR QUESTION IS NOT ON THIS PAGE, PLEASE GO TO THE NEXT PAGES
           </Typography>
           {/* locations right */}
           <Grid container sx={{ mt: "10px", justifyContent: "space-between" }}>
@@ -221,23 +221,21 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                 <Card height={"100%"}>
                   <CardMedia
                     sx={{ height: "200px" }}
-                    image={location[ps1].image}
-                    title={location[ps1].alt}
-                    alt={location[ps1].alt}
+                    image={question[ps1].image}
+                    title={question[ps1].alt}
+                    alt={question[ps1].alt}
                   />
 
                   <CardContent>
                     <MiniCardStyle>
-                      <Link href={"/locations/location" + ps1}>
-                        <TitleContainer>{location[ps1].title}</TitleContainer>
+                      <Link href={"/faqs/question" + ps1}>
+                        <TitleContainer>{question[ps1].title}</TitleContainer>
                       </Link>
                       <Postdescription>
-                        {location[ps1].description}
+                        {question[ps1].description}
                       </Postdescription>
                       <Typography variant="body1" component={"p"}>
-                        <Link href={"/locations/location" + ps1}>
-                          Read More
-                        </Link>
+                        <Link href={"/faqs/question" + ps1}>Read More</Link>
                       </Typography>
                     </MiniCardStyle>
                   </CardContent>
@@ -258,23 +256,21 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                 <Card>
                   <CardMedia
                     sx={{ height: "200px" }}
-                    image={location[ps2].image}
-                    title={location[ps2].alt}
-                    alt={location[ps2].alt}
+                    image={question[ps2].image}
+                    title={question[ps2].alt}
+                    alt={question[ps2].alt}
                   />
                   <CardContent>
                     <MiniCardStyle>
-                      <Link href={"/locations/location" + ps2}>
-                        <TitleContainer>{location[ps2].title}</TitleContainer>
+                      <Link href={"/faqs/question" + ps2}>
+                        <TitleContainer>{question[ps2].title}</TitleContainer>
                       </Link>
 
                       <Postdescription>
-                        {location[ps2].description}
+                        {question[ps2].description}
                       </Postdescription>
                       <Typography variant="body1" component={"p"}>
-                        <Link href={"/locations/location" + ps2}>
-                          Read More
-                        </Link>
+                        <Link href={"/faqs/question" + ps2}>Read More</Link>
                       </Typography>
                     </MiniCardStyle>
                   </CardContent>
@@ -295,22 +291,20 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                 <Card>
                   <CardMedia
                     sx={{ height: "200px" }}
-                    image={location[ps3].image}
-                    title={location[ps3].alt}
-                    alt={location[ps3].alt}
+                    image={question[ps3].image}
+                    title={question[ps3].alt}
+                    alt={question[ps3].alt}
                   />
                   <CardContent>
                     <MiniCardStyle>
-                      <Link href={"/locations/location" + ps3}>
-                        <TitleContainer>{location[ps3].title}</TitleContainer>
+                      <Link href={"/faqs/question" + ps3}>
+                        <TitleContainer>{question[ps3].title}</TitleContainer>
                       </Link>
                       <Postdescription>
-                        {location[ps3].description}
+                        {question[ps3].description}
                       </Postdescription>
                       <Typography variant="body1" component={"p"}>
-                        <Link href={"/locations/location" + ps3}>
-                          Read More
-                        </Link>
+                        <Link href={"/faqs/question" + ps3}>Read More</Link>
                       </Typography>
                     </MiniCardStyle>
                   </CardContent>
@@ -331,22 +325,20 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                 <Card>
                   <CardMedia
                     sx={{ height: "200px" }}
-                    image={location[ps4].image}
-                    title={location[ps4].alt}
-                    alt={location[ps4].alt}
+                    image={question[ps4].image}
+                    title={question[ps4].alt}
+                    alt={question[ps4].alt}
                   />
                   <CardContent>
                     <MiniCardStyle>
-                      <Link href={"/locations/location" + ps4}>
-                        <TitleContainer>{location[ps4].title}</TitleContainer>
+                      <Link href={"/faqs/question" + ps4}>
+                        <TitleContainer>{question[ps4].title}</TitleContainer>
                       </Link>
                       <Postdescription>
-                        {location[ps4].description}
+                        {question[ps4].description}
                       </Postdescription>
                       <Typography variant="body1" component={"p"}>
-                        <Link href={"/locations/location" + ps4}>
-                          Read More
-                        </Link>
+                        <Link href={"/faqs/question" + ps4}>Read More</Link>
                       </Typography>
                     </MiniCardStyle>
                   </CardContent>
@@ -367,22 +359,20 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                 <Card>
                   <CardMedia
                     sx={{ height: "200px" }}
-                    image={location[ps5].image}
-                    title={location[ps5].alt}
-                    alt={location[ps5].alt}
+                    image={question[ps5].image}
+                    title={question[ps5].alt}
+                    alt={question[ps5].alt}
                   />
                   <CardContent>
                     <MiniCardStyle>
-                      <Link href={"/locations/location" + ps5}>
-                        <TitleContainer>{location[ps5].title}</TitleContainer>
+                      <Link href={"/faqs/question" + ps5}>
+                        <TitleContainer>{question[ps5].title}</TitleContainer>
                       </Link>
                       <Postdescription>
-                        {location[ps5].description}
+                        {question[ps5].description}
                       </Postdescription>
                       <Typography variant="body1" component={"p"}>
-                        <Link href={"/locations/location" + ps5}>
-                          Read More
-                        </Link>
+                        <Link href={"/faqs/question" + ps5}>Read More</Link>
                       </Typography>
                     </MiniCardStyle>
                   </CardContent>
@@ -403,22 +393,20 @@ function Locations({ title, description, image, url, keyword, width, height }) {
                 <Card>
                   <CardMedia
                     sx={{ height: "200px" }}
-                    image={location[ps6].image}
-                    title={location[ps6].alt}
-                    alt={location[ps6].alt}
+                    image={question[ps6].image}
+                    title={question[ps6].alt}
+                    alt={question[ps6].alt}
                   />
                   <CardContent>
                     <MiniCardStyle>
-                      <Link href={"/locations/location" + ps6}>
-                        <TitleContainer>{location[ps6].title}</TitleContainer>
+                      <Link href={"/faqs/question" + ps6}>
+                        <TitleContainer>{question[ps6].title}</TitleContainer>
                       </Link>
                       <Postdescription>
-                        {location[ps6].description}
+                        {question[ps6].description}
                       </Postdescription>
                       <Typography variant="body1" component={"p"}>
-                        <Link href={"/locations/location" + ps6}>
-                          Read More
-                        </Link>
+                        <Link href={"/faqs/question" + ps6}>Read More</Link>
                       </Typography>
                     </MiniCardStyle>
                   </CardContent>

@@ -3,7 +3,7 @@ import { Typography } from "@mui/material";
 import { useRouter } from "next/router";
 import { HdrOffSelect } from "@mui/icons-material";
 
-export const subLocation = [
+export const question = [
   // location empty
   {
     image: "/assets/broken-down-cars.jpg",
