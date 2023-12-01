@@ -240,117 +240,117 @@ export const question = [
   },
 
   // Question 3
-  // {
-  //   image: "/assets/locationsImages/sublocation1Images/3.jpg",
-  //   title: "How can I get a cash quote for my car in Sydney?",
-  //   description: (
-  //     <>
-  //       <p>
-  //         To get a cash quote for your car in Sydney through a "
-  //         <Link href={"/"}>Cash for Cars</Link>" service, you can follow these
-  //         general steps:
-  //       </p>
-  //       <ol>
-  //         <h2>
-  //           <li>Research Local Cash for Cars Services:</li>
-  //         </h2>
-  //         <p>
-  //           Start by researching and identifying reputable{" "}
-  //           <Link href={"/"}>Cash for Cars services</Link> in Sydney. You can
-  //           use online search engines, business directories, or ask for
-  //           recommendations from friends and family.
-  //         </p>
-  //         <h2>
-  //           <li>Contact the Service Providers:</li>
-  //         </h2>
-  //         <p>
-  //           Reach out to the selected Cash for Cars companies through phone,
-  //           email, or their online contact forms. Provide them with details
-  //           about your car, such as its make, model, year, condition, and any
-  //           relevant information.
-  //         </p>
-  //         <h2>
-  //           <li>Get a Quote:</li>
-  //         </h2>
-  //         <p>
-  //           Once you've contacted the service providers, they will typically ask
-  //           for details about your car to provide you with a cash quote. Be
-  //           honest and accurate in your description to get the most accurate
-  //           estimate.
-  //         </p>
-  //         <h2>
-  //           <li>Schedule an Inspection:</li>
-  //         </h2>
-  //         <p>
-  //           In many cases, the <Link href={"/"}>Cash for Cars service</Link> may
-  //           want to inspect your car in person to assess its condition. They
-  //           might do this at your location or ask you to bring the car to their
-  //           facility.
-  //         </p>
-  //         <h2>
-  //           <li>Receive the Cash Offer:</li>
-  //         </h2>
-  //         <p>
-  //           After the inspection, the service will present you with a cash offer
-  //           for your car. Evaluate the offer and decide whether it meets your
-  //           expectations.
-  //         </p>
-  //         <h2>
-  //           <li>Negotiate if Necessary:</li>
-  //         </h2>
-  //         <p>
-  //           If you feel the initial offer is not satisfactory, you can try
-  //           negotiating with the <Link href={"/"}>Cash for Cars service</Link>.{" "}
-  //           They may be willing to adjust the offer based on factors such as
-  //           market conditions, demand for your specific car, and its overall
-  //           condition.
-  //         </p>
-  //         <h2>
-  //           <li>Finalize the Deal:</li>
-  //         </h2>
-  //         <p>
-  //           Once you've agreed on a cash offer, finalize the deal. The{" "}
-  //           <Link href={"/"}>Cash for Cars service</Link> will typically handle
-  //           the necessary paperwork, and you'll receive the agreed-upon cash
-  //           amount.
-  //         </p>
-  //         <h2>
-  //           <li>Arrange for Car Removal:</li>
-  //         </h2>
-  //         <p>
-  //           If your car is not in working condition, the service will usually
-  //           offer free towing or removal services. Ensure that these logistics
-  //           are coordinated smoothly.
-  //         </p>
-  //       </ol>
-  //       <p>
-  //         Remember to choose a reputable and licensed{" "}
-  //         <Link href={"/"}>Cash for Cars service</Link> to ensure a fair and
-  //         transparent transaction. Always read reviews and testimonials to gauge
-  //         the experiences of others who have used the service.
-  //       </p>
-  //     </>
-  //   ),
-  //   tags: (
-  //     <>
-  //       <h2>Cash car quote Sydney</h2>, <h2>Car valuation Sydney</h2>,{" "}
-  //       <h2>Sell my car for cash Sydney</h2>,{" "}
-  //       <h2>Instant cash offer for my car</h2>, <h2>Sydney car buyers</h2>,{" "}
-  //       <h2>Get cash for your car today</h2>, <h2>Car selling quotes Sydney</h2>
-  //       , <h2>Quick cash quote for my car</h2>, <h2>Sell used car Sydney</h2>,{" "}
-  //       <h2>Top cash for cars Sydney</h2>,{" "}
-  //       <h2>Cash for unwanted cars Sydney</h2>,{" "}
-  //       <h2>Best car valuation service</h2>, <h2>Sell my car fast Sydney</h2>,{" "}
-  //       <h2>Free car valuation Sydney</h2>,{" "}
-  //       <h2>Cash offer for my car in Sydney</h2>,{" "}
-  //       <h2>Sell your car in Sydney for cash</h2>,{" "}
-  //       <h2>Instant car appraisal Sydney</h2>,{" "}
-  //       <h2>Reliable car selling quotes</h2>,{" "}
-  //       <h2>Sydney's best cash for cars</h2>,{" "}
-  //       <h2>Quick and easy car valuation Sydney</h2>,{" "}
-  //     </>
-  //   ),
-  // },
+  {
+    image: "/assets/locationsImages/sublocation1Images/3.jpg",
+    title: "How can I get a cash quote for my car in Sydney?",
+    description: (
+      <>
+        <p>
+          To get a cash quote for your car in Sydney through a "
+          <Link href={"/"}>Cash for Cars</Link>" service, you can follow these
+          general steps:
+        </p>
+        <ol>
+          <h2>
+            <li>Research Local Cash for Cars Services:</li>
+          </h2>
+          <p>
+            Start by researching and identifying reputable{" "}
+            <Link href={"/"}>Cash for Cars services</Link> in Sydney. You can
+            use online search engines, business directories, or ask for
+            recommendations from friends and family.
+          </p>
+          <h2>
+            <li>Contact the Service Providers:</li>
+          </h2>
+          <p>
+            Reach out to the selected Cash for Cars companies through phone,
+            email, or their online contact forms. Provide them with details
+            about your car, such as its make, model, year, condition, and any
+            relevant information.
+          </p>
+          <h2>
+            <li>Get a Quote:</li>
+          </h2>
+          <p>
+            Once you've contacted the service providers, they will typically ask
+            for details about your car to provide you with a cash quote. Be
+            honest and accurate in your description to get the most accurate
+            estimate.
+          </p>
+          <h2>
+            <li>Schedule an Inspection:</li>
+          </h2>
+          <p>
+            In many cases, the <Link href={"/"}>Cash for Cars service</Link> may
+            want to inspect your car in person to assess its condition. They
+            might do this at your location or ask you to bring the car to their
+            facility.
+          </p>
+          <h2>
+            <li>Receive the Cash Offer:</li>
+          </h2>
+          <p>
+            After the inspection, the service will present you with a cash offer
+            for your car. Evaluate the offer and decide whether it meets your
+            expectations.
+          </p>
+          <h2>
+            <li>Negotiate if Necessary:</li>
+          </h2>
+          <p>
+            If you feel the initial offer is not satisfactory, you can try
+            negotiating with the <Link href={"/"}>Cash for Cars service</Link>.{" "}
+            They may be willing to adjust the offer based on factors such as
+            market conditions, demand for your specific car, and its overall
+            condition.
+          </p>
+          <h2>
+            <li>Finalize the Deal:</li>
+          </h2>
+          <p>
+            Once you've agreed on a cash offer, finalize the deal. The{" "}
+            <Link href={"/"}>Cash for Cars service</Link> will typically handle
+            the necessary paperwork, and you'll receive the agreed-upon cash
+            amount.
+          </p>
+          <h2>
+            <li>Arrange for Car Removal:</li>
+          </h2>
+          <p>
+            If your car is not in working condition, the service will usually
+            offer free towing or removal services. Ensure that these logistics
+            are coordinated smoothly.
+          </p>
+        </ol>
+        <p>
+          Remember to choose a reputable and licensed{" "}
+          <Link href={"/"}>Cash for Cars service</Link> to ensure a fair and
+          transparent transaction. Always read reviews and testimonials to gauge
+          the experiences of others who have used the service.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash car quote Sydney</h2>, <h2>Car valuation Sydney</h2>,{" "}
+        <h2>Sell my car for cash Sydney</h2>,{" "}
+        <h2>Instant cash offer for my car</h2>, <h2>Sydney car buyers</h2>,{" "}
+        <h2>Get cash for your car today</h2>, <h2>Car selling quotes Sydney</h2>
+        , <h2>Quick cash quote for my car</h2>, <h2>Sell used car Sydney</h2>,{" "}
+        <h2>Top cash for cars Sydney</h2>,{" "}
+        <h2>Cash for unwanted cars Sydney</h2>,{" "}
+        <h2>Best car valuation service</h2>, <h2>Sell my car fast Sydney</h2>,{" "}
+        <h2>Free car valuation Sydney</h2>,{" "}
+        <h2>Cash offer for my car in Sydney</h2>,{" "}
+        <h2>Sell your car in Sydney for cash</h2>,{" "}
+        <h2>Instant car appraisal Sydney</h2>,{" "}
+        <h2>Reliable car selling quotes</h2>,{" "}
+        <h2>Sydney's best cash for cars</h2>,{" "}
+        <h2>Quick and easy car valuation Sydney</h2>,{" "}
+      </>
+    ),
+  },
 
   // Question 4
   // {
