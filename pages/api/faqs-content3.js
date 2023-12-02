@@ -462,95 +462,95 @@ export const question = [
   },
 
   // Question 5
-  // {
-  //   image: "/assets/locationsImages/sublocation1Images/5.jpg",
-  //   title:
-  //     "Are there any restrictions on the type or condition of cars that can be sold for cash in Sydney?",
-  //   description: (
-  //     <>
-  //       <p>
-  //         As of my last knowledge update in January 2022, there weren't specific
-  //         restrictions on the type or condition of cars that can be sold for
-  //         cash in Sydney, Australia. However, regulations and requirements may
-  //         change, and it's essential to check the most recent information from
-  //         local authorities, such as the New South Wales (NSW) government or
-  //         relevant municipal authorities.
-  //       </p>
-  //       <p>Generally, when selling a car, you need to ensure that:</p>
-  //       <ol>
-  //         <h2>
-  //           <li>Ownership and Transfer Documents:</li>
-  //         </h2>
-  //         <p>
-  //           You have clear ownership of the vehicle and can provide the
-  //           necessary transfer documents.
-  //         </p>
-  //         <h2>
-  //           <li>Roadworthiness Certificate:</li>
-  //         </h2>
-  //         <p>
-  //           In some cases, you may need a roadworthiness certificate (also known
-  //           as a safety certificate) to transfer ownership. This certificate
-  //           indicates that the vehicle is safe for use on the road.
-  //         </p>
-  //         <h2>
-  //           <li>Registration Status:</li>
-  //         </h2>
-  //         <p>
-  //           The car should be registered, and the registration details should be
-  //           up-to-date. The buyer will need to transfer the registration to
-  //           their name.
-  //         </p>
-  //         <h2>
-  //           <li>Pricing and Payment:</li>
-  //         </h2>
-  //         <p>
-  //           Ensure that the payment method is secure and agreed upon by both
-  //           parties. Cash transactions are common, but other methods like bank
-  //           transfers are also used.
-  //         </p>
-  //         <h2>
-  //           <li>Compliance with Laws:</li>
-  //         </h2>
-  //         <p>
-  //           Adhere to any other relevant laws or regulations that may apply to
-  //           vehicle sales in your region.
-  //         </p>
-  //       </ol>
-  //       <p>
-  //         Keep in mind that selling a car privately involves various
-  //         responsibilities, and both the buyer and the seller should be aware of
-  //         their obligations to complete a smooth and legal transaction. Always
-  //         consult local authorities or legal professionals for the most
-  //         up-to-date information and guidance. Additionally, be cautious of
-  //         potential scams or fraudulent activities when selling a car privately.
-  //       </p>
-  //     </>
-  //   ),
-  //   tags: (
-  //     <>
-  //       <h2>Cash for cars Sydney</h2>, <h2>Car selling restrictions Sydney</h2>,{" "}
-  //       <h2>Cash sale regulations for cars</h2>,{" "}
-  //       <h2>Sydney car selling guidelines</h2>,{" "}
-  //       <h2>Restrictions on selling cars for cash</h2>,{" "}
-  //       <h2>Cash transactions for used cars Sydney</h2>,{" "}
-  //       <h2>Sydney car sales conditions</h2>,{" "}
-  //       <h2>Selling cars for cash rules</h2>,{" "}
-  //       <h2>Cash offers for used cars Sydney</h2>,{" "}
-  //       <h2>Sydney car selling limitations</h2>,{" "}
-  //       <h2>Cash transactions for old cars</h2>,{" "}
-  //       <h2>Legal guidelines for selling cars in Sydney</h2>,{" "}
-  //       <h2>Used car cash sale restrictions</h2>,{" "}
-  //       <h2>Sydney car selling terms</h2>,{" "}
-  //       <h2>Cash for cars legal requirements Sydney</h2>,{" "}
-  //       <h2>Conditions for selling cars for cash</h2>,{" "}
-  //       <h2>Sydney car selling laws</h2>,{" "}
-  //       <h2>Cash transactions for damaged cars Sydney</h2>,{" "}
-  //       <h2>Selling cars for cash tips</h2>,{" "}
-  //       <h2>Sydney car resale regulations</h2>,{" "}
-  //     </>
-  //   ),
-  // },
+  {
+    image: "/assets/locationsImages/sublocation1Images/5.jpg",
+    title:
+      "Are there any restrictions on the type or condition of cars that can be sold for cash in Sydney?",
+    description: (
+      <>
+        <p>
+          As of my last knowledge update in January 2022, there weren't specific
+          restrictions on the type or condition of cars that can be sold for
+          cash in Sydney, Australia. However, regulations and requirements may
+          change, and it's essential to check the most recent information from
+          local authorities, such as the New South Wales (NSW) government or
+          relevant municipal authorities.
+        </p>
+        <p>Generally, when selling a car, you need to ensure that:</p>
+        <ol>
+          <h2>
+            <li>Ownership and Transfer Documents:</li>
+          </h2>
+          <p>
+            You have clear ownership of the vehicle and can provide the
+            necessary transfer documents.
+          </p>
+          <h2>
+            <li>Roadworthiness Certificate:</li>
+          </h2>
+          <p>
+            In some cases, you may need a roadworthiness certificate (also known
+            as a safety certificate) to transfer ownership. This certificate
+            indicates that the vehicle is safe for use on the road.
+          </p>
+          <h2>
+            <li>Registration Status:</li>
+          </h2>
+          <p>
+            The car should be registered, and the registration details should be
+            up-to-date. The buyer will need to transfer the registration to
+            their name.
+          </p>
+          <h2>
+            <li>Pricing and Payment:</li>
+          </h2>
+          <p>
+            Ensure that the payment method is secure and agreed upon by both
+            parties. Cash transactions are common, but other methods like bank
+            transfers are also used.
+          </p>
+          <h2>
+            <li>Compliance with Laws:</li>
+          </h2>
+          <p>
+            Adhere to any other relevant laws or regulations that may apply to
+            vehicle sales in your region.
+          </p>
+        </ol>
+        <p>
+          Keep in mind that selling a car privately involves various
+          responsibilities, and both the buyer and the seller should be aware of
+          their obligations to complete a smooth and legal transaction. Always
+          consult local authorities or legal professionals for the most
+          up-to-date information and guidance. Additionally, be cautious of
+          potential scams or fraudulent activities when selling a car privately.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Sydney</h2>, <h2>Car selling restrictions Sydney</h2>,{" "}
+        <h2>Cash sale regulations for cars</h2>,{" "}
+        <h2>Sydney car selling guidelines</h2>,{" "}
+        <h2>Restrictions on selling cars for cash</h2>,{" "}
+        <h2>Cash transactions for used cars Sydney</h2>,{" "}
+        <h2>Sydney car sales conditions</h2>,{" "}
+        <h2>Selling cars for cash rules</h2>,{" "}
+        <h2>Cash offers for used cars Sydney</h2>,{" "}
+        <h2>Sydney car selling limitations</h2>,{" "}
+        <h2>Cash transactions for old cars</h2>,{" "}
+        <h2>Legal guidelines for selling cars in Sydney</h2>,{" "}
+        <h2>Used car cash sale restrictions</h2>,{" "}
+        <h2>Sydney car selling terms</h2>,{" "}
+        <h2>Cash for cars legal requirements Sydney</h2>,{" "}
+        <h2>Conditions for selling cars for cash</h2>,{" "}
+        <h2>Sydney car selling laws</h2>,{" "}
+        <h2>Cash transactions for damaged cars Sydney</h2>,{" "}
+        <h2>Selling cars for cash tips</h2>,{" "}
+        <h2>Sydney car resale regulations</h2>,{" "}
+      </>
+    ),
+  },
 
   // // Question simple
   // {

@@ -462,230 +462,91 @@ export const question = [
 
   // location 5
   {
-    image: "/assets/locationsImages/sublocation1Images/34.jpg",
-    title: "Cash for cars Artarmon Sydney",
+    image: "/assets/locationsImages/sublocation1Images/5.jpg",
+    title:
+      "Are there any restrictions on the type or condition of cars that can be sold for cash in Sydney?",
     description: (
       <>
         <p>
-          If you find yourself in Artarmon, Sydney, with a vehicle that you no
-          longer need or want, you might be interested in exploring the option
-          of selling it for cash. <Link href={"/"}>Cash for cars services</Link>{" "}
-          has become a popular choice for those looking to quickly and
-          conveniently get rid of their old, unwanted vehicles while also making
-          some money in the process. One standout name in this industry is{" "}
-          <Link href={"/"}>"Aux Cash for Cars Sydney,"</Link> renowned for being
-          the best cash for cars service in the Artarmon area.
+          As of my last knowledge update in January 2022, there weren't specific
+          restrictions on the type or condition of cars that can be sold for
+          cash in Sydney, Australia. However, regulations and requirements may
+          change, and it's essential to check the most recent information from
+          local authorities, such as the New South Wales (NSW) government or
+          relevant municipal authorities.
         </p>
-        <h2>Why Opt for Cash for Cars Services?</h2>
-        <p>
-          Selling a car can often be a time-consuming and complicated process.
-          From advertising your vehicle to dealing with potential buyers, the
-          traditional selling process can be both stressful and uncertain. Cash
-          for cars services, on the other hand, offers a streamlined solution.
-          These services are designed to provide a hassle-free experience for
-          sellers. You can get a quote for your vehicle quickly, often within
-          minutes, and if you agree to the offer, you can have your car removed
-          and get paid on the spot. This process eliminates the need for
-          negotiations, advertisements, and waiting time.
-        </p>
-        <h2>
-          The Advantages of <Link href={"/"}>Aux Cash for Cars Sydney</Link>
-        </h2>
-        <p>
-          Among the various cash for cars services in Artarmon,{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the top
-          choice for several reasons:
-        </p>
+        <p>Generally, when selling a car, you need to ensure that:</p>
         <ol>
-          <h3>
-            <li>Instant Quotes:</li>
-          </h3>
+          <h2>
+            <li>Ownership and Transfer Documents:</li>
+          </h2>
           <p>
-            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers quick and
-            accurate quotes for your vehicle. With their expertise, you can
-            expect a fair assessment of your car's value based on its make,
-            model, condition, and other relevant factors.
+            You have clear ownership of the vehicle and can provide the
+            necessary transfer documents.
           </p>
-          <h3>
-            <li>Free Vehicle Removal:</li>
-          </h3>
+          <h2>
+            <li>Roadworthiness Certificate:</li>
+          </h2>
           <p>
-            If you accept their offer,{" "}
-            <Link href={"/"}>Aux Cash for Cars Sydney</Link> provides free
-            vehicle removal services. This means you don't have to worry about
-            arranging transportation or spending extra money on towing.
+            In some cases, you may need a roadworthiness certificate (also known
+            as a safety certificate) to transfer ownership. This certificate
+            indicates that the vehicle is safe for use on the road.
           </p>
-          <h3>
-            <li>Fair and Transparent Transactions:</li>
-          </h3>
+          <h2>
+            <li>Registration Status:</li>
+          </h2>
           <p>
-            Transparency is key in any transaction.{" "}
-            <Link href={"/"}>Aux Cash for Cars Sydney</Link> prides itself on
-            fair dealings, ensuring that you receive a reasonable price for your
-            vehicle without any hidden fees or surprises.
+            The car should be registered, and the registration details should be
+            up-to-date. The buyer will need to transfer the registration to
+            their name.
           </p>
-          <h3>
-            <li>Wide Range of Vehicles:</li>
-          </h3>
+          <h2>
+            <li>Pricing and Payment:</li>
+          </h2>
           <p>
-            Whether you have an old car that's no longer running, a used vehicle
-            in decent condition, or even a damaged car,{" "}
-            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is interested in
-            buying a wide range of vehicles.
+            Ensure that the payment method is secure and agreed upon by both
+            parties. Cash transactions are common, but other methods like bank
+            transfers are also used.
           </p>
-          <h3>
-            <li>Efficient and Professional Service:</li>
-          </h3>
+          <h2>
+            <li>Compliance with Laws:</li>
+          </h2>
           <p>
-            The team at <Link href={"/"}>Aux Cash for Cars Sydney</Link> is
-            known for their professionalism and efficiency. They understand that
-            your time is valuable, and they strive to make the entire process as
-            smooth as possible.
+            Adhere to any other relevant laws or regulations that may apply to
+            vehicle sales in your region.
           </p>
         </ol>
         <p>
-          <b>Conclusion</b> When it comes to selling your car in Artarmon,
-          Sydney, opting for a reputable cash for cars service like{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link> can save you time,
-          effort, and the headaches that often come with traditional selling
-          methods. With their instant quotes, free vehicle removal, fair
-          transactions, and professional service,{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
-          best choice for turning your unwanted vehicle into quick cash.
+          Keep in mind that selling a car privately involves various
+          responsibilities, and both the buyer and the seller should be aware of
+          their obligations to complete a smooth and legal transaction. Always
+          consult local authorities or legal professionals for the most
+          up-to-date information and guidance. Additionally, be cautious of
+          potential scams or fraudulent activities when selling a car privately.
         </p>
       </>
     ),
     tags: (
       <>
-        <h2>Cash for Cars Artarmon</h2>, <h2>Sell My Car Artarmon</h2>,{" "}
-        <h2>Car Removal Artarmon</h2>, <h2>Top Dollar for Cars Artarmon</h2>,{" "}
-        <h2>Artarmon Cash for Used Cars</h2>,{" "}
-        <h2>Scrap Car Removal Artarmon</h2>, <h2>Junk Car Buyers Artarmon</h2>,{" "}
-        <h2>Artarmon Car Selling Service</h2>,{" "}
-        <h2>Instant Cash for Cars Artarmon</h2>,{" "}
-        <h2>Best Car Buyers Artarmon Sydney</h2>,{" "}
-        <h2>Free Car Valuation Artarmon</h2>,{" "}
-        <h2>Reliable Car Removal Artarmon</h2>,{" "}
-        <h2>Sell Damaged Car Artarmon</h2>,{" "}
-        <h2>Unwanted Car Removal Artarmon</h2>,{" "}
-        <h2>Artarmon Cash for Old Cars</h2>, <h2>Get Paid for Cars Artarmon</h2>
-        , <h2>Trade-In Cars Artarmon Sydney</h2>,{" "}
-        <h2>Quick Car Sale Artarmon</h2>,<h2>Artarmon Broken Car Buyers</h2>,{" "}
-        <h2>Used Car Buyers Artarmon</h2>,{" "}
-      </>
-    ),
-  },
-
-  // location 6
-  {
-    image: "/assets/locationsImages/sublocation1Images/35.jpg",
-    title: "Cash for cars Crows Nest Sydney",
-    description: (
-      <>
-        <p>
-          When it comes to selling your car for cash in Crows Nest, Sydney, the
-          options might seem overwhelming. However, there's one name that stands
-          out as the best in the business –{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With their
-          reputation for exceptional service, hassle-free transactions, and
-          competitive offers, they have become the top choice for individuals
-          looking to sell their cars quickly and efficiently.
-        </p>
-        <h2>
-          Why Choose <Link href={"/"}>Aux Cash for Cars Sydney</Link> in Crows
-          Nest?
-        </h2>
-        <ol>
-          <h3>
-            <li>Competitive Offers:</li>
-          </h3>
-          <p>
-            <Link href={"/"}>Aux Cash for Cars Sydney</Link> has gained a
-            reputation for providing highly competitive offers for all types of
-            vehicles, regardless of their make, model, age, or condition. Their
-            experienced team evaluates each car meticulously to ensure that the
-            seller receives the best deal possible.
-          </p>
-          <h3>
-            <li>Quick and Efficient Process:</li>
-          </h3>
-          <p>
-            Selling a car traditionally can be time-consuming and stressful.{" "}
-            <Link href={"/"}>Aux Cash for Cars</Link> streamlines the process,
-            enabling sellers in Crows Nest to get their cash quickly. From the
-            initial inquiry to the final transaction, their team ensures a
-            seamless experience.
-          </p>
-          <h3>
-            <li>Any Make, Any Model:</li>
-          </h3>
-          <p>
-            Whether you have a luxury car, a sedan, an SUV, a truck, or even a
-            damaged vehicle, <Link href={"/"}>Aux Cash for Cars Sydney</Link> is
-            interested. They accept a wide range of vehicle types, making them a
-            go-to option for anyone looking to sell their car in Crows Nest.
-          </p>
-          <h3>
-            <li>Free Car Removal:</li>
-          </h3>
-          <p>
-            One of the most significant advantages of choosing{" "}
-            <Link href={"/"}>Aux Cash for Cars</Link> is their free car removal
-            service. Once you accept their offer, they'll arrange a convenient
-            time to pick up your vehicle, saving you the hassle of transport.
-          </p>
-          <h3>
-            <li>Transparent and Trustworthy:</li>
-          </h3>
-          <p>
-            <Link href={"/"}>Aux Cash for Cars</Link> prides itself on being
-            transparent in all its dealings. There are no hidden fees or
-            unexpected deductions. What you're quoted is what you'll receive.
-          </p>
-          <h3>
-            <li>Customer-Centric Approach:</li>
-          </h3>
-          <p>
-            The team at <Link href={"/"}>Aux Cash for Cars Sydney</Link> places
-            the customer at the center of their operations. They're known for
-            their friendly and professional service, ensuring that customers
-            have a positive and stress-free experience throughout the entire
-            process.
-          </p>
-        </ol>
-        <p>
-          <b>Conclusion:</b> If you're in Crows Nest, Sydney, and you're
-          considering selling your car for cash, look no further than{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With their
-          reputation for offering top dollar, a hassle-free process, and
-          exceptional customer service, they have earned their place as the best
-          cash-for-cars service in the area. Say goodbye to the stress of
-          selling your car and hello to a convenient and rewarding experience
-          with <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
-        </p>
-      </>
-    ),
-    tags: (
-      <>
-        <h2>Cash for Cars Crows Nest Sydney</h2>,{" "}
-        <h2>Top Cash for Cars Crows Nest</h2>,{" "}
-        <h2>Sell My Car for Cash Crows Nest</h2>,{" "}
-        <h2>Instant Cash for Cars Crows Nest</h2>,{" "}
-        <h2>Crows Nest Car Removal Services</h2>,{" "}
-        <h2>Scrap Car Removal Crows Nest</h2>,{" "}
-        <h2>Best Car Buyers Crows Nest Sydney</h2>,{" "}
-        <h2>Junk Car Removal Crows Nest</h2>,{" "}
-        <h2>Unwanted Car Removal Sydney</h2>, <h2>Quick Car Sale Crows Nest</h2>
-        , <h2>Cash for Damaged Cars Crows Nest</h2>,{" "}
-        <h2>Sell Your Used Car Crows Nest</h2>,{" "}
-        <h2>Old Car Removal Crows Nest</h2>,{" "}
-        <h2>Cash for Trucks Crows Nest Sydney</h2>,{" "}
-        <h2>Free Car Valuation Crows Nest</h2>,{" "}
-        <h2>Scrap Car Buyers Crows Nest</h2>,{" "}
-        <h2>Same-Day Car Removal Crows Nest</h2>,{" "}
-        <h2>Crows Nest Auto Wreckers</h2>,{" "}
-        <h2>Cash for Utes and Vans Crows Nest</h2>,{" "}
-        <h2>Reliable Car Removal Crows Nest</h2>,{" "}
+        <h2>Cash for cars Sydney</h2>, <h2>Car selling restrictions Sydney</h2>,{" "}
+        <h2>Cash sale regulations for cars</h2>,{" "}
+        <h2>Sydney car selling guidelines</h2>,{" "}
+        <h2>Restrictions on selling cars for cash</h2>,{" "}
+        <h2>Cash transactions for used cars Sydney</h2>,{" "}
+        <h2>Sydney car sales conditions</h2>,{" "}
+        <h2>Selling cars for cash rules</h2>,{" "}
+        <h2>Cash offers for used cars Sydney</h2>,{" "}
+        <h2>Sydney car selling limitations</h2>,{" "}
+        <h2>Cash transactions for old cars</h2>,{" "}
+        <h2>Legal guidelines for selling cars in Sydney</h2>,{" "}
+        <h2>Used car cash sale restrictions</h2>,{" "}
+        <h2>Sydney car selling terms</h2>,{" "}
+        <h2>Cash for cars legal requirements Sydney</h2>,{" "}
+        <h2>Conditions for selling cars for cash</h2>,{" "}
+        <h2>Sydney car selling laws</h2>,{" "}
+        <h2>Cash transactions for damaged cars Sydney</h2>,{" "}
+        <h2>Selling cars for cash tips</h2>,{" "}
+        <h2>Sydney car resale regulations</h2>,{" "}
       </>
     ),
   },
