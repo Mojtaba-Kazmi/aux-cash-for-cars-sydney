@@ -847,6 +847,120 @@ export const subLocation = [
     ),
   },
 
+  // location 9
+  {
+    image: "/assets/locationsImages/sublocation1Images/65.jpg",
+    title: "Cash for cars Mount Colah Sydney",
+    description: (
+      <>
+        <p>
+          Discover the most efficient and lucrative solution for selling your
+          old, unwanted, or damaged vehicles in Mount Colah, Sydney -{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. As the premier cash
+          for cars service in the area,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> stands out as the optimal
+          choice for those looking to turn their cars into instant cash.
+        </p>
+        <ol>
+          <h2>
+            <li>Streamlined Process:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers a
+            hassle-free and streamlined process for selling your cars. From the
+            initial inquiry to the final transaction, their experienced team
+            ensures a smooth and efficient experience for sellers. Say goodbye
+            to the complexities of traditional selling methods and welcome a
+            straightforward approach with Aux Cash for Cars.
+          </p>
+          <h2>
+            <li>Top Dollar Offers:</li>
+          </h2>
+          <p>
+            When it comes to getting the best value for your vehicle,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> leads the pack.
+            Their expert appraisers assess your car's worth based on its
+            condition, model, and market value, providing you with a top-dollar
+            offer. Experience the satisfaction of knowing you're getting the
+            maximum value for your car with{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link>.
+          </p>
+          <h2>
+            <li>All Makes and Models Accepted:</li>
+          </h2>
+          <p>
+            Regardless of the make, model, or condition of your vehicle,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts a wide
+            range of cars. Whether it's a used car, damaged car, old car, or
+            even a scrap car, you can count on{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> to offer a competitive
+            price.
+          </p>
+          <h2>
+            <li>Free Towing Services:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars</Link> understands the
+            inconvenience of arranging transportation for your vehicle. To make
+            the process even more convenient, they offer free towing services
+            for your car, ensuring a stress-free experience from start to
+            finish.
+          </p>
+          <h2>
+            <li>Instant Cash Payments:</li>
+          </h2>
+          <p>
+            One of the standout features of{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their commitment
+            to providing instant cash payments. Once the deal is finalized, you
+            can walk away with cash in hand, providing you with the financial
+            flexibility you need.
+          </p>
+          <h2>
+            <li>Customer-Centric Approach:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars</Link> prides itself on its
+            customer-centric approach. Their dedicated team is always ready to
+            assist you, addressing any concerns or queries you may have.
+            Experience a level of service that goes beyond the ordinary with Aux
+            Cash for Cars.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> For residents of Mount Colah, Sydney, seeking the
+          best cash for cars service, look no further than{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With their efficient
+          process, top-dollar offers, and customer-centric approach, Aux Cash
+          for Cars stands out as the go-to choice for turning your old cars into
+          instant cash. Experience the difference with{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> - your trusted partner in
+          the world of cash for cars services in Mount Colah and beyond.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Mount Colah</h2>, <h2>Sell Your Car Mount Colah</h2>,{" "}
+        <h2>Top Car Buyers Sydney</h2>, <h2>Instant Cash for Cars</h2>,{" "}
+        <h2>Mount Colah Car Removal</h2>, <h2>Scrap Car Removal Sydney</h2>,{" "}
+        <h2>Best Car Selling Service</h2>, <h2>Quick Cash Offer for Cars</h2>,{" "}
+        <h2>Unwanted Car Buyers Mount Colah</h2>,{" "}
+        <h2>Top Dollar for Your Car Sydney</h2>,{" "}
+        <h2>Top Dollar for Your Car Sydney</h2>,{" "}
+        <h2>Junk Car Removal Mount Colah</h2>,{" "}
+        <h2>Reliable Car Removal Service</h2>,{" "}
+        <h2>Free Car Valuation Mount Colah</h2>,{" "}
+        <h2>Sell Damaged Cars Sydney</h2>,{" "}
+        <h2>Same Day Car Removal Mount Colah</h2>,{" "}
+        <h2>Cash for Old Cars Sydney</h2>,{" "}
+        <h2>Mount Colah Cash for Scrap Cars</h2>,{" "}
+        <h2>Best Price for Used Cars</h2>, <h2>Quick and Easy Car Selling</h2>,{" "}
+        <h2>Get Cash for Your Unwanted Car</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/57.jpg",
