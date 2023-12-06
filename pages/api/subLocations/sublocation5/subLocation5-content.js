@@ -961,6 +961,113 @@ export const subLocation = [
     ),
   },
 
+  // location 10
+  {
+    image: "/assets/locationsImages/sublocation1Images/66.jpg",
+    title: "Cash for cars Mount Kuring-gai Sydney",
+    description: (
+      <>
+        <p>
+          When it comes to selling your car in Mount Kuring-gai, Sydney, the
+          process can often be daunting and time-consuming. However, there's a
+          game-changer in town –{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. Renowned as the best
+          cash for cars service in the area, Aux Cash for Cars Sydney offers an
+          unparalleled experience for individuals looking to sell their vehicles
+          quickly and hassle-free.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney in Mount Kuring-gai?</h2>
+        <ol>
+          <h3>
+            <li>Instant Cash Offers: </li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            providing instant cash offers for your vehicles. Whether your car is
+            old, damaged, or simply unwanted, the expert team at{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> ensures that you
+            receive a fair and competitive cash offer on the spot.
+          </p>
+          <h3>
+            <li>Hassle-Free Process:</li>
+          </h3>
+          <p>
+            Selling a car can often involve a complex and time-consuming
+            process. <Link href={"/"}>Aux Cash for Cars Sydney</Link> simplifies
+            this experience by offering a hassle-free process. From the initial
+            valuation to the final paperwork, their team handles everything
+            efficiently, allowing you to sell your car without any unnecessary
+            stress.
+          </p>
+          <h3>
+            <li>Free Car Removal Service:</li>
+          </h3>
+          <p>
+            One of the standout features of{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their
+            complimentary car removal service. Once you accept their cash offer,
+            they will arrange a convenient time to pick up your vehicle from any
+            location in Mount Kuring-gai, saving you the trouble of arranging
+            transportation.
+          </p>
+          <h3>
+            <li>Acceptance of All Vehicle Types:</li>
+          </h3>
+          <p>
+            Whether you have a used car, damaged car, old car, or even a scrap
+            car, <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts
+            vehicles in all conditions. This inclusive approach makes it the
+            go-to cash for cars service for individuals with a variety of
+            vehicles to sell.
+          </p>
+          <h3>
+            <li>Experienced and Trustworthy Team:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> boasts an
+            experienced and trustworthy team of professionals who are committed
+            to providing exceptional customer service. Their expertise ensures
+            that you receive the best possible cash offer for your car, and
+            their transparent process builds trust with every transaction.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to selling your car in Mount
+          Kuring-gai, <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands
+          out as the undisputed best cash for cars service. With their
+          commitment to instant cash offers, a hassle-free process, free car
+          removal service, acceptance of all vehicle types, and a reliable team,
+          choosing <Link href={"/"}>Aux Cash for Cars Sydney</Link> ensures a
+          seamless and rewarding experience for anyone looking to sell their car
+          in Mount Kuring-gai.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Mount Kuring-gai</h2>,{" "}
+        <h2>Sell my car Mount Kuring-gai</h2>,{" "}
+        <h2>Top dollar for cars Sydney</h2>,{" "}
+        <h2>Quick car sale Mount Kuring-gai</h2>,{" "}
+        <h2>Cash for used cars Sydney</h2>, <h2></h2>,{" "}
+        <h2>Mount Kuring-gai car buyers</h2>, <h2>Sell your car fast Sydney</h2>
+        , <h2>Best car removal Mount Kuring-gai</h2>,{" "}
+        <h2>Instant cash for unwanted cars Sydney</h2>,{" "}
+        <h2>Scrap car removal Mount Kuring-gai</h2>,{" "}
+        <h2>Free car valuation Sydney</h2>,{" "}
+        <h2>Junk car buyers Mount Kuring-gai</h2>,{" "}
+        <h2>Sell damaged cars Sydney</h2>,{" "}
+        <h2>Cash for old cars Mount Kuring-gai</h2>,{" "}
+        <h2>Reliable car removal Sydney</h2>,{" "}
+        <h2>Top cash for scrap cars Mount Kuring-gai</h2>,{" "}
+        <h2>Quick and easy car selling Sydney</h2>,{" "}
+        <h2>Unwanted car removal Mount Kuring-gai</h2>,{" "}
+        <h2>Cash for cars same day Sydney</h2>,{" "}
+        <h2>Best scrap car prices Mount Kuring-gai</h2>
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/57.jpg",

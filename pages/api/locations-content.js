@@ -607,7 +607,7 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Mount Kuring-gai Sydney</h2>,{" "}
+       
         <h2>Cash for cars Berowra Waters Sydney</h2>,{" "}
         <h2>Cash for cars Terrey Hills Sydney</h2>,{" "}
         <h2>Cash for cars Belrose Sydney</h2>,{" "}
