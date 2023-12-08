@@ -1081,7 +1081,7 @@ export const subLocation = [
           in the area that ensures a hassle-free and lucrative selling
           experience. With a commitment to customer satisfaction and a
           reputation for offering top-dollar payouts,{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link>
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
           stands out as the best choice for turning your unwanted vehicle into
           instant cash.
         </p>
