@@ -1068,6 +1068,110 @@ export const subLocation = [
     ),
   },
 
+  // location 11
+  {
+    image: "/assets/locationsImages/sublocation1Images/67.jpg",
+    title: "Cash for cars Berowra Waters Sydney",
+    description: (
+      <>
+        <p>
+          Are you looking to sell your car in Berowra Waters, Sydney, and want
+          to get the best cash deal? Look no further than{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the premier service
+          in the area that ensures a hassle-free and lucrative selling
+          experience. With a commitment to customer satisfaction and a
+          reputation for offering top-dollar payouts,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>
+          stands out as the best choice for turning your unwanted vehicle into
+          instant cash.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney in Berowra Waters?</h2>
+        <ol>
+          <h3>
+            <li>Highest Cash Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            providing the highest cash offers for your vehicles. No matter the
+            make, model, or condition of your car, you can trust that you'll
+            receive a fair and competitive cash offer that reflects the true
+            value of your vehicle.
+          </p>
+          <h3>
+            <li>Quick and Convenient Process:</li>
+          </h3>
+          <p>
+            Selling your car has never been easier with{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>. Our streamlined
+            and efficient process ensures a quick and convenient transaction.
+            From the initial inquiry to the final payment, we prioritize your
+            time and convenience, making the entire experience hassle-free.
+          </p>
+          <h3>
+            <li>Free Car Removal Service:</li>
+          </h3>
+          <p>
+            Forget the stress of transporting your car to a buyer.{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers
+            complimentary car removal services, saving you time and money. Our
+            team will pick up your vehicle from any location in Berowra Waters,
+            ensuring a seamless and convenient process.
+          </p>
+          <h3>
+            <li>All Makes and Models Accepted:</li>
+          </h3>
+          <p>
+            Whether you have a used, damaged, unwanted, or old car,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts vehicles in
+            all conditions. Our commitment to diversity means that you can sell
+            any make or model to us, making us the go-to choice for cash for
+            cars in Berowra Waters.
+          </p>
+          <h3>
+            <li>Transparent and Honest Transactions:</li>
+          </h3>
+          <p>
+            At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, transparency
+            and honesty are our core values. You can trust us to provide a fair
+            and accurate valuation of your vehicle, and there are no hidden fees
+            or surprises. We believe in building trust with our customers
+            through clear communication and straightforward transactions.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to getting the best cash for cars in
+          Berowra Waters, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the undisputed
+          leader. With a focus on high cash offers, a quick and convenient
+          process, free car removal services, and transparent transactions, we
+          strive to exceed your expectations. Choose{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> for a reliable and
+          profitable experience in turning your unwanted car into instant cash.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Berowra Waters</h2>,{" "}
+        <h2>Sell My Car Berowra Waters</h2>, <h2>Car Removal Berowra Waters</h2>
+        , <h2>Scrap Car Buyers Berowra Waters</h2>,{" "}
+        <h2>Instant Cash for Cars Sydney</h2>,{" "}
+        <h2>Berowra Waters Car Selling</h2>, <h2>Best Car Buyers Sydney</h2>,{" "}
+        <h2>Junk Car Removal Berowra Waters</h2>,{" "}
+        <h2>Top Cash for Used Cars Berowra Waters</h2>,{" "}
+        <h2>Quick Car Sale Berowra Waters</h2>, <h2>Old Car Removal Sydney</h2>,{" "}
+        <h2>Cash for Unwanted Cars Berowra Waters</h2>,{" "}
+        <h2>Berowra Waters Scrap Car Removal</h2>,{" "}
+        <h2>Get Cash for Your Car Berowra Waters</h2>,{" "}
+        <h2>Free Car Valuation Berowra Waters</h2>,{" "}
+        <h2>Berowra Waters Car Disposal</h2>,{" "}
+        <h2>Top Dollar for Cars Berowra Waters</h2>,{" "}
+        <h2>Sell Damaged Car Berowra Waters</h2>,{" "}
+        <h2>Berowra Waters Car Wreckers</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/57.jpg",
