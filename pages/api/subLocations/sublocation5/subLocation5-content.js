@@ -1244,9 +1244,9 @@ export const subLocation = [
           </p>
         </ol>
         <p>
-          Conclusion: When it comes to cash for cars in Terrey Hills, Sydney,{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
-          best choice. With their commitment to providing the highest cash
+          <b>Conclusion:</b> When it comes to cash for cars in Terrey Hills,
+          Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as
+          the best choice. With their commitment to providing the highest cash
           offers, efficient processes, free car removal services, and a team of
           experienced professionals, <Link href={"/"}>Aux Cash for Cars</Link>{" "}
           ensures a seamless and rewarding experience for anyone looking to sell
