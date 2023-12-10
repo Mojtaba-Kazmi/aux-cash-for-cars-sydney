@@ -1081,9 +1081,8 @@ export const subLocation = [
           in the area that ensures a hassle-free and lucrative selling
           experience. With a commitment to customer satisfaction and a
           reputation for offering top-dollar payouts,{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
-          stands out as the best choice for turning your unwanted vehicle into
-          instant cash.
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          best choice for turning your unwanted vehicle into instant cash.
         </p>
         <h2>Why Choose Aux Cash for Cars Sydney in Berowra Waters?</h2>
         <ol>
@@ -1168,6 +1167,114 @@ export const subLocation = [
         <h2>Top Dollar for Cars Berowra Waters</h2>,{" "}
         <h2>Sell Damaged Car Berowra Waters</h2>,{" "}
         <h2>Berowra Waters Car Wreckers</h2>,{" "}
+      </>
+    ),
+  },
+
+  // location 12
+  {
+    image: "/assets/locationsImages/sublocation1Images/68.jpg",
+    title: "Cash for cars Terrey Hills Sydney",
+    description: (
+      <>
+        <p>
+          If you're in Terrey Hills, Sydney, and looking to sell your old,
+          unwanted car for cash, look no further than{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With a reputation
+          for providing top-notch service and the best cash offers in the area,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> has become the go-to choice
+          for those seeking a hassle-free and lucrative car selling experience.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney in Terrey Hills?</h2>
+        <ol>
+          <h3>
+            <li>Highest Cash Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            offering the highest cash offers for all types of cars, regardless
+            of their make, model, or condition. Say goodbye to the stress of
+            negotiating and get the best value for your vehicle.
+          </p>
+          <h3>
+            <li>Quick and Efficient Process:</li>
+          </h3>
+          <p>
+            Time is money, and <Link href={"/"}>Aux Cash for Cars</Link>{" "}
+            understands that. The process of selling your car is streamlined for
+            maximum efficiency. From the initial inquiry to the final payment,
+            you can expect a quick and hassle-free experience.
+          </p>
+          <h3>
+            <li>Free Car Removal Service:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers
+            complimentary car removal services, making the process even more
+            convenient for you. No need to worry about transportation; their
+            team will handle the logistics, ensuring a smooth and seamless
+            transaction.
+          </p>
+          <h3>
+            <li>All Types of Cars Accepted:</li>
+          </h3>
+          <p>
+            Whether your car is old, damaged, wrecked, or simply unwanted,{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> will accept it. They
+            specialize in buying cars in any condition, providing a solution for
+            everyone looking to turn their unused vehicle into instant cash.
+          </p>
+          <h3>
+            <li>Experienced and Professional Team:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> boasts a team of
+            experienced and professional car experts who understand the market
+            dynamics. This ensures that you receive a fair and accurate
+            valuation for your car.
+          </p>
+          <h3>
+            <li>Environmentally Friendly Practices:</li>
+          </h3>
+          <p>
+            As part of their commitment to responsible and sustainable
+            practices, <Link href={"/"}>Aux Cash for Cars</Link> ensures that
+            the cars they purchase are recycled and disposed of in an
+            eco-friendly manner, contributing to a greener environment.
+          </p>
+        </ol>
+        <p>
+          Conclusion: When it comes to cash for cars in Terrey Hills, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          best choice. With their commitment to providing the highest cash
+          offers, efficient processes, free car removal services, and a team of
+          experienced professionals, <Link href={"/"}>Aux Cash for Cars</Link>{" "}
+          ensures a seamless and rewarding experience for anyone looking to sell
+          their car. Say goodbye to the hassle of traditional selling methods
+          and hello to a quick, easy, and lucrative solution with{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Terrey Hills</h2>, <h2>Sydney car removal</h2>,{" "}
+        <h2>Terrey Hills scrap car buyers</h2>,{" "}
+        <h2>Sell my car Terrey Hills</h2>,{" "}
+        <h2>Cash for unwanted cars Sydney</h2>,{" "}
+        <h2>Scrap car removal Terrey Hills</h2>,{" "}
+        <h2>Top dollar for cars Sydney</h2>,{" "}
+        <h2>Junk car buyers Terrey Hills</h2>,{" "}
+        <h2>Terrey Hills car wreckers</h2>,{" "}
+        <h2>Instant cash for cars Sydney</h2>,{" "}
+        <h2>Old car removal Terrey Hills</h2>,{" "}
+        <h2>Sell your junk car Sydney</h2>, <h2>Terrey Hills auto recyclers</h2>
+        , <h2>Quick car sale Sydney</h2>,{" "}
+        <h2>Cash for damaged cars Terrey Hills</h2>,{" "}
+        <h2>Free car removal Sydney</h2>, <h2>Terrey Hills car disposal</h2>,{" "}
+        <h2>Scrap car pickup Sydney</h2>,{" "}
+        <h2>Cash for used cars Terrey Hills</h2>,{" "}
+        <h2>Sydney's best car buyers</h2>,{" "}
       </>
     ),
   },
