@@ -1279,6 +1279,113 @@ export const subLocation = [
     ),
   },
 
+  // location 13
+  {
+    image: "/assets/locationsImages/sublocation1Images/69.jpg",
+    title: "Cash for cars Belrose Sydney",
+    description: (
+      <>
+        <p>
+          In the bustling suburb of Belrose, Sydney, the demand for reliable and
+          efficient cash for cars services is on the rise. Among the plethora of
+          options available, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          stands out as the undisputed leader in the industry. With a commitment
+          to providing top-notch services and unbeatable cash offers,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> has become the go-to choice
+          for individuals looking to sell their vehicles seamlessly.
+        </p>
+        <ol>
+          <h2>
+            <li>Unparalleled Cash Offers:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            offering unparalleled cash deals for all types of vehicles. Whether
+            your car is old, damaged, or simply unwanted,{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> guarantees the best cash
+            value in Belrose. Their transparent and fair valuation process
+            ensures that customers receive the maximum cash amount for their
+            vehicles, making them the preferred choice among locals.
+          </p>
+          <h2>
+            <li>Quick and Hassle-Free Transactions:</li>
+          </h2>
+          <p>
+            Time is of the essence, and{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> understands the urgency
+            that comes with selling a car. With a streamlined and efficient
+            process, they ensure quick and hassle-free transactions. From
+            initial contact to the final paperwork,{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> prioritizes efficiency,
+            allowing customers to experience a smooth and stress-free selling
+            process.
+          </p>
+          <h2>
+            <li>Wide Range of Accepted Vehicles:</li>
+          </h2>
+          <p>
+            Unlike some cash for cars services that may limit the types of
+            vehicles they accept,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> welcomes a diverse
+            range of cars, trucks, SUVs, and more. Whether your vehicle is in
+            pristine condition, damaged, or no longer running,{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> is ready to make a fair
+            and competitive offer.
+          </p>
+          <h2>
+            <li>Customer-Centric Approach:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars</Link> places a strong emphasis
+            on customer satisfaction. Their team of professionals is dedicated
+            to providing exceptional service, answering queries promptly, and
+            addressing any concerns throughout the entire selling process. This
+            customer-centric approach has earned{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> a stellar reputation in
+            Belrose and beyond.
+          </p>
+          <h2>
+            <li>Environmentally Responsible Disposal:</li>
+          </h2>
+          <p>
+            Beyond offering top cash for cars,{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> is committed to
+            environmentally responsible disposal practices. They ensure that
+            end-of-life vehicles are recycled and disposed of in an eco-friendly
+            manner, contributing to the sustainability of the community.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> For residents of Belrose, Sydney, seeking the best
+          cash for cars service,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          ultimate choice. With unbeatable cash offers, a seamless transaction
+          process, and a customer-centric approach,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> has earned its reputation as
+          the premier cash for cars service in the area.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Belrose</h2>, <h2>Sell my car Belrose</h2>,{" "}
+        <h2>Belrose car buyers</h2>, <h2>Quick cash for cars Sydney</h2>,{" "}
+        <h2>Scrap car removal Belrose</h2>,{" "}
+        <h2>Top dollar for used cars Belrose</h2>,{" "}
+        <h2>Instant car valuation Belrose</h2>, <h2>Junk car removal Sydney</h2>
+        , <h2>Belrose car selling service</h2>,{" "}
+        <h2>Best car buyers in Sydney</h2>,{" "}
+        <h2>Unwanted car removal Belrose</h2>, <h2>Old car buyers Sydney</h2>,{" "}
+        <h2>Cash for damaged cars Belrose</h2>, <h2>Belrose auto wreckers</h2>,{" "}
+        <h2>Sell my junk car Sydney</h2>, <h2>Cash for used cars Belrose</h2>,{" "}
+        <h2>Free car removal Sydney</h2>,{" "}
+        <h2>Belrose cash for unwanted cars</h2>,{" "}
+        <h2>Scrap car disposal Sydney</h2>, <h2>Belrose car selling experts</h2>
+        ,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/57.jpg",
