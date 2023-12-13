@@ -1497,7 +1497,7 @@ export const subLocation = [
 
   // location 15
   {
-    image: "/assets/locationsImages/sublocation1Images71.jpg",
+    image: "/assets/locationsImages/sublocation1Images/71.jpg",
     title: "Cash for cars Forestville Sydney",
     description: (
       <>
