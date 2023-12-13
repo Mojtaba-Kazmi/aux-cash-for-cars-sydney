@@ -607,7 +607,6 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Frenchs Forest Sydney</h2>,{" "}
         <h2>Cash for cars Forestville Sydney</h2>,{" "}
       </>
     ),

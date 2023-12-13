@@ -22,11 +22,11 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Cash for cars Belrose Sydney",
+      title: "Cash for cars Frenchs Forest Sydney",
       description:
-        "Looking to sell your car in Belrose, Sydney? Aux Cash for Cars is your trusted partner for a hassle-free and instant cash deal. We buy cars of all makes and models, offering top dollar for your vehicle. Experience a seamless and transparent process with our expert team. Turn your unwanted car into cash today with Aux Cash for Cars in Belrose, Sydney!",
-      image: "/assets/locationsImages/sublocation1Images/69.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location5/subLocation13`,
+        "Get top dollar for your unwanted vehicles in Frenchs Forest, Sydney with Aux Cash for Cars Sydney! We offer quick and hassle-free cash for cars services, ensuring a seamless and convenient experience. Whether your car is old, damaged, or no longer running, we'll buy it for cash on the spot. Contact us today for a fair and instant quote, and let Aux Cash for Cars Sydney turn your unwanted car into instant cash in Frenchs Forest and surrounding areas.",
+      image: "/assets/locationsImages/sublocation1Images/70.jpg",
+      url: `https://auxcashforcarsydney.com/locations/location5/subLocation14`,
       keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
       height: 630,
@@ -71,13 +71,13 @@ function post0({ title, description, image, url, keyword, width, height }) {
                 <Card>
                   <CardMedia
                     sx={{ height: "300px" }}
-                    image={subLocation[13].image}
-                    title={subLocation[13].title}
-                    alt={subLocation[13].title}
+                    image={subLocation[14].image}
+                    title={subLocation[14].title}
+                    alt={subLocation[14].title}
                   />
                   <CardContent>
-                    <h1>{subLocation[13].title}</h1>
-                    {subLocation[13].description}
+                    <h1>{subLocation[14].title}</h1>
+                    {subLocation[14].description}
                   </CardContent>
 
                   <Grid
@@ -117,7 +117,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
                   <Card>
                     <CardContent>
                       <Typography component={"p"}> Tags </Typography>
-                      <TagsStyle>{subLocation[13].tags}</TagsStyle>
+                      <TagsStyle>{subLocation[14].tags}</TagsStyle>
                     </CardContent>
                   </Card>
                 </Grid>

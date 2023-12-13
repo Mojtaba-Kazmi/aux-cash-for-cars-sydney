@@ -1386,6 +1386,115 @@ export const subLocation = [
     ),
   },
 
+  // location 14
+  {
+    image: "/assets/locationsImages/sublocation1Images/70.jpg",
+    title: "Cash for cars Frenchs Forest Sydney",
+    description: (
+      <>
+        <p>
+          If you're a resident of Frenchs Forest, Sydney, and have an old,
+          unwanted, or damaged vehicle taking up valuable space in your
+          driveway, you're in luck! There's a premier cash for cars service in
+          town that stands out among the rest—{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. This article will
+          delve into why <Link href={"/"}>Aux Cash for Cars</Link> is recognized
+          as the best in the business in the Frenchs Forest area, offering a
+          seamless and lucrative solution for selling your car.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney?</h2>
+        <ol>
+          <h3>
+            <li>Top Dollar Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            providing the most competitive and fair cash offers for all types of
+            vehicles. Whether your car is running or not, damaged, old, or
+            simply unwanted, <Link href={"/"}>Aux Cash for Cars</Link>{" "}
+            guarantees top-dollar compensation, ensuring you get the best value
+            for your vehicle.
+          </p>
+          <h3>
+            <li>Quick and Hassle-Free Process:</li>
+          </h3>
+          <p>
+            Selling a car can often be a time-consuming and tedious process.
+            However, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            streamlines the entire experience, offering a quick and hassle-free
+            process. From the initial inquiry to the final transaction, their
+            team ensures a smooth and efficient transaction, saving you time and
+            effort.
+          </p>
+          <h3>
+            <li>Free Towing Services:</li>
+          </h3>
+          <p>
+            One of the standout features of{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their commitment
+            to customer convenience. They offer complimentary towing services,
+            making it easy for you to get rid of your old or non-functional
+            vehicle without any additional costs. This service extends to all
+            areas in Frenchs Forest and the surrounding Sydney region.
+          </p>
+          <h3>
+            <li>Transparent and Honest Transactions:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> values transparency
+            and honesty in all their transactions. There are no hidden fees or
+            surprises—what you see is what you get. Their team provides clear
+            and upfront information, ensuring a trustworthy and reliable cash
+            for cars experience.
+          </p>
+          <h3>
+            <li>Environmentally Friendly Practices:</li>
+          </h3>
+          <p>
+            Beyond offering top-notch customer service,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is also committed
+            to environmentally friendly practices. They adhere to responsible
+            recycling and disposal methods, ensuring that your old vehicle is
+            handled in an eco-friendly manner.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to cash for cars services in Frenchs
+          Forest, Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          stands out as the premier choice. With their commitment to offering
+          top-dollar value, a quick and hassle-free process, free towing
+          services, transparent transactions, and environmentally friendly
+          practices, <Link href={"/"}>Aux Cash for Cars Sydney</Link> is
+          undoubtedly the go-to solution for turning your unwanted vehicle into
+          cash. Contact them today and experience the best cash for cars service
+          in the Frenchs Forest area.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Frenchs Forest</h2>,{" "}
+        <h2>Sell my car Frenchs Forest</h2>, <h2>Car removal Frenchs Forest</h2>
+        , <h2>Cash for old cars Sydney</h2>,{" "}
+        <h2>Scrap car removal Frenchs Forest</h2>,{" "}
+        <h2>Frenchs Forest car buyers</h2>, <h2>Junk car removal Sydney</h2>,{" "}
+        <h2>Top cash for cars Frenchs Forest</h2>,{" "}
+        <h2>Unwanted car removal Sydney</h2>,{" "}
+        <h2>Instant cash for cars Frenchs Forest</h2>,{" "}
+        <h2>Frenchs Forest scrap car buyers</h2>,{" "}
+        <h2>Sell my junk car Sydney</h2>,{" "}
+        <h2>Cash for damaged cars Frenchs Forest</h2>,{" "}
+        <h2>Frenchs Forest auto wreckers</h2>,{" "}
+        <h2>Best car removal service Sydney</h2>,{" "}
+        <h2>Cash for unwanted cars Frenchs Forest</h2>,{" "}
+        <h2>Free car removal Sydney</h2>,{" "}
+        <h2>Frenchs Forest scrap car removal</h2>,{" "}
+        <h2>Quick cash for cars Sydney</h2>,{" "}
+        <h2>Cash for used cars Frenchs Forest</h2>,{" "}
+      </>
+    ),
+  },
+
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/57.jpg",
