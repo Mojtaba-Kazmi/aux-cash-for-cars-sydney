@@ -1495,6 +1495,114 @@ export const subLocation = [
     ),
   },
 
+  // location 15
+  {
+    image: "/assets/locationsImages/sublocation1Images71.jpg",
+    title: "Cash for cars Forestville Sydney",
+    description: (
+      <>
+        <p>
+          If you're in Forestville, Sydney, and looking to turn your old,
+          unwanted vehicle into cash quickly and effortlessly,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the top
+          choice. This reputable service not only offers competitive rates but
+          also provides a hassle-free and transparent process, making it the
+          preferred option for residents in the area.
+        </p>
+        <ol>
+          <h2>
+            <li>Top Dollar for Your Vehicle:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            offering the best cash deals for cars in Forestville. Whether your
+            car is old, damaged, or simply no longer serving your needs, this
+            service ensures that you receive top dollar for your vehicle,
+            putting money back in your pocket.
+          </p>
+          <h2>
+            <li>Convenient and Transparent Process:</li>
+          </h2>
+          <p>
+            Unlike other cash-for-cars services,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> prioritizes
+            customer satisfaction through a seamless and transparent process.
+            From the initial quote to the final transaction, the team at{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> ensures a convenient and
+            stress-free experience for Forestville residents.
+          </p>
+          <h2>
+            <li>Free Vehicle Removal Service:</li>
+          </h2>
+          <p>
+            One of the standout features of{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is its
+            complimentary vehicle removal service. Once you've accepted the
+            offer, the team will come to your location in Forestville to pick up
+            your car, saving you the hassle and expense of arranging
+            transportation.
+          </p>
+          <h2>
+            <li>Acceptance of All Vehicle Types:</li>
+          </h2>
+          <p>
+            Regardless of your vehicle's make, model, or condition,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts a wide
+            range of vehicles. Whether you have an old sedan, a damaged SUV, or
+            even a non-running truck, this service is ready to make you a fair
+            offer.
+          </p>
+          <h2>
+            <li>Environmentally Friendly Disposal:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is committed to
+            environmentally responsible disposal practices. The team ensures
+            that all vehicles are recycled and disposed of in an eco-friendly
+            manner, contributing to a greener and more sustainable future.
+          </p>
+          <h2>
+            <li>Customer-Centric Approach:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> prioritizes its
+            customers, aiming to provide the best possible experience. With a
+            dedicated customer support team and a commitment to meeting
+            individual needs, this service has earned a reputation as the go-to
+            choice for cash for cars in Forestville.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to turning your unwanted vehicle into
+          cash in Forestville, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> emerges as the clear
+          leader. With its top-dollar offers, hassle-free process, and
+          commitment to customer satisfaction, this service is the ideal choice
+          for residents looking to get the most value for their cars while
+          enjoying a seamless transaction experience.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Forestville</h2>, <h2>Sell my car Forestville</h2>,{" "}
+        <h2>Quick cash for cars Sydney</h2>, <h2>Forestville car buyers</h2>,{" "}
+        <h2>Top cash for used cars</h2>, <h2>Scrap car removal Forestville</h2>,{" "}
+        <h2>Instant cash for old cars</h2>, <h2>Unwanted car removal Sydney</h2>
+        , <h2>Forestville junk car buyers</h2>,{" "}
+        <h2>Sell your car for cash Sydney</h2>,{" "}
+        <h2>Sell your car for cash Sydney</h2>,{" "}
+        <h2>Best car removal services Forestville</h2>,{" "}
+        <h2>Cash for damaged cars Sydney</h2>, <h2>Forestville car wreckers</h2>
+        , <h2>Top dollar for used vehicles</h2>,{" "}
+        <h2>Quick and easy car selling Forestville</h2>,{" "}
+        <h2>Cash for cars same day pickup</h2>,{" "}
+        <h2>Forestville auto salvage</h2>,<h2>Scrap car disposal Sydney</h2>,{" "}
+        <h2>Cash for unwanted vehicles Forestville</h2>,{" "}
+        <h2>Forestville's trusted car buying service</h2>,{" "}
+      </>
+    ),
+  },
   // // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/57.jpg",
