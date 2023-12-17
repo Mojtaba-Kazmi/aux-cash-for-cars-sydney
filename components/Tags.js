@@ -19,9 +19,9 @@ function Tags() {
         color: "body.main",
         bgcolor: "#d0f9df",
         width: "100%",
-        height: "100px",
+        height: "50px",
         mt: "50px",
-        py: "50px",
+        
       }}
     >
       <Container>
