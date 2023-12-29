@@ -25,7 +25,7 @@ export async function getServerSideProps() {
       title: "Cash for cars Seaforth Sydney",
       description:
         "Looking to sell your car in Seaforth, Sydney? Aux Cash for Cars Sydney is your trusted partner for quick and hassle-free transactions. Get top cash for your unwanted vehicles, regardless of make or model. Our professional team ensures a seamless selling experience, providing on-the-spot cash and prompt car removal services. Turn your old or damaged car into instant cash today with Aux Cash for Cars in Seaforth, Sydney.",
-      image: "/assets/locationsImages/sublocation1Images/56.jpg",
+      image: "/assets/locationsImages/sublocation1Images/72.jpg",
       url: `https://auxcashforcarsydney.com/locations/location6/subLocation1`,
       keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
