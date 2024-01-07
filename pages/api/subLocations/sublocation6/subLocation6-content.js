@@ -114,6 +114,7 @@ export const subLocation = [
       </>
     ),
   },
+  // location 2
   {
     image: "/assets/locationsImages/sublocation1Images/73.jpg",
     title: "Cash for cars Balgowlah Sydney",
@@ -223,6 +224,7 @@ export const subLocation = [
     ),
   },
 
+  // location 3
   {
     image: "/assets/locationsImages/sublocation1Images/74.jpg",
     title: "Cash for cars Manly Sydney",
@@ -320,6 +322,110 @@ export const subLocation = [
     ),
   },
 
+  // location 4
+  {
+    image: "/assets/locationsImages/sublocation1Images/75.jpg",
+    title: "Cash for cars Harbord Sydney",
+    description: (
+      <>
+        <p>
+          In the vibrant suburb of Harbord in Sydney, finding a reliable and
+          efficient cash-for-cars service is crucial for those looking to sell
+          their vehicles quickly and hassle-free. Among the plethora of options
+          available, <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out
+          as the go-to choice for individuals seeking the best cash offers for
+          their cars in the Harbord area.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney?</h2>
+        <ol>
+          <h3>
+            <li>Competitive Cash Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> prides itself on
+            providing highly competitive cash offers for vehicles in any
+            condition. Whether you have a used car, old clunker, damaged
+            vehicle, or even a scrap car,{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> ensures that you receive
+            the best value for your asset.
+          </p>
+          <h3>
+            <li>Hassle-Free Process:</li>
+          </h3>
+          <p>
+            Selling a car can often be a time-consuming and complicated process.
+            However, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            streamlines the entire experience, offering a hassle-free and
+            straightforward process. From the initial inquiry to the final sale,
+            their team is dedicated to making the transaction as smooth as
+            possible for customers in Harbord.
+          </p>
+          <h3>
+            <li>Quick and Efficient Service:</li>
+          </h3>
+          <p>
+            In a bustling suburb like Harbord, time is of the essence.{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> understands the
+            importance of a swift and efficient service. With a commitment to
+            prompt responses and quick vehicle assessments, they ensure that you
+            get the cash you need without unnecessary delays.
+          </p>
+          <h3>
+            <li>Acceptance of All Car Types:</li>
+          </h3>
+          <p>
+            One of the standout features of{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their
+            willingness to buy vehicles of any make, model, or condition.
+            Whether your car is running or not, they are ready to offer a fair
+            cash deal, making them the most inclusive cash-for-cars service in
+            Harbord.
+          </p>
+          <h3>
+            <li>Professional and Friendly Team:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in its
+            team of professional and friendly experts. Their knowledgeable staff
+            guides customers through the entire selling process, answering
+            questions and addressing concerns with a customer-centric approach.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to cash-for-cars services in Harbord,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> emerges as the
+          unrivaled choice. With competitive cash offers, a hassle-free process,
+          quick and efficient service, and an inclusive approach to all car
+          types, <Link href={"/"}>Aux Cash for Cars</Link> stands out as the
+          best option for individuals looking to sell their vehicles in Harbord
+          and its surrounding areas. Experience the ultimate convenience and top
+          dollar value with Aux Cash for Cars Sydney.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Harbord</h2>, <h2>Harbord Sydney car buyers</h2>,{" "}
+        <h2>Sell my car Harbord</h2>, <h2>Top cash for cars Harbord</h2>,{" "}
+        <h2>Harbord junk car removal</h2>,{" "}
+        <h2>Instant cash for used cars Harbord</h2>,{" "}
+        <h2>Scrap car removal Harbord Sydney</h2>,{" "}
+        <h2>Best car selling Harbord</h2>, <h2>Harbord auto wreckers</h2>,{" "}
+        <h2>Quick cash for unwanted cars Harbord</h2>,{" "}
+        <h2>Harbord car removal services</h2>,{" "}
+        <h2>Cash for damaged cars Harbord</h2>,{" "}
+        <h2>Sell your old car Harbord</h2>,{" "}
+        <h2>Free car removal Harbord Sydney</h2>,{" "}
+        <h2>Harbord top dollar for junk cars</h2>,{" "}
+        <h2>Cash for broken-down cars Harbord</h2>,{" "}
+        <h2>Harbord scrap car buyers</h2>, <h2>Sell my damaged car Harbord</h2>,{" "}
+        <h2>Harbord cash for used trucks</h2>,{" "}
+        <h2>Quick and easy car selling Harbord</h2>,{" "}
+      </>
+    ),
+  },
+
+  // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/57.jpg",
   //   title: "",
