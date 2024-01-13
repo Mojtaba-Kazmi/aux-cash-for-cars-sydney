@@ -425,6 +425,114 @@ export const subLocation = [
     ),
   },
 
+  //location 5
+  {
+    image: "/assets/locationsImages/sublocation1Images/76.jpg",
+    title: "Cash for cars Collaroy Sydney",
+    description: (
+      <>
+        <p>
+          Discover the seamless and efficient way to turn your old, unwanted
+          vehicles into instant cash in Collaroy, Sydney.{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> emerges as the
+          premier choice for individuals looking to sell their cars effortlessly
+          while enjoying the best value for their vehicles.
+        </p>
+        <h2>
+          Why Choose <Link href={"/"}>Aux Cash for Cars Sydney</Link> in
+          Collaroy?
+        </h2>
+        <ol>
+          <h3>
+            <li>Top Dollar for Your Vehicles:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> takes pride in
+            offering top-dollar payouts for all types of cars, regardless of
+            their make, model, or condition. Expect fair and competitive prices
+            that reflect the true worth of your vehicle.
+          </p>
+          <h3>
+            <li>Quick and Hassle-Free Transactions:</li>
+          </h3>
+          <p>
+            Time is of the essence, and{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> understands that.
+            Experience swift and hassle-free transactions, with a streamlined
+            process that allows you to get cash in hand quickly. Say goodbye to
+            lengthy negotiations and waiting periods.
+          </p>
+          <h3>
+            <li>All Types of Vehicles Accepted:</li>
+          </h3>
+          <p>
+            Whether you have a used car, a damaged vehicle, or an old clunker
+            taking up space, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            accepts all types of vehicles. No need to worry about the condition
+            - they are ready to make an offer.
+          </p>
+          <h3>
+            <li>Free Towing Services:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> goes the extra mile
+            by offering free towing services for your vehicle. Save on towing
+            fees and additional expenses, as they ensure a convenient and
+            cost-effective process for sellers.
+          </p>
+          <h3>
+            <li>Environmentally Friendly Disposal:</li>
+          </h3>
+          <p>
+            Rest assured that when you choose{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you're also
+            contributing to environmentally responsible practices. They handle
+            vehicle disposal in an eco-friendly manner, ensuring that all
+            recycling and disposal processes adhere to the highest standards.
+          </p>
+          <h3>
+            <li>Transparent and Honest Dealings:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> values transparency
+            and honesty in their dealings. You can trust them to provide a fair
+            assessment of your vehicle and a clear breakdown of the offer,
+            leaving you satisfied and informed.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> If you're in Collaroy, Sydney, and seeking the best
+          cash for cars service in the area, look no further than{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. With their
+          commitment to top-dollar payouts, quick transactions, and customer
+          satisfaction, they stand out as the go-to choice for turning your
+          unwanted vehicles into instant cash. Experience a hassle-free and
+          efficient selling process with{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> today.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Collaroy</h2>, <h2>Sydney car buyers</h2>,{" "}
+        <h2>Sell my car Collaroy</h2>, <h2>Instant cash for cars Sydney</h2>,{" "}
+        <h2>Collaroy car removal</h2>,{" "}
+        <h2>Top dollar for used cars Collaroy</h2>,{" "}
+        <h2>Scrap car removal Sydney</h2>,{" "}
+        <h2>Cash for unwanted cars Collaroy</h2>,{" "}
+        <h2>Best car buyers in Sydney</h2>,{" "}
+        <h2>Quick and easy car selling Collaroy</h2>,{" "}
+        <h2>Sell damaged car Sydney</h2>, <h2>Free car removal Collaroy</h2>,{" "}
+        <h2>Cash for old cars Sydney</h2>, <h2>Sell my junk car Collaroy</h2>,{" "}
+        <h2>Collaroy auto wreckers</h2>, <h2>Scrap car buyers Sydney</h2>,{" "}
+        <h2>Top cash for scrap cars Collaroy</h2>,{" "}
+        <h2>Collaroy car disposal services</h2>,{" "}
+        <h2>Sell my unwanted vehicle Sydney</h2>,{" "}
+        <h2>Cash for broken-down cars Collaroy</h2>
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/57.jpg",
