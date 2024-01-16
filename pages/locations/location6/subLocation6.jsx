@@ -26,7 +26,7 @@ export async function getServerSideProps() {
       description:
         "Get top cash for cars in Dee Why, Sydney with Aux Cash for Cars! We offer quick and hassle-free car removal services, turning your old, unwanted vehicles into instant cash. Whether your car is damaged, junk, or simply no longer in use, we provide on-the-spot payments and efficient removal. Contact us today for the best cash deals and swift car removal in Dee Why and across Sydney!",
       image: "/assets/locationsImages/sublocation1Images/77.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location6/subLocation5`,
+      url: `https://auxcashforcarsydney.com/locations/location6/subLocation6`,
       keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
       height: 630,
