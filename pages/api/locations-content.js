@@ -731,7 +731,6 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Dee Why Sydney</h2>,{" "}
         <h2>Cash for cars Brookvale Sydney</h2>,{" "}
         <h2>Cash for cars Narrabeen Sydney</h2>,{" "}
         <h2>Cash for cars Warriewood Sydney</h2>,{" "}

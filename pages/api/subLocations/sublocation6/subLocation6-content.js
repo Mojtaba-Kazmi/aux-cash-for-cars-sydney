@@ -533,6 +533,101 @@ export const subLocation = [
     ),
   },
 
+  // location 6
+  {
+    image: "/assets/locationsImages/sublocation1Images/77.jpg",
+    title: "Cash for cars Dee Why Sydney",
+    description: (
+      <>
+        <p>
+          In the vibrant locale of Dee Why, Sydney, the quest for the best
+          cash-for-cars service is a priority for residents looking to part ways
+          with their vehicles seamlessly. Among the myriad options available,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> emerges as the
+          undeniable frontrunner, offering an unparalleled experience in the
+          lucrative world of car selling.
+        </p>
+        <ol>
+          <h2>
+            <li>Unmatched Transparency and Fair Appraisals:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> sets itself apart
+            by prioritizing transparency throughout the entire car-selling
+            process. Their team of experts conducts fair and comprehensive
+            assessments of each vehicle, ensuring that sellers receive the true
+            market value for their cars. This commitment to honesty and fairness
+            resonates with customers, making{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> a trusted choice in the
+            Dee Why area.
+          </p>
+          <h2>
+            <li>Quick and Hassle-Free Transactions:</li>
+          </h2>
+          <p>
+            Time is of the essence, and{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> understands the
+            urgency associated with selling a vehicle. With a streamlined
+            process, sellers can expect quick and hassle-free transactions. From
+            initial contact to the final paperwork, Aux Cash for Cars
+            prioritizes efficiency, allowing sellers to enjoy a seamless
+            experience from start to finish.
+          </p>
+          <h2>
+            <li>Free Car Removal Services:</li>
+          </h2>
+          <p>
+            One of the standout features of{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their
+            complimentary car removal services. Whether the vehicle is immobile,
+            damaged, or simply no longer in use, the team at Aux Cash for Cars
+            will arrange for the prompt removal of the car, saving sellers from
+            the logistical challenges associated with transportation.
+          </p>
+          <h2>
+            <li>Wide Range of Accepted Vehicles:</li>
+          </h2>
+          <p>
+            Unlike some cash-for-cars services that may have restrictions on the
+            types or conditions of vehicles they accept, Aux Cash for Cars
+            Sydney welcomes a wide range of cars, regardless of make, model, or
+            condition. This inclusivity ensures that every car owner in Dee Why
+            has the opportunity to benefit from the exceptional services
+            provided by <Link href={"/"}>Aux Cash for Cars</Link>.
+          </p>
+          <h2>
+            <li>Customer-Centric Approach:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> places a strong
+            emphasis on customer satisfaction. The dedicated team goes the extra
+            mile to address seller concerns, answer queries promptly, and
+            provide personalized assistance throughout the selling process. This
+            customer-centric approach has garnered praise and loyalty from
+            residents in Dee Why.
+          </p>
+        </ol>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Dee Why</h2>, <h2>Dee Why car buyers</h2>,{" "}
+        <h2>Sydney cash for used cars</h2>, <h2>Sell my car Dee Why</h2>,{" "}
+        <h2>Instant cash for cars Sydney</h2>,{" "}
+        <h2>Dee Why scrap car removal</h2>,{" "}
+        <h2>Top cash for unwanted cars Dee Why</h2>,{" "}
+        <h2>Sydney junk car buyers</h2>, <h2>Sell your car for cash Dee Why</h2>
+        , <h2>Best cash for old cars Sydney</h2>, <h2>Dee Why auto wreckers</h2>
+        , <h2>Quick car sale Dee Why</h2>, <h2>Top dollar for cars Sydney</h2>,{" "}
+        <h2>Cash for damaged cars Dee Why</h2>,{" "}
+        <h2>Sydney car removal services</h2>,{" "}
+        <h2>Scrap car disposal Dee Why</h2>, <h2>Dee Why wrecked car buyers</h2>
+        , <h2>Cash for unwanted vehicles Sydney</h2>,{" "}
+        <h2>Dee Why used car removal</h2>, <h2>Sydney cash for junk cars</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/57.jpg",
