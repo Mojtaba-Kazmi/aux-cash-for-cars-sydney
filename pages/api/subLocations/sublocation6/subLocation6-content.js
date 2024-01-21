@@ -734,6 +734,111 @@ export const subLocation = [
     ),
   },
 
+  // location 8
+  {
+    image: "/assets/locationsImages/sublocation1Images/79.jpg",
+    title: "Cash for cars Narrabeen Sydney",
+    description: (
+      <>
+        <p>
+          Are you looking to turn your unwanted car into instant cash in
+          Narrabeen, Sydney? Look no further!{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is your go-to
+          solution for the best cash for cars service in the area. Discover how
+          we stand out as the top choice for Narrabeen residents seeking a
+          hassle-free and lucrative way to sell their cars.
+        </p>
+        <ol>
+          <h2>
+            <li>Highest Cash Payouts: </li>
+          </h2>
+          <p>
+            When it comes to getting the most value for your car,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> leads the way in
+            Narrabeen. We offer the highest cash payouts for a wide range of
+            vehicles, including old cars, scrap cars, and unwanted vehicles.
+          </p>
+          <h2>
+            <li>Quick and Efficient Process:</li>
+          </h2>
+          <p>
+            Experience a swift and seamless selling process with{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link>. Our team ensures a
+            hassle-free transaction, providing you with an instant cash offer
+            for your car. Say goodbye to lengthy negotiations and hello to quick
+            and efficient service.
+          </p>
+          <h2>
+            <li>Local Expertise in Narrabeen:</li>
+          </h2>
+          <p>
+            As a local business, we understand the unique needs of Narrabeen
+            residents. Our team is familiar with the local market, allowing us
+            to provide tailored solutions and accurate valuations for your car.
+            Sell your car with confidence to a trusted local buyer.
+          </p>
+          <h2>
+            <li>Free Car Removal Service:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydne</Link>y goes the extra mile
+            by offering free car removal services in Narrabeen. Once you accept
+            our cash offer, we'll schedule a convenient time to pick up your
+            vehicle, saving you time and effort.
+          </p>
+          <h2>
+            <li>Environmentally Friendly Car Disposal:</li>
+          </h2>
+          <p>
+            Environmentally Friendly Car Disposal: Concerned about the
+            environmental impact? Choose{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> for eco-friendly
+            car disposal in Narrabeen. We adhere to responsible recycling
+            practices, ensuring that your old car is disposed of in an
+            environmentally conscious manner.
+          </p>
+          <h2>
+            <li>Transparent and Honest Transactions:</li>
+          </h2>
+          <p>
+            At <Link href={"/"}>Aux Cash for Cars</Link>, transparency and
+            honesty are our core values. Rest assured that you'll receive a fair
+            and accurate assessment of your car's value, and there are no hidden
+            fees or surprises. We pride ourselves on building trust with our
+            customers.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to cash for cars in Narrabeen,
+          Sydney, <Link href={"/"}>Aux Cash for Cars</Link> stands out as the
+          premier choice. Enjoy the benefits of the highest cash payouts, a
+          quick and efficient process, and environmentally friendly disposal.
+          Contact us today to experience the best cash for cars service in
+          Narrabeen with <Link href={"/"}>Aux Cash for Cars Sydney!</Link>
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Narrabeen</h2>, <h2>Sydney Car Buyers</h2>,{" "}
+        <h2>Sell My Car Narrabeen</h2>, <h2>Instant Cash Offer Narrabeen</h2>,{" "}
+        <h2>Narrabeen Car Removal</h2>, <h2>Sydney Scrap Car Buyers</h2>,{" "}
+        <h2>Best Car Selling Deals Narrabeen</h2>,{" "}
+        <h2>Get Cash for Your Car Sydney</h2>, <h2>Quick Car Sale Narrabeen</h2>
+        , <h2>Reliable Car Removal Sydney</h2>,{" "}
+        <h2>Top Dollar for Your Car Narrabeen</h2>,{" "}
+        <h2>Free Car Valuation Sydney</h2>,{" "}
+        <h2>Cash for Unwanted Cars Narrabeen</h2>,{" "}
+        <h2>Cash for Unwanted Cars Narrabeen</h2>,{" "}
+        <h2>Narrabeen Cash for Scrap Cars</h2>,{" "}
+        <h2>Sell Your Old Car Sydney</h2>,{" "}
+        <h2>Fast and Easy Car Selling Narrabeen</h2>,{" "}
+        <h2>Sydney's Trusted Car Buyers</h2>,{" "}
+        <h2>Instant Quote for Your Car Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/57.jpg",
