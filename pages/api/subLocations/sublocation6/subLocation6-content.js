@@ -839,9 +839,109 @@ export const subLocation = [
     ),
   },
 
+  // location 9
+  {
+    image: "/assets/locationsImages/sublocation1Images/80.jpg",
+    title: "Cash for cars Warriewood Sydney",
+    description: (
+      <>
+        <p>
+          Discover the easiest and most lucrative way to sell your car in
+          Warriewood, Sydney! <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          stands out as the premier cash for cars service in the area, offering
+          a hassle-free and efficient solution for anyone looking to sell their
+          vehicle. With our top-notch services, we make the process seamless and
+          ensure you receive the best value for your car.
+        </p>
+        <ol>
+          <h2>
+            <li>Instant Cash for Cars in Warriewood:</li>
+          </h2>
+          <p>
+            At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, we understand
+            the urgency of selling your car. That's why we provide instant cash
+            for cars in Warriewood, making the entire transaction quick and
+            convenient. Say goodbye to lengthy waiting times and hello to
+            immediate cash in your hands!
+          </p>
+          <h2>
+            <li>Top Dollar for Your Vehicle:</li>
+          </h2>
+          <p>
+            When it comes to getting the best value for your car,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is your go-to
+            choice. We guarantee top dollar for your vehicle, irrespective of
+            its make, model, or condition. Our team of experts evaluates your
+            car thoroughly to ensure you receive a fair and competitive offer.
+          </p>
+          <h2>
+            <li>Efficient Car Removal Services:</li>
+          </h2>
+          <p>
+            Forget the hassle of arranging transportation for your car.{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers efficient
+            car removal services in Warriewood and its surrounding areas. We
+            handle the logistics, making the process convenient for you. Our
+            team ensures a prompt and hassle-free removal, leaving you with more
+            time and money in your pocket.
+          </p>
+          <h2>
+            <li>Sell Your Unwanted or Scrap Car:</li>
+          </h2>
+          <p>
+            Whether your car is unwanted, old, or in scrap condition,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts vehicles in
+            any state. Turn your unused and unwanted cars into instant cash with
+            our reliable services. We specialize in providing a solution for all
+            types of vehicles, regardless of their condition.
+          </p>
+          <h2>
+            <li>Customer-Focused Approach:</li>
+          </h2>
+          <p>
+            What sets <Link href={"/"}>Aux Cash for Cars Sydney</Link> apart is
+            our commitment to customer satisfaction. We prioritize your needs
+            and ensure a transparent and straightforward process. Our friendly
+            team is ready to answer your queries and guide you through the
+            entire selling process.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> <Link href={"/"}>Aux Cash for Cars Sydney</Link> is
+          undoubtedly the best cash for cars service in Warriewood and Sydney.
+          With our commitment to providing top dollar, instant cash, efficient
+          car removal, and a customer-focused approach, we make selling your car
+          a breeze. Choose <Link href={"/"}>Aux Cash for Cars Sydney</Link> for
+          a reliable and hassle-free experience in turning your unwanted vehicle
+          into cash.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Warriewood</h2>, <h2>Sydney car removal</h2>,{" "}
+        <h2>Sydney car removal</h2>, <h2>Instant cash for cars Sydney</h2>,{" "}
+        <h2>Warriewood scrap car buyers</h2>,{" "}
+        <h2>Top dollar for used cars Warriewood</h2>,{" "}
+        <h2>Quick car removal Sydney</h2>,{" "}
+        <h2>Sell your junk car Warriewood</h2>,{" "}
+        <h2>Cash for unwanted cars Sydney</h2>,{" "}
+        <h2>Best car wreckers Warriewood</h2>, <h2>Scrap car removal Sydney</h2>
+        , <h2>Warriewood auto salvage</h2>,{" "}
+        <h2>Free car removal service Sydney</h2>,{" "}
+        <h2>Cash for damaged cars Warriewood</h2>,{" "}
+        <h2>Warriewood car disposal</h2>, <h2>Sydney old car buyers</h2>,{" "}
+        <h2>Sell your broken car Warriewood</h2>,{" "}
+        <h2>Instant cash for unwanted vehicles Sydney</h2>,{" "}
+        <h2>Warriewood cash for clunkers</h2>,{" "}
+        <h2>Reliable car removal services in Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
-  //   image: "/assets/locationsImages/sublocation1Images/57.jpg",
+  //   image: "/assets/locationsImages/sublocation1Images/80.jpg",
   //   title: "",
   //   description: <></>,
   //   tags: (

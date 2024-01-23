@@ -731,7 +731,6 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Warriewood Sydney</h2>,{" "}
         <h2>Cash for cars Mona Vale Sydney</h2>,{" "}
         <h2>Cash for cars Bayview Sydney</h2>,{" "}
         <h2>Cash for cars Newport Sydney</h2>,{" "}
