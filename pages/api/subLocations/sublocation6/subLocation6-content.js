@@ -940,6 +940,120 @@ export const subLocation = [
   },
 
   // location simple
+  {
+    image: "/assets/locationsImages/sublocation1Images/81.jpg",
+    title: "Cash for cars Mona Vale Sydney",
+    description: (
+      <>
+        <p>
+          Discover the easiest and most lucrative way to turn your old or
+          unwanted car into instant cash in Mona Vale, Sydney! Aux Cash for Cars
+          Sydney stands out as the premier choice for car sellers in the area,
+          offering unparalleled services and the best cash deals for your
+          vehicles.
+        </p>
+        <ol>
+          <h2>
+            <li>Why Choose Aux Cash for Cars Sydney in Mona Vale?</li>
+          </h2>
+          <ul>
+            <li>
+              Explore the reasons why Aux Cash for Cars Sydney is the preferred
+              choice for residents in Mona Vale when it comes to selling their
+              cars for cash.
+            </li>
+            <li>Unmatched expertise and experience in the industry.</li>
+          </ul>
+
+          <h2>
+            <li>Top Dollar Offers for Cars in Mona Vale:</li>
+          </h2>
+          <ul>
+            <li>
+              Learn how Aux Cash for Cars Sydney ensures that you receive the
+              highest cash value for your vehicle, regardless of its make,
+              model, or condition.
+            </li>
+            <li>
+              Utilize our free car valuation service to get an accurate estimate
+              for your car.
+            </li>
+          </ul>
+
+          <h2>
+            <li>Swift and Hassle-Free Process:</li>
+          </h2>
+          <ul>
+            <li>
+              Experience the convenience of a streamlined and hassle-free car
+              selling process with Aux Cash for Cars Sydney.
+            </li>
+            <li>
+              Same-day cash payments to make the entire transaction quick and
+              efficient.
+            </li>
+          </ul>
+
+          <h2>
+            <li>Sell Any Car, Any Condition:</li>
+          </h2>
+          <ul>
+            <li>
+              Whether your car is old, damaged, or simply unwanted, Aux Cash for
+              Cars Sydney accepts vehicles in any condition.
+            </li>
+            <li>
+              Turn your scrap, junk, or used car into valuable cash with ease.
+            </li>
+          </ul>
+
+          <h2>
+            <li>Mona Vale Car Removal Services:</li>
+          </h2>
+          <ul>
+            <li>
+              Avail our complimentary car removal services in Mona Vale, making
+              it convenient for you to sell your car without worrying about
+              transportation.
+            </li>
+            <li>
+              We handle the logistics, ensuring a smooth and stress-free
+              experience for sellers.
+            </li>
+          </ul>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to cash for cars in Mona Vale,
+          Sydney, Aux Cash for Cars Sydney emerges as the unrivaled choice. With
+          top-dollar offers, a seamless process, and a commitment to customer
+          satisfaction, Aux Cash for Cars Sydney ensures that selling your car
+          has never been more rewarding. Say goodbye to the old and hello to
+          instant cash – choose Aux Cash for Cars Sydney today!
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Mona Vale</h2>, <h2>Sydney Car Buyers</h2>,{" "}
+        <h2>Sell My Car Mona Vale</h2>, <h2>Top Cash for Used Cars Sydney</h2>,{" "}
+        <h2>Mona Vale Car Removal</h2>, <h2>Instant Cash for Cars Sydney</h2>,{" "}
+        <h2>Sell Your Car Fast Mona Vale</h2>,{" "}
+        <h2>Best Car Buyers in Sydney</h2>, <h2>Scrap Car Removal Mona Vale</h2>
+        , <h2>Quick and Easy Car Selling Sydney</h2>,{" "}
+        <h2>Cash for Unwanted Cars Mona Vale</h2>,{" "}
+        <h2>Top Dollar for Junk Cars Sydney</h2>,{" "}
+        <h2>Mona Vale Auto Wreckers</h2>,{" "}
+        <h2>Sydney's Premier Car Removal Service</h2>,{" "}
+        <h2>Sell Damaged Car for Cash Mona Vale</h2>,{" "}
+        <h2>Cash for Old Cars Sydney</h2>, <h2>Mona Vale Scrap Car Buyers</h2>,{" "}
+        <h2></h2>, <h2>Free Car Valuation Sydney</h2>,{" "}
+        <h2>Reliable Car Removal Mona Vale</h2>,{" "}
+        <h2>Same Day Cash for Cars Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
+  // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/80.jpg",
   //   title: "",
