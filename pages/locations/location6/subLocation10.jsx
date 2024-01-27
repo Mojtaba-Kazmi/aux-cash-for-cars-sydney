@@ -22,7 +22,7 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Cash for cars Warriewood Sydney",
+      title: "Cash for cars Mona Vale Sydney",
       description:
         "Discover the quickest way to turn your unwanted vehicle into instant cash in Mona Vale, Sydney with Aux Cash for Cars. We specialize in hassle-free cash for cars services, providing top-dollar payouts for all makes and models. Whether your car is old, damaged, or simply no longer serving your needs, we offer a seamless and efficient process. Contact Aux Cash for Cars Sydney today and experience a reliable and transparent cash for cars service in Mona Vale.",
       image: "/assets/locationsImages/sublocation1Images/81.jpg",

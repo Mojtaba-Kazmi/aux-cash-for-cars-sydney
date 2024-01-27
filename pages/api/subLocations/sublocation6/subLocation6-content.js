@@ -947,18 +947,22 @@ export const subLocation = [
       <>
         <p>
           Discover the easiest and most lucrative way to turn your old or
-          unwanted car into instant cash in Mona Vale, Sydney! Aux Cash for Cars
-          Sydney stands out as the premier choice for car sellers in the area,
-          offering unparalleled services and the best cash deals for your
-          vehicles.
+          unwanted car into instant cash in Mona Vale, Sydney!{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          premier choice for car sellers in the area, offering unparalleled
+          services and the best cash deals for your vehicles.
         </p>
         <ol>
           <h2>
-            <li>Why Choose Aux Cash for Cars Sydney in Mona Vale?</li>
+            <li>
+              Why Choose <Link href={"/"}>Aux Cash for Cars Sydney</Link> in
+              Mona Vale?
+            </li>
           </h2>
           <ul>
             <li>
-              Explore the reasons why Aux Cash for Cars Sydney is the preferred
+              Explore the reasons why{" "}
+              <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the preferred
               choice for residents in Mona Vale when it comes to selling their
               cars for cash.
             </li>
@@ -970,9 +974,9 @@ export const subLocation = [
           </h2>
           <ul>
             <li>
-              Learn how Aux Cash for Cars Sydney ensures that you receive the
-              highest cash value for your vehicle, regardless of its make,
-              model, or condition.
+              Learn how <Link href={"/"}>Aux Cash for Cars Sydney</Link> ensures
+              that you receive the highest cash value for your vehicle,
+              regardless of its make, model, or condition.
             </li>
             <li>
               Utilize our free car valuation service to get an accurate estimate
@@ -986,7 +990,8 @@ export const subLocation = [
           <ul>
             <li>
               Experience the convenience of a streamlined and hassle-free car
-              selling process with Aux Cash for Cars Sydney.
+              selling process with{" "}
+              <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
             </li>
             <li>
               Same-day cash payments to make the entire transaction quick and
@@ -999,8 +1004,9 @@ export const subLocation = [
           </h2>
           <ul>
             <li>
-              Whether your car is old, damaged, or simply unwanted, Aux Cash for
-              Cars Sydney accepts vehicles in any condition.
+              Whether your car is old, damaged, or simply unwanted,{" "}
+              <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts vehicles
+              in any condition.
             </li>
             <li>
               Turn your scrap, junk, or used car into valuable cash with ease.
@@ -1024,11 +1030,13 @@ export const subLocation = [
         </ol>
         <p>
           <b>Conclusion:</b> When it comes to cash for cars in Mona Vale,
-          Sydney, Aux Cash for Cars Sydney emerges as the unrivaled choice. With
-          top-dollar offers, a seamless process, and a commitment to customer
-          satisfaction, Aux Cash for Cars Sydney ensures that selling your car
-          has never been more rewarding. Say goodbye to the old and hello to
-          instant cash – choose Aux Cash for Cars Sydney today!
+          Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link> emerges as
+          the unrivaled choice. With top-dollar offers, a seamless process, and
+          a commitment to customer satisfaction,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>
+          ensures that selling your car has never been more rewarding. Say
+          goodbye to the old and hello to instant cash – choose Aux Cash for
+          Cars Sydney today!
         </p>
       </>
     ),
