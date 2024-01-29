@@ -939,7 +939,7 @@ export const subLocation = [
     ),
   },
 
-  // location simple
+  // location 10
   {
     image: "/assets/locationsImages/sublocation1Images/81.jpg",
     title: "Cash for cars Mona Vale Sydney",
@@ -1057,6 +1057,110 @@ export const subLocation = [
         <h2></h2>, <h2>Free Car Valuation Sydney</h2>,{" "}
         <h2>Reliable Car Removal Mona Vale</h2>,{" "}
         <h2>Same Day Cash for Cars Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
+  // location 11
+  {
+    image: "/assets/locationsImages/sublocation1Images/82.jpg",
+    title: "Cash for cars Bayview Sydney",
+    description: (
+      <>
+        <p>
+          Are you looking to sell your car for cash in Bayview, Sydney? Look no
+          further than <Link href={"/"}>Aux Cash for Cars Sydney</Link>, your
+          premier destination for hassle-free and top-dollar car transactions.
+          In this article, we'll explore why{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> stands out as the best
+          choice for anyone seeking a seamless and rewarding cash-for-cars
+          experience in the Bayview area.
+        </p>
+        <ol>
+          <h2>
+            <li>Instant Cash Offers in Bayview:</li>
+          </h2>
+          <p>
+            At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, we pride
+            ourselves on providing instant cash offers for your vehicles. Our
+            streamlined process ensures that you receive a fair and competitive
+            offer for your car, making the selling experience quick and
+            convenient.
+          </p>
+          <h2>
+            <li>Top Dollar for Cars in Sydney:</li>
+          </h2>
+          <p>
+            When it comes to getting the best value for your car,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> leads the way. We
+            offer top-dollar payouts for all types of cars, regardless of their
+            make, model, or condition. Trust us to provide you with a fair and
+            lucrative deal for your vehicle.
+          </p>
+          <h2>
+            <li> Quick Car Sales in Bayview:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars</Link> understands the importance
+            of time, and our efficient process ensures quick car sales in
+            Bayview. Experience a swift and straightforward transaction,
+            allowing you to get rid of your old vehicle and walk away with cash
+            in hand promptly.
+          </p>
+          <h2>
+            <li>Free Car Removal Services:</li>
+          </h2>
+          <p>
+            We go the extra mile by offering free car removal services in
+            Bayview. Whether your car is damaged, old, or simply unwanted, our
+            team will pick it up at no additional cost, making the selling
+            process even more convenient for you.
+          </p>
+          <h2>
+            <li>Environmentally Friendly Auto Recycling in Bayview:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars</Link> is committed to
+            environmentally responsible practices. We ensure that all scrapped
+            cars are recycled in an eco-friendly manner, contributing to a
+            sustainable and greener future.
+          </p>
+          <h2>
+            <li>Professional and Reliable Service:</li>
+          </h2>
+          <p>
+            Our reputation as the best cash-for-cars service in Bayview is built
+            on professionalism and reliability. With a team of experienced
+            experts, we guarantee a smooth and trustworthy transaction,
+            providing you with peace of mind throughout the selling process.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to cash for cars in Bayview,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          unrivaled choice. With instant cash offers, top-dollar payouts, quick
+          car sales, free removal services, and a commitment to environmental
+          sustainability, we are dedicated to making your selling experience
+          seamless and rewarding. Choose{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> for the best
+          cash-for-cars service in Bayview, Sydney.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Bayview</h2>, <h2>Sydney Car Buyers</h2>,{" "}
+        <h2>Sell Your Car for Cash Bayview</h2>,{" "}
+        <h2>Instant Cash Offers Bayview</h2>,{" "}
+        <h2>Top Dollar for Cars Sydney</h2>, <h2>Quick Car Sales Bayview</h2>,{" "}
+        <h2>Cash for Unwanted Cars Bayview</h2>,{" "}
+        <h2>Sell My Car Fast Sydney</h2>, <h2>Best Car Removals Bayview</h2>,{" "}
+        <h2>Scrap Car Buyers Sydney</h2>, <h2>Free Car Removal Bayview</h2>,{" "}
+        <h2>Top Cash for Used Cars Sydney</h2>,{" "}
+        <h2>Junk Car Removal Bayview</h2>, <h2>Cash for Damaged Cars Sydney</h2>
+        , <h2>Bayview Car Wreckers</h2>, <h2>Cash for Scrap Cars Bayview</h2>,{" "}
+        <h2>Same Day Car Removal Sydney</h2>, <h2>Bayview Auto Recycling</h2>,{" "}
+        <h2>Best Price for Your Car Bayview</h2>,
       </>
     ),
   },
