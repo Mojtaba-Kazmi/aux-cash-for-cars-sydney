@@ -731,7 +731,7 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Newport Sydney</h2>,{" "}
+        
         <h2>Cash for cars Avalon Sydney</h2>, <h2>Cash for cars Sydney</h2>,{" "}
       </>
     ),

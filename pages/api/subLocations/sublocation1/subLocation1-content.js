@@ -659,7 +659,7 @@ export const subLocation = [
           <h2>
             <li>Convenient Process:</li>
           </h2>
-          <li>
+          <p>
             <Link href={"/"}>Aux Cash for Cars Sydney</Link> has designed a
             streamlined and convenient process that makes selling your car a
             breeze. They offer a hassle-free online valuation system that allows
@@ -669,7 +669,7 @@ export const subLocation = [
             their efficient and professional service, you can sell your car
             quickly and conveniently, without any unnecessary delays or
             complications.
-          </li>
+          </p>
           <h2>
             <li>All Cars Accepted:</li>
           </h2>
