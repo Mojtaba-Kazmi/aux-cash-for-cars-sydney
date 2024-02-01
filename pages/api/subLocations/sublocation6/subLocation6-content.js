@@ -1111,8 +1111,7 @@ export const subLocation = [
             <li>Free Car Removal Services:</li>
           </h2>
           <p>
-            We go the extra mile by offering{" "}
-            <Link href={"/car-removal"}>free car removal services</Link> in
+            We go the extra mile by offeringfree car removal services in
             Bayview. Whether your car is damaged, old, or simply unwanted, our
             team will pick it up at no additional cost, making the selling
             process even more convenient for you.
