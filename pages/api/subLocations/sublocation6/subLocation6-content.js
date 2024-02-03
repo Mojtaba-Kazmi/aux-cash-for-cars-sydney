@@ -1164,8 +1164,110 @@ export const subLocation = [
       </>
     ),
   },
-
- 
+  // location 12
+  {
+    image: "/assets/locationsImages/sublocation1Images/83.jpg",
+    title: "Cash for cars Newport Sydney",
+    description: (
+      <>
+        <p>
+          Discover the hassle-free and efficient way to turn your unwanted
+          vehicle into instant cash with{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the leading
+          cash-for-cars service in the Newport area. Say goodbye to the stress
+          of selling your car and experience the unparalleled convenience
+          offered by <Link href={"/"}>Aux Cash for Cars</Link>.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney in Newport:</h2>
+        <ol>
+          <h3>
+            <li>Top Dollar Offers:</li>
+          </h3>
+          <p>
+            At <Link href={"/"}>Aux Cash for Cars</Link>, we pride ourselves on
+            providing the best cash offers for cars in Newport. Our fair and
+            transparent valuation process ensures that you get the maximum value
+            for your vehicle.
+          </p>
+          <h3>
+            <li>Quick and Easy Transactions:</li>
+          </h3>
+          <p>
+            Our streamlined process guarantees a quick and hassle-free
+            experience. From the initial inquiry to the final sale,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> ensures a seamless
+            transaction, saving you time and effort.
+          </p>
+          <h3>
+            <li>Free Car Removal Services:</li>
+          </h3>
+          <p>
+            Forget the logistics of transporting your vehicle to the buyer.{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> offers free car removal
+            services in Newport, making the entire process convenient and
+            stress-free.
+          </p>
+          <h3>
+            <li>Acceptance of All Car Types:</li>
+          </h3>
+          <p>
+            Whether your car is old, damaged, unwanted, or simply no longer
+            running, <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts
+            vehicles in all conditions. We are your go-to solution for selling
+            any car in Newport.
+          </p>
+          <h3>
+            <li>Eco-Friendly Car Disposal:</li>
+          </h3>
+          <p>
+            Contributing to a sustainable environment,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> ensures that your
+            old vehicle is disposed of in an environmentally friendly manner.
+            Choose us for responsible and eco-conscious car removal and
+            recycling.
+          </p>
+          <h3>
+            <li>Local Expertise:</li>
+          </h3>
+          <p>
+            As a trusted local service in Newport,{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> understands the unique
+            needs of the community. Our team is dedicated to providing
+            personalized and reliable cash-for-cars solutions to residents in
+            the Sydney area.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to selling your car in Newport,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          best choice. With top-dollar offers, seamless transactions, free car
+          removal, and a commitment to environmental sustainability, we make the
+          process of getting cash for cars in Newport a breeze. Contact{" "}
+          <Link href={"/"}>Aux Cash for Cars today</Link> and experience the
+          unmatched service that has earned us the reputation of being the
+          premier cash-for-cars provider in the area.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Newport</h2>, <h2>Sydney car buyers</h2>,{" "}
+        <h2>Sell my car Newport</h2>, <h2>Instant cash for cars Sydney</h2>,{" "}
+        <h2>Best car removal Newport</h2>, <h2>Scrap car removal Sydney</h2>,{" "}
+        <h2>Top dollar for junk cars Newport</h2>,{" "}
+        <h2>Quick car sale Sydney</h2>, <h2></h2>,{" "}
+        <h2>Used car buyers Newport</h2>, <h2>Cash for unwanted cars Sydney</h2>
+        , <h2>Get rid of my old car Newport</h2>,{" "}
+        <h2>Scrap car collection Sydney</h2>, <h2>Sell damaged car Sydney</h2>,{" "}
+        <h2>Cash for non-running cars Newport</h2>,{" "}
+        <h2>Eco-friendly car disposal Sydney</h2>,{" "}
+        <h2>Scrap car pick up Newport</h2>,{" "}
+        <h2>Top cash for used cars Sydney</h2>,{" "}
+        <h2>Sell my wrecked car Newport</h2>,{" "}
+        <h2>Quick and easy car selling Sydney</h2>,{" "}
+      </>
+    ),
+  },
 
   // location simple
   // {

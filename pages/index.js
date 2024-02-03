@@ -57,7 +57,7 @@ export default function Home() {
           <Export />
           <Resycler />
           <ContactUs />
-          <Tags/>
+          {/* <Tags/> */}
         </Box>
       </main>
     </>
