@@ -9,7 +9,7 @@ import {
   Container,
 } from "@mui/material";
 
-import { tags } from "@/pages/api/tags-content";
+import { tag } from "@/pages/api/tags-content";
 import { TagsStyle } from "@/components/GlobalComponents";
 
 function Tags() {
@@ -21,12 +21,11 @@ function Tags() {
         width: "100%",
         height: "50px",
         mt: "50px",
-        
       }}
     >
       <Container>
         <Typography component={"p"}> Tags: </Typography>
-        <TagsStyle>{tags}</TagsStyle>
+        <TagsStyle>{tag[0].tags}</TagsStyle>
       </Container>
     </Box>
   );
