@@ -1269,6 +1269,117 @@ export const subLocation = [
     ),
   },
 
+  // location 13
+  {
+    image: "/assets/locationsImages/sublocation1Images/84.jpg",
+    title: "Cash for cars Avalon Sydney",
+    description: (
+      <>
+        <p>
+          Looking to sell your car for cash in Avalon, Sydney? Look no further!{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers the best cash
+          for cars service in the area, providing you with a hassle-free and
+          efficient way to sell your vehicle. In this article, we'll explore why{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the top
+          choice for those looking to get cash for cars in Avalon, Sydney, and
+          how their services can benefit you.
+        </p>
+        <h2>Why Choose Cash for Cars Avalon Sydney Services?</h2>
+        <ol>
+          <h3>
+            <li>Instant Cash Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> provides instant
+            cash offers for your vehicles, ensuring you get paid on the spot
+            without any delays.
+          </p>
+          <h3>
+            <li>Top Dollar for Your Car:</li>
+          </h3>
+          <p>
+            With <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you can
+            expect to receive top dollar for your vehicle, regardless of its
+            make, model, or condition.
+          </p>
+          <h3>
+            <li>Hassle-Free Process:</li>
+          </h3>
+          <p>
+            Selling your car has never been easier with{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>. They handle all
+            the paperwork and logistics, making the entire process quick and
+            convenient for you.
+          </p>
+          <h3>
+            <li>Free Car Removal:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers free car
+            removal services, meaning you don't have to worry about transporting
+            your vehicle to their location. They'll come to you!
+          </p>
+          <h3>
+            <li>Eco-Friendly Disposal:</li>
+          </h3>
+          <p>
+            As responsible car buyers,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> ensures that all
+            vehicles are disposed of in an eco-friendly manner, minimizing
+            environmental impact.
+          </p>
+        </ol>
+        <h2>Why Aux Cash for Cars Sydney is the Best Choice:</h2>
+        <ul>
+          <h3>
+            <li>Trusted Reputation:</li>
+          </h3>
+          <p>
+            With years of experience and a solid reputation in the industry,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is trusted by
+            countless customers in Avalon and beyond.
+          </p>
+          <h3>
+            <li>Competitive Prices:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers competitive
+            prices for all types of vehicles, ensuring you get the best value
+            for your car.
+          </p>
+          <h3>
+            <li>Professional Team:</li>
+          </h3>
+          <p>
+            Their team of experts is dedicated to providing excellent customer
+            service and ensuring a seamless selling experience for every client.
+          </p>
+        </ul>
+        <p>
+          Conclusion: When it comes to getting cash for cars in Avalon, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the ultimate
+          choice. With their instant cash offers, hassle-free process, and
+          top-notch service, you can trust them to provide you with the best
+          value for your vehicle. Say goodbye to the stress of selling your car
+          and contact <Link href={"/"}>Aux Cash for Cars Sydney</Link> today!
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Avalon</h2>, <h2>Sell my car Avalon</h2>,{" "}
+        <h2>Scrap car removal Avalon</h2>,{" "}
+        <h2>Cash for unwanted cars Avalon Sydney</h2>,{" "}
+        <h2>Car buyers Avalon</h2>, <h2>Car buyers Avalon</h2>,{" "}
+        <h2>Instant cash for cars Avalon</h2>,{" "}
+        <h2>Best car removal Avalon Sydney</h2>, <h2>Avalon wreckers</h2>,{" "}
+        <h2>Top dollar for cars Avalon</h2>, <h2>Junk car removal Avalon</h2>,{" "}
+        <h2>Avalon car disposal</h2>, <h2>Scrap car buyers Avalon</h2>,{" "}
+        <h2>Old car removal Avalon</h2>, <h2>Avalon car salvage yards</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/80.jpg",
