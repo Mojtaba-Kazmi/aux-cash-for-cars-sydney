@@ -731,7 +731,16 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for Cars Northern Beaches NSW</h2>,{" "}
+        <h2>Sell my Car Northern Beaches</h2>,{" "}
+        <h2>Top Cash for Cars Northern Beaches</h2>,{" "}
+        <h2>Northern Beaches Car Buyers</h2>,{" "}
+        <h2>Scrap Car Removal Northern Beaches</h2>,{" "}
+        <h2>Instant Cash for Cars NSW</h2>,{" "}
+        <h2>Free Car Valuation Northern Beaches</h2>,{" "}
+        <h2>Free Car Valuation Northern Beaches</h2>,{" "}
+        <h2>Junk Car Buyers Northern Beaches</h2>,{" "}
+        <h2>Cash for Unwanted Cars Northern Beaches</h2>,{" "}
       </>
     ),
   },
