@@ -756,11 +756,11 @@ export const location = [
           If you are living in Gladesville, Ryde, or Eastwood in New South
           Wales, Australia, and looking to dispose of your old, unwanted or
           damaged car, you may consider availing of the{" "}
-          <Link href={"/blog/post16"}>cash for cars services</Link>
-          available in your area. Cash for cars services provides an easy and
-          hassle-free way of selling your car, where you get cash in hand for
-          your vehicle without worrying about advertising, negotiating, or
-          meeting with potential buyers.
+          <Link href={"/blog/post16"}>cash for cars services</Link> available in
+          your area. Cash for cars services provides an easy and hassle-free way
+          of selling your car, where you get cash in hand for your vehicle
+          without worrying about advertising, negotiating, or meeting with
+          potential buyers.
         </p>
         <p>
           <Link href={"/blog/post16"}>Cash for cars services</Link> in
@@ -768,12 +768,12 @@ export const location = [
           <Link href={"/contact"}>call</Link> or{" "}
           <Link href={"/contact"}>fill out an online form</Link> to get a quote
           for your vehicle. Once you accept the offer, the{" "}
-          <Link href={"/blog/post16"}>cash for cars company</Link>
-          will schedule a pick-up time and date for your vehicle. During the
-          pick-up, the company's team will inspect your car and hand over the
-          cash payment for the agreed-upon amount. The company will then tow
-          away your vehicle to their yard, where it will be further processed
-          for recycling, disposal, or resale.
+          <Link href={"/blog/post16"}>cash for cars company</Link> will schedule
+          a pick-up time and date for your vehicle. During the pick-up, the
+          company's team will inspect your car and hand over the cash payment
+          for the agreed-upon amount. The company will then tow away your
+          vehicle to their yard, where it will be further processed for
+          recycling, disposal, or resale.
         </p>
         <p>
           These services are a great option for those who have a vehicle that is
