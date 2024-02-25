@@ -7,6 +7,7 @@ import {
   Button,
   Box,
   Container,
+  Link,
 } from "@mui/material";
 import {
   ContentExport0,
@@ -26,9 +27,21 @@ function Export() {
       }}
     >
       <Container>
-        <Grid container spacing={2} sx={{ justifyContent: "space-between", alignItems: "center" }}>
-            {/* left */}
-            <Grid md={5.5} sm={5.5} xs={12} color="primery" px="10px" order={{xs:"2", sm: "1", md: '1'}}  item>
+        <Grid
+          container
+          spacing={2}
+          sx={{ justifyContent: "space-between", alignItems: "center" }}
+        >
+          {/* left */}
+          <Grid
+            md={5.5}
+            sm={5.5}
+            xs={12}
+            color="primery"
+            px="10px"
+            order={{ xs: "2", sm: "1", md: "1" }}
+            item
+          >
             <CardMedia
               component="img"
               alt="cash for scrap cars sydney"
@@ -37,7 +50,14 @@ function Export() {
             />
           </Grid>
           {/* right */}
-          <Grid md={6} sm={6} xs={12} px="10px" order={{xs:"1", sm: "2", md: '2'}} item>
+          <Grid
+            md={6}
+            sm={6}
+            xs={12}
+            px="10px"
+            order={{ xs: "1", sm: "2", md: "2" }}
+            item
+          >
             <Typography
               variant="h4"
               component="h2"
@@ -82,12 +102,18 @@ function Export() {
                 variant="contained"
                 sx={{ mx: "10px", mt: "10px", color: "white.main" }}
               >
-                Contact Now
+                <Link
+                  href="tel:0470346413"
+                  sx={{
+                    color: "white.main",
+                    textDecoration: "none",
+                  }}
+                >
+                  Contact Now
+                </Link>
               </Button>
             </CardActions>
           </Grid>
-
-      
         </Grid>
       </Container>
     </Box>
