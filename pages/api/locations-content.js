@@ -822,7 +822,7 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Hunters Hill Sydney</h2>,{" "}
+        
         <h2>Cash for cars Gladesville Sydney</h2>,{" "}
         <h2>Cash for cars Ryde Sydney</h2>,{" "}
         <h2>Cash for cars North Ryde Sydney</h2>,{" "}

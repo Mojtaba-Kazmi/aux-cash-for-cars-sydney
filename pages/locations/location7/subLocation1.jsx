@@ -9,7 +9,7 @@ import {
   Typography,
 } from "@mui/material";
 import Link from "next/link";
-import { subLocation } from "../../api/subLocations/sublocation6/subLocation6-content";
+import { subLocation } from "../../api/subLocations/sublocation7/subLocation7-content";
 import ContactForm from "@/components/ContactForm";
 import ContactUsCard from "@/components/ContactUsCard";
 import SocialShareBtn, { Line } from "@/components/GlobalComponents";
@@ -22,11 +22,11 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Cash for cars Seaforth Sydney",
+      title: "Cash for cars Hunters Hill Sydney",
       description:
-        "Looking to sell your car in Seaforth, Sydney? Aux Cash for Cars Sydney is your trusted partner for quick and hassle-free transactions. Get top cash for your unwanted vehicles, regardless of make or model. Our professional team ensures a seamless selling experience, providing on-the-spot cash and prompt car removal services. Turn your old or damaged car into instant cash today with Aux Cash for Cars in Seaforth, Sydney.",
+        "Looking to sell your car in Hunters Hill, Sydney? Aux Cash for Cars Sydney offers top cash deals for your vehicle, hassle-free. Get instant quotes, same-day pickup, and fair prices for your old, damaged, or unwanted cars in Hunters Hill. Contact us now!",
       image: "/assets/locationsImages/sublocation1Images/72.jpg",
-      url: `https://auxcashforcarsydney.com/locations/location6/subLocation1`,
+      url: `https://auxcashforcarsydney.com/locations/location7/subLocation1`,
       keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
       height: 630,
@@ -91,7 +91,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
                   >
                     <Grid item md={6} sm={6} xs={2}>
                       <Link
-                        href="/locations/location6"
+                        href="/locations/location7"
                         style={{ width: "10px" }}
                       >
                         <NextLinkBtn>Back</NextLinkBtn>
