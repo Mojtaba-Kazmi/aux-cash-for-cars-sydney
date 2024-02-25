@@ -25,7 +25,7 @@ export async function getServerSideProps() {
       title: "Cash for cars Hunters Hill Sydney",
       description:
         "Looking to sell your car in Hunters Hill, Sydney? Aux Cash for Cars Sydney offers top cash deals for your vehicle, hassle-free. Get instant quotes, same-day pickup, and fair prices for your old, damaged, or unwanted cars in Hunters Hill. Contact us now!",
-      image: "/assets/locationsImages/sublocation1Images/72.jpg",
+      image: "/assets/locationsImages/sublocation1Images/84.jpg",
       url: `https://auxcashforcarsydney.com/locations/location7/subLocation1`,
       keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
