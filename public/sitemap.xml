@@ -739,7 +739,12 @@
 <!-- L-Sublocation7 -->
 <url>
   <loc>https://auxcashforcarsydney.com/locations/location7/subLocation1</loc>
-  <lastmod>2024-02-01T06:00:50+00:00</lastmod>
+  <lastmod>2024-02-27T06:00:50+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://auxcashforcarsydney.com/locations/location7/subLocation2</loc>
+  <lastmod>2024-02-28T06:00:50+00:00</lastmod>
   <priority>0.90</priority>
 </url>
 
