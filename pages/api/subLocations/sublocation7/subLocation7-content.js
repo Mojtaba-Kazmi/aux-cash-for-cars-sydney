@@ -196,7 +196,7 @@ export const subLocation = [
 
   // location 3
   {
-    image: "/assets/locationsImages/sublocation1Images/85.jpg",
+    image: "/assets/locationsImages/sublocation1Images/86.jpg",
     title: "Cash for cars Ryde Sydney",
     description: (
       <>
