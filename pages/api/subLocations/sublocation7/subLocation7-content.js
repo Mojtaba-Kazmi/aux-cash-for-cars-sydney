@@ -223,7 +223,7 @@ export const subLocation = [
           </h2>
           <p>
             Our team of experienced professionals at{" "}
-            <Link href={"/"}>Aux Cash for Cars Sydney</Link>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
             conducts thorough assessments of your vehicle, providing you with
             the most accurate and competitive quotes in Ryde.
           </p>
