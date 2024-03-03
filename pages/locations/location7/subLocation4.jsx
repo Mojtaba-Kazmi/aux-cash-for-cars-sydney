@@ -71,13 +71,13 @@ function post0({ title, description, image, url, keyword, width, height }) {
                 <Card>
                   <CardMedia
                     sx={{ height: "300px" }}
-                    image={subLocation[3].image}
-                    title={subLocation[3].title}
-                    alt={subLocation[3].title}
+                    image={subLocation[4].image}
+                    title={subLocation[4].title}
+                    alt={subLocation[4].title}
                   />
                   <CardContent>
-                    <h1>{subLocation[3].title}</h1>
-                    {subLocation[3].description}
+                    <h1>{subLocation[4].title}</h1>
+                    {subLocation[4].description}
                   </CardContent>
 
                   <Grid
@@ -117,7 +117,7 @@ function post0({ title, description, image, url, keyword, width, height }) {
                   <Card>
                     <CardContent>
                       <Typography component={"p"}> Tags </Typography>
-                      <TagsStyle>{subLocation[3].tags}</TagsStyle>
+                      <TagsStyle>{subLocation[4].tags}</TagsStyle>
                     </CardContent>
                   </Card>
                 </Grid>
