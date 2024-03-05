@@ -483,6 +483,126 @@ export const subLocation = [
     ),
   },
 
+  // location 6
+  {
+    image: "/assets/locationsImages/sublocation1Images/89.jpg",
+    title: "Cash for cars Ermington Sydney",
+    description: (
+      <>
+        <p>
+          Discover the hassle-free solution to selling your car in Ermington,
+          Sydney, and pocketing instant cash with{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. In this article, we
+          delve into the seamless process offered by{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link>, highlighting why it stands
+          out as the premier choice for individuals seeking top-dollar returns
+          for their vehicles.
+        </p>
+        <h2>
+          Aux Cash for Cars: The Pinnacle of Cash for Cars in Ermington, Sydney:
+        </h2>
+        <o>
+          <h3>
+            <li>Instant Cash Offers:</li>
+          </h3>
+          <p>
+            With <Link href={"/"}>Aux Cash for Cars</Link>, receive immediate
+            cash offers for your vehicle, eliminating the waiting game
+            associated with traditional selling methods.
+          </p>
+          <h3>
+            <li>Hassle-Free Process:</li>
+          </h3>
+          <p>
+            Say goodbye to the complexities of private sales and negotiations.
+            <Link href={"/"}>Aux Cash for Cars</Link> streamlines the process,
+            ensuring a straightforward and stress-free experience.
+          </p>
+          <h3>
+            <li>Free Car Removal:</li>
+          </h3>
+          <p>
+            Enjoy the convenience of complimentary car removal services provided
+            by <Link href={"/"}>Aux Cash for Cars</Link>, saving you time and
+            effort.
+          </p>
+          <h3>
+            <li>Top Dollar for Your Vehicle:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars</Link> guarantees competitive
+            prices for all types of cars, regardless of make, model, or
+            condition.
+          </p>
+          <h3>
+            <li>Trusted and Reliable:</li>
+          </h3>
+          <p>
+            With a stellar reputation built on integrity and professionalism,
+            <Link href={"/"}>Aux Cash for Cars</Link> is the go-to choice for
+            individuals looking to sell their cars in Ermington, Sydney.
+          </p>
+        </o>
+        <h2>Why Choose Aux Cash for Cars:</h2>
+        <ol>
+          <h3>
+            <li>Unmatched Customer Satisfaction:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars</Link> prioritizes customer
+            satisfaction, offering personalized service tailored to meet your
+            specific needs.
+          </p>
+          <h3>
+            <li>Extensive Experience:</li>
+          </h3>
+          <p>
+            With years of experience in the industry,{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> possesses the expertise
+            and knowledge to ensure a seamless transaction.
+          </p>
+          <h3>
+            <li>Transparent and Fair:</li>
+          </h3>
+          <p>
+            Rest assured knowing that <Link href={"/"}>Aux Cash for Cars</Link>{" "}
+            operates with transparency and fairness, providing honest
+            assessments and competitive offers.
+          </p>
+          <h3>
+            <li>Convenient Location:</li>
+          </h3>
+          <p>
+            Located in the heart of Sydney,{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link> offers easy accessibility
+            for individuals residing in Ermington and surrounding areas.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to selling your car for cash in
+          Ermington, Sydney, <Link href={"/"}>Aux Cash for Cars</Link> stands
+          out as the undisputed leader. With its commitment to excellence,
+          streamlined process, and top-dollar offers,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> ensures a hassle-free
+          experience from start to finish. Say goodbye to the complexities of
+          private sales and hello to instant cash with Aux Cash for Cars Sydney.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Ermington Sydney</h2>, <h2>Sell My Car Ermington</h2>,{" "}
+        <h2>Instant Cash for Cars Ermington</h2>,{" "}
+        <h2>Top Dollar for Your Car Ermington Sydney</h2>,{" "}
+        <h2>Scrap Car Removal Ermington</h2>, <h2>Ermington Car Buyers</h2>,{" "}
+        <h2>Junk Car Removal Ermington</h2>,{" "}
+        <h2>Cash for Unwanted Cars Ermington Sydney</h2>,{" "}
+        <h2>Best Car Removal Ermington</h2>,{" "}
+        <h2>Sell Your Old Car Ermington Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/84.jpg",
