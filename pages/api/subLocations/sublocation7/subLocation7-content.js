@@ -501,7 +501,7 @@ export const subLocation = [
         <h2>
           Aux Cash for Cars: The Pinnacle of Cash for Cars in Ermington, Sydney:
         </h2>
-        <o>
+        <ol>
           <h3>
             <li>Instant Cash Offers:</li>
           </h3>
@@ -542,7 +542,7 @@ export const subLocation = [
             <Link href={"/"}>Aux Cash for Cars</Link> is the go-to choice for
             individuals looking to sell their cars in Ermington, Sydney.
           </p>
-        </o>
+        </ol>
         <h2>Why Choose Aux Cash for Cars:</h2>
         <ol>
           <h3>
