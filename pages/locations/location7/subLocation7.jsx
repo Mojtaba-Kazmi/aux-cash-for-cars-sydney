@@ -24,9 +24,9 @@ export async function getServerSideProps() {
     props: {
       title: "Cash for cars Rydalmere Sydney",
       description:
-        "Get top cash for cars in Ermington, Sydney with Aux Cash for Cars. We offer hassle-free car removal services, ensuring swift transactions and fair deals for your unwanted vehicles. Contact us today for a quick quote and enjoy instant cash for your car!",
-      image: "/assets/locationsImages/sublocation1Images/89.jpg",
-      url: `Looking to sell your car in Rydalmere, Sydney? Aux Cash for Cars Sydney offers top cash deals for all types of vehicles. Get instant cash for your car with our hassle-free process. Contact us now for a quick quote!`,
+        "Looking to sell your car in Rydalmere, Sydney? Aux Cash for Cars Sydney offers top cash deals for all types of vehicles. Get instant cash for your car with our hassle-free process. Contact us now for a quick quote!",
+      image: "/assets/locationsImages/sublocation1Images/90.jpg",
+      url: `https://auxcashforcarsydney.com/locations/location7/subLocation7`,
       keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
       height: 630,
