@@ -822,8 +822,6 @@ export const location = [
     ),
     tags: (
       <>
-        
-        <h2>Cash for cars Rydalmere Sydney</h2>,{" "}
         <h2>Cash for cars Telopea Carlingford Sydney</h2>,{" "}
         <h2>Cash for cars Beecroft Sydney</h2>,{" "}
         <h2>Cash for cars Pennant Hills Sydney</h2>,{" "}

@@ -603,6 +603,100 @@ export const subLocation = [
     ),
   },
 
+  // location 7
+  {
+    image: "/assets/locationsImages/sublocation1Images/90.jpg",
+    title: "Cash for cars Rydalmere Sydney",
+    description: (
+      <>
+        <p>
+          In the bustling suburb of Rydalmere, Sydney, finding the right buyer
+          for your car can be a hassle. However, with{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the process becomes
+          seamless and rewarding.{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          premier choice for individuals looking to sell their cars swiftly and
+          for top dollar in Rydalmere and surrounding areas.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney?</h2>
+        <ol>
+          <h3>
+            <li>Highest Cash Offers: </li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> guarantees the best
+            cash offers for your vehicles in Rydalmere. Our team assesses your
+            car's value comprehensively, ensuring you receive the maximum
+            payout.
+          </p>
+          <h3>
+            <li>Convenience:</li>
+          </h3>
+          <p>
+            Say goodbye to the hassle of finding a buyer for your car. With{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the selling
+            process is straightforward and convenient. We handle all paperwork
+            and provide free car removal services, saving you time and effort.
+          </p>
+          <h3>
+            <li>Instant Cash:</li>
+          </h3>
+          <p>
+            Need cash urgently? <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            offers instant cash payments upon agreement. Say farewell to lengthy
+            waiting periods and receive your payment promptly.
+          </p>
+          <h3>
+            <li>All Car Types Accepted:</li>
+          </h3>
+          <p>
+            Whether your car is old, damaged, unwanted, or simply no longer
+            serves your needs, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            accepts all car types. No matter the condition, we provide fair and
+            competitive offers.
+          </p>
+          <h3>
+            <li>Professional Service:</li>
+          </h3>
+          <p>
+            With <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you can
+            expect professionalism and reliability. Our experienced team is
+            dedicated to ensuring a seamless selling experience, providing
+            assistance at every step of the process.
+          </p>
+          <h3>
+            <li>Environmentally Friendly:</li>
+          </h3>
+          <p>
+            Concerned about the environmental impact of disposing of your car?{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> follows
+            eco-friendly practices, responsibly recycling and disposing of
+            vehicles to minimize environmental harm.
+          </p>
+        </ol>
+        <h2>Experience the Difference with Aux Cash for Cars Sydney</h2>
+        <p>
+          Don't settle for less when selling your car in Rydalmere, Sydney.
+          Choose <Link href={"/"}>Aux Cash for Cars Sydney</Link> for a
+          hassle-free, rewarding selling experience. Contact us today to get
+          started and unlock the best cash offers for your car in Rydalmere!
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Rydalmere Sydney</h2>,{" "}
+        <h2>Sell my car Rydalmere Sydney</h2>, <h2>Rydalmere car buyers</h2>,{" "}
+        <h2>Instant cash for cars Rydalmere</h2>,{" "}
+        <h2>Top dollar for cars Rydalmere Sydney</h2>,{" "}
+        <h2>Scrap car removal Rydalmere</h2>, <h2>Rydalmere car wreckers</h2>,{" "}
+        <h2>Free car removal Rydalmere Sydney</h2>,{" "}
+        <h2>Junk car removal Rydalmere</h2>,{" "}
+        <h2>Rydalmere cash for unwanted cars</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/84.jpg",
