@@ -697,9 +697,110 @@ export const subLocation = [
     ),
   },
 
+  // location 8
+  {
+    image: "/assets/locationsImages/sublocation1Images/91.jpg",
+    title: "Cash for cars Telopea Carlingford Sydney",
+    description: (
+      <>
+        <p>
+          Discovering the best avenue to sell your car for cash in Telopea
+          Carlingford, Sydney, can be a daunting task. However, amidst the
+          myriad of options, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          emerges as the unrivaled choice for those seeking top dollar for their
+          vehicles. Let's delve into why Aux Cash for Cars Sydney stands out as
+          the premier destination for cash for cars in this vibrant area.
+        </p>
+        <ol>
+          <h2>
+            <li>Unparalleled Convenience:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers a
+            streamlined and hassle-free process for selling your car. With their
+            efficient services, you can quickly convert your old, unwanted, or
+            damaged vehicle into cash without any unnecessary delays. By
+            choosing <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you can
+            experience unparalleled convenience in the entire selling process.
+          </p>
+          <h2>
+            <li>Instant Cash Offers:</li>
+          </h2>
+          <p>
+            One of the standout features of{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their commitment
+            to providing instant cash offers. They understand the urgency of
+            selling your car and ensure that you receive a fair and competitive
+            offer promptly. Say goodbye to waiting endlessly for potential
+            buyers – with <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you
+            can receive instant cash for your vehicle, right on the spot.
+          </p>
+          <h2>
+            <li>Extensive Reach and Expertise:</li>
+          </h2>
+          <p>
+            With a strong presence in Telopea Carlingford, Sydney,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> boasts extensive
+            local knowledge and expertise. Their team understands the unique
+            dynamics of the area, enabling them to offer tailored solutions that
+            meet the specific needs of residents. Whether you're selling a
+            sedan, SUV, truck, or any other vehicle, Aux Cash for Cars Sydney
+            has the expertise to handle it with ease.
+          </p>
+          <h2>
+            <li>Top Dollar for Cars:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is renowned for
+            offering top dollar for cars, regardless of their condition. Whether
+            your car is old, damaged, scrap, or simply unwanted, you can trust{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> to provide a fair
+            and competitive price. Their commitment to offering the best value
+            for your vehicle sets them apart as the go-to destination for cash
+            for cars in Telopea Carlingford, Sydney.
+          </p>
+          <h2>
+            <li>Exceptional Customer Service:</li>
+          </h2>
+          <p>
+            At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, customer
+            satisfaction is paramount. Their team of professionals goes above
+            and beyond to ensure a seamless and satisfactory experience for
+            every client. From the initial inquiry to the final transaction, you
+            can expect nothing but exceptional customer service at{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to cash for cars in Telopea
+          Carlingford, Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          emerges as the undisputed leader. With their unparalleled convenience,
+          instant cash offers, extensive expertise, top-dollar deals, and
+          exceptional customer service,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> sets the benchmark
+          for excellence in the industry. Trust{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> to provide the best
+          value for your vehicle and make your selling experience a breeze.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Telopea Carlingford Sydney</h2>,{" "}
+        <h2>Sell my car Telopea Carlingford Sydney</h2>,{" "}
+        <h2>Car removal Telopea Carlingford Sydney</h2>,{" "}
+        <h2>Instant cash for cars Telopea Carlingford Sydney</h2>,{" "}
+        <h2>Scrap car removal Telopea Carlingford Sydney</h2>,{" "}
+        <h2>Junk car removal Telopea Carlingford Sydney</h2>,{" "}
+        <h2>Top dollar for cars Telopea Carlingford Sydney</h2>,{" "}
+        <h2>Cash for unwanted cars Telopea Carlingford Sydney</h2>,{" "}
+        <h2>Used car buyers Telopea Carlingford Sydney</h2>,{" "}
+      </>
+    ),
+  },
   // location simple
   // {
-  //   image: "/assets/locationsImages/sublocation1Images/84.jpg",
+  //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
   //   title: "",
   //   description: <></>,
   //   tags: (
