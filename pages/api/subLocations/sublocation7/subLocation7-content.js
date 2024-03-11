@@ -798,6 +798,93 @@ export const subLocation = [
       </>
     ),
   },
+  // location 9
+  {
+    image: "/assets/locationsImages/sublocation1Images/92.jpg",
+    title: "Cash for cars Beecroft Sydney",
+    description: (
+      <>
+        <p>
+          Looking to sell your car in Beecroft, Sydney? Look no further than{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney!</Link> With our seamless
+          process and top-notch service, we ensure you get the best cash offers
+          for your vehicle. Discover why{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          premier choice for cash for cars in Beecroft and surrounding areas.
+        </p>
+        <h2>
+          Why Choose <Link href={"/"}>Aux Cash for Cars Sydney</Link> in
+          Beecroft:
+        </h2>
+        <ol>
+          <h3>
+            <li>Instant Cash Offers:</li>
+          </h3>
+          <p>
+            We provide instant cash offers for cars in Beecroft, ensuring a
+            quick and hassle-free selling experience.
+          </p>
+          <h3>
+            <li>Hassle-Free Process:</li>
+          </h3>
+          <p>
+            Our streamlined process makes selling your car simple and
+            convenient. Just give us a call, get a quote, and we'll take care of
+            the rest.
+          </p>
+          <h3>
+            <li>Top Dollar for Your Vehicle:</li>
+          </h3>
+          <p>
+            At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, we guarantee
+            the best cash offers for cars in Beecroft, Sydney, ensuring you
+            receive maximum value for your vehicle.
+          </p>
+          <h3>
+            <li>Professional and Reliable Service:</li>
+          </h3>
+          <p>
+            Our team of experienced professionals is committed to providing
+            exceptional service and ensuring customer satisfaction every step of
+            the way.
+          </p>
+          <h3>
+            <li>Free Car Removal:</li>
+          </h3>
+          <p>
+            We offer free car removal services in Beecroft, Sydney, making it
+            easy for you to sell your car without any additional hassle.
+          </p>
+        </ol>
+        <h2>
+          <Link href={"/"}>Aux Cash for Cars Sydney:</Link> Your Trusted Partner
+          for Cash for Cars in Beecroft, Sydney
+        </h2>
+        <p>
+          When it comes to selling your car in Beecroft, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the ultimate
+          choice. With our unbeatable cash offers, seamless process, and
+          exceptional service, we ensure a stress-free selling experience for
+          all our customers. Contact{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> today and get top
+          dollar for your vehicle!
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Beecroft Sydney</h2>,{" "}
+        <h2>Beecroft Sydney car buyers</h2>, <h2>Sell my car Beecroft</h2>,{" "}
+        <h2>Instant cash for cars Beecroft</h2>, <h2>Beecroft car removal</h2>,{" "}
+        <h2>Best cash offers Beecroft Sydney</h2>,{" "}
+        <h2>Scrap car removal Beecroft</h2>,{" "}
+        <h2>Sell old cars Beecroft Sydney</h2>,{" "}
+        <h2>Top car buyers Beecroft NSW</h2>,{" "}
+        <h2>Junk car removal Beecroft Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
