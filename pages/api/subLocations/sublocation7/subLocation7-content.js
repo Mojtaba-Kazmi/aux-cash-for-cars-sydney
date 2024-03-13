@@ -899,8 +899,8 @@ export const subLocation = [
           dollar. Our expertise, reliability, and commitment to customer
           satisfaction make us the premier choice for cash for cars in the
           Pennant Hills area. Read on to discover why{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link>
-          stands out from the competition.
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out from the
+          competition.
         </p>
         <h2>Why Choose Aux Cash for Cars Sydney in Pennant Hills, Sydney:</h2>
         <ol>
