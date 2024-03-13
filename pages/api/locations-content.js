@@ -822,7 +822,6 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Pennant Hills Sydney</h2>,{" "}
         <h2>Cash for cars Epping Sydney</h2>,{" "}
         <h2>Cash for cars Eastwood Sydney</h2>,{" "}
         <h2>Cash for cars W. Pennant Hills Sydney</h2>,{" "}
