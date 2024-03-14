@@ -985,6 +985,95 @@ export const subLocation = [
     ),
   },
 
+  // location 11
+  {
+    image: "/assets/locationsImages/sublocation1Images/94.jpg",
+    title: "Cash for cars Epping Sydney",
+    description: (
+      <>
+        <p>
+          Looking to sell your old, unwanted, or scrap car in Epping, Sydney?
+          You're in luck! Cash for cars services offer a convenient and
+          hassle-free way to turn your vehicle into instant cash. Among the
+          myriad of options available, one stands out as the top choice for
+          Epping residents: <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+          Let's delve into why Aux Cash for Cars Sydney is your ultimate
+          destination for getting top dollar for your vehicle in Epping.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney?</h2>
+        <ol>
+          <h3>
+            <li>Unbeatable Cash Offers:</li>
+          </h3>
+          <p>
+            At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, we pride
+            ourselves on offering the best cash deals for cars in Epping. With
+            our competitive pricing, you can rest assured that you'll receive
+            top dollar for your vehicle, regardless of its condition.
+          </p>
+          <h3>
+            <li>Quick and Convenient Service:</li>
+          </h3>
+          <p>
+            We understand that time is of the essence when it comes to selling
+            your car. That's why we strive to provide a fast and hassle-free
+            selling experience. With{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you can expect
+            swift car evaluations, instant cash payments, and seamless
+            paperwork.
+          </p>
+          <h3>
+            <li>Wide Range of Accepted Vehicles:</li>
+          </h3>
+          <p>
+            Whether your car is old, damaged, junk, or scrap, we accept vehicles
+            of all makes, models, and conditions. From sedans and SUVs to trucks
+            and vans, we buy them all at{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+          </p>
+          <h3>
+            <li>Local Expertise:</li>
+          </h3>
+          <p>
+            As a trusted cash for cars service operating in Epping, Sydney, we
+            have extensive knowledge of the local market. Our team understands
+            the unique needs and preferences of Epping residents, allowing us to
+            offer tailored solutions that exceed expectations.
+          </p>
+          <h3>
+            <li>Eco-Friendly Disposal:</li>
+          </h3>
+          <p>
+            Concerned about the environmental impact of scrapping your car? Rest
+            easy knowing that <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            follows eco-friendly disposal practices. We prioritize recycling and
+            responsible disposal methods to minimize our carbon footprint.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to cash for cars in Epping, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> emerges as the
+          undisputed leader. With unbeatable cash offers, quick and convenient
+          service, a wide range of accepted vehicles, local expertise, and
+          eco-friendly disposal practices, we strive to provide the best
+          possible selling experience for our customers. Say goodbye to your old
+          car and hello to instant cash with{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> today!
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Epping Sydney</h2>, <h2>Sell my car Epping</h2>,{" "}
+        <h2>Top dollar for cars Epping</h2>, <h2>Fast cash for cars Epping</h2>,{" "}
+        <h2>Epping car removal</h2>, <h2>Instant cash for cars Epping</h2>,{" "}
+        <h2>Junk car buyers Epping</h2>, <h2>Scrap car removal Epping</h2>,{" "}
+        <h2>Cash for unwanted cars Epping</h2>,{" "}
+        <h2>Best car wreckers Epping Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
