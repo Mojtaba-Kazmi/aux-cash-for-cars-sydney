@@ -1074,6 +1074,102 @@ export const subLocation = [
     ),
   },
 
+  // location 12
+  {
+    image: "/assets/locationsImages/sublocation1Images/95.jpg",
+    title: "Cash for cars Eastwood Sydney",
+    description: (
+      <>
+        <p>
+          Explore the convenience and efficiency of cash for cars services in
+          Eastwood, Sydney, with{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> leading the pack.
+          Unravel the reasons why individuals turn to{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> as their trusted partner in
+          selling their vehicles swiftly and securely.
+        </p>
+        <ol>
+          <h2>
+            <li>Unmatched Cash Offers:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers unparalleled
+            cash offers for vehicles in Eastwood. Experience top dollar for your
+            car, ensuring you get the best value without the hassle of
+            negotiations.
+          </p>
+          <h2>
+            <li>Hassle-Free Process:</li>
+          </h2>
+          <p>
+            Say goodbye to the complexities of selling your car privately. With{" "}
+            <Link href={"/"}>Aux Cash for Cars</Link>, the process is seamless
+            and straightforward. From appraisal to payment, every step is
+            designed to provide you with a hassle-free experience.
+          </p>
+          <h2>
+            <li>Instant Cash Payment:</li>
+          </h2>
+          <p>
+            Need cash urgently? <Link href={"/"}>Aux Cash for Cars</Link>{" "}
+            understands the urgency. Receive instant cash payment upon agreeing
+            to the offer, providing you with quick access to funds without
+            delays or uncertainties.
+          </p>
+          <h2>
+            <li>Trusted Local Service:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is a reputable
+            local service, serving the Eastwood area with integrity and
+            professionalism. Benefit from dealing with a trusted team that
+            prioritizes customer satisfaction above all else.
+          </p>
+          <h2>
+            <li>Any Make, Model, or Condition:</li>
+          </h2>
+          <p>
+            Whether your car is old, damaged, or simply no longer serving your
+            needs, <Link href={"/"}>Aux Cash for Cars Sydney</Link> accepts
+            vehicles of any make, model, or condition. Don't let the state of
+            your car deter you – <Link href={"/"}>Aux Cash for Cars</Link> will
+            buy it.
+          </p>
+          <h2>
+            <li>Convenient Pickup Service:</li>
+          </h2>
+          <p>
+            Save time and effort with <Link href={"/"}>Aux Cash for Cars</Link>'
+            convenient pickup service. No need to transport your vehicle –
+            simply schedule a pickup at your preferred location in Eastwood, and
+            Aux Cash for Cars will handle the rest.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          stands out as the premier choice for cash for cars services in
+          Eastwood, Sydney. With unbeatable cash offers, a hassle-free process,
+          and a commitment to customer satisfaction,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> is your trusted partner in
+          selling your vehicle swiftly and securely. Experience the difference
+          with <Link href={"/"}>Aux Cash for Cars</Link> – the ultimate
+          destination for cash for cars in Eastwood, Sydney.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Eastwood</h2>, <h2>Sell my car Eastwood</h2>,{" "}
+        <h2>Top dollar for cars Eastwood</h2>,{" "}
+        <h2>Fast cash for cars Sydney</h2>, <h2>We buy cars Eastwood</h2>,{" "}
+        <h2>Instant cash for cars Eastwood</h2>,{" "}
+        <h2>Quick car sale Eastwood Sydney</h2>,{" "}
+        <h2>Get paid for your car Eastwood</h2>, <h2>Sell used car Eastwood</h2>
+        , <h2>Reliable car buyers Eastwood Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
