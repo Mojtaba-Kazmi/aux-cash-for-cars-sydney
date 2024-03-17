@@ -1170,6 +1170,101 @@ export const subLocation = [
     ),
   },
 
+  // location 13
+  {
+    image: "/assets/locationsImages/sublocation1Images/96.jpg",
+    title: "Cash for cars West Pennant Hills Sydney",
+    description: (
+      <>
+        <p>
+          Are you looking to sell your car quickly and hassle-free in West
+          Pennant Hills, Sydney? Look no further than{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney!</Link> With our reliable
+          and efficient service, getting cash for cars in West Pennant Hills has
+          never been easier. We understand the importance of convenience and
+          top-dollar offers, making us the go-to choice for anyone seeking to
+          sell their car in the area.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney?</h2>
+        <ol>
+          <h3>
+            <li>Highest Cash Offers:</li>
+          </h3>
+          <p>
+            At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, we guarantee
+            top dollar for your vehicle. Our fair and transparent appraisal
+            process ensures that you receive the best possible price for your
+            car, regardless of its make, model, or condition.
+          </p>
+          <h3>
+            <li>Quick and Convenient Service:</li>
+          </h3>
+          <p>
+            Selling your car with{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is a breeze. We
+            offer a streamlined process that allows you to get cash for your car
+            on the same day. Say goodbye to lengthy negotiations and
+            paperwork—we handle everything efficiently, so you can get on with
+            your day.
+          </p>
+          <h3>
+            <li>Free Car Removal:</li>
+          </h3>
+          <p>
+            Don't worry about the hassle of arranging transportation for your
+            vehicle. <Link href={"/"}>Aux Cash for Cars Sydney</Link> provides
+            free car removal services in West Pennant Hills and surrounding
+            areas. We'll come to you at a time that suits you best, whether it's
+            at home, work, or anywhere else.
+          </p>
+          <h3>
+            <li>Expert Team:</li>
+          </h3>
+          <p>
+            Our team of experienced professionals is dedicated to providing
+            exceptional customer service. We pride ourselves on our friendly and
+            knowledgeable staff who are here to assist you every step of the
+            way. Have questions or concerns? We're always happy to help.
+          </p>
+          <h3>
+            <li>Eco-Friendly Practices:</li>
+          </h3>
+          <p>
+            At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, we prioritize
+            environmental sustainability. When you sell your car to us, you can
+            rest assured that it will be recycled and disposed of responsibly,
+            minimizing its impact on the environment.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to getting cash for cars in West
+          Pennant Hills, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          premier choice. With our commitment to offering the highest cash
+          offers, quick and convenient service, free car removal, expert team,
+          and eco-friendly practices, we ensure a seamless selling experience
+          for our valued customers. Contact{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> today and discover
+          why we're the best cash for cars service in the area!
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars West Pennant Hills</h2>,{" "}
+        <h2>Sell my car West Pennant Hills</h2>,{" "}
+        <h2>Top dollar for cars West Pennant Hills</h2>,{" "}
+        <h2>Instant cash for cars West Pennant Hills</h2>,{" "}
+        <h2>We buy cars West Pennant Hills</h2>,{" "}
+        <h2>Car removal West Pennant Hills</h2>,{" "}
+        <h2>Scrap car removal West Pennant Hills</h2>,{" "}
+        <h2>Junk car removal West Pennant Hills</h2>,{" "}
+        <h2>Get cash for your car in West Pennant Hills</h2>,{" "}
+        <h2>Sell your old car in West Pennant Hills</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
