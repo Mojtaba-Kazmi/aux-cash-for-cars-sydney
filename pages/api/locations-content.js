@@ -920,8 +920,6 @@ export const location = [
     ),
     tags: (
       <>
-        
-        <h2>Cash for cars Silverwater Sydney</h2>,{" "}
         <h2>Cash for cars Markets Sydney</h2>,{" "}
         <h2>Cash for cars Summer Hill Sydney</h2>,{" "}
         <h2>Cash for cars Ashfield Sydney</h2>,{" "}
