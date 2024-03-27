@@ -215,6 +215,133 @@ export const subLocation = [
     ),
   },
 
+  // location 3
+  {
+    image: "/assets/locationsImages/sublocation1Images/100.jpg",
+    title: "Cash for Cars Summer Hill Sydney",
+    description: (
+      <>
+        <p>
+          Are you in Summer Hill Sydney and looking to sell your car for cash
+          hassle-free? Look no further!{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is here to provide
+          you with the best service in the area. With our seamless process and
+          top-notch customer service, we ensure that you get the most value for
+          your unwanted vehicle.
+        </p>
+        <h2>
+          Why choose <Link href={"/"}>Aux Cash for Cars Sydney</Link> in Summer
+          Hill?
+        </h2>
+        <ol>
+          <h3>
+            <li>Cash for Cars Summer Hill Sydney:</li>
+          </h3>
+          <p>
+            We specialize in offering instant cash for cars in Summer Hill and
+            surrounding areas. Whether your car is old, damaged, or unwanted, we
+            guarantee to offer you a fair price for it.
+          </p>
+          <h3>
+            <li>Summer Hill Sydney Car Buyers:</li>
+          </h3>
+          <p>
+            As trusted car buyers in Summer Hill Sydney, we prioritize customer
+            satisfaction above all else. Our team is dedicated to providing a
+            smooth and efficient selling experience.
+          </p>
+          <h3>
+            <li>Sell Your Car for Cash in Summer Hill:</li>
+          </h3>
+          <p>
+            Say goodbye to the hassle of selling your car privately. With{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you can sell your
+            car for cash in Summer Hill quickly and easily.
+          </p>
+          <h3>
+            <li>Instant Cash for Cars Summer Hill:</li>
+          </h3>
+          <p>
+            Need cash urgently? We offer instant cash for cars in Summer Hill,
+            ensuring that you get paid on the spot when you sell your vehicle to
+            us.
+          </p>
+          <h3>
+            <li>Top Cash for Unwanted Cars Summer Hill Sydney:</li>
+          </h3>
+          <p>
+            Get the top cash offer for your unwanted car in Summer Hill with{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>. We guarantee to
+            beat any competitor's offer.
+          </p>
+          <h3>
+            <li>Summer Hill Car Removal Services:</li>
+          </h3>
+          <p>
+            Don't worry about transporting your car to us. We provide free car
+            removal services in Summer Hill and will pick up your vehicle from
+            your location at a time convenient for you.
+          </p>
+          <h3>
+            <li>Quick Cash for Cars Summer Hill:</li>
+          </h3>
+          <p>
+            With our streamlined process, you can get quick cash for cars in
+            Summer Hill. Just <Link href={"/contact"}>contact us</Link>, get a
+            quote, and schedule a pickup – it's that simple!
+          </p>
+          <h3>
+            <li>Summer Hill Sydney Scrap Car Buyers:</li>
+          </h3>
+          <p>
+            Even if your car is old or considered scrap, we will buy it from
+            you. <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the go-to
+            choice for scrap car buyers in Summer Hill Sydney.
+          </p>
+          <h3>
+            <li>Best Cash for Cars Deals in Summer Hill:</li>
+          </h3>
+          <p>
+            Trust <Link href={"/"}>Aux Cash for Cars Sydney</Link> for the best
+            cash for cars deals in Summer Hill. Our transparent pricing and
+            excellent customer service set us apart from the rest.
+          </p>
+          <h3>
+            <li>Sell Damaged Cars for Cash Summer Hill Sydney:</li>
+          </h3>
+          <p>
+            Got a damaged car? No problem! We buy damaged{" "}
+            <Link href={"/"}>cars for cash in Summer Hill Sydney</Link>,
+            offering you a fair price regardless of the condition of your
+            vehicle.
+          </p>
+        </ol>
+        <p>
+          In <b>conclusion</b>, when it comes to cash for cars in Summer Hill
+          Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as
+          the best company in the area. With our commitment to providing
+          top-notch service and the best cash offers, selling your car has never
+          been easier. Contact us today to get a quote and experience the
+          difference for yourself!
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Summer Hill Sydney</h2>,{" "}
+        <h2>Summer Hill Sydney Car Buyers</h2>,{" "}
+        <h2>Sell Your Car for Cash in Summer Hill</h2>,{" "}
+        <h2>Instant Cash for Cars Summer Hill</h2>,{" "}
+        <h2>Top Cash for Unwanted Cars Summer Hill Sydney</h2>,{" "}
+        <h2>Summer Hill Car Removal Services</h2>,{" "}
+        <h2>Quick Cash for Cars Summer Hill</h2>,{" "}
+        <h2>Summer Hill Sydney Scrap Car Buyers</h2>,{" "}
+        <h2>Best Cash for Cars Deals in Summer Hill</h2>,{" "}
+        <h2>Sell Damaged Cars for Cash Summer Hill Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
