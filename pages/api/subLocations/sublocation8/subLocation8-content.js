@@ -342,6 +342,115 @@ export const subLocation = [
     ),
   },
 
+  // location 4
+  {
+    image: "/assets/locationsImages/sublocation1Images/101.jpg",
+    title: "Cash for cars Ashfield Sydney",
+    description: (
+      <>
+        <p>
+          Looking to sell your old or unwanted car in Ashfield, Sydney? You're
+          in luck! With the rising demand for cash for cars services, finding
+          the right buyer can be overwhelming. However,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          premier choice for Ashfield residents seeking top dollar for their
+          vehicles. Let's delve into why{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the go-to company
+          in the area and how they can assist you in turning your car into
+          instant cash.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney?</h2>
+        <ol>
+          <h3>
+            <li>Cash for Cars Ashfield Sydney:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers competitive
+            cash offers for cars of all makes, models, and conditions in
+            Ashfield and surrounding areas. Whether your car is old, damaged, or
+            simply unwanted, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            ensures a hassle-free selling experience.
+          </p>
+          <h3>
+            <li>Top Cash for Cars Ashfield:</li>
+          </h3>
+          <p>
+            When it comes to getting the best value for your vehicle,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> delivers. Their
+            team provides fair and transparent cash offers, ensuring you receive
+            maximum value for your car.
+          </p>
+          <h3>
+            <li>Instant Cash for Cars Ashfield Sydney:</li>
+          </h3>
+          <p>
+            Need quick cash? <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            offers same-day payment, allowing you to walk away with cash in hand
+            swiftly. Say goodbye to lengthy waiting periods and hello to instant
+            cash with <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+          </p>
+          <h3>
+            <li>Ashfield Car Buyers:</li>
+          </h3>
+          <p>
+            As trusted car buyers in Ashfield,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>
+            prioritizes customer satisfaction. Their experienced team handles
+            the entire car selling process efficiently, from appraisal to
+            paperwork, ensuring a seamless transaction every time.
+          </p>
+          <h3>
+            <li>Scrap Car Removal Ashfield Sydney:</li>
+          </h3>
+          <p>
+            Got a scrap car taking up space in your garage?{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers free scrap
+            car removal services in Ashfield, making it convenient for you to
+            get rid of your unwanted vehicle while earning cash.
+          </p>
+          <h3>
+            <li>Best Car Removal Ashfield Sydney:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is renowned for its
+            prompt and reliable car removal services. Whether your car is
+            drivable or not, their team will tow it away at no extra cost,
+            saving you time and hassle.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> In conclusion,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the top
+          choice for individuals looking to sell their cars in Ashfield, Sydney.
+          With their commitment to offering top cash for cars, instant payment,
+          and hassle-free services,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> ensures a seamless
+          selling experience from start to finish. Say goodbye to the stress of
+          selling your car and hello to instant cash with{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Ashfield Sydney</h2>,{" "}
+        <h2>Sell my car Ashfield Sydney</h2>,{" "}
+        <h2>Top cash for cars Ashfield</h2>,{" "}
+        <h2>Instant cash for cars Ashfield Sydney</h2>,{" "}
+        <h2>Ashfield car buyers</h2>, <h2>Scrap car removal Ashfield Sydney</h2>
+        , <h2>Cash for old cars Ashfield</h2>,{" "}
+        <h2>Ashfield junk car removal</h2>,{" "}
+        <h2>Best car removal Ashfield Sydney</h2>,{" "}
+        <h2>Ashfield cash for unwanted cars</h2>,{" "}
+        <h2>Sell damaged car Ashfield Sydney</h2>,{" "}
+        <h2>Free car removal Ashfield</h2>,{" "}
+        <h2>Quick cash for cars Ashfield</h2>,{" "}
+        <h2>Cash for scrap cars Ashfield Sydney</h2>,{" "}
+        <h2>Ashfield car wreckers</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
