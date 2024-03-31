@@ -451,6 +451,84 @@ export const subLocation = [
     ),
   },
 
+  // location 5
+  {
+    image: "/assets/locationsImages/sublocation1Images/102.jpg",
+    title: "Cash for cars Croydon Sydney",
+    description: (
+      <>
+        <p>
+          Looking to sell your car for cash in Croydon, Sydney? Look no further
+          than <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the premier car
+          buying service in the area. With our hassle-free process and top-notch
+          customer service, we make selling your car a breeze while offering the
+          best rates in town.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney?</h2>
+        <p>
+          At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, we understand the
+          importance of convenience and reliability when it comes to selling
+          your car. That's why we offer instant cash for cars in Croydon,
+          Sydney, ensuring a seamless transaction every time. Our team is
+          dedicated to providing a stress-free experience for our customers,
+          from start to finish.
+        </p>
+        <h2>Top Cash for Cars in Croydon Sydney:</h2>
+        <p>
+          With <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you can expect
+          to receive top dollar for your vehicle, regardless of its make, model,
+          or condition. Whether you have a used car, scrap car, or even a junk
+          car taking up space, we will offer you competitive rates that you
+          won't find elsewhere. Say goodbye to the hassle of private sales or
+          dealing with unreliable buyers –{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is here to offer you
+          the best deal for your car.
+        </p>
+        <h2>Instant Cash for Cars Croydon NSW:</h2>
+        <p>
+          Need cash fast? With <Link href={"/"}>Aux Cash for Cars Sydney</Link>,
+          you can get instant{" "}
+          <Link href={"/blog/post16"}>cash for your car</Link> in Croydon, NSW.
+          Our streamlined process ensures that you receive payment on the spot,
+          allowing you to walk away with cash in hand the same day you sell your
+          car. Say goodbye to waiting weeks or even months for payment – with
+          us, you'll get your money right away.
+        </p>
+        <h2>Reliable Car Removal Croydon Sydney:</h2>
+        <p>
+          In addition to offering top cash for cars in Croydon, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> also provides
+          reliable car removal services. Whether your car is no longer
+          roadworthy or you simply want to get rid of it quickly, our team will
+          come to you, tow your car away for free, and handle all the paperwork
+          – making the entire process as easy as possible for you.
+        </p>
+        <p>
+          <b>Conclusion:</b> When it comes to selling your car for cash in
+          Croydon, Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link> is
+          the company to trust. With our unbeatable rates, instant cash
+          payments, and reliable car removal services, we make selling your car
+          a stress-free experience. Contact us today to get started and unlock
+          the best deal for your car!
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Croydon Sydney</h2>,{" "}
+        <h2>Sell Your Car for Cash Croydon</h2>,{" "}
+        <h2>Top Cash for Cars in Croydon Sydney</h2>,{" "}
+        <h2>Instant Cash for Cars Croydon NSW</h2>,{" "}
+        <h2>Best Car Removal Service Croydon Sydney</h2>,{" "}
+        <h2>Quick Cash for Unwanted Cars Croydon</h2>,{" "}
+        <h2>Sell Junk Cars for Cash Croydon Sydney</h2>,{" "}
+        <h2>Reliable Car Removal Croydon Sydney</h2>,
+        <h2>Get Top Dollar for Your Car Croydon NSW</h2>,{" "}
+        <h2>Scrap Car Buyers Croydon Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
