@@ -529,6 +529,90 @@ export const subLocation = [
     ),
   },
 
+  // location 6
+  {
+    image: "/assets/locationsImages/sublocation1Images/103.jpg",
+    title: "Cash for cars Croydon Park Sydney",
+    description: (
+      <>
+        <p>
+          Looking to sell your car for cash in Croydon Park, Sydney? Look no
+          further! <Link href={"/"}>Aux Cash for Cars Sydney</Link> is here to
+          offer you the best deal for your vehicle. With our reliable and
+          efficient service, you can get instant{" "}
+          <Link href={"/blog/post16"}>cash for cars</Link> in Croydon Park
+          without any hassle. We are committed to providing top-notch service
+          and ensuring customer satisfaction every step of the way.
+        </p>
+        <h2>
+          Why Choose <Link href={"/"}>Aux Cash for Cars Sydney?</Link>
+        </h2>
+        <ol>
+          <h3>
+            <li> Highest Cash Offers:</li>
+          </h3>
+          <p>
+            At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, we understand
+            the value of your vehicle. That's why we offer top cash for cars in
+            Croydon Park, Sydney. Our competitive prices ensure that you get the
+            best deal for your car, regardless of its make, model, or condition.
+          </p>
+          <h3>
+            <li>Convenience:</li>
+          </h3>
+          <p>
+            Selling your car has never been easier with{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>. We provide a
+            hassle-free selling experience, offering same-day car removal and
+            instant cash payment. Say goodbye to the stress of negotiating with
+            buyers or dealing with paperwork – we handle everything for you.
+          </p>
+          <h3>
+            <li>Professional Service:</li>
+          </h3>
+          <p>
+            Our team of experienced professionals is dedicated to providing
+            exceptional service to our customers. From the moment you contact us
+            to the final transaction, you can trust us to handle your car with
+            care and professionalism.
+          </p>
+          <h3>
+            <li>Wide Range of Services:</li>
+          </h3>
+          <p>
+            Whether you want to sell your old car, scrap car, damaged car, or
+            unwanted car, <Link href={"/"}>Aux Cash for Cars Sydney</Link> is
+            the go-to company in Croydon Park, Sydney. We buy cars of all makes
+            and models, offering fair prices and prompt service.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to cash for cars in Croydon Park,
+          Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as
+          the best company in the area. With our top cash offers, convenience,
+          professional service, and wide range of services, we ensure a seamless
+          selling experience for our customers. Contact us today to get the best
+          deal for your car and experience the difference with{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Croydon Park Sydney</h2>,{" "}
+        <h2>Sell my car Croydon Park Sydney</h2>,{" "}
+        <h2>Top cash for cars in Croydon Park</h2>,{" "}
+        <h2>Instant cash for cars Croydon Park</h2>,{" "}
+        <h2>We buy cars Croydon Park Sydney</h2>,{" "}
+        <h2>Sell your car for cash in Croydon Park</h2>,{" "}
+        <h2>Best car removal service Croydon Park Sydney</h2>,{" "}
+        <h2>Quick cash for unwanted cars Croydon Park</h2>,{" "}
+        <h2>Reliable car buyers Croydon Park Sydney</h2>,{" "}
+        <h2>Get paid for your car Croydon Park Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
