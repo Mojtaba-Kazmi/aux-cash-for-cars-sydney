@@ -616,7 +616,7 @@ export const subLocation = [
   // location 7
   {
     image: "/assets/locationsImages/sublocation1Images/104.jpg",
-    title: "Cash for cars Burwood Sydney",
+    title: "Cash for Cars Burwood Sydney",
     description: (
       <>
         <p>
