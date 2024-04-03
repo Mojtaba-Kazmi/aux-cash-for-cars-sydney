@@ -920,7 +920,6 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Burwood Sydney</h2>,{" "}
         <h2>Cash for cars Strathfield Sydney</h2>,{" "}
         <h2>Cash for cars Enfield Sydney</h2>,{" "}
         <h2>Cash for cars Concord Sydney</h2>,{" "}

@@ -613,6 +613,98 @@ export const subLocation = [
     ),
   },
 
+  // location 7
+  {
+    image: "/assets/locationsImages/sublocation1Images/104.jpg",
+    title: "Cash for cars Burwood Sydney",
+    description: (
+      <>
+        <p>
+          In the bustling urban landscape of Burwood, Sydney, the need for a
+          reliable solution to sell your car swiftly and conveniently is
+          paramount. Fortunately, amidst the myriad of options,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> emerges as the
+          unrivaled champion, offering top-notch services tailored to meet your
+          needs seamlessly. Let's delve deeper into why{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>
+          stands out as the premier choice for anyone seeking cash for cars in
+          Burwood.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney:</h2>
+        <ol>
+          <h3>
+            <li>Highest Cash Offers:</li>
+          </h3>
+          <p>
+            At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, we understand
+            the value of your vehicle. With our commitment to fair and
+            competitive pricing, we ensure that you receive the highest cash
+            offers for your car in Burwood.
+          </p>
+          <h3>
+            <li>Convenience Redefined:</li>
+          </h3>
+          <p>
+            Say goodbye to the hassle of lengthy negotiations and paperwork. Our
+            streamlined process ensures a hassle-free experience from start to
+            finish. With just a <Link href={"tel:0470346413"}>phone call</Link>,
+            you can initiate the process of selling your car and receive instant
+            cash, making it the most convenient option in Burwood.
+          </p>
+          <h3>
+            <li>Prompt and Professional Service:</li>
+          </h3>
+          <p>
+            Time is of the essence, and we value yours. Our team at{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> operates with a
+            sense of urgency, ensuring prompt pickup and payment once the deal
+            is sealed. Rest assured, your experience with us will be marked by
+            professionalism and efficiency.
+          </p>
+          <h3>
+            <li>Comprehensive Solutions:</li>
+          </h3>
+          <p>
+            Whether your car is old, damaged, scrap, or simply unwanted, we
+            accept vehicles in all conditions. Our comprehensive range of
+            services caters to diverse needs, making us the go-to destination
+            for cash for cars in Burwood, Sydney.
+          </p>
+        </ol>
+        <h2>Unlocking Cash for Cars in Burwood, Sydney:</h2>
+        <p>
+          With <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the process of
+          selling your car becomes a breeze. By leveraging our expertise and
+          commitment to customer satisfaction, you can bid farewell to the
+          complexities associated with selling your vehicle. Experience the
+          difference firsthand and unlock instant cash for cars in Burwood with{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> today!
+        </p>
+        <p>
+          <b>Conclusion:</b> In the realm of cash for cars in Burwood, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands head and
+          shoulders above the rest. With a focus on transparency, reliability,
+          and customer-centricity, we have earned the trust of countless
+          individuals in the area. Embrace the convenience, efficiency, and
+          top-dollar offers that await you at{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, your ultimate
+          destination for selling cars in Burwood.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Burwood Sydney</h2>, <h2>Sell my car Burwood</h2>,{" "}
+        <h2>Quick cash for cars Burwood</h2>,{" "}
+        <h2>Top cash for cars Burwood Sydney</h2>, <h2>Burwood car buyers</h2>,{" "}
+        <h2>Junk car removal Burwood</h2>,{" "}
+        <h2>Cash for scrap cars Burwood Sydney</h2>,{" "}
+        <h2>Sell used cars Burwood</h2>, <h2>Burwood car removal service</h2>,{" "}
+        <h2>Instant cash for cars in Burwood</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
