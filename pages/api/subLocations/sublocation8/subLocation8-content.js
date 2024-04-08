@@ -705,6 +705,74 @@ export const subLocation = [
     ),
   },
 
+  // location 8
+  {
+    image: "/assets/locationsImages/sublocation1Images/105.jpg",
+    title: "Cash for cars Strathfield Sydney",
+    description: (
+      <>
+        <p>
+          In the bustling streets of Strathfield, Sydney, the need for reliable
+          car selling services has never been more pressing. Enter{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the undisputed
+          leader in the realm of automotive transactions in this vibrant area.
+          Offering unparalleled convenience, transparency, and top-dollar deals,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands as the beacon
+          of trust for those seeking to sell their vehicles swiftly and
+          seamlessly.
+        </p>
+        <p>
+          With the promise of instant cash for cars in Strathfield,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> has revolutionized
+          the way locals approach the selling process. Gone are the days of
+          lengthy negotiations and tedious paperwork – instead, customers can
+          expect a hassle-free experience from start to finish.
+        </p>
+        <p>
+          Driven by a commitment to customer satisfaction,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> ensures that every
+          interaction is met with professionalism and efficiency. Whether you're
+          looking to sell your car urgently or simply seeking the best offer in
+          Strathfield, this esteemed company guarantees a smooth and rewarding
+          transaction.
+        </p>
+        <p>
+          At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, we pride
+          ourselves on our ability to offer top cash for cars in Strathfield,
+          Sydney, exceeding expectations with every deal. Our team of experts
+          understands the local market dynamics inside out, allowing us to
+          provide fair and competitive offers tailored to each customer's needs.
+        </p>
+        <p>
+          Say goodbye to the stress of selling your car and hello to the ease
+          and convenience of <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+          Join countless satisfied customers who have experienced the difference
+          firsthand and discover why we are the go-to choice for cash for cars
+          in Strathfield, Sydney.
+        </p>
+        <p>
+          Experience the <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          advantage today and unlock the true value of your vehicle with
+          confidence. Trust the best – trust{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> for all your car
+          selling needs in Strathfield, Sydney.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Strathfield</h2>,{" "}
+        <h2>Strathfield Sydney car buyers</h2>, <h2>Sell my car Strathfield</h2>
+        , <h2>Top cash for cars in Strathfield</h2>,{" "}
+        <h2>Instant cash for cars Strathfield</h2>,{" "}
+        <h2>Strathfield car removal service</h2>,{" "}
+        <h2>Best car buyers near Strathfield Sydney</h2>,{" "}
+        <h2>Get paid for your car Strathfield</h2>,{" "}
+        <h2>Sell unwanted car Strathfield</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
