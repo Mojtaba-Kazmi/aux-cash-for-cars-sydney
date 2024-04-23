@@ -844,6 +844,117 @@ export const subLocation = [
     ),
   },
 
+  // location 10
+  {
+    image: "/assets/locationsImages/sublocation1Images/107.jpg",
+    title: "Cash for cars Concord Sydney",
+    description: (
+      <>
+        <p>
+          In the bustling area of Concord Sydney, if you find yourself with an
+          old, unwanted, or damaged car taking up valuable space, look no
+          further than <Link href={"/"}>Aux Cash for Cars Sydney</Link>. We
+          specialize in providing top-notch services for those looking to sell
+          their cars quickly and for the best prices.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney?</h2>
+        <p>
+          When it comes to getting cash for cars Concord Sydney residents trust,
+          <Link href={"/"}>Aux Cash for Cars</Link> stands out as the leading
+          company in the region. With our commitment to customer satisfaction
+          and hassle-free services, we ensure a seamless experience from start
+          to finish.
+        </p>
+        <h2>Our Services</h2>
+        <ul>
+          <h3>
+            <li>Cash for cars Concord Sydney:</li>
+          </h3>
+          <p>
+            We offer competitive prices for all types of cars, whether they are
+            used, damaged, or unwanted.
+          </p>
+          <h3>
+            <li>Sell my car Concord:</li>
+          </h3>
+          <p>
+            If you're thinking, "Where can I sell my car in Concord?", look no
+            further. We make the selling process quick and straightforward.
+          </p>
+          <h3>
+            <li>Scrap car removal Concord:</li>
+          </h3>
+          <p>
+            Got a scrap car? We provide efficient scrap car removal services,
+            ensuring environmentally friendly disposal.
+          </p>
+          <h3>
+            <li>Top cash for used cars Sydney:</li>
+          </h3>
+          <p>
+            We offer the best prices for used cars in Sydney, ensuring you get
+            the maximum value for your vehicle.
+          </p>
+          <h3>
+            <li>Junk car buyers Concord:</li>
+          </h3>
+          <p>
+            As trusted junk car buyers, we buy cars in any condition and offer
+            instant cash.
+          </p>
+          <h3>
+            <li>Instant car valuation Concord:</li>
+          </h3>
+          <p>
+            With our quick and accurate car valuation services, you can know the
+            worth of your car in no time.
+          </p>
+          <h3>
+            <li>Free car removal Concord:</li>
+          </h3>
+          <p>
+            We provide free car removal services, making it convenient for you
+            to get rid of your unwanted vehicle.
+          </p>
+        </ul>
+        <h2>Experience the Aux Cash for Cars Difference</h2>
+        <p>
+          At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, we pride
+          ourselves on our professionalism, transparency, and commitment to
+          offering the best services in the area. Our team of experts ensures a
+          smooth and hassle-free selling experience, making us the preferred
+          choice for cash for cars Concord Sydney residents.
+        </p>
+        <p>
+          <b>Conclusion</b> If you're looking for the best company to get cash
+          for cars in Concord Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the name you can
+          trust. With our wide range of services, competitive prices, and
+          excellent customer service, we make selling your car a breeze. Contact
+          us today to get a free car valuation and experience the{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> difference!
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Concord Sydney</h2>, <h2>Sell my car Concord</h2>,{" "}
+        <h2>Scrap car removal Concord</h2>, <h2>Junk car buyers Concord</h2>,{" "}
+        <h2>Cash for unwanted cars Sydney</h2>,{" "}
+        <h2>Instant car valuation Concord</h2>, <h2>Old car removal Sydney</h2>,{" "}
+        <h2>Sell damaged cars Concord</h2>, <h2>Best car buyers in Concord</h2>,{" "}
+        <h2>Quick car sale Sydney</h2>, <h2>Free car removal Concord</h2>,{" "}
+        <h2>Get cash for cars today Sydney</h2>,{" "}
+        <h2>Sell cars for cash Concord</h2>,{" "}
+        <h2>Car wreckers Concord Sydney</h2>,{" "}
+        <h2>Top-rated car removal services Sydney</h2>,{" "}
+        <h2>Scrap car disposal Concord</h2>, <h2>Sell my old car Concord</h2>,{" "}
+        <h2>Cash for all car makes and models Sydney</h2>,{" "}
+        <h2>Best price for used cars Concord</h2>
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
