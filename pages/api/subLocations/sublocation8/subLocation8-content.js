@@ -955,6 +955,147 @@ export const subLocation = [
     ),
   },
 
+  // location 11
+  {
+    image: "/assets/locationsImages/sublocation1Images/108.jpg",
+    title: "Cash for cars Rhodes Sydney",
+    description: (
+      <>
+        <p>
+          If you're looking to sell your car in Rhodes, Sydney, you'll likely
+          come across numerous options promising top dollar for your vehicle.
+          However, when it comes to reliable, efficient, and hassle-free car
+          selling experiences, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          stands out as the best company in the area.
+        </p>
+        <h2>
+          Why Choose Cash for Cars Rhodes Services with{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link>
+          Sydney?
+        </h2>
+        <ol>
+          <h3>
+            <li>Instant Cash for Cars Rhodes:</li>
+          </h3>
+          <p>
+            At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, we offer
+            instant cash for cars in Rhodes, ensuring you get quick payment
+            without any delays.
+          </p>
+          <h3>
+            <li>Top Dollar for Cars Rhodes:</li>
+          </h3>
+          <p>
+            We provide top dollar for cars in Rhodes, making sure you get the
+            best value for your vehicle, whether it's old, damaged, or unwanted.
+          </p>
+          <h3>
+            <li>Free Car Removal Rhodes:</li>
+          </h3>
+          <p>
+            Our free car removal in Rhodes service is designed to make the
+            process convenient for you. We'll pick up your car from your
+            location without any additional charges.
+          </p>
+          <h3>
+            <li></li>
+          </h3>
+          <p>
+            Rhodes Auto Wreckers: As experienced Rhodes auto wreckers, we handle
+            all types of vehicles, including scrap cars, ensuring proper
+            disposal and recycling.
+          </p>
+          <h3>
+            <li>Sell My Car Rhodes:</li>
+          </h3>
+          <p>
+            If you're thinking, "Where can I sell my car in Rhodes?",{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is your answer. We
+            make the selling process straightforward and transparent.
+          </p>
+          <h3>
+            <li>Junk Car Removal Rhodes:</li>
+          </h3>
+          <p>
+            Do you have a junk car in Rhodes? We specialize in junk car removal,
+            offering a hassle-free solution to get rid of your old or damaged
+            vehicle.
+          </p>
+          <h3>
+            <li>Rhodes Car Disposal Services:</li>
+          </h3>
+          <p>
+            Our Rhodes car disposal services are eco-friendly, ensuring
+            responsible disposal of all vehicles we buy.
+          </p>
+        </ol>
+        <h2>
+          Why <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the Best
+          Company in Rhodes
+        </h2>
+        <ul>
+          <h3>
+            <li>Professional and Experienced Team:</li>
+          </h3>
+          <p>
+            Our team at <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            comprises professionals who are knowledgeable and experienced in the
+            car buying industry. We ensure a smooth and seamless process from
+            start to finish.
+          </p>
+          <h3>
+            <li>Customer-Centric Approach:</li>
+          </h3>
+          <p>
+            We prioritize our customers' needs and strive to offer personalized
+            services tailored to their requirements. Our commitment to customer
+            satisfaction sets us apart from the competition.
+          </p>
+          <h3>
+            <li>Transparent Transactions:</li>
+          </h3>
+          <p>
+            With <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you can
+            expect transparent and fair transactions. We provide honest
+            valuations and offer top dollar for cars, ensuring you're getting a
+            great deal.
+          </p>
+          <h3>
+            <li>Wide Range of Services:</li>
+          </h3>
+          <p>
+            Whether you want to sell old car in Rhodes, sell damaged car, or get
+            cash for unwanted cars in Sydney, we've got you covered with our
+            comprehensive range of services.
+          </p>
+        </ul>
+        <p>
+          In conclusion, if you're looking for cash for cars Rhodes Sydney
+          services, <Link href={"/"}>Aux Cash for Cars Sydney</Link> is
+          undoubtedly the best choice. With our commitment to excellence,
+          customer satisfaction, and a wide range of services, we ensure a
+          hassle-free and rewarding car selling experience. Contact us today to
+          get instant cash for cars in Rhodes and experience the{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> difference!
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Rhodes</h2>, <h2>Sell my car Rhodes</h2>,{" "}
+        <h2>Rhodes car buyers</h2>, <h2>Cash for unwanted cars Sydney</h2>,{" "}
+        <h2>Rhodes car removal</h2>, <h2>Instant cash for cars Rhodes</h2>,{" "}
+        <h2>Scrap car removal Rhodes</h2>, <h2>Top dollar for cars Rhodes</h2>,{" "}
+        <h2>Rhodes auto wreckers</h2>, <h2>Free car removal Rhodes</h2>,{" "}
+        <h2>Sell old car Rhodes</h2>, <h2>Quick car sale Rhodes</h2>,{" "}
+        <h2>Junk car removal Rhodes</h2>, <h2>Cash for damaged cars Rhodes</h2>,{" "}
+        <h2>Rhodes car disposal services</h2>, <h2>Best car buyers Rhodes</h2>,{" "}
+        <h2>Rhodes used car buyers</h2>, <h2>Get cash for cars in Rhodes</h2>,{" "}
+        <h2>Sell my junk car Rhodes</h2>, <h2>Rhodes car selling services</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
