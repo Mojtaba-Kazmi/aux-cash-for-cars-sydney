@@ -1096,6 +1096,102 @@ export const subLocation = [
     ),
   },
 
+  // location 12
+  {
+    image: "/assets/locationsImages/sublocation1Images/109.jpg",
+    title: "Cash for cars Homebush Sydney",
+    description: (
+      <>
+        <p>
+          Looking to sell your car for cash in Homebush, Sydney? Look no
+          further! <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the
+          premier choice for anyone seeking top dollar for their vehicles in the
+          Homebush area. With our hassle-free process and excellent customer
+          service, we make selling your car a breeze. Read on to discover why{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          best company for cash for cars in Homebush, Sydney.
+        </p>
+        <ol>
+          <h2>
+            <li>Highest Cash Offers:</li>
+          </h2>
+          <p>
+            At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, we understand
+            the value of your vehicle. That's why we offer the highest cash
+            offers for cars in Homebush. Whether your car is old, damaged,
+            unwanted, or simply no longer serving your needs, we'll provide you
+            with a competitive cash offer that you won't find elsewhere. Our
+            goal is to ensure that you receive maximum value for your vehicle,
+            making us the go-to choice for anyone looking to sell their car in
+            Homebush.
+          </p>
+          <h2>
+            <li>Convenient and Efficient Process:</li>
+          </h2>
+          <p>
+            We know that selling a car can be a time-consuming and stressful
+            experience. That's why we've streamlined our process to make it as
+            convenient and efficient as possible for our customers in Homebush,
+            Sydney. Simply <Link href={"/contact"}>contact us</Link> with
+            details about your vehicle, and we'll provide you with a quick and
+            accurate quote. If you accept our offer, we'll arrange a time to
+            pick up your car at a location that works best for you. Our team
+            will handle all the paperwork and payment on the spot, ensuring a
+            smooth and hassle-free transaction from start to finish.
+          </p>
+          <h2>
+            <li>Expert Car Removal Service:</li>
+          </h2>
+          <p>
+            With <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you don't
+            have to worry about the logistics of getting your car to us. Our
+            professional car removal service in Homebush ensures that selling
+            your car is convenient and stress-free. Whether your car is parked
+            in your driveway, garage, or on the street, our team will come to
+            you to pick it up at no extra cost. We'll tow away your vehicle
+            safely and efficiently, leaving you with cash in hand and the peace
+            of mind knowing that your car has been taken care of responsibly.
+          </p>
+          <h2>
+            <li>Trusted and Reliable Company:</li>
+          </h2>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> has built a
+            reputation as a trusted and reliable company for cash for cars in
+            Homebush, Sydney. Our commitment to honesty, integrity, and
+            transparency sets us apart from the competition. We believe in
+            providing our customers with fair and accurate valuations for their
+            vehicles and delivering on our promises every time. When you choose
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you can trust that
+            you're dealing with a reputable company that has your best interests
+            at heart.
+          </p>
+        </ol>
+        <p>
+          Conclusion: When it comes to selling your car for cash in Homebush,
+          Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the
+          undisputed leader. With our highest cash offers, convenient process,
+          expert car removal service, and reputation for trustworthiness, we
+          make selling your car a seamless and rewarding experience. Contact us
+          today to get started and discover why{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the best choice
+          for cash for cars in Homebush, Sydney.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Homebush</h2>, <h2>Sell my car Homebush</h2>,{" "}
+        <h2>Top cash for cars Homebush</h2>, <h2>Scrap car removal Homebush</h2>
+        , <h2>Junk car buyers Homebush</h2>,{" "}
+        <h2>Cash for unwanted cars Homebush</h2>,{" "}
+        <h2>Quick car sale Homebush</h2>, <h2>Best car buyers Homebush</h2>,{" "}
+        <h2>Instant cash for cars Homebush</h2>,{" "}
+        <h2>Homebush car removal service</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
