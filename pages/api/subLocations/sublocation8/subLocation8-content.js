@@ -1192,6 +1192,81 @@ export const subLocation = [
     ),
   },
 
+  // location 13
+  {
+    image: "/assets/locationsImages/sublocation1Images/110.jpg",
+    title: "Cash for cars Lidcombe Sydney",
+    description: (
+      <>
+        <p>
+          In the bustling suburb of Lidcombe, Sydney, finding the right buyer
+          for your car can be a daunting task. However, with the emergence of
+          cash for cars services, the process has become more streamlined and
+          convenient than ever before. Among the plethora of options available,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          premier choice for individuals seeking top-notch service and maximum
+          value for their vehicles.
+        </p>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars</Link> Lidcombe specializes in
+          offering swift and hassle-free transactions, providing cash on the
+          spot for cars of all makes, models, and conditions. Whether you're
+          looking to sell your old, damaged, or unwanted car,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> Lidcombe ensures a seamless
+          experience from start to finish.
+        </p>
+        <p>
+          With a focus on customer satisfaction and transparency,{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> Lidcombe guarantees the best
+          cash offers in the area. Leveraging advanced valuation techniques and
+          industry expertise, they assess each vehicle meticulously to provide
+          fair and competitive quotes, ensuring that sellers receive the maximum
+          value for their assets.
+        </p>
+        <p>
+          Their comprehensive service extends beyond mere transactions,
+          encompassing efficient car removal and disposal processes. Utilizing
+          eco-friendly practices, <Link href={"/"}>Aux Cash for Cars</Link>{" "}
+          Lidcombe ensures responsible handling of scrapped vehicles, minimizing
+          environmental impact while maximizing convenience for sellers.
+        </p>
+        <p>
+          What sets <Link href={"/"}>Aux Cash for Cars Sydney</Link> apart is
+          their commitment to excellence and reliability. With a team of
+          experienced professionals dedicated to exceeding customer
+          expectations, they prioritize efficiency and integrity in every
+          interaction. From the initial inquiry to the final transaction,
+          clients can trust <Link href={"/"}>Aux Cash for Cars</Link> Lidcombe
+          to deliver exceptional service with utmost professionalism.
+        </p>
+        <p>
+          In conclusion, for residents of Lidcombe, Sydney, seeking a
+          trustworthy and reputable cash for cars service,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> emerges as the
+          undisputed leader. With a focus on transparency, efficiency, and
+          customer satisfaction, they offer unparalleled value for all types of
+          vehicles, making them the go-to choice for anyone looking to sell
+          their car quickly and conveniently. Experience the difference with{" "}
+          <Link href={"/"}>Aux Cash for Cars</Link> Lidcombe and unlock instant
+          cash for your car today!
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Lidcombe</h2>, <h2>Lidcombe Sydney car buyers</h2>,{" "}
+        <h2>Sell my car Lidcombe</h2>,{" "}
+        <h2>Best cash offer for cars in Lidcombe</h2>,{" "}
+        <h2>Quick cash for cars Lidcombe Sydney</h2>,{" "}
+        <h2>Lidcombe junk car removal</h2>,{" "}
+        <h2>Top dollar for used cars Lidcombe</h2>,{" "}
+        <h2>Lidcombe car removal service</h2>,{" "}
+        <h2>Scrap car buyers Lidcombe Sydney</h2>,{" "}
+        <h2>Instant cash for unwanted cars Lidcombe</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
