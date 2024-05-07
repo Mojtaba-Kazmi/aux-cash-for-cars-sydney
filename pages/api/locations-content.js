@@ -920,7 +920,7 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Granville Sydney</h2>,{" "}
+      
         <h2>Cash for cars Regents Park Sydney</h2>,{" "}
         <h2>Cash for cars Auburn Sydney</h2>,{" "}
         <h2>Cash for cars Wentworthville Sydney</h2>,{" "}

@@ -1267,6 +1267,67 @@ export const subLocation = [
     ),
   },
 
+  // location 14
+  {
+    image: "/assets/locationsImages/sublocation1Images/111.jpg",
+    title: "Cash for cars Granville Sydney",
+    description: (
+      <>
+        <p>
+          Looking to sell your car for cash in Granville, Sydney? Look no
+          further than <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the
+          leading car removal and cash for cars service in the area. With our
+          hassle-free process and top-dollar offers, we make selling your car
+          quick, easy, and profitable.
+        </p>
+        <p>
+          At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, we understand the
+          importance of a seamless selling experience. That's why we offer a
+          straightforward solution for those looking to get rid of their
+          unwanted vehicles in Granville. Whether your car is old, damaged,
+          wrecked, or simply unwanted, we guarantee to offer you the best price
+          for it.
+        </p>
+        <p>
+          Our services cover all aspects of car removal and cash for cars in
+          Granville Sydney. We specialize in providing instant cash payments,
+          ensuring that you receive your money promptly upon accepting our
+          offer. Say goodbye to the inconvenience of waiting for weeks to sell
+          your car; with <Link href={"/"}>Aux Cash for Cars Sydney</Link>,
+          you'll get paid on the spot.
+        </p>
+        <p>
+          Our commitment to customer satisfaction sets us apart as the best
+          company for cash for cars in Granville Sydney. We prioritize
+          transparency, reliability, and professionalism in every interaction,
+          ensuring that our customers receive the highest level of service from
+          start to finish.
+        </p>
+        <p>
+          Don't let your unwanted car sit idle in your driveway any longer. Turn
+          it into instant cash with{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the trusted name in
+          Granville for car removal and cash for cars services. Contact us today
+          and experience the difference for yourself.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Granville Sydney</h2>,{" "}
+        <h2>Granville Sydney car removal</h2>,{" "}
+        <h2>Top cash for cars Granville</h2>,{" "}
+        <h2>Sell my car Granville Sydney</h2>,{" "}
+        <h2>Scrap car removal Granville</h2>,{" "}
+        <h2>Instant cash for cars Granville</h2>,{" "}
+        <h2>Junk car buyers Granville Sydney</h2>,{" "}
+        <h2>Granville car wreckers</h2>,{" "}
+        <h2>Get paid for your car Granville</h2>,{" "}
+        <h2>Best car removal service Granville Sydney</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
