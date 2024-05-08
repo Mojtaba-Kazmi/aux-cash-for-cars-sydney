@@ -22,7 +22,7 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Cash for cars Granville Sydney",
+      title: "Cash for cars Regents Park Sydney",
       description:
         "Get top dollar for your old, unwanted vehicles in Regents Park, Sydney with Aux Cash for Cars. We offer hassle-free cash for cars services, providing a convenient solution to sell your car quickly. Contact us today for a seamless transaction and enjoy instant cash for your vehicle!",
       image: "/assets/locationsImages/sublocation1Images/112.jpg",
