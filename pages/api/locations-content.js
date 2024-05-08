@@ -920,8 +920,6 @@ export const location = [
     ),
     tags: (
       <>
-      
-        <h2>Cash for cars Regents Park Sydney</h2>,{" "}
         <h2>Cash for cars Auburn Sydney</h2>,{" "}
         <h2>Cash for cars Wentworthville Sydney</h2>,{" "}
         <h2>Cash for cars Toongabbie Sydney</h2>,{" "}

@@ -1328,6 +1328,103 @@ export const subLocation = [
     ),
   },
 
+  // location 15
+  {
+    image: "/assets/locationsImages/sublocation1Images/112.jpg",
+    title: "Cash for cars Regents Park Sydney",
+    description: (
+      <>
+        <p>
+          Looking to sell your car for cash in Regents Park, Sydney? Look no
+          further than <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the
+          premier car buying service in the area. With our hassle-free process
+          and top-dollar offers, we make selling your car a breeze. Whether you
+          have a used car, a scrap vehicle, or a damaged automobile, we offer
+          quick and convenient solutions to get cash in your hands fast.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney:</h2>
+        <p>
+          At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, we pride
+          ourselves on being the go-to choice for residents of Regents Park and
+          surrounding areas when it comes to selling their cars. Here's why we
+          stand out from the competition:
+        </p>
+        <ol>
+          <h2>
+            <li>Top Cash Offers:</li>
+          </h2>
+          <p>
+            Get the best value for your car with our competitive cash offers. We
+            ensure that you receive a fair and honest price for your vehicle
+            based on its make, model, and condition.
+          </p>
+          <h2>
+            <li>Top Cash Offers:</li>
+          </h2>
+          <p>
+            Get the best value for your car with our competitive cash offers. We
+            ensure that you receive a fair and honest price for your vehicle
+            based on its make, model, and condition.
+          </p>
+          <h2>
+            <li>Quick and Easy Process:</li>
+          </h2>
+          <p>
+            Our streamlined process makes selling your car a breeze. Simply{" "}
+            <Link href={"/contact"}>contact us</Link> for a free quote, schedule
+            a convenient pickup time, and get paid on the spot. No waiting, no
+            hassle.
+          </p>
+          <h2>
+            <li>Expert Car Buyers:</li>
+          </h2>
+          <p>
+            Our team of experienced car buyers has extensive knowledge of the
+            automotive market. We handle all the paperwork and logistics, so you
+            can enjoy a stress-free selling experience.
+          </p>
+          <h2>
+            <li>All Cars Accepted:</li>
+          </h2>
+          <p>
+            Whether your car is running or not, we buy vehicles in any
+            condition. From used cars to scrap cars, we offer cash for all makes
+            and models.
+          </p>
+          <h2>
+            <li>Free Car Removal:</li>
+          </h2>
+          <p>
+            Say goodbye to towing fees! We provide complimentary car removal
+            services, saving you time and money.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion:</b> When it comes to selling your car for cash in
+          Regents Park, Sydney, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          is the name you can trust. With our top cash offers, seamless process,
+          and unparalleled customer service, we make selling your car a simple
+          and rewarding experience. <Link href={"/contact"}>Contact us</Link>{" "}
+          today to get started and turn your unwanted car into instant cash.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Regents Park</h2>,{" "}
+        <h2>Sell my car Regents Park Sydney</h2>,{" "}
+        <h2>Top cash for cars Regents Park</h2>,{" "}
+        <h2>Quick car sale Regents Park Sydney</h2>,{" "}
+        <h2>Junk car removal Regents Park</h2>,{" "}
+        <h2>Best car buyers Regents Park Sydney</h2>,{" "}
+        <h2>Scrap car removal Regents Park</h2>,{" "}
+        <h2>Instant cash for cars Regents Park</h2>,{" "}
+        <h2>Free car valuation Regents Park Sydney</h2>,{" "}
+        <h2>Reliable car removal Regents Park</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
