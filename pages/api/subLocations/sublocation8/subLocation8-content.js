@@ -1425,6 +1425,63 @@ export const subLocation = [
     ),
   },
 
+  // location 16
+  {
+    image: "/assets/locationsImages/sublocation1Images/113.jpg",
+    title: "Cash for cars Auburn Sydney",
+    description: (
+      <>
+        <p>
+          Are you searching for a reliable and efficient way to sell your car
+          for cash in Auburn, Sydney? Look no further than{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the leading car
+          buying service in the area. With our hassle-free process and top-notch
+          customer service, we ensure a seamless experience for anyone looking
+          to sell their car quickly and for the best price.
+        </p>
+        <p>
+          At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, we understand the
+          importance of convenience and efficiency when it comes to selling your
+          car. That's why we offer instant cash for cars in Auburn, providing a
+          quick solution for those looking to get rid of their old, unwanted, or
+          damaged vehicles. Whether your car is in pristine condition or it's a
+          scrap car taking up space in your driveway, we guarantee to offer you
+          the best deal possible.
+        </p>
+        <p>
+          Our team of experienced professionals at{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is dedicated to
+          making the selling process as smooth as possible for our customers. We
+          handle all the paperwork and logistics involved in the car selling
+          process, ensuring a stress-free experience from start to finish.
+        </p>
+        <p>
+          With our competitive pricing and transparent valuation process, you
+          can trust that you'll receive the highest cash offer for your car with
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. Say goodbye to the
+          hassle of private sales and unreliable buyers – choose the trusted
+          experts in cash for cars in Auburn, Sydney.
+        </p>
+        <p>
+          Don't let your unwanted car sit idle any longer – turn it into instant
+          cash today with <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+          Contact us now to get a free quote and experience the best cash for
+          cars service in Auburn, Sydney!
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Auburn</h2>, <h2>Sydney car buyers</h2>,{" "}
+        <h2>Sell my car Auburn</h2>, <h2>Top cash for cars Auburn</h2>,{" "}
+        <h2>Auburn car removal</h2>, <h2>Junk car removal Sydney</h2>, <h2></h2>
+        , <h2>Instant cash for cars Sydney</h2>,{" "}
+        <h2>Quick cash for cars Auburn</h2>,<h2>Best car buyers Sydney</h2>,{" "}
+        <h2>Scrap car removal Auburn</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
