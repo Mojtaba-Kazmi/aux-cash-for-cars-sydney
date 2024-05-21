@@ -24,7 +24,7 @@ export async function getServerSideProps() {
     props: {
       title: "Cash for cars Regents Park Sydney",
       description:
-        "Get top dollar for your old, unwanted vehicles in Regents Park, Sydney with Aux Cash for Cars. We offer hassle-free cash for cars services, providing a convenient solution to sell your car quickly. Contact us today for a seamless transaction and enjoy instant cash for your vehicle!",
+        "Sell your car quickly and easily in Wentworthville, Sydney, with Aux Cash for Cars. Get top cash offers for vehicles of any make, model, or condition. Enjoy free car removal, instant payment, and hassle-free service. Trust Aux Cash for Cars for the best deal in Wentworthville!",
       image: "/assets/locationsImages/sublocation1Images/114.jpg",
       url: `https://auxcashforcarsydney.com/locations/location8/subLocation17`,
       keyword: "Cash for cars Sydney, car remval Sydney",
