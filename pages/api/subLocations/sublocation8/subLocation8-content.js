@@ -1482,6 +1482,137 @@ export const subLocation = [
     ),
   },
 
+  // location 17
+  {
+    image: "/assets/locationsImages/sublocation1Images/114.jpg",
+    title: "Cash for cars Wentworthville Sydney",
+    description: (
+      <>
+        <p>
+          If you're looking to sell your car quickly and easily in
+          Wentworthville, Sydney,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the best choice.
+          Specializing in providing top dollar for cars in any condition, this
+          trusted company offers an unbeatable combination of fast service, fair
+          prices, and hassle-free transactions.
+        </p>
+        <h2>Sell Your Car Quickly in Wentworthville</h2>
+        <p>
+          At <Link href={"/"}>Aux Cash for Cars Sydney</Link>, we understand
+          that selling a car can be a time-consuming and frustrating process.
+          That's why we offer a streamlined service designed to make it easy for
+          you to sell your car in Wentworthville. Whether you're looking to get
+          cash for junk cars or need an instant cash offer for your used car,
+          our team is ready to assist you.
+        </p>
+        <p>Free and Convenient Car Removal Services</p>
+        <p>
+          One of the standout features of{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is our free car
+          removal service in Wentworthville. When you choose us, you don't have
+          to worry about how to dispose of your unwanted vehicle. Our
+          professional team will come to your location and handle all the
+          details, ensuring a smooth and convenient process from start to
+          finish.
+        </p>
+        <h2>Top Dollar Offers for Any Car</h2>
+        <p>
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is renowned for
+          offering top dollar for cars in Wentworthville. Whether you have an
+          old, damaged, or scrap vehicle, we provide competitive offers that
+          reflect the true value of your car. Our goal is to give you the best
+          possible deal, making it worth your while to choose us for your car
+          disposal needs.
+        </p>
+        <h2>
+          Why Choose <Link href={"/"}>Aux Cash for Cars Sydney?</Link>
+        </h2>
+        <ul>
+          <li>
+            Sell My Car Wentworthville: We make it easy to sell your car without
+            any hassle.
+          </li>
+
+          <li>
+            Car Removal Wentworthville: Enjoy free, professional car removal
+            services.
+          </li>
+          <li>
+            Cash for Junk Cars Wentworthville: Get instant cash for your junk
+            cars, regardless of their condition.
+          </li>
+          <li>
+            Scrap Car Buyers Wentworthville: We buy scrap cars and offer top
+            prices.
+          </li>
+          <li>
+            Unwanted Car Removal Wentworthville: Dispose of your unwanted car
+            effortlessly with our help.
+          </li>
+          <li>
+            Fast Cash for Cars Wentworthville: Receive your payment quickly,
+            without any delays.
+          </li>
+          <li>
+            The Best Car Removal Service in Wentworthville{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is committed to
+            providing the <Link href={"/"}>best car removal service</Link> in
+            Wentworthville. Our experienced team handles all types of vehicles,
+            including old, damaged, and scrap cars. We offer a quick and
+            efficient process, ensuring that you get fast cash for your car with
+            minimal effort on your part.
+          </li>
+          <li>
+            Car Wreckers and Recycling As reputable car wreckers in
+            Wentworthville, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+            also prioritizes environmentally friendly practices. We ensure that
+            every part of your car is recycled or disposed of responsibly,
+            helping to reduce waste and protect the environment.
+          </li>
+
+          <li>
+            <Link href={"/contact"}>Contact Us</Link> Today: Ready to get cash
+            for your car in Wentworthville? Contact{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> today and
+            experience the best service in the area. Our team is ready to
+            provide you with a fair, no-obligation offer and take care of all
+            the details, making it easy for you to sell your car and get the
+            cash you need.
+          </li>
+        </ul>
+        <p>
+          By choosing <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you are
+          opting for a trusted, reliable, and efficient service that prioritizes
+          your convenience and satisfaction. Don't wait—get in touch with us
+          today and discover why we are the preferred choice for cash for cars
+          in Wentworthville.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Wentworthville</h2>,{" "}
+        <h2>Sell My Car Wentworthville</h2>, <h2>Car Removal Wentworthville</h2>
+        , <h2>Cash for Junk Cars Wentworthville</h2>,{" "}
+        <h2>Scrap Car Buyers Wentworthville</h2>,{" "}
+        <h2>Top Dollar for Cars Wentworthville</h2>,{" "}
+        <h2>Free Car Removal Wentworthville</h2>,{" "}
+        <h2>Sell My Used Car Wentworthville</h2>,{" "}
+        <h2>Instant Cash for Cars Wentworthville</h2>,{" "}
+        <h2>Cash for Old Cars Wentworthville</h2>,{" "}
+        <h2>Car Wreckers Wentworthville</h2>,{" "}
+        <h2>Unwanted Car Removal Wentworthville</h2>,{" "}
+        <h2>Fast Cash for Cars Wentworthville</h2>,{" "}
+        <h2>Car Disposal Wentworthville</h2>,{" "}
+        <h2>Cash for Damaged Cars Wentworthville</h2>,{" "}
+        <h2>Sell My Car for Cash Wentworthville</h2>,{" "}
+        <h2>Best Car Removal Service Wentworthville</h2>,{" "}
+        <h2>Cash for Cars Sydney</h2>, <h2>Car Recycling Wentworthville</h2>,{" "}
+        <h2>Car Buyers Wentworthville</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
