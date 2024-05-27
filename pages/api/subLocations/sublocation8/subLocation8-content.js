@@ -1613,6 +1613,134 @@ export const subLocation = [
     ),
   },
 
+  // location 18
+  {
+    image: "/assets/locationsImages/sublocation1Images/115.jpg",
+    title: "Cash for cars Toongabbie Sydney",
+    description: (
+      <>
+        <p>
+          If you're looking to get the most value for your old, unwanted, or
+          scrap car in Toongabbie, look no further than Aux Cash for Cars
+          Sydney. As the premier car removal and cash for cars service in the
+          area, <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out for
+          its top-notch customer service, competitive offers, and hassle-free
+          process.
+        </p>
+        <h2>Top Reasons to Choose Aux Cash for Cars Sydney</h2>
+        <ol>
+          <h3>
+            <li>Instant Cash Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> provides top dollar
+            for cars in Toongabbie. Whether you have an old car, a damaged
+            vehicle, or a junk car, you can get an instant cash offer that
+            reflects the true value of your car.
+          </p>
+          <h3>
+            <li>Free Car Removal:</li>
+          </h3>
+          <p>
+            One of the standout features of{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their free car
+            removal service. If you're located in Toongabbie, you don't have to
+            worry about how to get your car to the buyer; they'll come to you
+            and tow it away for free.
+          </p>
+          <h3>
+            <li>Hassle-Free Process:</li>
+          </h3>
+          <p>
+            Selling your car has never been easier. With{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>, the process is
+            simple and straightforward. You can sell your car in Toongabbie
+            without any stress or complicated paperwork.
+          </p>
+          <h3>
+            <li>Reliable and Trustworthy:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> has built a
+            reputation as a reliable and trustworthy service. They are the go-to
+            car buyers in Toongabbie, known for their transparency and fair
+            dealings.
+          </p>
+          <h3>
+            <li>Environmentally Friendly:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> also offers car
+            recycling services. If you're concerned about the environmental
+            impact of disposing of your car, you can rest assured that they
+            follow eco-friendly practices.
+          </p>
+        </ol>
+        <h2>
+          Comprehensive Services Offered by{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>
+        </h2>
+        <ul>
+          <li>
+            Cash for Cars Toongabbie: Get the best cash offer for your car,
+            regardless of its condition.
+          </li>
+          <li>
+            Sell My Car Toongabbie: Fast and easy process to sell your car in
+            Toongabbie.
+          </li>
+          <li>
+            Car Removal Toongabbie: Free towing services to remove your car from
+            your property.
+          </li>
+          <li>
+            Scrap Car Buyers Toongabbie: Competitive prices for scrap and junk
+            cars.
+          </li>
+          <li>
+            Top Dollar for Cars Toongabbie: Highest cash payouts in the area.
+          </li>
+          <li>
+            Sell Unwanted Car Toongabbie: Get rid of your unwanted vehicle and
+            get paid for it.
+          </li>
+          <li>Car Wreckers Toongabbie: Professional car wrecking services.</li>
+          <li>
+            Junk Car Removal Toongabbie: Quick and efficient removal of junk
+            cars.
+          </li>
+          <li>Used Car Buyers Toongabbie: Buy all types of used cars.</li>
+          <li>Car Recycling Toongabbie: Eco-friendly disposal of old cars.</li>
+        </ul>
+        <p>
+          In conclusion, if you're in Toongabbie and need to sell your car,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the best company
+          to turn to. With their comprehensive range of services, competitive
+          cash offers, and commitment to customer satisfaction, they make the
+          process of selling your car quick, easy, and profitable. Contact{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> today to get started!
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars Toongabbie</h2>, <h2>Sell My Car Toongabbie</h2>,{" "}
+        <h2>Car Removal Toongabbie</h2>, <h2>Cash for Old Cars Toongabbie</h2>,{" "}
+        <h2>Scrap Car Buyers Toongabbie</h2>,{" "}
+        <h2>Junk Car Removal Toongabbie</h2>,{" "}
+        <h2>Top Dollar for Cars Toongabbie</h2>,{" "}
+        <h2>Sell Unwanted Car Toongabbie</h2>, <h2>Car Wreckers Toongabbie</h2>,{" "}
+        <h2>Free Car Removal Toongabbie</h2>, <h2>Cash for Cars Sydney</h2>,{" "}
+        <h2>Sell My Car Sydney</h2>, <h2>Cash for Scrap Cars Sydney</h2>,{" "}
+        <h2>Fast Cash for Cars Toongabbie</h2>, <h2>Toongabbie Car Buyers</h2>,{" "}
+        <h2>Sell My Junk Car Toongabbie</h2>,{" "}
+        <h2>Used Car Buyers Toongabbie</h2>, <h2>Car Recycling Toongabbie</h2>,{" "}
+        <h2>Cash for Damaged Cars Toongabbie</h2>,{" "}
+        <h2>Quick Cash for Cars Toongabbie</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
