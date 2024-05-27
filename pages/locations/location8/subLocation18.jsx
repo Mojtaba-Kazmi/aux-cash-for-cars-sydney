@@ -22,9 +22,9 @@ import { useRouter } from "next/router";
 export async function getServerSideProps() {
   return {
     props: {
-      title: "Cash for cars Regents Park Sydney",
+      title: "Cash for cars Toongabbie Sydney",
       description:
-        "Sell your car quickly and easily in Wentworthville, Sydney, with Aux Cash for Cars. Get top cash offers for vehicles of any make, model, or condition. Enjoy free car removal, instant payment, and hassle-free service. Trust Aux Cash for Cars for the best deal in Wentworthville!",
+        "Get top cash for cars in Toongabbie, Sydney with Aux Cash for Cars. We offer quick and hassle-free car removal services, paying the highest rates for all makes and models. Contact us today to sell your vehicle and enjoy free towing and instant cash on the spot!",
       image: "/assets/locationsImages/sublocation1Images/115.jpg",
       url: `https://auxcashforcarsydney.com/locations/location8/subLocation18`,
       keyword: "Cash for cars Sydney, car remval Sydney",
