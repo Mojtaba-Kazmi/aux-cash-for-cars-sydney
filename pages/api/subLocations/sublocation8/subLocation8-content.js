@@ -1741,6 +1741,153 @@ export const subLocation = [
     ),
   },
 
+  // location 19
+  {
+    image: "/assets/locationsImages/sublocation1Images/116.jpg",
+    title: "Cash for cars Seven Hills Sydney",
+    description: (
+      <>
+        <p>
+          If you're looking to sell your car in Seven Hills, Sydney, you're in
+          luck. The process of getting cash for cars in Seven Hills has never
+          been easier or more efficient, thanks to{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link>. As the premier car
+          removal service in the area,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers top dollar for
+          your vehicles, whether they're old, junk, or simply unwanted. Here’s
+          why they are the best company for cash for cars in Seven Hills.
+        </p>
+        <h2>
+          Why Choose <Link href={"/"}>Aux Cash for Cars Sydney</Link>?
+        </h2>
+        <ol>
+          <h3>
+            <li>Top Cash Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> provides the best
+            cash offers for your car. Whether you're selling a junk car, an old
+            vehicle, or just an unwanted car, you can expect a competitive price
+            that’s hard to beat in the Seven Hills area.
+          </p>
+          <h3>
+            <li>Free Car Removal Service:</li>
+          </h3>
+          <p>
+            One of the standout features of{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their free car
+            removal service. You don’t have to worry about how to get your car
+            to them. They come to you, making the entire process seamless and
+            convenient.
+          </p>
+          <h3>
+            <li>Quick and Easy Process:</li>
+          </h3>
+          <p>
+            Time is valuable, and{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> understands this.
+            Their process is designed to be quick and easy, ensuring you get
+            cash for your car in the fastest possible time. From the moment you
+            contact them, their team is efficient and professional.
+          </p>
+          <h3>
+            <li>Trusted by Many:</li>
+          </h3>
+          <p>
+            With a strong reputation in the community,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>
+            is known for its reliable service. They are trusted car buyers in
+            Seven Hills, with numerous satisfied customers who have benefited
+            from their hassle-free service.
+          </p>
+          <h3>
+            <li>Eco-Friendly Disposal:</li>
+          </h3>
+          <p>
+            Concerned about the environment?{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> ensures that all
+            vehicles are disposed of in an eco-friendly manner. They follow
+            strict guidelines to ensure that your car is recycled and disposed
+            of responsibly.
+          </p>
+        </ol>
+        <h2>Services Offered</h2>
+        <ul>
+          <h3>
+            <li>Sell My Car Seven Hills:</li>
+          </h3>
+          <p>
+            If you’re thinking, “I need to sell my car in Seven Hills,” look no
+            further. <Link href={"/"}>Aux Cash for Cars Sydney</Link> makes it
+            easy and rewarding.
+          </p>
+          <h3>
+            <li>Car Removal Seven Hills:</li>
+          </h3>
+          <p>
+            Offering prompt car removal services, they ensure you don’t have to
+            worry about towing your car.
+          </p>
+          <h3>
+            <li>Cash for Junk Cars Seven Hills:</li>
+          </h3>
+          <p>
+            Even if your car is no longer running,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> will offer you cash
+            for it.
+          </p>
+          <h3>
+            <li>Instant Cash for Cars Seven Hills:</li>
+          </h3>
+          <p>Get instant cash for your vehicle without any delay.</p>
+          <h3>
+            <li>Car Disposal Seven Hills:</li>
+          </h3>
+          <p>
+            Safe and responsible car disposal services are guaranteed with{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>.
+          </p>
+        </ul>
+        <p>
+          <b>Conclusion</b> When it comes to getting cash for cars in Seven
+          Hills, <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the top
+          choice. Their commitment to providing excellent service, competitive
+          cash offers, and hassle-free car removal makes them the best car
+          buyers in Seven Hills. Don’t waste time with other services – contact
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> today and get the
+          best deal for your car.
+        </p>
+        <p>
+          By choosing <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you’re
+          opting for a trusted, efficient, and customer-focused company that
+          prioritizes your needs and offers the best cash for cars service in
+          Seven Hills. Whether you have a scrap car, an old vehicle, or just an
+          unwanted car, <Link href={"/"}>Aux Cash for Cars Sydney</Link> is
+          ready to provide you with the best service in the area.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Seven Hills</h2>, <h2>Sell my car Seven Hills</h2>,{" "}
+        <h2>Car removal Seven Hills</h2>,{" "}
+        <h2>Cash for junk cars Seven Hills</h2>, <h2>Seven Hills car buyers</h2>
+        , <h2>Sell my old car Seven Hills</h2>,{" "}
+        <h2>Scrap car removal Seven Hills</h2>,{" "}
+        <h2>Instant cash for cars Seven Hills</h2>,{" "}
+        <h2>Car disposal Seven Hills</h2>, <h2>Best car buyers Seven Hills</h2>,{" "}
+        <h2>Cash for unwanted cars Seven Hills</h2>,{" "}
+        <h2>Seven Hills cash for cars service</h2>,{" "}
+        <h2>Seven Hills car removal service</h2>,{" "}
+        <h2>Fast cash for cars Seven Hills</h2>,{" "}
+        <h2>Seven Hills scrap car buyers</h2>, <h2>Sydney cash for cars</h2>,{" "}
+        <h2>Sydney car removal</h2>, <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Sell car Sydney Seven Hills</h2>,
+        <h2>Junk car buyers Seven Hills</h2>,
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
