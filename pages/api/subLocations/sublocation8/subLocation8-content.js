@@ -1853,9 +1853,9 @@ export const subLocation = [
           Hills, <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the top
           choice. Their commitment to providing excellent service, competitive
           cash offers, and hassle-free car removal makes them the best car
-          buyers in Seven Hills. Don’t waste time with other services – contact
-          <Link href={"/"}>Aux Cash for Cars Sydney</Link> today and get the
-          best deal for your car.
+          buyers in Seven Hills. Don’t waste time with other services –{" "}
+          <Link href={"/contact"}>contact Aux Cash for Cars Sydney</Link> today
+          and get the best deal for your car.
         </p>
         <p>
           By choosing <Link href={"/"}>Aux Cash for Cars Sydney</Link>, you’re
