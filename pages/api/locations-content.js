@@ -920,7 +920,22 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Cash for Cars Western Sydney</h2>,{" "}
+        <h2>Sell My Car Western Sydney</h2>, <h2>Car Removal Western Sydney</h2>
+        , <h2>Cash for Cars Sydney Suburbs</h2>,{" "}
+        <h2>Sell Your Car for Cash Sydney</h2>,{" "}
+        <h2>Western Sydney Car Buyers</h2>,{" "}
+        <h2>Instant Cash for Cars Sydney</h2>,{" "}
+        <h2>Scrap Car Removal Western Sydney</h2>,{" "}
+        <h2>Sydney Car Removal Services</h2>,{" "}
+        <h2>Top Cash for Cars Western Sydney</h2>,{" "}
+        <h2>Car Disposal Western Sydney</h2>, <h2>Fast Cash for Cars Sydney</h2>
+        , <h2>Car Wreckers Western Sydney</h2>,{" "}
+        <h2>Unwanted Car Removal Sydney</h2>,{" "}
+        <h2>Sell Junk Car Sydney Suburbs</h2>,{" "}
+        <h2>Car Recycling Western Sydney</h2>, <h2>Free Car Removal Sydney</h2>,{" "}
+        <h2>Cash for Old Cars Sydney</h2>, <h2>Western Sydney Car Disposal</h2>,{" "}
+        <h2>Best Cash for Cars Sydney</h2>,{" "}
       </>
     ),
   },
@@ -1005,7 +1020,6 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Parramatta Sydney</h2>,{" "}
         <h2>Cash for cars North Rocks Sydney</h2>,{" "}
         <h2>Cash for cars Northmead Sydney</h2>,{" "}
         <h2>Cash for cars Baulkham Hills Sydney</h2>,{" "}
