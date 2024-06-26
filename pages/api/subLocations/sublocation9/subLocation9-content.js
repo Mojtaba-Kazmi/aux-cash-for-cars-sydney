@@ -96,7 +96,7 @@ export const subLocation = [
         </p>
         <p>
           For more information or to get a quote, visit their website or give
-          them a call. Get the best cash for your car today with{" "}
+          them a <Link href={"/contact"}>call</Link>. Get the best cash for your car today with{" "}
           <Link href={"/"}>Aux Cash for Cars Sydney!</Link>
         </p>
       </>

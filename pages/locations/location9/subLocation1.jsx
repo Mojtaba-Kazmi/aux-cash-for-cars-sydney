@@ -25,7 +25,7 @@ export async function getServerSideProps() {
       title: "Cash for cars Parramatta Sydney",
       description:
         "Get top cash for cars in Parramatta, Sydney with Aux Cash for Cars. We offer fast, reliable, and hassle-free car removal services, paying you instant cash for any make or model. Whether your car is old, damaged, or unwanted, we provide the best value and a convenient, eco-friendly disposal process. Contact us today for a quick quote and same-day service!",
-      image: "/assets/locationsImages/sublocation1Images/98.jpg",
+      image: "/assets/locationsImages/sublocation1Images/118.jpg",
       url: `https://auxcashforcarsydney.com/locations/location9/subLocation1`,
       keyword: "Cash for cars Sydney, car remval Sydney",
       width: 1200,
