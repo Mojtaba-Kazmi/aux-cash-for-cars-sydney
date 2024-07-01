@@ -196,7 +196,7 @@ export const subLocation = [
             and guiding you through the process.
           </p>
         </ol>
-        <h2>Keywords in Action</h2>
+
         <p>
           If you're in North Rocks and wondering, "Where can I sell my car for
           cash?" or searching for "sell my car North Rocks," look no further
