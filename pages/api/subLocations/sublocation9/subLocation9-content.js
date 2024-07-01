@@ -96,8 +96,8 @@ export const subLocation = [
         </p>
         <p>
           For more information or to get a quote, visit their website or give
-          them a <Link href={"/contact"}>call</Link>. Get the best cash for your car today with{" "}
-          <Link href={"/"}>Aux Cash for Cars Sydney!</Link>
+          them a <Link href={"/contact"}>call</Link>. Get the best cash for your
+          car today with <Link href={"/"}>Aux Cash for Cars Sydney!</Link>
         </p>
       </>
     ),
@@ -118,6 +118,124 @@ export const subLocation = [
         <h2>Sell My Junk Car Parramatta</h2>,
         <h2>Cash for Damaged Cars Parramatta</h2>,{" "}
         <h2>Sell Car Quickly Parramatta</h2>,{" "}
+      </>
+    ),
+  },
+
+  // location 2
+  {
+    image: "/assets/locationsImages/sublocation1Images/119.jpg",
+    title: "Cash for cars North Rocks Sydney",
+    description: (
+      <>
+        <p>
+          If you're looking to sell your car in North Rocks, Sydney, you'll find
+          that the process can be smooth and hassle-free with the right company.
+          The concept of "Cash for Cars" has gained popularity, offering car
+          owners an easy way to get rid of old, unwanted, or junk vehicles while
+          getting a fair price in return. Among the various options available,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          best company in the area for several compelling reasons.
+        </p>
+        <p>
+          When it comes to Cash for Cars in North Rocks,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> offers an unmatched
+          combination of professionalism, efficiency, and top dollar payouts.
+          Whether you have an old car that's been sitting in your driveway for
+          years, a damaged vehicle from a recent accident, or simply a car you
+          no longer need, <Link href={"/"}>Aux Cash for Cars Sydney</Link>{" "}
+          provides a seamless solution.
+        </p>
+        <h2>Why Choose Aux Cash for Cars Sydney?</h2>
+        <ol>
+          <h3>
+            <li>Top Cash Offers:</li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is known for
+            providing the best price for cars in North Rocks. They evaluate your
+            vehicle's condition and offer a fair and competitive price, ensuring
+            you get the most value out of your car.
+          </p>
+          <h3>
+            <li>Free Car Removal:</li>
+          </h3>
+          <p>
+            One of the significant advantages of choosing{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is their free car
+            removal service in North Rocks. You don't have to worry about how to
+            get your car to them—they come to you, making the entire process
+            convenient and stress-free.
+          </p>
+          <h3>
+            <li>Quick and Easy Process:</li>
+          </h3>
+          <p>
+            Selling your car can often be a time-consuming ordeal, but not with{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link>. They specialize in
+            quick cash for cars in North Rocks, ensuring that you receive your
+            payment promptly once the deal is finalized.
+          </p>
+          <h3>
+            <li>Accepts All Cars:</li>
+          </h3>
+          <p>
+            Whether you have an old car, a junk car, or a damaged car,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> buys them all. They
+            are the leading scrap car buyers in North Rocks, accepting vehicles
+            in any condition.
+          </p>
+          <h3>
+            <li>Professional Service:</li>
+          </h3>
+          <p>
+            From the initial contact to the final transaction,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> provides a
+            professional and transparent service. Their team of experts is
+            always ready to assist you, answering any questions you might have
+            and guiding you through the process.
+          </p>
+        </ol>
+        <h2>Keywords in Action</h2>
+        <p>
+          If you're in North Rocks and wondering, "Where can I sell my car for
+          cash?" or searching for "sell my car North Rocks," look no further
+          than <Link href={"/"}>Aux Cash for Cars Sydney</Link>. They offer top
+          cash for unwanted cars North Rocks residents no longer need. With
+          their fast and free car removal North Rocks service, getting rid of
+          your old vehicle has never been easier.{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> ensures you get the
+          best price for cars North Rocks can offer, making them the go-to
+          choice for anyone looking to sell their car quickly and efficiently.
+        </p>
+        <p>
+          In conclusion, if you're seeking cash for cars in North Rocks or
+          looking for a reliable car removal North Rocks service,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is your best bet.
+          Their excellent customer service, top cash offers, and hassle-free
+          process make them the preferred choice for many Sydney residents.
+          Contact <Link href={"/"}>Aux Cash for Cars Sydney</Link> today and
+          experience the best car selling experience in North Rocks.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for Cars North Rocks</h2>, <h2>Sell My Car North Rocks</h2>,{" "}
+        <h2>Car Removal North Rocks</h2>, <h2>Cash for Old Cars North Rocks</h2>
+        , <h2>Sell Car for Cash North Rocks</h2>,{" "}
+        <h2>Free Car Removal North Rocks</h2>,{" "}
+        <h2>Quick Cash for Cars North Rocks</h2>,{" "}
+        <h2>Best Price for Cars North Rocks</h2>,{" "}
+        <h2>Junk Car Removal North Rocks</h2>,{" "}
+        <h2>Scrap Car Buyers North Rocks</h2>,{" "}
+        <h2>Cash for Unwanted Cars North Rocks</h2>,{" "}
+        <h2>North Rocks Car Removal Services</h2>, <h2>Cash for Cars Sydney</h2>
+        , <h2>Sell My Car Sydney</h2>, <h2>Top Cash for Cars Sydney</h2>,{" "}
+        <h2>Cash for Damaged Cars North Rocks</h2>,{" "}
+        <h2>Car Wreckers North Rocks</h2>, <h2>Used Car Buyers North Rocks</h2>,{" "}
+        <h2>North Rocks Car Disposal</h2>,{" "}
+        <h2>Fast Cash for Cars North Rocks</h2>,{" "}
       </>
     ),
   },
