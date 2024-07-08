@@ -1020,7 +1020,6 @@ export const location = [
     ),
     tags: (
       <>
-        <h2>Cash for cars Northmead Sydney</h2>,{" "}
         <h2>Cash for cars Baulkham Hills Sydney</h2>,{" "}
         <h2>Cash for cars Castle Hill Sydney</h2>,{" "}
         <h2>Cash for cars Kellyville Sydney</h2>,{" "}

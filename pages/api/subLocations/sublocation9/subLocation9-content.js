@@ -240,6 +240,108 @@ export const subLocation = [
     ),
   },
 
+  // location 3
+  {
+    image: "/assets/locationsImages/sublocation1Images/120.jpg",
+    title: "Cash for cars Northmead Sydney",
+    description: (
+      <>
+        <p>
+          If you're looking to sell your car in Northmead, Sydney, you've likely
+          come across various options. However,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> stands out as the
+          premier choice for many reasons. They offer top cash for cars in
+          Northmead, ensuring you get the best value for your vehicle,
+          regardless of its condition.
+        </p>
+        <h2>
+          The Best <Link href={"/"}>Cash for Cars Service</Link> in Northmead
+        </h2>
+        <p>
+          When it comes to cash for cars Northmead,{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the most reliable
+          and trusted company in the area. They provide a seamless process for
+          anyone looking to sell their car quickly and efficiently. Whether
+          you're dealing with an old, unwanted, or junk car, their team is ready
+          to offer you a fair price.
+        </p>
+        <h2>
+          Why Choose <Link href={"/"}>Aux Cash for Cars Sydney?</Link>
+        </h2>
+        <ol>
+          <h3>
+            <li>Top Cash Offers: </li>
+          </h3>
+          <p>
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> is known for
+            offering the best cash for junk cars Northmead. They provide
+            competitive quotes and ensure you receive top dollar for your
+            vehicle.
+          </p>
+          <h3>
+            <li>Quick and Easy Process:</li>
+          </h3>
+          <p>
+            Selling your car has never been easier.{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> simplifies the
+            entire process, from providing a quote to the final payment. You can
+            sell your car fast Northmead without any hassle.
+          </p>
+          <h3>
+            <li>Free Car Removal:</li>
+          </h3>
+          <p>
+            One of the standout features of their service is the free car
+            removal Northmead. You don't have to worry about getting your car to
+            their location; they come to you and handle everything.
+          </p>
+          <h3>
+            <li>Accepts All Car Types:</li>
+          </h3>
+          <p>
+            Whether you have an old, used, or scrap car,{" "}
+            <Link href={"/"}>Aux Cash for Cars Sydney</Link> buys them all. They
+            are the go-to Northmead scrap car buyers and also offer top cash for
+            used cars Northmead.
+          </p>
+          <h3>
+            <li>Customer Satisfaction:</li>
+          </h3>
+          <p>
+            Their excellent customer service and transparent dealings make them
+            the best car removal Northmead has to offer. Many customers have
+            praised their efficient and friendly service.
+          </p>
+        </ol>
+        <p>
+          <b>Conclusion</b> If you're in Northmead, Sydney, and need to sell
+          your car, <Link href={"/"}>Aux Cash for Cars Sydney</Link> is the best
+          option. They offer top cash for unwanted cars Northmead, making the
+          process quick and hassle-free. Trust{" "}
+          <Link href={"/"}>Aux Cash for Cars Sydney</Link> for the best cash for
+          cars Northmead experience and enjoy a smooth and profitable car
+          selling process.
+        </p>
+      </>
+    ),
+    tags: (
+      <>
+        <h2>Cash for cars Northmead</h2>, <h2>Sell my car Northmead</h2>,{" "}
+        <h2>Car removal Northmead</h2>, <h2>Northmead car buyers</h2>,{" "}
+        <h2>Cash for junk cars Northmead</h2>,{" "}
+        <h2>Northmead cash for old cars</h2>, <h2>Quick car sale Northmead</h2>,{" "}
+        <h2>Top cash for cars Northmead</h2>, <h2>Sell your car Northmead</h2>,{" "}
+        <h2>Northmead cash for unwanted cars</h2>, <h2>Sydney car removal</h2>,{" "}
+        <h2>Sell car for cash Sydney</h2>, <h2>Northmead scrap car buyers</h2>,{" "}
+        <h2>Best car removal Northmead</h2>,{" "}
+        <h2>Cash for used cars Northmead</h2>, <h2>Northmead car wreckers</h2>,{" "}
+        <h2>Sell car fast Northmead</h2>,
+        <h2>Instant cash for cars Northmead</h2>,<h2>Cash for cars Sydney</h2>,{" "}
+        <h2>Northmead car disposal</h2>,{" "}
+      </>
+    ),
+  },
+
   // location simple
   // {
   //   image: "/assets/locationsImages/sublocation1Images/91.jpg",
